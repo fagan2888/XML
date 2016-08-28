@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94782" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Islamic Modernism (1): 1700-1800</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Baber Johansen (Divinity School)</faculty_text>
+<description>This is the first of three courses on the development of Islamic Modernism from the 18th to the 21st century. All three seminars focus on a notion of "Modernism" and "Modernity" that is not simply imported into the Middle East. We will, therefore, have to discuss concepts of "Modernity" that see modernity produced in Europe or the US and then imported into the Middle East in order to show their shortcomings. We will also have to look closely at discussions within the field of Islamic Studies that deny or defend the existence of an Islamic modernism before the second half of the 19th century. The underlying assumption of the course organization is that Islamic Modernism cannot be understood when it is cut off from the intellectual and religious history of the centuries preceding it. The first of these three courses will therefore focus on the 18th-century religious reform movements: the Muwahhidun in the Arabian Peninsula, the Sufi thinkers in Morocco, Sudan, Libya and Upper Egypt. These movements challenged dominant forms of scholastic thought, legal reasoning, and historical consciousness, as well as the barriers built by them that denied non-theologians and non-jurists the right to interpret revelation and Islamic normativity.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3963.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fad340526f473644aeb62ddb5a4aa58a4">
+<name>
+<prefix/>
+<first>Baber</first>
+<middle/>
+<last>Johansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Andover Hall" room="Andover_118" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74617" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>256</num_int>
+</course_number>
+<title>Archeology of Modernity and Visual Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym</faculty_text>
+<description>Explores contradictions of the modern experience in literature, philosophy, arts and architecture. Topics for 2010: nostalgia and modernization, public freedom and cross-cultural memory, archeology and the creative mapping of the urban space, culture and politics. Special attention to the relationship between critical theory and creative practice. Reading from Benjamin, Simmel, Shklovsky, Nabokov, Kafka, Arendt, Certeau, Lyotard, Derrida.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

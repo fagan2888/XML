@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43026" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>282</num_int>
+</course_number>
+<title>Genomics and Evolution of Infectious Disease (Graduate Seminar in General Education)</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Pardis Sabeti</faculty_text>
+<description>Infectious diseases rapidly evolve to evade our immune systems, drugs, and vaccines, to remain agents of great morbidity and mortality. We will investigate the genome evolution of these pathogens and our intervention strategies for them past and present, with case examples from avian flu, malaria, TB, lassa fever and more. The seminar will design and develop a General Education course on these themes for undergraduates.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9460cf67a1d4e0b8aaebc0fc238db3a7">
+<name>
+<prefix/>
+<first>Pardis</first>
+<middle>Christine</middle>
+<last>Sabeti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

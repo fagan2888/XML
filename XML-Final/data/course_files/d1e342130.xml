@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25555" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>144</num_int>
+</course_number>
+<title>The Power and Pitfalls of Genetical Thinking</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., W., 12-1:30</meeting_text>
+<faculty_text>Nancy Kleckner and David A. Haig</faculty_text>
+<description>An advanced treatment of heredity, including genetic, epigenetic and evolutionary aspects, as manifested in organisms from bacteria to man. Emphasis will be placed on how analytical genetic thinking and approaches can be applied to fundamental biological questions. Course format will include lectures, reading of the primary literature, student group projects and a final paper. Suitable for students in either the physical or biological sciences.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc3e1b17bbbfd9b2e9f3e10b90deb62b0">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle/>
+<last>Kleckner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3ee5f9b7bc03e98873dcff9b5a1f3ad3">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Haig</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

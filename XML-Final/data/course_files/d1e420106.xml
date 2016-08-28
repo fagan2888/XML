@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4440" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2570</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Intergroup Relations: Research Seminar</title>
+<course_type>Research Workshop</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: Tu., 2:30&amp;#8211;4; Spring: Hours to be determined</meeting_text>
+<faculty_text>James Sidanius</faculty_text>
+<description>The seminar provides students with research experience concerning different forms of intergroup relations, including the social psychology of interracial and interethnic conflict and prejudice. Graduate and undergraduate students meet on a weekly basis to discuss ongoing research on psychological mechanisms involved in power, stereotyping, inequality, identity, and ideology. Undergraduate enrollees will work under the supervision of a graduate student in the design and conduct of lab-based and survey experiments, and the input, coding and early analysis of empirical data. Undergraduate enrollees will also attend biweekly critical discussions of research articles in the field, and will have the opportunity to develop and receive feedback on their own research ideas.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbd78d2fe37ffd66716143ced8a25d51e">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Sidanius</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbd78d2fe37ffd66716143ced8a25d51e">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Sidanius</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1408" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

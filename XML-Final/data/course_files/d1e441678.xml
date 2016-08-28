@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1657" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>Bab</num_char>
+</course_number>
+<title>Intermediate Russian (Intensive)</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 9, Tu., Th., at 10, with speaking practice M., W., F., at 1. MWF small group practice times are tentative and efforts will be made to accommodate student schedules.</meeting_text>
+<faculty_text>Natalia Chirkov and others</faculty_text>
+<description>An intensive version of Russian B, covering the same material in a single semester. Class meets five days per week with five hours of the main section and three hours of small group speaking practice each week. Readings may vary.</description>
+<prerequisites>Russian A, Aab, At, Ah, or placement at the B-level. Familiarity with fundamentals of Russian grammar, particularly case endings of the noun, pronoun, and adjective and elementary competence in spoken Russian.</prerequisites>
+<notes>See "Sectioning Note" above. Class hours may be changed by agreement. Russian B, Russian Bab, and Russian Bt all prepare students to continue in Russian 101.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa6ffa0bcd38eb402c2792f25e123b620">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle>Georgievna</middle>
+<last>Chirkov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11493" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2005</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research in Contracts and Organizations</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., at 12</meeting_text>
+<faculty_text>Oliver S. Hart</faculty_text>
+<description>Participants discuss recent research in contracts and organizations and present their own work in progress. Open to doctoral students in economics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb6f1fb42ca0b8dd33b2198b76a010e9">
+<name>
+<prefix/>
+<first>Oliver</first>
+<middle/>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbb6f1fb42ca0b8dd33b2198b76a010e9">
+<name>
+<prefix/>
+<first>Oliver</first>
+<middle/>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-17" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

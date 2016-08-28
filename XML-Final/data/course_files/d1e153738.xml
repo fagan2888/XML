@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73842" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>177</num_int>
+</course_number>
+<title>American Law, Race, and Narrative</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Marina Bilbija</faculty_text>
+<description>This course examines how American and African American writers engaged with legal definitions of race, personhood, and citizenship in the nineteenth and early twentieth century. In the first half of the course we will read literary texts from the antebellum alongside legal documents such as the Fugitive Slave Act, and Dred Scott v. Sandford. In the second half, we will analyze the literature of the "Jim Crow" era in the context of the Plessy v. Ferguson decision. Authors we will read include: Phillis Wheatley, Frederick Douglass, Herman Melville, Mark Twain, Pauline Hopkins and Charles Chesnutt.</description>
+<prerequisites/>
+<notes>This course prepares students for the Spring course "When Harlem was in Vogue," but is not a requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F210dcf17748fb6f3081f9e4056a5501a">
+<name>
+<prefix/>
+<first>Marina</first>
+<middle/>
+<last>Bilbija</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

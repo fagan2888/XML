@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6025" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="VIROLOGY">Virology</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Proposal Writing</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1:45-5</meeting_text>
+<faculty_text>Michaela Gack (Medical School), Galit Alter (Medical School), James A. DeCaprio (Medical School), Benjamin Ellison Gewurz (Medical School), and Frederick C. Wang (Medical School)</faculty_text>
+<description>Students will write, present, and evaluate research proposals in the areas of virus replication, viral pathogenesis and treatment and prevention of viral infections.</description>
+<prerequisites>General background in biochemistry and virology.</prerequisites>
+<notes>Offered jointly with the Medical School as MG 724.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0de0803ffad6311d96854b39f1d72083">
+<name>
+<prefix/>
+<first>Michaela</first>
+<middle/>
+<last>Gack</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1345" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

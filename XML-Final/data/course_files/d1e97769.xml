@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20876" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2065</num_int>
+</course_number>
+<title>Designing Allocation Rules</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>William L. Thomson</faculty_text>
+<description>The goal is to identify, for each decision problem in a class of interest, the "most desirable" rules. Included are standard exchange economies, classical problems of fair division, public good production, cost allocation ("airport" problems, minimal cost spanning tree problems), rationing, bankruptcy, object allocation, priority-augmented object allocation ("school choice"), matching, one-to-one and several-to-one, time division, and cake division. The principles are punctual fairness principles, intra- and inter-personal (including lower and upper bounds on welfare, as well as requirements of robustness under permutations, or other operations, performed on assignments), and relational fairness principles, having to do with possible changes in the resources available, population, and preferences. The strategic branch of the literature will also be covered, criteria of robustness under misrepresentation of preferences or manipulation of resources being included.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F40bc1a884e0853d1beb6e4027e436b0b">
+<name>
+<prefix/>
+<first>William</first>
+<middle>L.</middle>
+<last>Thomson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

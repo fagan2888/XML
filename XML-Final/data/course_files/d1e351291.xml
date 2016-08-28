@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8026" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>160</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Composition: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Richard Beaudoin</faculty_text>
+<description>Open to students prepared for individual work in composition. Incorporates readings and final performance of students' work.</description>
+<prerequisites>One course in theory/composition or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F840c64a93f9dbd6d06256140e384edd3">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Beaudoin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4163" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>Hydrology and Environmental Geomechanics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11, for three one-hour lecture sessions and 1 and a half hour lab session or section for discussion of assigned problems.</meeting_text>
+<faculty_text>James R. Rice</faculty_text>
+<description>Study of water as a critical resource and as a factor in Earth surface and near-surface processes. Focus on development of relevant mechanics and physics. Hydrologic cycle, surface and groundwater, evapotranspiration, soil physics. Flow in porous media, Darcy law, contaminant transport, remediation strategies. Poroelasticity, subsidence, well hydraulics. Seepage forces, landslides, dam failures, sediment liquefaction. Glacial processes. Stream flows, turbulence concepts. Gravity waves, flood control; tsunamis; erosion and sediment transport.</description>
+<prerequisites>Applied Mathematics 21a,b or Mathematics 21a,b and Applied Physics 50a,b, Physics 11a,b (no longer offered) 15a,b, or Physical Sciences 12a,b.</prerequisites>
+<notes>Engineering Sciences 162 is also offered as Earth and Planetary Sciences 162. Students may not take both Engineering Sciences 162 and Earth and Planetary Sciences 162 for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff96d4ee1144efb88d762f2b538386cf4">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Rice</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

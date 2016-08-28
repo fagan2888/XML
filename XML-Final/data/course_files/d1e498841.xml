@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1635</num_int>
+</course_number>
+<title>Reading Pre-Modern Hindu Narrative Literature: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Anne E. Monius (Divinity School)</faculty_text>
+<description>Focusing on the genres of itihasa, purana, and katha, this seminar explores the relevance of both classical Indic and contemporary Euro-American literary theories for the understanding of pre-modern South Asian narrative.</description>
+<prerequisites>Although all primary source readings will be in English translation, previous study of South Asian religions is required.</prerequisites>
+<notes>Expected to be given in 2016-17. Offered jointly with the Divinity School as 3926.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbbd21ce43758b0cb272c230aaacaa252">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>E.</middle>
+<last>Monius</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

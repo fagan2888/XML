@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53034" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>Religion, Secularism, and Modernity</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Charles Lockwood</faculty_text>
+<description>This course considers how lines between the religious and the secular have been drawn from the Enlightenment to the present. Although modernity has often been associated with critiques of religion and predictions of religious decline, such predictions have come under serious challenge, calling into question the possibility of drawing a clear distinction between tradition and modernity. Moreover, it has increasingly been argued that the category of religion (along with that of the secular) is itself a modern creation. Readings will offer historical and contemporary perspectives on how distinctions between religious and secular, traditional and modern, have developed and been challenged over the past several centuries, by religious adherents and critics alike.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F629a77956c91c4812dcff70ccab6efb4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Evans</middle>
+<last>Lockwood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

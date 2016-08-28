@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60506" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>282</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>New Views on the Tectonic Evolution of the Appalachians</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1&amp;#8211;3:30 and two field trips.</meeting_text>
+<faculty_text>Francis Alexander Macdonald</faculty_text>
+<description>Readings and discussions on current problems in stratigraphy and Earth history. Students will read and present journal articles on relevant topics, and will rotate responsibility for leading discussions.</description>
+<prerequisites>EPS 21 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8a4ac6a48a5c5f3b9ca80a05df5ef9b4">
+<name>
+<prefix/>
+<first>Francis</first>
+<middle>Alexander</middle>
+<last>Macdonald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="Geological Museum 204" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

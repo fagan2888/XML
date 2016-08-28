@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11731" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Chinese History in the Digital Age</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Song Chen</faculty_text>
+<description>The increasing availability of large quantities of spatial and biographical data presents both an opportunity and a challenge for historians. This course prepares students for this challenge by introducing a variety of computational methods for extracting, organizing and analyzing large datasets, including XML markups, relational database design, Microsoft Excel-based data management, and data visualization on GIS and network analysis platforms. Though we focus on a few selected topics in later imperial Chinese history (ca. 8th -18th century), the objective of the course is to teach a set of skills that can be applied in any scholarly or professional context and help students develop a critical understanding of the possibilities and risks of these digital tools. Class time is divided evenly between hands-on tutorials and discussion. Topics of discussion include practices of digital scholarship in and outside the field of Chinese history as well as theoretical reflections on these practices. All readings and lab materials will be in English. No prior knowledge of Chinese history, Chinese language, or programming is required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8eeddb8fbf81c143f66f89464c24c703">
+<name>
+<prefix/>
+<first>Song</first>
+<middle/>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

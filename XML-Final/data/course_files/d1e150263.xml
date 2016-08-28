@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74412" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>44</num_int>
+</course_number>
+<title>Arrivals: The Invention of English Literature, 700-1700</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>27</enrollment_limit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Laura Wang</faculty_text>
+<description>A study of major works of English literature from 700-1700, with particular attention to the relationship between literary forms and the cultural changes brought by war, commerce, and religion. Key texts include Beowulf, selections from the Canterbury Tales, Sir Gawain and the Green Knight, Doctor Faustus, and The Pilgrim's Progress. We will learn to read Middle English aloud, analyze poetic language, and construct cogent essays.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F23344209efba74080c7dffa25683bca1">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle/>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58855" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>105</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Fundaments of Improvisation &amp; Composition, Dance</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., F., 3-5</meeting_text>
+<faculty_text>Jill Johnson</faculty_text>
+<description>Students will investigate fundamental skills of improvisation and composition. The course will employ a series of specific physical tasks and systems, taught through intensive exercises and guided improvisations which generate and modify movement and link the mind and body to innovation.</description>
+<prerequisites>Previous dance experience required.</prerequisites>
+<notes>Enrollment determined by interview during the first week of class.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf35132375bdecc78abb10524c13ae1d">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Quad Athletic Facility" room="101" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

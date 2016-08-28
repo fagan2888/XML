@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9399" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1352</num_int>
+</course_number>
+<title>Foundations of Cognitive Neuroscience Research</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>F., 10&amp;#8211;11:30 and a weekly section to be determined</meeting_text>
+<faculty_text>Randy L. Buckner</faculty_text>
+<description>Intended for undergraduates or those with limited background in cognitive neuroscience. Students will attend and participate in laboratory research and in a seminar that includes discussion of active scientific projects, recent important journal articles, and didactic lecture on technical aspects of methods central to cognitive neuroscience research. Readings will be assigned that survey basic principles of system neuroscience, cognitive science, and methods including functional MRI, MEG, and single unit physiology.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors or MCB 80, or permission of instructor. For graduate students, permission of instructor.</prerequisites>
+<notes>Limited to students involved in research.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F207298b163309b4b990e598c877cbd0a">
+<name>
+<prefix/>
+<first>Randy</first>
+<middle>Lee</middle>
+<last>Buckner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="243" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2303" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>206</num_int>
+</course_number>
+<title>Introduction to Connectomics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 3:30-6:30</meeting_text>
+<faculty_text>Jeff W. Lichtman and R. Clay Reid (Medical School)</faculty_text>
+<description>Focuses on how the tools of connectomics (nanoscale imaging, nanoscale and microscale cutting, fluorescent and electron-dense staining, image analysis algorithms) generate data about neural connectivity. Case studies: C. elegans, neuromuscular junction, retina, cortex.</description>
+<prerequisites/>
+<notes>This course will be taught by Harvard and MIT faculty, alternating meeting locations on both the Harvard and MIT campuses.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fce255e76c5fb7a7d33987961856bc325">
+<name>
+<prefix/>
+<first>Jeff</first>
+<middle/>
+<last>Lichtman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0bcf4467fe4240e003ce7f7037948f28">
+<name>
+<prefix>Dr.</prefix>
+<first>R.</first>
+<middle>Clay</middle>
+<last>Reid</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

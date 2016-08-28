@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98259" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2342</num_int>
+</course_number>
+<title>China Economy Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard B. Freeman</faculty_text>
+<description>This seminar provides a forum for faculty, graduate students, and research fellows in economics and other fields to present and discuss research and scholarship on the economic and social transformation of China. The seminar will give special attention to the environmental, technological, and social changes that are accompanying China's extraordinary economic development and to the links between Chinese and US economies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3956ad677c785efeb9c52792efe7afff">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>B.</middle>
+<last>Freeman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

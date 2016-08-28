@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14688" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>258</num_int>
+</course_number>
+<title>Encounters between Tradition and Modernity in Chinese Literature: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Xiaofei Tian and David Der-Wei Wang</faculty_text>
+<description>In this course we will read a series of important Chinese texts from past to present and explore the complicated and nuanced ways in which modern literary culture responds to and negotiates with the classical tradition. Whether inheriting or disinheriting traditional resources, the present is intimately intertwined with the past, in its ingenious appropriations or impassioned negation.</description>
+<prerequisites>Reading proficiency in Literary Chinese is helpful but not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe790a2b8396e12fed32ad26201143f8e">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Der-Wei</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

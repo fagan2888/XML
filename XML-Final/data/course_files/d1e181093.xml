@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81463" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>38</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>The Evolution of Latino/a Culture: Analyzing the Interplay Between Stereotypes and Self-Definition</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Rebeca L. Hey-Colon</faculty_text>
+<description>With numbers surpassing 50 million (and growing), Latinos/as in the United States are asserting their place as a powerful component of this nation. Through a discussion of the "established" conversation surrounding Latino/a culture that then shifts to more recent Latino/a driven production, this seminar examines how Latino/a culture has evolved in tandem with its population. Specifically, this will be addressed through close readings and analyses of movies, TV shows, stand-up comedy, music, and literature from the 1980s through 2013. Placed in conversation with each other, these texts illustrate the tension between stereotypes and self-definition that currently permeates Latino/a culture.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7dfeb50199e09193632a44784358cd59">
+<name>
+<prefix/>
+<first>Rebeca</first>
+<middle>L</middle>
+<last>Hey-Colon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="111" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

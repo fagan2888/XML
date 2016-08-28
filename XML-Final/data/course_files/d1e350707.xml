@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10693" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>Jazz Harmony</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Daniel Artie Henderson</faculty_text>
+<description>Learn both the theory and the practice of the wonderful world of Jazz Harmony. By closely listening to and analyzing selected compositions from the Jazz tradition (Ellington, Monk, Jobim, Wayne Shorter, etc.) and from outside the Jazz tradition (Ravel, Debussy, Stevie Wonder, etc.), you will learn how Jazz harmony is used to add emotion, meaning, and richness to music. Then, compose your own music! Midterm and final projects are original compositions by you, performed and recorded live in class by professional jazz musicians of the highest caliber.</description>
+<prerequisites/>
+<notes>A working knowledge of basic music theory, including the ability to notate music. Music 2 and/or Music 51 are recommended. Strongly recommended for those planning to take Music 186r.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F76c10daf47a916751c9755b167facaed">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Artie</middle>
+<last>Henderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="9" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57097" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>224</num_int>
+</course_number>
+<title>Advanced Topics in British Empiricism</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Alison Simmons and Jeffrey K. McDonough</faculty_text>
+<description>The so-called British Empiricists (Locke, Berkeley, and Hume) take us on a journey from very sensible philosophical starting points to rather extravagant sounding philosophical conclusions. In this course we will look in depth at specific interpretive and philosophical issues that arise in connection with the British Empiricist tradition. Familiarity with the central works of Locke, Berkeley and Hume - such as one might acquire in Phil 122 or a similar course - will be presupposed.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe7ec2841a61e530f0b2f592511a725f7">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle/>
+<last>Simmons</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F25857a432afc38d32abf45843107be01">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>K.</middle>
+<last>McDonough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

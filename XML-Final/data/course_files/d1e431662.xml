@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7692" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_char>C</num_char>
+</course_number>
+<title>Intermediate Portuguese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M. through Th., at 11; M. through Th., at 1; Spring: M. through Th., at 11</meeting_text>
+<faculty_text>Clemence Jouet-Pastre</faculty_text>
+<description>An intermediate course for students interested in expanding and strengthening their Portuguese language skills. Reading, writing, and conversational competency is emphasized through the study of the Luso-African-Brazilian cultures. The course aims to promote cross-cultural understanding through the use of authentic materials such as literary texts, multimedia, film, music, and videos.</description>
+<prerequisites>Portuguese Ab, Ad, or permission of course head.</prerequisites>
+<notes>Conducted in Portuguese. Recommended for students who wish to improve their ability to speak and write Portuguese. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Section on-line on the Portuguese C website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="104" type="Section"/>
+<location term="1" building="Sever Hall" room="104" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

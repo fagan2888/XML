@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57625" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1025</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Anthropology of "the Religious" Part 1: Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Aisha Mahina Beliso-De Jesus (Divinity School)</faculty_text>
+<description>Conducting fieldwork with groups and people based on their religious/spiritual beliefs requires a complex understanding as well as critical knowledge of both the theory and methods of the "field research" process. This year-long course will provide students interested in conducting anthropological style "field research" with religious/spiritual groups/peoples, an in-depth and critical survey of theory and methodological approaches towards an anthropology of "the religious." The first semester will focus primarily on the theoretical questions/problems in the study of religion in anthropology, including what is a field site, how is it constituted, and how do we understand our own research and theory in relation other academic projects? The second semester is a methodological workshop, where students will be required to conduct method-intensive weekly projects. Through different methodological modalities, students will be required to think about what their research means to the communities they intend to work with as well as questions of positionality, the divide between participant/observer, new forms of research methods and other problematics of research.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3103.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcc524482c79a6d31d161cbf9ef59742b">
+<name>
+<prefix/>
+<first>Aisha</first>
+<middle>Mahina</middle>
+<last>Beliso-De Jesus</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

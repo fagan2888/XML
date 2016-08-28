@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="383" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1510</num_int>
+</course_number>
+<title>American Constitutional Law</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>250</enrollment_limit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Richard H. Fallon (Law School)</faculty_text>
+<description>Provides an introduction to contemporary American constitutional law, with a principal focus on decisions by the Supreme Court of the US. Topics to be studied include freedom of speech and religion, guarantees of due process and equal protection, and the powers of Congress and the courts.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe494f1bf048f632d7d0569ece2b7ee90">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Fallon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

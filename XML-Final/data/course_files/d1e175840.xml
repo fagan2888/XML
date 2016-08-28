@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6367" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>24</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Child Health in America</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Judith Palfrey (Medical School) and John G. Palfrey</faculty_text>
+<description>Reviews history of children's health care in the United States; explores the impact of geography, environment, nutrition, clean water, as well as scientific discoveries of the late 19th and the early 20th centuries and the emergence of high technology care in middle and late 20th century. Does America provide children the best possible health care available? Compares United States epidemiology with that of other developed and developing nations. Explores how child health delivery is financed.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F40df37b519e728c6ba32d9ff1c8a9ec3">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle/>
+<last>Palfrey</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F304b8546db816f28a73cc190b6ce5b7c">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle/>
+<last>Palfrey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Adams House" room="Masters Residence" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4497" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORHIST">Korean History</course_group>
+<course_number>
+<num_int>230</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Readings in Premodern Korean History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Sun Joo Kim</faculty_text>
+<description>A study of social, political, economic, and intellectual history of premodern Korea reviewing major scholarship in the field. Designed primarily for graduate students preparing for the general examination. All readings are in English.</description>
+<prerequisites>Korean History 111 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fae5110a17bc482ed0b35226e95c6ecb1">
+<name>
+<prefix/>
+<first>Sun Joo</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71785" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>123</num_int>
+</course_number>
+<title>Applied Quantitative Finance</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Stephen James Blyth</faculty_text>
+<description>Introduction to financial derivatives and the probabilistic techniques used to analyze them. Topics include: forwards, swaps and options; replication, no-arbitrage and risk-neutrality; martingales, numeraires and the fundamental theorem of asset pricing; and an introduction to interest-rate derivatives and their valuation. Provides a rigorous but accessible treatment of the elegant theory underpinning quantitative finance, motivated by real problems from the financial industry.</description>
+<prerequisites>Statistics 110 or equivalent.</prerequisites>
+<notes>Designed for those seeking an understanding of the quantitative challenges on Wall Street and the probabilistic tool-kit developed to address them. Expected to be given in 2015-16.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F98301e7556d17b324c177ae1acc5fa35">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Blyth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

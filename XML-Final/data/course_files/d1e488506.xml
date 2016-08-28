@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1968" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Reading Greek</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 12:30-2</meeting_text>
+<faculty_text>Yvona K. Trnka-Amrhein</faculty_text>
+<description>Readings of Greek prose and poetry ranging from archaic to imperial, with emphasis on quick comprehension of syntactic, stylistic, and generic features.</description>
+<prerequisites/>
+<notes>Intended for graduate students in Classical Philology as preparation for the general examinations.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd1dd8ec90e067be3f9e71cc2e6e449e">
+<name>
+<prefix>Dr</prefix>
+<first>Yvona</first>
+<middle>K.</middle>
+<last>Trnka-Amrhein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1230" end_time="1400"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1230" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

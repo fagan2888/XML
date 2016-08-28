@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6807" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>141</num_int>
+</course_number>
+<title>Frege, Russell, and the Early Wittgenstein</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Warren Goldfarb</faculty_text>
+<description>An examination of the beginnings of analytic philosophy, with primary interest in the reformulation of traditional philosophical problems by these three authors and the analytic and logical methods they introduced to treat them.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9b648543da3c6d330e5c3ae091e14ac1">
+<name>
+<prefix/>
+<first>Warren</first>
+<middle/>
+<last>Goldfarb</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

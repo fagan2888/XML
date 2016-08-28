@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4425" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>173</num_int>
+</course_number>
+<title>Madrid, fin-de-siecle</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Luis Fernandez-Cifuentes</faculty_text>
+<description>Madrid's first turn of the century as a modern metropolis was marked by the innovative visions of the "generation of 1898" (the year Spain's colonial empire ended); the second, by the aftermath of Franco's dictatorship. This course will articulate comparative analyses of multicultural issues around those two historical "ends": from the architecture of the Gran Via and Baroja's engravings to the Castellana "skyscrapers" and Antonio Lopez's paintings; from Valle-Inclan's plays to Almodovar's films; from workers' movements to socialist democracy.</description>
+<prerequisites/>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fabe6beb17d40e8c77a35321744b703e1">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle/>
+<last>Fernandez Cifuentes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

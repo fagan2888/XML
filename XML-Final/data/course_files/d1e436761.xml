@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17743" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Pre-Textos: Las artes interpretan</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Doris Sommer and Adriana Gutierrez</faculty_text>
+<description>Texts become prompts for art-making in this class. By inspiring painting, dance, play, music, sculpture, costumes, texts lead to deep and daring interpretations. Latin American classics that might otherwise seem difficult become raw material for creativity as students stretch their command of Spanish. They learn that arts interpret and explore meanings and that theory is a user-friendly afterthought. This training prepares facilitation of Pre-Texts workshops in Boston and abroad.</description>
+<prerequisites>A score above 750 on the SAT II test or Harvard Placement test.</prerequisites>
+<notes>Conducted in Spanish. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F43880627106323a37fd8ba24568bbd62">
+<name>
+<prefix/>
+<first>Doris</first>
+<middle/>
+<last>Sommer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd9ce6597ccfee1a9a38d006964b3c71d">
+<name>
+<prefix/>
+<first>Adriana</first>
+<middle/>
+<last>Gutierrez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

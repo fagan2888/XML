@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26522" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>123</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Choral Literature of the 20th &amp; 21st Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Andrew Gregory Clark</faculty_text>
+<description>American Choral Music During World War II. In the America of the 1940s, concert music attained an unprecedented cultural relevance and ubiquity that is hard to imagine today. During the Second World War, choral music in particular was called upon to fulfill a cultural desire for fervent public expressions of patriotism and national chauvinism. Music was politicized and harnessed for numerous war-related tasks, including propaganda, cultural diplomacy, therapeutic recuperation, and social uplift. One could argue that American musical identity itself was forged during this time of crisis. This course will trace the historical currents and themes of American choral music from 1940-1950 through the study of representative choral works. Using various archives at Harvard, students will also examine the choral scene at the University during World War II, including the repertoire, activities, and the membership profile of the Harvard Glee Club, Radcliffe Choral Society, and the University Choir. An extensive background in music theory and choral music repertoire is not required, but a familiarity with Western music notation will be assumed.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6209a69d76655ddaaa4b8c9a2c4fa33d">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>Gregory</middle>
+<last>Clark</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

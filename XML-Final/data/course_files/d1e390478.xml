@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54787" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>149</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>Philosophy of Science</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Edward J. Hall</faculty_text>
+<description>Survey of 20th century and contemporary views on the nature of scientific knowledge, and related metaphysical issues. Topics include: logical empiricism, Popper and "falsifiability", induction and confirmation, explanation, scientific realism, causation and laws of nature, and the sense (if any) in which "everything reduces to physics".</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F249339f6d9c871d31004e8dfa6ff16d7">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>J</middle>
+<last>Hall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

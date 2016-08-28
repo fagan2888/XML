@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19962" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>46</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>The Terrorist</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 7-9 p.m.</meeting_text>
+<faculty_text>Jessica E. Stern and Ronald Schouten (Medical School)</faculty_text>
+<description>This course will introduce students to the study of terrorism. We will cover the history and evolution of the tactic, from the Zealots to al Qaeda to the Tsarnaev Brothers. We will assess terrorists' motivations and how they market their causes to various publics. Why do terrorists do what they do? We will explore risk factors at various levels, including global, national, group, and personal. After completing this course, we expect that students will have a much more nuanced and intellectually grounded understanding of terrorism.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1b46ccef1c5d4b39274e44cedd8d1e5d">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>E.</middle>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd761d6de7c2a4bc2f2ceba66bb657882">
+<name>
+<prefix>Dr</prefix>
+<first>Ronald</first>
+<middle/>
+<last>Schouten</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

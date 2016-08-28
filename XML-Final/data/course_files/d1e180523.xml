@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54211" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>Sex, Gender, Shakespeare</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Jamey Elizabeth Graham</faculty_text>
+<description>Was Shakespeare a misogynist, a feminist, or a product of his time? Was he homosexual? That these questions remain controversial four hundred years after Shakespeare's death testifies to the sensitive complexity with which Shakespeare handled the topics of sex and gender. This course explores how sexuality and gender function in numerous plays, sonnets, and narrative poems. Since words like "feminist" and "homosexual" did not exist in Shakespeare's lifetime, the course will introduce historically responsible methods of analyzing our subject matter. In the case of the plays, we will focus on performance, including modern films and period use of boy actors.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5fd2870f337cf4844f674a3227211c46">
+<name>
+<prefix/>
+<first>Jamey</first>
+<middle>Elizabeth</middle>
+<last>Graham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

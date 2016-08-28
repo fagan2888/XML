@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2847" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2723</num_int>
+</course_number>
+<title>Asset Pricing I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>John Y. Campbell</faculty_text>
+<description>An introduction to financial economics emphasizing discrete-time models and empirical applications. Reviews basic asset pricing theory. Discusses empirical topics including predictability of stock and bond returns, the equity premium puzzle, and intertemporal equilibrium models.</description>
+<prerequisites>Economics 2010a or 2020a, or permission of instructor.</prerequisites>
+<notes>Offered jointly with the Business School as 4209.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab2ed7f0a4bcf285fb7fbddfd644ef48">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Y.</middle>
+<last>Campbell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

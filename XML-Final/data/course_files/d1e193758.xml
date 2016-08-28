@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1321" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>15</num_int>
+</course_number>
+<title>"If There is No God, All is Permitted:" Theism and Moral Reasoning</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jay M. Harris (Near Eastern Languages and Civilizations)</faculty_text>
+<description>This course will examine the ways in which a concept of God has informed Western moral discourse trying to help students engage the literature as they consider why one might think "if there is no God, all is permitted" and why one might think if there is a God, human moral achievement is impossible.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1c42029af5532b00dc4de72f64384753">
+<name>
+<prefix/>
+<first>Jay</first>
+<middle>M.</middle>
+<last>Harris</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5008" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1312</num_int>
+</course_number>
+<title>Human Sexuality: Research and Presentation Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Judith Flynn</faculty_text>
+<description>An examination of human sexuality from a scientific perspective. Students will read and present primary scientific literature that highlights current research on a variety of topics including: sexual development, gender identity, sexual orientation, cross cultural variations in mating systems, promiscuity, the evolution of monogamy, sexual attraction, sexual communication, including an exploration of the existence of human pheromones, libido and sexual dysfunction.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F503402a30ebc253cbb6a7984f56f9c5e">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>Flynn</middle>
+<last>Chapman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9816" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>255</num_int>
+</course_number>
+<title>Statistical Inference with Engineering Applications</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Yue Lu</faculty_text>
+<description>Statistical decision theory; hypothesis testing; linear and non-linear estimation; maximum likelihood and Bayes approaches; graphical models and message passing algorithms; large deviation analysis and asymptotic methods in statistics; stochastic processes and systems; Wiener and Kalman filtering; Markov chain Monte-Carlo methods; applications to physical, chemical, biological and information systems.</description>
+<prerequisites>Knowledge of probability theory and calculus.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6533e5de560d9ed75c09872d892481f6">
+<name>
+<prefix/>
+<first>Yue</first>
+<middle/>
+<last>Lu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

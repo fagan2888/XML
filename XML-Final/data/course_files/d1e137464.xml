@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8223" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Drug Delivery</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Methods to deliver molecules to the human body. Physiological obstacles and engineering solutions. Characterization techniques for drug delivery synthesis and in vitro analysis. Case studies of current pharmaceutical products.</description>
+<prerequisites>Mathematics 21a,b or Applied Mathematics 21a,b, and Chemistry 5 or Life Sciences 1a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F953fb00bd99797c8c6cd07c6577a8282">
+<name>
+<prefix/>
+<first>Sujata</first>
+<middle>K</middle>
+<last>Bhatia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

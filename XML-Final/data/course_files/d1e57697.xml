@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89512" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>139</num_int>
+</course_number>
+<title>Fictions of Kin and Kind</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Marc Shell</faculty_text>
+<description>The literature and rhetoric of kinship. Special attention to the incest taboo, orphanhood, the human-animal distinction, and social fictions of nationhood. Readings include texts by modern theorists of language as well as by Sophocles, Marguerite of Navarre, Elizabeth Tudor, Cervantes, Shakespeare, Racine, Schiller, Goethe, Melville, and Nabokov.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe23d103e4569abae053b4255d84f6b4c">
+<name>
+<prefix/>
+<first>Marc</first>
+<middle/>
+<last>Shell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

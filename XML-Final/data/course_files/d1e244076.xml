@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63514" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>122</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Architecture of Empire: The Ottomans, Safavids and Mughals in a Comparative Perspective</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Gulru Necipoglu-Kafadar</faculty_text>
+<description>Between the 16th and 18th centuries, three empires - the Mediterranean-based Ottomans, Safavids in Iran, and Mughals in India - developed interconnected yet distinctive architectural cultures with individualized ornamental idioms by fusing their common Timurid heritage with cosmopolitan regional traditions. Explores connections between empire building and architecture, with respect to aesthetics, religion, imperial ideology, and theories of dynastic legitimacy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

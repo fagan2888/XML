@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="118" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>252</num_int>
+</course_number>
+<title>Coalescent Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9</meeting_text>
+<faculty_text>John Wakeley</faculty_text>
+<description>The mathematics and computation of ancestral inference in population genetics. Theory relates observable genetic data to factors of evolution such as mutation, genetic drift, migration, natural selection, and population structure.</description>
+<prerequisites>OEB 242 or permission of instructor: calculus and statistics or probability.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7be73143c5a10ad8e4ea705eec81d60a">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Wakeley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

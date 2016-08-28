@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73035" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Sociology of the Black Community</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Lawrence D. Bobo</faculty_text>
+<description>This course examines issues of race, class, gender, and identity in the Afro-American community. Topics of special emphasis include the contemporary situation of the black family, class stratification and the conditions and prospects of the modern black middle class, black feminist thought, black educational performance, and the dynamics of race. Our objective is to arrive at a deeper sociological analysis and appreciation of the changing life experiences awaiting African Americans.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F537e1cde9ce5bb81345dd4d64f62ed58">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle/>
+<last>Bobo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="211" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

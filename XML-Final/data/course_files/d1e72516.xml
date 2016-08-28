@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6558" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>163</num_int>
+</course_number>
+<title>Business Chinese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Fall: M., W., F., at 10 or 12 and two additional hours to be arranged; Spring: M., W., F., at 9 or 12 and two additional hours to be arranged</meeting_text>
+<faculty_text>Hongyun Sun</faculty_text>
+<description>Designed for students interested in international business or for students who intend to work or travel for business in Chinese-speaking communities (including China, Taiwan, Hong Kong, and Singapore), or for students who desire to improve their Chinese language proficiency. An introduction to business and economic climates, practices and customs of these communities. Students learn specialized business and economic vocabulary and the principles of business correspondence.</description>
+<prerequisites>At least three years of modern Chinese or equivalent (with permission of instructor).</prerequisites>
+<notes>Conducted in Chinese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F595fac744cf6c1e4e05dc428d523db4e">
+<name>
+<prefix/>
+<first>Hongyun</first>
+<middle/>
+<last>Sun</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F595fac744cf6c1e4e05dc428d523db4e">
+<name>
+<prefix/>
+<first>Hongyun</first>
+<middle/>
+<last>Sun</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="24b" type="Lecture"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="24b" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

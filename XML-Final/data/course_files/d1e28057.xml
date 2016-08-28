@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65534" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>231</num_int>
+</course_number>
+<title>Practical Optics for Astronomers</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Andrew Szentgyorgyi</faculty_text>
+<description>he primary goal of this course is to familiarize consumers of astronomical data with the fundamental physical principles that underlie the instruments that they use to gather data, as well as provide insight into the engineering constraints that bound the capabilities of available instruments. Topics will include first order optical design principles, the design of telescopes, cameras and spectrographs, as well as basic optical engineering principles and computer aided design.</description>
+<prerequisites>A solid grasp of 1st and 2nd year undergraduate physics and fluency in the application of differential and integral calculus to physical problems.</prerequisites>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F12eb6318b95b4e322d13491c14f928bb">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>H.</middle>
+<last>Szentgyorgyi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

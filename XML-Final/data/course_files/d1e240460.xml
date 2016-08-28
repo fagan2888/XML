@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3424" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>3010</num_int>
+</course_number>
+<title>Reading and Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Instructors listed above under History 3010 supervise individual work in preparation for the General Examination for the PhD degree.</description>
+<prerequisites/>
+<notes>Limited to candidates for the PhD who are in residence, who have been for a year in residence, and who are in good standing in the Graduate School. May ordinarily be taken only in preparation for a field (or fields) to be examined on the General Examination. May not be counted toward the AM degree except by permission of the Department.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

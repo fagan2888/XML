@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="607" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3800</num_int>
+</course_number>
+<title>Psychometric Theory</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Covers basic psychometric theory and methods essential for reliable and valid measurement. Also covers conceptual issues in the assessment of individual differences (e.g., intelligence, personality).</description>
+<prerequisites/>
+<notes>Limited to Harvard graduate students in clinical psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F64d44107a85593ee8e1e855b795d528d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>McNally</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

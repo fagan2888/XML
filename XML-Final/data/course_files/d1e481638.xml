@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82696" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1247</num_int>
+</course_number>
+<title>I Will Survive: Women's Political Resistance Through Popular Song</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>35</enrollment_limit>
+<meeting_text>M., 1&amp;#8211;3 and a one hour section to be arranged.</meeting_text>
+<faculty_text>Michael Bronski</faculty_text>
+<description>This course will examine how women, through popular music, have articulated clear political analysis to their oppression that has reached large audiences and become foundational to American culture. We will begin with African-American blues in the early 20th century and moving through jazz, torch singing, folk, girl groups, disco, and contemporary song. Along their music readings we will include biographical, historical, and critical texts that will place these women in their artistic and political contexts. Performers studied will include, among others, Bessie Smith, the Boswell Sisters, Billie Holiday, Marian Anderson, Peggy Lee, Joan Baez, Gloria Gaynor, and Amy Winehouse.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4df52a41d91ec8093b9ac3589143cd2d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Bronski</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="105" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

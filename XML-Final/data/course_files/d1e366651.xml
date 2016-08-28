@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12106" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>145</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Introduction to Islamic Philosophy and Theology: The Modern Period (19th and 20th centuries)</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3&amp;#8211;5, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Khaled El-Rouayheb</faculty_text>
+<description>The course is a continuation of Islamic Civilizations 145a but may be taken independently. It explores the thought of some of the major Islamic philosophers and theologians in the 19th and 20th centuries: Muhammad Abduh, Muhammad Iqbal, Said Nursi, Abu l-Ala Maududi, Sayyid Qutb, Ali Shariati, Murtaza Mutahheri and Mohammed Arkoun.</description>
+<prerequisites/>
+<notes>Offered alternate years with Islamic Civilizations 145a. Though the two courses can be taken in either order, 145a covers the 8th-17th centuries and 145b covers the 19th-20th centuries. Offered jointly with the Divinity School as 3602b.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fda65de331a6bba7e16cdf4f565fd0242">
+<name>
+<prefix/>
+<first>Khaled</first>
+<middle/>
+<last>El-Rouayheb</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

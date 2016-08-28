@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34834" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>286</num_int>
+</course_number>
+<title>Homeric Linguistics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Jeremy Rau</faculty_text>
+<description>An introduction to Homeric linguistics and philology. Topics include Homeric language (dialect, archaism, innovation), meter and formulaics, and the effects of oral composition on Homeric language.</description>
+<prerequisites>&lt;a href="http://isites.harvard.edu/course/colgsas-5139"&gt;Greek 134&lt;/a&gt; or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5a61444acfb6607849835314d963b248">
+<name>
+<prefix/>
+<first>Jeremy</first>
+<middle/>
+<last>Rau</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

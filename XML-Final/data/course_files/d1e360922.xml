@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4154" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>134</num_int>
+</course_number>
+<title>Colloquial Levantine Arabic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., W., 3-5</meeting_text>
+<faculty_text>Nour Barmada</faculty_text>
+<description>Introduces students to Colloquial Levantine Arabic of Lebanon, Syria, Jordan, and Israel/Palestine. The course emphasizes the development of speaking and listening skills through the reinforcement of grammar and vocabulary.</description>
+<prerequisites>Two years of Standard Arabic or the equivalent.</prerequisites>
+<notes>Not open to auditors. Students who have completed Arabic 135 may not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7d1b2fa85d9a966e381588014d5bb7ef">
+<name>
+<prefix/>
+<first>Nour</first>
+<middle/>
+<last>Barmada abida</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

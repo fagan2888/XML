@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1218" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading Course for Undergraduates</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David J. Morin and members of the Department</faculty_text>
+<description>Open to selected concentrators in Physics, Chemistry and Physics, and other fields who wish to do supervised reading and studying of special topics in physics. Ordinarily such topics do not include those covered in a regular course of the Department. Honor grades in Physics 15 and a number of intermediate-level courses are ordinarily required. The student must be accepted by a member of the faculty.</description>
+<prerequisites/>
+<notes>A list of possible faculty sponsors and their fields is available in Lyman 238 and on the Physics Department's website. Course enrollment forms may be obtained from Lyman 238.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

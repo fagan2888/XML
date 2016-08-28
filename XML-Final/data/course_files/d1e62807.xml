@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2249" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Introduction to Physical Oceanography and Climate</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., Th., 2:30&amp;#8211;4, and a lab to be arranged. EPS 131 is also offered as ES 131. Students may not take both for credit.</meeting_text>
+<faculty_text>Eli Tziperman</faculty_text>
+<description>Basic observations and theoretical understanding of ocean phenomena from local surface beach waves to the effects of the oceans on global climate. Observations and dynamics of ocean waves, currents, turbulence, temperature and salinity distributions; basic fluid dynamics equations; the ocean's role in climate: wind-driven circulation and the Gulf Stream, thermohaline circulation and the potential instability of Europe's climate, El Nino, the oceans and global warming.</description>
+<prerequisites>Applied Mathematics 21a,b; Physics 12a,b, Physics 15a,b,c or Applied Physics 50a,b; or permission of instructor.</prerequisites>
+<notes>Given in alternate years. When offered, a field trip to Cape Cod and Woods Hole Oceanographic Institution will be included.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe1ffe9c112c1c708a96de4cf369b4eea">
+<name>
+<prefix/>
+<first>Eli</first>
+<middle/>
+<last>Tziperman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

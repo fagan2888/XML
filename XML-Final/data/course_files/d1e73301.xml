@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36158" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>History, Politics and Culture in Manchurian Space: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Mark C. Elliott</faculty_text>
+<description>Recent scholarship on modern East Asia has seen a marked increase in attention to history, society, and culture in Manchukuo and Manchuria from interdisciplinary and transnational perspectives. The goal of this proseminar is to explore and analyze these scholarly trends and to come to an improved understanding of the Northeast Asian frontier zone in and around the period of 20th-century Japanese imperialist expansion. By extending our view beyond the fourteen-year colonial period to encompass the larger historical processes of Manchukuo's making and unmaking, and by incorporating a comparative perspective, the course aims to transcend the conventional frameworks of collaboration, colonialism, and rupture to unveil the embeddedness of Manchukuo as a multi-layered site of experiments in the longue duree. Two fundamental questions we will seek to answer are, Does "Manchurian studies" constitute a field of research, and if so, how should it be defined?</description>
+<prerequisites>Open to graduate students and (with instructor approval) to advanced undergraduates. There are no specific prerequisites for this course, but students should have a good familiarity with modern East Asian history. All required readings are in English.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F62da2b4f7b89c047307df379cd365724">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>C.</middle>
+<last>Elliott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

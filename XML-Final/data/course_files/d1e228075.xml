@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61221" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1030</num_int>
+</course_number>
+<title>Studying Twentieth-Century American History: An Introduction</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Brett Flehinger</faculty_text>
+<description>Introduces students to historical study by focusing on selected topics in Twentieth-Century American history. The course teaches students how to use the systematic patterns of thought that historians use to recreate and analyze the past. These are patterns of thought common among all historians and the skills and experiences gained will provide students a way to enter historical study across time and geography. Topics include, the history of race-based disfranchisement, the Dust Bowl, the history of birth control, Thoreau's influence on twentieth-century reform movements, and others.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff8649cdb68955a28e2bfc520deb4ba77">
+<name>
+<prefix/>
+<first>Brett</first>
+<middle/>
+<last>Flehinger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

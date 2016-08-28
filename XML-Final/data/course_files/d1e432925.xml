@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85047" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>182</num_int>
+</course_number>
+<title>The Worlds of Camoes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Josiah Blackmore</faculty_text>
+<description>A study of the Renaissance Portuguese imagination through the work of Luis de Camoes. The course will center on the epic and lyric poetry of Camoes as a way to think broadly about the literary and intellectual currents of the 16th century. Empire, the structure of the cosmos, and mythography will figure into our analyses. To promote an understanding of the international culture of letters and humanism, authors from Spain, Italy, and France will also be included. Prerequisite: Reading knowledge of Portuguese.</description>
+<prerequisites>Reading knowledge of Portuguese.</prerequisites>
+<notes>Conducted in Portuguese or English, depending on class composition.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6632425ea99f117bd5ef1e09574b2437">
+<name>
+<prefix/>
+<first>Josiah</first>
+<middle/>
+<last>Blackmore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

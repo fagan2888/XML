@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5581" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>45</num_int>
+</course_number>
+<title>Art and Politics in Russia and Eastern Europe</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Svetlana Boym (Slavic Languages and Literatures; Comparative Literature)</faculty_text>
+<description>The course examines the relationship between art and politics in twentieth century Russia and Eastern Europe through visual culture, literature, and film. We move chronologically from the Russian revolution and the period of artistic experimentation to the art of Stalin's era, Gulag and the Cold War, examining writer's trials and dissent in Russia and Eastern Europe as well as the non-conformist art of the late twentieth century. Emphasis is placed on close analysis and aesthetic interpretation in a broader political and historical context. We read works by Malevich, Chagall, Eisenstein, Babel, Brodsky, Mandelstam, Mayakovsky, Havel, Kundera, Arendt, Vajda and Nabokov.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

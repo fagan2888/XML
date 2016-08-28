@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54188" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1230</num_int>
+</course_number>
+<title>African Archaeology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:30-3</meeting_text>
+<faculty_text>Christian Alexander Tryon</faculty_text>
+<description>This course focuses on ancient human populations in Africa from the earliest Stone Age foragers more than 2.5 million years ago to more recent periods characterized by food production, urbanism, and inter-continental networks of trade and exchange, situating the African evidence into a broader understanding of the evolution of human diversity. The course use lectures, in-class discussions, museum collections, and student projects, and in addition to archaeology, draws on a number of allied disciplines including history, ethnography, linguistics, art history, geography, geology, paleontology, and biology.</description>
+<prerequisites>Anthropology 1010 or some archaeology background preferred.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffd043baeb07c6e397cf2549816223931">
+<name>
+<prefix/>
+<first>Christian</first>
+<middle>Alexander</middle>
+<last>Tryon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74068" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>283</num_int>
+</course_number>
+<title>New Research in Theater and Performance Studies: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Ju Yon Kim</faculty_text>
+<description>This course will examine key books in the fields of theater and performance studies published in the last five years. We will look closely at their methodology, theoretical contributions, and engagement with earlier texts that have helped define and shape the fields.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9be070bbc0c9ef235945d1a43c84ead9">
+<name>
+<prefix/>
+<first>Ju</first>
+<middle>Yon</middle>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="269 (Larsen Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

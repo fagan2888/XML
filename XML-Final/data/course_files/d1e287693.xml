@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38084" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>308</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Introduction to Histology</title>
+<course_type>Laboratory Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>11</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>The study of structure and how structure relates to function, in cells and tissues.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fafef0bba13f146788fe9e37e3925d844">
+<name>
+<prefix/>
+<first>Adrian</first>
+<middle/>
+<last>Salic</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fdfb03cb736e1d69bbe05e52f1a8e7ac2">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Liberles</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

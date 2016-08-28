@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9892" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Evolutionary Developmental Biology in Animals</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Arkhat Abzhanov</faculty_text>
+<description>A lecture course in evolutionary developmental biology. Main principles and mechanisms of development as illustrated on both invertebrate and vertebrate animal model systems. In this course we will discuss how animal embryos develop adult body plans on cellular and molecular level. Particular emphasis will be placed on how knowledge of developmental biology helps us understand major evolutionary transitions and the origin of innovation in animal evolution.</description>
+<prerequisites>Life Sciences 1a (or LPS A) and 1b, or permission of instructor. OEB 10, MCB 52, and MCB 54 are recommended but not required. Open to students from any concentration.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff67d9e69c1224ad4d3c19dbe9017ba85">
+<name>
+<prefix/>
+<first>Arkhat</first>
+<middle/>
+<last>Abzhanov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

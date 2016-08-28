@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74151" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2322</num_int>
+</course_number>
+<title>Adorno: Philosophy, Sociology, Aesthetics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Peter E. Gordon</faculty_text>
+<description>This seminar explores the work of the philosopher and social theorist Theodor W. Adorno, a leading member of the Institute for Social Research. Moving chronologically and thematically through his major works, we will discover how Adorno applied his inimitable manner of critical reflection to issues such as the dialectic of enlightenment, the social implications of psychoanalysis, the cultural reification of consciousness, and the redemptive promise of autonomous art in a capitalist age. Readings include selections from: Dialectic of Enlightenment, Minima Moralia, Negative Dialectics, and Aesthetic Theory. Open only to graduate students, advanced undergraduates at instructor's discretion.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

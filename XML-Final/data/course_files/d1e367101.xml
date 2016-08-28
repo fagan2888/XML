@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17296" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>174</num_int>
+</course_number>
+<title>Migration and Religion in Comparative Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>F., 2-4</meeting_text>
+<faculty_text>Ousmane Oumar Kane</faculty_text>
+<description>The seminar will explore two important issues in relation to mobility and religion. The first is how geographic mobility affects the faith and religious practices of diasporas, and the second how migration influences the development of religion in the sending and receiving countries of immigrants? After a critical evaluation of the concept of religion, seminar participants will look at pre-modern types of migration (forced and voluntary) and different religious traditions, and analyze the social and personal transformations provoked by migration. We will explore in particular theoretical perspectives on diasporas and look at the religious experience of Jews in Africa. We will also discuss various expressions of African religions in the new world, including Islam in Antebellum America, and Afro-American Religions, as well as the Islamic pilgrimage tradition in West Africa and its impact on state formation in pre-colonial Africa. The second part of the seminar will be focused on Muslim globalizations. Increasing numbers of labor migrants, students and refugees from Muslim countries have settled in Western Europe and North America in the last three decades. Their numbers are estimated at some 40 million in the early twenty-first century, an unparalleled presence in history. While Western societies are moving away from organized religion, Muslim immigrant communities, by striving to carve a niche in Western Societies, have followed the opposite direction. Although most Western societies recognize the freedom of worship, the multiplication of Muslim institutions (such as mosques, shops, restaurants, schools, cultural centers, newspapers, and charities) has created growing anxiety in the secularizing Western societies. We will look at how Muslim intellectuals mediate the integration of Muslim through the reinterpretation of Islamic theology, as well as how Western states grapple with the issue of Muslim integration in the post-September 11th context of War on Terror.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3359.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F00abc6f9c5d7e8bf194316f8154b61b4">
+<name>
+<prefix>Prof</prefix>
+<first>Ousmane</first>
+<middle/>
+<last>Kane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

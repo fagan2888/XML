@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8900" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>119</num_int>
+</course_number>
+<title>Vocal Production for the Stage</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Erika Bailey</faculty_text>
+<description>Whether one is performing in a play, speaking professionally, teaching a class or leading a group, the ability to use one's voice effectively is a primary element of the success of the presentation. Using several major techniques of speaking training, students learn not only how to use the voice, but how these various approaches to voice training correspond to specific performance challenges.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb686fd0005a0d26fe14657e27c44b40d">
+<name>
+<prefix/>
+<first>Erika</first>
+<middle/>
+<last>Bailey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="2 Arrow St." room="420" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

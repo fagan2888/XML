@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2563" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MOD-HEB">Modern Hebrew</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Intermediate Modern Hebrew II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through F., at 11</meeting_text>
+<faculty_text>Irit Aharony</faculty_text>
+<description>Continuation of Hebrew 120a.</description>
+<prerequisites>Modern Hebrew 120a.</prerequisites>
+<notes>Conducted primarily in Hebrew. Offered jointly with the Divinity School as 4041.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6471fa9bc0c0201cd7ecc3d600adda03">
+<name>
+<prefix/>
+<first>Irit</first>
+<middle/>
+<last>Aharony</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

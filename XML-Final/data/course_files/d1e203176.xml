@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55027" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>35</num_int>
+</course_number>
+<title>Dilemmas of Equity and Excellence in American K-12 Education</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>Fall: Tu., Th., 11:30&amp;#8211;1, and a weekly 90-minute section to be arranged; Spring: M., W., 1&amp;#8211;2:30, and a weekly 90-minute section to be arranged.</meeting_text>
+<faculty_text>Katherine K. Merseth (Harvard Graduate School of Education)</faculty_text>
+<description>Events such as Teach for America's 20th anniversary and films like Waiting for Superman highlight urgent concerns about the quality and reach of American schooling in the 21st century. Against this backdrop, the course grapples with several dilemmas that have defined American K-12 education throughout history. What constitutes educational excellence? Can excellence be achieved for everyone? Why do we have schools and what is their purpose? Given that families, politicians, and the courts often disagree vehemently about the answers to these questions, the course considers who and what will define the future of American education and its role in society.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe5467d9e13222c83f4058296aab8a9ec">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>K.</middle>
+<last>Merseth</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe5467d9e13222c83f4058296aab8a9ec">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>K.</middle>
+<last>Merseth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="GSE - Larsen" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38739" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MICROBI">Microbiology</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Molecular Biology of the Bacterial Cell</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-12</meeting_text>
+<faculty_text>David Z. Rudner (Medical School), Thomas G. Bernhardt (Medical School), Simon L. Dove (Medical School), and Ann Hochschild (Medical School)</faculty_text>
+<description>This course is devoted to bacterial structure, physiology, genetics, and regulatory mechanisms. The class consists of lectures and group discussions emphasizing methods, results, and interpretations of classic and contemporary literature.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d27770449cac33788b86a7d67364a6e">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Rudner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F40e186a8f3cc1753067bf2cd54af9172">
+<name>
+<prefix/>
+<first>Simon</first>
+<middle/>
+<last>Dove</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F75f6db837ab075f0397184aaa982c2fd">
+<name>
+<prefix>Dr</prefix>
+<first>Thomas</first>
+<middle>G.</middle>
+<last>Bernhardt</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe6e0b637ef60500199aaf76b762dc610">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Hochschild</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

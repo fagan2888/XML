@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46736" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>33</num_int>
+</course_number>
+<title>Medical Ethics and History</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>David Shumway Jones (History of Science; Harvard Medical School)</faculty_text>
+<description>Disease and medicine have generated ethical dilemmas that have challenged patients and doctors for centuries, from abortion and euthanasia to informed consent and compulsory treatment. Although moral philosophy can clarify the relevant issues, resolution often depends on the details of the specific clinical and social contexts. Taking a historical approach to medical ethics, this class explores how the moral discourse in health care has changed over time in order to understand how social factors influence the persuasiveness of moral arguments. The focus will be on medical practice in the United States in the twentieth century.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fffdef953c00697b7354e6be8ec7db8c4">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Shumway</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="18 (Yenching Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

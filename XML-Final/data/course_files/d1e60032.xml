@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8011" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>112</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Acting: 20th-Century Texts</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Marcus Stern</faculty_text>
+<description>For actors interested in working in television, film and theater, this is a course of advanced acting techniques using 20th-century dramatic texts for scene work. The emphasis is on action based acting and the creation of an acting process that is specifically tailored to the individual actor. Includes character work -- making physical and vocal changes. Emphasis also on learning how to audition better, includes helping actors assemble a group of working monologues to use in auditions.</description>
+<prerequisites/>
+<notes>Enrollment determined by audition on the first day of class.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F87f9af28d7055d155f148d8f9750559a">
+<name>
+<prefix/>
+<first>Marcus</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

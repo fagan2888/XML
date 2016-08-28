@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1684" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Tutorial - Junior Year</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Maria Khotimsky (spring term) and William Mills Todd III (fall term)</faculty_text>
+<description>Fall term introduces students to Gogol's short fiction, read in the original, and explores a range of interpretive approaches. Spring term is devoted to a single topic and provides concentrators with a more intensive reading experience. This year's focus is on the life and short fiction and plays, read in the original, of Anton Pavlovich Chekhov.</description>
+<prerequisites/>
+<notes>Required of junior concentrators in Slavic Literatures and Cultures. Other students may enroll for one or both terms. Students who wish to concentrate on a different Slavic language may arrange a separate tutorial.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff9c1e173800d1dc8c3a65df81868849e">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Mills</middle>
+<last>Todd</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F01ef0fcc9cc39513e43f4fa9d03399fe">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Yevgenievna</middle>
+<last>Khotimsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

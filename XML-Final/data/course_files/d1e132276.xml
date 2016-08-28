@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1113" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Todd Zickler, Christopher Lombardo, and Patrick D. Ulrich</faculty_text>
+<description>Guided reading and research.</description>
+<prerequisites/>
+<notes>Normally open to candidates accepted for work on a specific topic by a member of the teaching staff of the School of Engineering and Applied Sciences. Normally may not be taken for more than two terms; may be counted for concentration in Engineering Sciences with prior approval and if taken for graded credit. Applicants must file a project sheet before study cards are filed. Project sheets may be obtained from the Student Affairs Office, Pierce Hall 110.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2c9aa22a2d066d6e5b72b083721f96c7">
+<name>
+<prefix/>
+<first>Todd</first>
+<middle/>
+<last>Zickler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7cd5baed2828cda7ee8ada0421882526">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Joseph</middle>
+<last>Lombardo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe5b2b7609ab6c7737d53f8e14a39503f">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>D</middle>
+<last>Ulrich</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F2c9aa22a2d066d6e5b72b083721f96c7">
+<name>
+<prefix/>
+<first>Todd</first>
+<middle/>
+<last>Zickler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7cd5baed2828cda7ee8ada0421882526">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Joseph</middle>
+<last>Lombardo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe5b2b7609ab6c7737d53f8e14a39503f">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>D</middle>
+<last>Ulrich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

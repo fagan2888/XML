@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1884" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>China's Two Social Revolutions</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Martin K. Whyte (Sociology)</faculty_text>
+<description>A general overview of the patterns of social life in China and how these have changed since the revolution in 1949. The socialist transformations led by Mao Zedong after 1949 and the market and other reforms led by Deng Xiaoping after Mao's death receive equal emphasis. Topics covered include political institutions, work organizations, village life, cities, religion, family life, population control, gender relations, inequality, and schooling.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbecc63c133f3883db60fda657d0d9a4d">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>K.</middle>
+<last>Whyte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="214" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

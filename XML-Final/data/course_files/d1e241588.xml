@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44123" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>bi</num_char>
+</course_number>
+<title>Whodunit: Detective Fiction in Victorian England</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Elizabeth Maynes-aminzade</faculty_text>
+<description>This seminar will trace the history of detective fiction, from the emergence of the detective as a literary hero (Poe, Dickens, Collins) through the popularization of the genre (Doyle) and its twentieth-century reinventions (film noir, the police procedural). Along the way, we will examine the relationship between genre and history: why did detective fiction rise to popularity in Victorian England, and why has its legacy so endured?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F55b968b9f69ec21793867ecb049265e8">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Maynes-Aminzade</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="118 (Lyman Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

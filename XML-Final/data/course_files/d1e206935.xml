@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78016" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>251</num_int>
+</course_number>
+<title>Kafka in Context</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Judith Ryan</faculty_text>
+<description>Kafka's relation to his literary and cultural context, his characteristic narrative modes, humor and parody in his works, and the challenges his texts pose for readers.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F54f3b25241b12492545ef7c0432b9081">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>L.</middle>
+<last>Ryan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

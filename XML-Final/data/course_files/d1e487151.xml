@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="129" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>Beginning Greek</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W. through F., at 9; M., W. through F., at 10</meeting_text>
+<faculty_text>Ivy Livingston and assistants</faculty_text>
+<description>For students with very little or no previous instruction in Greek. Introduction to Greek grammar and reading of sentences and short passages.</description>
+<prerequisites/>
+<notes>No auditors. May be taken pass/fail. Students with more than one year of formal instruction should take the Harvard placement test in Greek during Freshman Week and consult with the Course Head before enrolling.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc2da8660ca48ffbab0f0353c42055450">
+<name>
+<prefix/>
+<first>Ivy</first>
+<middle/>
+<last>Livingston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Lecture"/>
+<location term="1" building="Sever Hall" room="112" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

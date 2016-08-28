@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54038" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>198</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Scientific Racism: A History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>This course focuses on the history of "race" as a category of difference and explores why "race" has become a globally-accepted idiom to classify humans. It assesses the prominent roles that science and scientists have played in the process of naturalizing "race" and analyzes how "scientific" theories of race were developed and disseminated globally in the modern period. We trace the formation of these ideas in the North Atlantic, their diffusion to various areas of the world, and the manner in which cultural and political elites adopted or challenged them. We will devote considerable time to the emergence of eugenics, the science of racial improvement, in Europe, the Americas, and Africa and study the process of institutionalization of this science in Nazi Germany and elsewhere, including the United States. A final section of the course discusses the impact of contemporary science on ideas of race. Students in this class will work with texts and archival materials related to these scientists, some of whom were Harvard faculty.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

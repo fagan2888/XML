@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48847" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>283</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Chinese Art: Han through Tang</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Eugene Wang</faculty_text>
+<description>The course scrutinizes cases of early and medieval Chinese art. The issues that drive the course include programmatic thinking behind artworks, the temporal-spatial configurations, etc. Isolated artworks are treated as bases to reconstruct larger programs. The course draws on objects in American museums (e.g., sarcophagi, epitaph tablets, shrines) wherever applicable</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb75a30470fbc826e536a58d6d25d284f">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle>Yuejin</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="406" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

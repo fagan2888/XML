@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45399" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>134</num_int>
+</course_number>
+<title>Global Warming Debates: The Reading Course</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-6, and weekly lab to be arranged</meeting_text>
+<faculty_text>Peter John Huybers and Eli Tziperman</faculty_text>
+<description>The atmospheric carbon dioxide concentration is now the highest it has been in at least 800,000 years, raising concerns regarding possible future climate changes. This seminar will survey the science of global change from the perspective of scientific debates within climate community. Specifically, the course will involve guided reading and discussion of papers that present contentious view points on the science of global change, with the goal of students learning how to scientifically evaluate these claims. Laboratories will provide students with hands on experience with some climate models and data.</description>
+<prerequisites>Applied Mathematics 21a or equivalent, or permission of instructor.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F671d658c63bb83213b482ab3610ce08d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>John</middle>
+<last>Huybers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe1ffe9c112c1c708a96de4cf369b4eea">
+<name>
+<prefix/>
+<first>Eli</first>
+<middle/>
+<last>Tziperman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

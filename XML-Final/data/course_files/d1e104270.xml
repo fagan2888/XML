@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4451" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2726</num_int>
+</course_number>
+<title>Theoretical and Empirical Perspective on Entrepreneurship: Economics and Finance</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2:30-5:30</meeting_text>
+<faculty_text>William Robert Kerr (Business School) and Joshua Lerner (Business School)</faculty_text>
+<description>Entrepreneurship is a complex phenomenon that has attracted little academic attention. This course explores the emerging work in this area. Students taking the course for credit will be expected to complete two referee reports and a paper.</description>
+<prerequisites/>
+<notes>Offered jointly with the Business School as 4350.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcff3a7bcd0d8e96ab2635d499e785a39">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Robert</middle>
+<last>Kerr</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F63ca49054a612b83b9fe296ea3d968a0">
+<name>
+<prefix/>
+<first>Josh</first>
+<middle/>
+<last>Lerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

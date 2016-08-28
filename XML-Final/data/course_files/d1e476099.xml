@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42781" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>342</num_int>
+</course_number>
+<title>Causal Graphs in Low and High Dimensions</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Papers in this area will be read with a skeptical but judicious eye. When could these methods offer something tangible, when might they fail, and how can we know in which circumstance we lie?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

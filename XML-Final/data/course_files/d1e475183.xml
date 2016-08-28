@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86589" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>312</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Estimation Problems for Stochastic Processes and High Dimensional Data</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Focusing on inference problems for stochastic processes and statistical modeling in high dimensions. Contemporary papers from different fields will be discussed and presented by students. Participants will be encouraged to develop their own research problems in this active area.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fc328699631bbf19de8197afa5b09e73b">
+<name>
+<prefix/>
+<first>Natesh</first>
+<middle>S</middle>
+<last>Pillai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

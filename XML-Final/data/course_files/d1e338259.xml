@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8726" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>223</num_int>
+</course_number>
+<title>Preaching and the Sermon in the Middle Ages</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Beverly M. Kienzle (Divinity School)</faculty_text>
+<description>A literary and historical survey of preaching and the sermon from the early to the late Middle Ages, as practiced by bishops, monks, friars, religious women, lay people, and dissident Christians. Readings from sermons and other primary sources, current research on the history of preaching, and methodological issues. Focus on sermon and sermon-related manuscripts in the Houghton Library collection.</description>
+<prerequisites>Completion of an intermediate Latin course or the equivalent.</prerequisites>
+<notes>Offered jointly with the Divinity School as 2226.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdaffb44b29d202d03254ddd606502f2f">
+<name>
+<prefix/>
+<first>Beverly</first>
+<middle/>
+<last>Kienzle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

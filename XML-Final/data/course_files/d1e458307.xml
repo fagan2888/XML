@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2022" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>243</num_int>
+</course_number>
+<title>Economic Sociology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Filiz Garip</faculty_text>
+<description>Introduction to economic sociology at the graduate level. Surveys economic inequality and the ways that economic behavior and outcomes are shaped by social institutions such as markets, networks, organizations, family, and culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F982a26b536139a43e95f007feb1ee1a7">
+<name>
+<prefix/>
+<first>Filiz</first>
+<middle/>
+<last>Garip</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="601" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

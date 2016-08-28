@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="766" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>289</num_int>
+</course_number>
+<title>Biologically-inspired Multi-agent Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Radhika Nagpal</faculty_text>
+<description>Surveys biologically-inspired approaches to designing distributed systems. Focus is on algorithms, analysis, and programming paradigms. Topics: swarm intelligence, amorphous computing, immune-inspired systems, synthetic biology. Discussion of research papers and a research project required.</description>
+<prerequisites>Experience with algorithms (e.g. Computer Science 124) and programming (e.g. Computer Science 51).</prerequisites>
+<notes>Geared toward graduate students of all levels as well as advanced undergraduates. Preference given to graduate students or upper-level concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5a48e4e06e3dece44781a13510b69216">
+<name>
+<prefix/>
+<first>Radhika</first>
+<middle/>
+<last>Nagpal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

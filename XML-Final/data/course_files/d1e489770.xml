@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1456" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="LATIN">Latin</course_group>
+<course_number>
+<num_int>106</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Virgil: Eclogues and Georgics</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard F. Thomas and assistant</faculty_text>
+<description>This course focuses on Virgil's Eclogues and Georgics. We aim to read and interpret those texts, and to place them in literary and historical context.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8fc8c5c36b7feff59adb9a31b621d6ba">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>F.</middle>
+<last>Thomas</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

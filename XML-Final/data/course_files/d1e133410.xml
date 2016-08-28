@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24049" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>114</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Quantum Materials and Devices: From Research Lab to Classroom</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Robert M. Westervelt and Kathryn Ann Hollar</faculty_text>
+<description>The STC Center for Integrated Quantum Materials (Harvard University, Howard University, and MIT) builds electronics and photonics from Quantum Materials: Atomic Layers (graphene, boron nitride, transition-metal dichalcoginides) for atomic-scale devices, Topological Insulators for corruption-free data channels, and Nitrogen Vacancy Center Diamond for single-atom memory. Faculty from the Center will present tutorial lectures about their research.</description>
+<prerequisites>Some experience and knowledge of electricity, magnetism, and quantum mechanics, either through research or courses.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa8cf7184d4dce6a44aeee823db618677">
+<name>
+<prefix/>
+<first>Kathryn</first>
+<middle>Ann</middle>
+<last>Hollar</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F92a59f63f11bfa59534238bef7cd76d6">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>M.</middle>
+<last>Westervelt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

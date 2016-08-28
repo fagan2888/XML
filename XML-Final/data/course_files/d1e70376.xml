@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7066" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_char>Bx</num_char>
+</course_number>
+<title>Elementary Chinese for Advanced Beginners</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10 or 12; and two additional hours to be arranged.</meeting_text>
+<faculty_text>Hui-Yen Huang</faculty_text>
+<description>For students with significant listening and speaking background. Introductory Modern Chinese language course, with emphasis on reading and writing. Covers in one term the equivalent of Chinese Ba and Bb.</description>
+<prerequisites/>
+<notes>No auditors. May not be taken Pass/Fail. Students must pass a test in listening and speaking to take the course.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F719228363c817de62997e5f43c6aa505">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle/>
+<last>Huang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="28" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="28" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="28" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="28" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="28" type="Lecture"/>
+<location term="1" building="Vanserg" room="28" type="Lecture"/>
+<location term="1" building="Vanserg" room="28" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

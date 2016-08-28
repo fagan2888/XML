@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="165" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>201</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>History of Chinese Literature: Beginnings through Song</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-4</meeting_text>
+<faculty_text>Xiaofei Tian</faculty_text>
+<description>In-depth, scholarly introduction to history of Chinese literature and literary culture from antiquity through 1400. Also examines state of the field and considers issues for future research. Includes bibliography. Essential for generals preparation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55016" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2113</num_int>
+</course_number>
+<title>Dante in Contexts: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>James Hankins and Eric M. Nelson</faculty_text>
+<description>The greatest poet of the Middle Ages, Dante was also a philosopher and theologian, a theorist of language, and a political thinker. In this course we will read through the entire corpus of Dante's works, examining each in a different context. The contexts will include the literary traditions of courtly love and true nobility, scholastic philosophy and theology, contemporary history and political theory. The reception of Dante's works in the Renaissance and later times will also be considered.</description>
+<prerequisites/>
+<notes>Knowledge of Italian is helpful but not required. Open to qualified undergraduates with consent of the instructors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa0ffc0789d9f24e4f0d1e391c53ae727">
+<name>
+<prefix>Prof</prefix>
+<first>James</first>
+<middle/>
+<last>Hankins</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F180a2fbc62466322637515d00a5f2f34">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>Matthew</middle>
+<last>Nelson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

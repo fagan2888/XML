@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76331" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2277</num_int>
+</course_number>
+<title>Eastern Europe: Peoples and Empires: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Serhii Plokhii</faculty_text>
+<description>This course is an introduction to major themes and debates in the early modern and modern history of the "other Europe." Its main focus is on the histories of European Russia, Ukraine, Belarus, Lithuania, and Poland. Readings discuss international and political developments in the region and their impact on the formation of imperial, national, religious and cultural identities from the rise of Reformation to the collapse of Communism. The course is designed to prepare students for a general exam field in East European history. It is open to graduate and advanced undergraduate students working on a senior thesis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6b7356399a9eab69b4609e1ca8b3f79c">
+<name>
+<prefix/>
+<first>Serhii</first>
+<middle/>
+<last>Plokhii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

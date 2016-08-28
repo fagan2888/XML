@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14982" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>123</num_int>
+</course_number>
+<title>Cultural Sociology: Space, Culture and Society</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Marcel Fournier</faculty_text>
+<description>This course has three objectives: 1) explore the main theoretical debates about the relationship between nature, culture and social structure in the work of major sociologists; 2) Describe the effects of art, culture and science in contemporary societies and discuss the debates around the notions of knowledge society, cultural industries, creative economy, and "society of the spectacle"; 3) analyze a specific aspect of culture: its materialization in spaces and buildings, with case studies of cultural complexes (ex. Lincoln Center-New York) and academic campus and/or buildings (ex. Carpenter Center, MIT Stata Center).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcdfad3bf457c842b75a63b5065c29e8e">
+<name>
+<prefix/>
+<first>Marcel</first>
+<middle/>
+<last>Fournier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

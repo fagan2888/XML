@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9479" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>19</num_int>
+</course_number>
+<title>The Art of Numbers</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Alyssa Goodman (Astronomy)</faculty_text>
+<description>As data sets get larger and larger, visual tools for exploring them become even more important. "The Art of Numbers" focuses on the insight into quantitative information offered by graphs, tables, charts, maps, and other illustrations. The course explores which graphical tool(s) are best for communicating what kinds of data, and why? Ideas about causality, approximation, statistical significance, credibility, and dimensionality are addressed by analyzing real data and their display. Examples are drawn from epidemiology, astronomy, sports, social-science, finance, geography, politics and economics. Approximately one-half of the course material focuses on web, interactive, and live presentations of data. Textbooks include classic work by Edward Tufte.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F29f7c3e04378d538b5199922f81a1a5d">
+<name>
+<prefix/>
+<first>Alyssa</first>
+<middle>A.</middle>
+<last>Goodman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

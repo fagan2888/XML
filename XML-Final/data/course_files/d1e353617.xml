@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4975" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>201</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Current Methods in Historical Musicology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Sindhumathi Revuluri</faculty_text>
+<description>Introduction to musicological scholarship drawing upon theoretical frameworks, and working methods of historical musicology. Includes aspects of the history of the discipline of musicology, as well as newer methodologies. Students will read relevant theoretical texts from other disciplines and consider the possibilities of interdisciplinary projects within musicology.</description>
+<prerequisites/>
+<notes>Graduate students only. May be taken independently by students from other departments with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b6e6534d1880c3fccaaf2786f66c903">
+<name>
+<prefix/>
+<first>Sindhumathi</first>
+<middle/>
+<last>Revuluri</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

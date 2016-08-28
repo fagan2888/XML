@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8986" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="IMUNOL">Immunology</course_group>
+<course_number>
+<num_int>368</num_int>
+</course_number>
+<title>RNA Granules</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0df9567f6d626cb4202eb62e0e9e32e5">
+<name>
+<prefix>Dr</prefix>
+<first>Paul</first>
+<middle>Joseph</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0df9567f6d626cb4202eb62e0e9e32e5">
+<name>
+<prefix>Dr</prefix>
+<first>Paul</first>
+<middle>Joseph</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

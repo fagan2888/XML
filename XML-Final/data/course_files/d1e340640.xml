@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11556" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>68</num_int>
+</course_number>
+<title>Cell Biology Through the Microscope</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:00 - 2:30, and a one hour lab section per week</meeting_text>
+<faculty_text>Ethan Garner and Jeff W. Lichtman</faculty_text>
+<description>MCB 68 explores three fundamental fields of eukaryotic cell biology: chromosome segregation, cell motility, and neuroscience. Each topic is approached from a historic and technical perspective. Students will discover these systems as the scientific field did, learning how each successive advance in microscopy revealed new biological details. Students will come away with a theoretical and hands-on understanding of microscopy as well as a grasp of the biological findings each technology revealed.</description>
+<prerequisites>LS1a or LPSA is required. An additional introductory course in biology (e.g. MCB 52 or MCB 60, SCRB 10, MCB 80) is recommended but not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4ed9a5b9d4f879952c398f7d296342ef">
+<name>
+<prefix/>
+<first>Ethan</first>
+<middle/>
+<last>Garner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fce255e76c5fb7a7d33987961856bc325">
+<name>
+<prefix/>
+<first>Jeff</first>
+<middle/>
+<last>Lichtman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

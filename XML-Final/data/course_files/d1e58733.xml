@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7426" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>Homer and Beyond: Theory and Comparative Methods in Studying Oral Traditions</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Gregory Nagy</faculty_text>
+<description>Genres, forms, and themes of oral traditions in poetry and prose. Theories of performance and composition. Comparative metrical and formulaic analysis. Students are free to select non-Greek traditions as their focus of research, such as medieval French lays, Indic fables, Gregorian Chant, early Italian opera, Apache female initiation songs, Latin prosimetrum narratives, etc.</description>
+<prerequisites/>
+<notes>Undergraduate students are welcome - including freshmen. Knowledge of Greek not required. Only Classics Department graduate students who take the course for credit will work on original Greek texts.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff552cbf0b260660113faf02a826fa73c">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Nagy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

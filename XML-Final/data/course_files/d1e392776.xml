@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3452" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>276</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Bioethics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Frances Kamm</faculty_text>
+<description>Philosophical discussion of selected issues in bioethics, such as allocation of scarce resources, equity in healthcare, death, euthanasia and assisted suicide, abortion, embryonic stem cell research. Readings primarily from contemporary philosophical sources.</description>
+<prerequisites/>
+<notes>Offered jointly with the Harvard Kennedy School of Government as LAW-90335A.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2790298db2e86827f43b6c6d7fae744a">
+<name>
+<prefix/>
+<first>Frances</first>
+<middle/>
+<last>Kamm</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

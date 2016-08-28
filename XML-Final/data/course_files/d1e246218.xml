@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26059" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>184</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Painting of India</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Jinah Kim</faculty_text>
+<description>The course explores the history of Indian painting based on the collections of the Harvard Art Museums and the Museum of Fine Arts, Boston. We will investigate the theory of pictorial form in India and its relationship to the society at large against the historical currents by probing the development and changes in artistic styles and material culture of painting production. We will pay particular attention to the role of media, such as palm-leaf, birch bark, paper, and pigments, along with consideration of changing symbolic and material meanings of color. Regular visits (sections) to the museums and conservations labs to examine the paintings in person are to be scheduled throughout the semester.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbfffbf40c7b8592dc9d31f4483255e31">
+<name>
+<prefix/>
+<first>Jinah</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

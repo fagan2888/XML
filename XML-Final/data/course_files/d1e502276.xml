@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26794" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2570</num_int>
+</course_number>
+<title>Merleau-Ponty and his Readers</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Mayra Rivera Rivera (Divinity School)</faculty_text>
+<description>This advanced level seminar engages on selected works by Maurice Merleau-Ponty. It focuses on the influence of Christian ideas on his work and the relationship between philosophy and theology. It also engages the works of thinkers influenced by Merleau-Ponty, including Franz Fanon, Judith Butler, and others.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2386.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6041f2a472ba07e5cd97b44d54176b51">
+<name>
+<prefix>Prof</prefix>
+<first>Mayra</first>
+<middle/>
+<last>Rivera Rivera</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

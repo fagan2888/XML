@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38039" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>md</num_char>
+</course_number>
+<title>Race in America</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Matthew Stephen Desmond</faculty_text>
+<description>Today we find ourselves in a remarkable historical moment, attempting to make sense of a nation beset by racial contradictions and paradoxes. Astounding racial progress has been documented at the individual level while, at the social level, racial inequality remains entrenched. Racial dynamics continue to permeate contemporary American life, and they bring with them new uncertainties in interpersonal life, workplace relations, and public policy. This course investigates race in America today, examining advances toward racial tolerance, entrenched racial inequality, and theoretical arguments plumbing the ends and means of racial democracy.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F604799b1c7f879e23e28875987b5c210">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Stephen</middle>
+<last>Desmond</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

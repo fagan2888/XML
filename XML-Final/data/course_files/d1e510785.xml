@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86755" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>241</num_int>
+</course_number>
+<title>New Media Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W. 12-2 with a weekly film screening Tu., 3-5.</meeting_text>
+<faculty_text>Laura A. Frahm</faculty_text>
+<description>A new graduate course that surveys new developments in media theory and provides an overview of advanced approaches to the study of media. We will look at different schools and streams of thought that productively expand and transform the established corpus of media theory, ranging from cultural technologies, media archaeology, and object studies to non-representational theory, actor network theory, and process philosophy. Two research projects will further advance our critical survey of new media theory.</description>
+<prerequisites/>
+<notes>This course has an additional weekly film screening, Tuesdays, 3-5 pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7ee315cd84690f3848f0513bb2565bb9">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>A.</middle>
+<last>Frahm</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

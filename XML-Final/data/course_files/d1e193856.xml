@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7037" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>17</num_int>
+</course_number>
+<title>Ethics, Religion, and Violence in Comparative Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10 and a weekly section to be arranged</meeting_text>
+<faculty_text>Anne E. Monius (Harvard Divinity School)</faculty_text>
+<description>Predicated on the assumption that global concerns are manifest in highly particularized cultural and religious circumstances, this course seeks to understand Hindu, Buddhist, and Christian framings of and prospective solutions to the problem of communal violence in the contemporary world. Topics examined in each tradition include: conceptions of moral subjectivity, frameworks for moral education, close reading of novels that grapple with the moral challenges (especially new forms of violence) wrought by colonization and globalization, and explicitly religious responses to such violence in the work of Mahatma Gandhi, Buddhist monastic communities in Sri Lanka and Southeast Asia, and Archbishop Desmond Tutu.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbbd21ce43758b0cb272c230aaacaa252">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>E.</middle>
+<last>Monius</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

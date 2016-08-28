@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24439" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>256</num_int>
+</course_number>
+<title>Informal Robotics / New paradigms for Design and Construction</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-6</meeting_text>
+<faculty_text>Chuck Hoberman (Design School)</faculty_text>
+<description>Today, robotic devices are being made from folded paper, carbon laminates or soft gels. Rather than assembled, they can be formed directly from 2D or 3D printer. These Informal robots are light, flexible, compliant, highly customized, and demonstrate programmable behavior that is closely coupled with material composition. Taught in collaboration with the Wyss Institute, the course will focus on techniques to create original robotic devices. Lectures will be organized along four primary topics: Kinematics, Fabrication, Controls and Applications. There will be assignments to produce test mechanisms and CAD models, followed by semester-long group projects.</description>
+<prerequisites>There are no strict prerequisites; however, those taking the class should have a strong interest in working at the intersection between technology and design. Some knowledge of mechanism design, use of CAD software, and/or exposure to electronics and controls are beneficial.</prerequisites>
+<notes>This course does not count for concentration credit for SEAS undergraduate concentrators; this course does not count as a disciplinary course for SEAS Ph.D. students. Offered jointly with the Design School as SCI-06478 and will meet at GSD. For more information, see &lt;a href="http://www.gsd.harvard.edu/#/academics/courses/sci-06478-fall-2014.html"&gt;www.gsd.harvard.edu/#/academics/courses/sci-06478-fall-2014.html&lt;/a&gt;.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7c74766e381a429f4301820f05ef1f04">
+<name>
+<prefix/>
+<first>Chuck</first>
+<middle/>
+<last>Hoberman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

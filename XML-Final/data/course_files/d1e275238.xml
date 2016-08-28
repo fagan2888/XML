@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16248" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>262</num_int>
+</course_number>
+<title>The Geometry of the Complex Monge-Ampere Equation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12</meeting_text>
+<faculty_text>Tristan Collins</faculty_text>
+<description>A discussion of the complex Monge-Ampere equation, and its applications in the geometry of Kahler manifolds. Topics: Yau's solution of the Calabi Conjecture, and the geometry of Gromov-Hausdorff limits of Ricci flat metrics. Further topics may include the degenerate Monge-Ampere equation and singular Calabi-Yau metrics, as well as Ricci flat metrics on non-compact manifolds, particularly conical Calabi-Yau metrics and their connection to the geometry of Fano varieties.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fec701862cf38604f6d787cacd825f85a">
+<name>
+<prefix/>
+<first>Tristan</first>
+<middle>Clifford</middle>
+<last>Collins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

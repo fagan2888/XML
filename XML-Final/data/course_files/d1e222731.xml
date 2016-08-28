@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3702" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>13</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>The European Enlightenment</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Hankins</faculty_text>
+<description>Reading and discussion of major texts of the European Enlightenment, from the late 17th century to the late 18th century, with particular attention to the promotion of useful knowledge and to the theory of religion. Readings in Spinoza, Locke, Bayle, Montesquieu, La Mettrie, Voltaire, D'Alembert, Diderot, Rousseau, Hume and Kant.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa0ffc0789d9f24e4f0d1e391c53ae727">
+<name>
+<prefix>Prof</prefix>
+<first>James</first>
+<middle/>
+<last>Hankins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

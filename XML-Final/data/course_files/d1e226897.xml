@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45123" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>d</num_char>
+</course_number>
+<title>"What is Environmental History?"</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Ian J. Miller</faculty_text>
+<description>This section gives new History concentrators an introduction to environmental history. Most historians leave the natural world out of the story, but environmental historians regard nature as the inescapable context for human history, including the human impact on nature. We will explore how the histories of the environment and of humans can (and perhaps should) be written together. Is there a "natural archive" which historians can consult in parallel with conventional libraries and archives? Do places have "biographies," just as people do? Can natural entities (mountains, dogs, rivers, microbes, climate) have "agency" in the same way human actors can?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a26ce1518f6308b400349875c90cb15">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>Jared</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

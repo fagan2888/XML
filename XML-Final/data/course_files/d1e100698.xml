@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="815" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2350</num_int>
+</course_number>
+<title>Workshop in Religion, Political Economy, and Society</title>
+<course_type>Workshop</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-2:30</meeting_text>
+<faculty_text>Rachel M. McCleary, Robert J. Barro, and Edward L. Glaeser</faculty_text>
+<description>Topics on the interplay between religion and the social sciences.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa76d3e318f3231dd726250bb3c740470">
+<name>
+<prefix/>
+<first>Rachel</first>
+<middle>M.</middle>
+<last>McCleary</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F93f3b94977188309fb701159f26346dc">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle/>
+<last>Glaeser</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd074f447722cba7bd2c2541d67666de2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Barro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

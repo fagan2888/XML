@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7646" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>294</num_int>
+</course_number>
+<title>Interesting Questions in Engineering and Physical Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Nancy Kleckner and Mara Prentiss</faculty_text>
+<description>Physical biology can be defined as a discipline that seeks to understand biological processes through the lens of physics and engineering. Faculty and students will unite to review current research with the aim of identifying and pondering interesting emerging questions in this area. Combination of lecture and discussion format. Comprises a series of two-week modules, most of which are given by a one or a pair of faculty drawn from MCB, Physics and SEAS.</description>
+<prerequisites/>
+<notes>Intended primarily for first year graduate students in the EPB PhD track of the MCO program but available to other graduate students and advanced undergraduates as space permits.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc3e1b17bbbfd9b2e9f3e10b90deb62b0">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle/>
+<last>Kleckner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2cad8e6e404ab4062b2845d6509fcfc2">
+<name>
+<prefix/>
+<first>Mara</first>
+<middle/>
+<last>Prentiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="169" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3121" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Research Tutorial in Astrophysics</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2:30&amp;#8211;4, W., 12:30&amp;#8211;2</meeting_text>
+<faculty_text>Charles Conroy, and members of the Department</faculty_text>
+<description>This tutorial introduces students to research at the forefront of astrophysics, and provides opportunities for students to meet with research scientists and individuals active in science policy, education, and journalism. Students meet weekly for a lecture and discussion over dinner with a guest speaker, preceded by a reading and a preparatory seminar. Students will be mentored throughout the term on a research project of their choosing. The Harvard-Smithsonian Center for Astrophysics is home to one of the largest groups of astronomers in the world, providing extensive opportunities for undergraduate research.</description>
+<prerequisites>Astronomy 16 or Astronomy 17.</prerequisites>
+<notes>Open to students pursuing the concentration or secondary field in astrophysics, and in special cases to concentrators in other physical sciences. This course is offered each year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fffe4b3e1aff760a4fd263ea91e519f03">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Conroy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Observatory Perkin Building" room="3/4 (Pratt Conference Room)" type="Section"/>
+<location term="1" building="Memorial Hall" room="202" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

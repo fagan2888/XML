@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63723" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2662</num_int>
+</course_number>
+<title>Anthropology of Consumer Cultures</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Christine Yano</faculty_text>
+<description>In the twenty-first century, consumer cultures tie local and global worlds together in complex, shifting, and interactive ways. This course explores issues of class, gender/sexuality, modernity, identity, nation, globalism, and desire, asking:- what are the mutual influences of culture and the marketplace?- what are the conditions and practices of consumption that shape meaning in contemporary life? - how has a marketplace template shaped mental mappings of our social worlds? In the contemporary world, to buy is to become, as well as to engage in practices and politics of modernity. This course explores the dynamics of consumption embedded within our lives.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F18523f07c27b0933f574f18b9f24f105">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Yano</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

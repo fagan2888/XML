@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53751" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>268</num_int>
+<num_char>y</num_char>
+</course_number>
+<title>Normative and Meta-Normative Questions</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., (F.), 2-4</meeting_text>
+<faculty_text>Selim Berker and Derek Parfit (All Souls College, Oxford)</faculty_text>
+<description>We shall discuss some conflicting views about what matters, normative reasons, how it would be best for things to go, and the wrongness of acts. We shall also discuss some conflicting metaethical views about these views. The subjects discussed will partly depend on the preferences of those taking this course.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff3c7ee5183c3dcd6a6d94993e5d54bd6">
+<name>
+<prefix/>
+<first>Selim</first>
+<middle/>
+<last>Berker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3eceecefc4ecf11b64bc8d7d6a20c142">
+<name>
+<prefix/>
+<first>Derek</first>
+<middle>Antony</middle>
+<last>Parfit</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

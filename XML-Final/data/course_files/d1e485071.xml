@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52181" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>The Idea of Egypt in Greek Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Yvona K. Trnka-Amrhein</faculty_text>
+<description>To the Greek imagination, Egypt was a land of wealth, antiquity, and arcane knowledge. It was also a foreign and exotic world where everything was reversed. The contradictions and complexities of the Greek view of Egypt provide rich material for exploring the Hellenic response to foreign culture. This class will consider this material with particular attention to questions of how different ideas of Egypt developed and functioned in the Greek imagination, why this was so, and what this reveals about Greek culture and literature. It will explore texts from different genres and periods of Greek literature which present different views of Egypt. When possible, the historical and social situation, Greek material culture, and Egyptian evidence will be drawn in as important context. In studying these texts, we will especially consider how much their treatments of Egypt were conditioned by literary needs and/or how much they reflect real knowledge of Egyptian culture and history. By engaging with the theoretical literature on Greeks and the foreign, we will reevaluate the position of Egypt as an "other," a mirror, or an object of fascination.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdd1dd8ec90e067be3f9e71cc2e6e449e">
+<name>
+<prefix>Dr</prefix>
+<first>Yvona</first>
+<middle>K.</middle>
+<last>Trnka-Amrhein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

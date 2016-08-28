@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9815" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Nanophotonics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Recent developments in micro- and nano-photonic materials, devices and microscopy. Computational electromagnetics. Photonic crystals. Optical properties of metal nanostructures. Optical forces. Scanning near-field optical microscopy. Term-long research project.</description>
+<prerequisites>Electromagnetism (Applied Physics 50b, Physics 11b (no longer offered)or 15b, Physical Sciences 12b, or Engineering Sciences 151 or equivalent).</prerequisites>
+<notes>Open to graduate students and advanced undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F60d0448c23b665f52aa70839b64f0e92">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>B.</middle>
+<last>Crozier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

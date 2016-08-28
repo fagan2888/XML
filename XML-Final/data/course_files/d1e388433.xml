@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8947" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>8</num_int>
+</course_number>
+<title>Introduction to Early Modern Philosophy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alison Simmons</faculty_text>
+<description>A survey of 17th- and 18th-century philosophy with a focus on the major metaphysical and epistemological writings of Descartes, Locke, Hume, and Kant. Topics include the natures of mind and body, the existence of God, the existence of the external world, the nature and limits of human knowledge, and the changing relationship between science and philosophy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe7ec2841a61e530f0b2f592511a725f7">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle/>
+<last>Simmons</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

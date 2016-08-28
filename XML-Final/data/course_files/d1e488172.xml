@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3052" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_int>112</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>History of Greek Literature I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined and assistant</faculty_text>
+<description>A survey of early Greek poetry and prose, with readings from Homer, Hesiod, the Homeric Hymns, lyric poetry, and Herodotus. Discussions of genre in relation to performance, historical contexts, thematic (dis)continuities, oral tradition.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7886" offered="N" next_year_offered="2017">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORHIST">Korean History</course_group>
+<course_number>
+<num_int>235</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Historical Research in Korea</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Sun Joo Kim</faculty_text>
+<description>Explores current historical research in the field of premodern Korea by reviewing major publications in the field in Korean.</description>
+<prerequisites>Korean History 111 or equivalent and proficiency in Korean.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fae5110a17bc482ed0b35226e95c6ecb1">
+<name>
+<prefix/>
+<first>Sun Joo</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

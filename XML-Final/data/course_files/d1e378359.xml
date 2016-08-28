@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2539" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>57</num_int>
+</course_number>
+<title>Animal Behavior</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10; Guest lectures and film screenings W., at 7:30 pm; one hour discussion section weekly.</meeting_text>
+<faculty_text>Naomi E. Pierce and Bence P. Olveczky</faculty_text>
+<description>A review of the behavior of animals under natural conditions, with emphasis on both mechanistic and evolutionary approaches. Topics include classical ethology; behavioral endocrinology; behavioral genetics; learning and memory; communication; orientation, migration and biological rhythms; optimal foraging; evolutionary stable strategies; sexual selection; parental investment and mating systems; selfishness, altruism, and reciprocity; and sociality in vertebrates and invertebrates.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdab1e06ce976a7d935392ec03380dcd5">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle>E.</middle>
+<last>Pierce</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F15a5beb53402b974018b770f5252a64b">
+<name>
+<prefix/>
+<first>Bence</first>
+<middle>Patrik</middle>
+<last>Olveczky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

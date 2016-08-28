@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6879" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>Marine Conservation Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5:30</meeting_text>
+<faculty_text>Joe Roman</faculty_text>
+<description>Conservation biology strives to describe, understand, and preserve biodiversity by applying ecological and evolutionary theory within the contexts of resource management, economics, sociology, and political science. This course will explore the motivations and tools used for preserving biodiversity with a focus on coastal and marine ecosystems. Case studies will include major contemporary issues in conservation biology such as endangered species protection and reintroduction, over-harvesting of marine resources, and marine spatial planning. Students will be challenged to answer: How can we restore New England's coastal ecosystems?</description>
+<prerequisites/>
+<notes>Local field trips within New England to be arranged.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1c756d2aa23c5fdbcb7d8251cbc5013e">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Roman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

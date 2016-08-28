@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4058" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2020</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Microeconomic Theory II</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 8:30-10 and a weekly section to be arranged</meeting_text>
+<faculty_text>To be determined</faculty_text>
+<description>A continuation of Economics 2020a. Topics include game theory, economics of information, incentive theory, and welfare economics.</description>
+<prerequisites>Economics 2010a or 2020a.</prerequisites>
+<notes>Offered jointly with the Kennedy School as API-112 and with the Business School as 4011.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc1c588131e206c3353e93d72659f4b1f">
+<name>
+<prefix/>
+<first>Elon</first>
+<middle/>
+<last>Kohlberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="830" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="830" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

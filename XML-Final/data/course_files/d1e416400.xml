@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7860" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2020</num_int>
+<num_char>ab</num_char>
+</course_number>
+<title>Cognition, Brain, and Behavior: Proseminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Tu., Th., 9:30-11:30</meeting_text>
+<faculty_text>Steven Pinker and members of the Department</faculty_text>
+<description>Advanced survey of research topics in cognition, brain, and behavior.</description>
+<prerequisites/>
+<notes>Limited to first-year doctoral students in Psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1127b1ba1d72490825c0f39a5a430aed">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Pinker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="930" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="930" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

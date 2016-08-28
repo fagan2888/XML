@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61433" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>248</num_int>
+</course_number>
+<title>Ethics and Judgment in the History of Science and Medicine</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>David Shumway Jones</faculty_text>
+<description>Examines the tensions felt by historians and physicians between historicizing past ethical behaviors and norms and wanting to pass judgment on past actors and actions. Topics include contested diseases and accusations of unethical research; the focus in Spring 2014 will be on controversial therapeutics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fffdef953c00697b7354e6be8ec7db8c4">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Shumway</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

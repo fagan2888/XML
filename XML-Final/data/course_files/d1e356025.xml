@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3357" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>264</num_int>
+<num_char>rs</num_char>
+</course_number>
+<title>Electronic Music: Composition</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Hans Tutschku</faculty_text>
+<description>Live Electronics. This course will explore different technologies for the live interactionbetween instruments and electronics, mainly using Max/MSP. Students will developshort musical studies and larger compositional project for presentation at the Hydra concert.</description>
+<prerequisites>Basic knowledge of Max/MSP.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5b5e1b53f0ff1338bacdd7b062dd7106">
+<name>
+<prefix/>
+<first>Hans</first>
+<middle/>
+<last>Tutschku</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

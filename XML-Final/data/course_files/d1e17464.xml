@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42183" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1804</num_int>
+</course_number>
+<title>Tasting Food: Politics, Science and the Senses</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Nicolas Igor Sternsdorff Cisterna</faculty_text>
+<description>This course interrogates the processes that underlie the act of eating and tasting food. We approach this question from the anthropology of science, the anthropology of the senses and political economy. We explore the ways we use our senses to taste food, and the intersection between sensual experiences and language. How do our senses interact with each other to constitute the taste experience and how do we verbalize it? How do individual sensorial experiences become part of broader social phenomena? A second strand of analysis will consider the relationship between food and systems of knowledge: how do we distinguish between safe and unsafe food and what is the difference between natural and industrial? The third strand of analysis will consider the question of how taste is formulated before it arrives to our plates. What are the conditions of production and circulation of food, and the connection between place and taste. We will read a variety of case studies with an emphasis on East Asia.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa1341e8f11b2b449eb6d6100ff553dbf">
+<name>
+<prefix/>
+<first>Nicolas</first>
+<middle>Igor</middle>
+<last>Sternsdorff Cisterna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="12" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

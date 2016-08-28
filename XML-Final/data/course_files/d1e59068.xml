@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16366" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>173</num_int>
+</course_number>
+<title>Politics of Aesthetics: Worlds, Objects, Matter, Sensation</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Verena A. Conley</faculty_text>
+<description>Examines and compares the relation between politics and aesthetics in major texts by: Ranciere, Balibar, Nancy, Latour, Harman, Badiou, Meillassoux, Jane Bennett, Tim Morton and others. Focuses on politics of aesthetics in critical texts of the last two decades that link a politics of aesthetics to the reassessment of world(s), objects, sensation, matter while looking for a new type of realism. Deleuze, Ranciere, Nancy, Cixous, Latour, Stengers, Bennett, Graham, Badiou, Meillassoux, Morton will be paired with film, fiction, painting.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F652b6249711e644ae28ee0b05e649062">
+<name>
+<prefix/>
+<first>Verena</first>
+<middle/>
+<last>Conley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5773" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Arabic</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., through F., at 9, 10, 11, or 12.</meeting_text>
+<faculty_text>Dalia Abo Haggar and staff</faculty_text>
+<description>Introduces students to the phonology and script of classical/modern standard Arabic and covers the basic morphology and syntax of the written language. Emphasis on the development of the four skills (reading, speaking, listening, and writing). Samples of modern (contemporary) and classical styles of writing introduced into basic syllabus, and audio-visual material from the contemporary Arabic media. Required textbooks: (1) Alif Baa (with multimedia), 2nd edition. (2) Al-Kitaab fii Ta'allum al-'Arabiyya:, Part I, 2nd edition.</description>
+<prerequisites/>
+<notes>Not open to auditors. Cannot be taken pass/fail. Cannot divide for credit. Offered jointly with the Divinity School as 4345.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3f8b76442135998fc388362a3c7e664b">
+<name>
+<prefix/>
+<first>Dalia</first>
+<middle/>
+<last>Abo-Haggar</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3f8b76442135998fc388362a3c7e664b">
+<name>
+<prefix/>
+<first>Dalia</first>
+<middle/>
+<last>Abo-Haggar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="104" type="Section"/>
+<location term="1" building="Robinson Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="104" type="Section"/>
+<location term="1" building="Sever Hall" room="205" type="Section"/>
+<location term="1" building="CGIS-Knafel" room="K-107" type="Section"/>
+<location term="1" building="Sever Hall" room="207" type="Section"/>
+<location term="1" building="Grays Hall" room="5" type="Section"/>
+<location term="1" building="Sever Hall" room="305" type="Section"/>
+<location term="1" building="Emerson Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="201" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

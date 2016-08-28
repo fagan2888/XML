@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4889" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1950</num_int>
+</course_number>
+<title>Intermediate Statistical Analysis in Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Patrick Mair</faculty_text>
+<description>This course offers intense, foundational exposure to psychological statistics, focusing heavily on analysis of variance (one-way, factorial, repeated-measures, mixed-model). Other topics include: exploratory data analysis, sampling distributions, null hypothesis significance testing, t-tests, fixed versus random effects, post hoc and planned comparisons, correlation, simple regression, the general linear model, chi-square tests, nonparametric statistics, confidence intervals, and meta-analysis.</description>
+<prerequisites>Psychology 1900 or the equivalent.</prerequisites>
+<notes>Required of doctoral students in Psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc9dd0c4d5eb1ad776e18b793690ef577">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle/>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1305" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

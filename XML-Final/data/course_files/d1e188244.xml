@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3396" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>Nazi Cinema: The Art and Politics of Illusion</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>216</enrollment_limit>
+<meeting_text>Tu., Th., at 10; film screenings W., 4-6 (optional); and a weekly section to be arranged.</meeting_text>
+<faculty_text>Eric Rentschler (Germanic Languages and Literatures)</faculty_text>
+<description>As thinking beings we consider the limits of human potential and wonder what is the worst. The Nazis obsess us because they were masters of extremity who brought to the world unprecedented violence, destruction, and murder. They were also masters of propaganda who engineered sophisticated techniques of mass manipulation; in this endeavor cinema and modern media assumed a seminal role. This course considers why films proved to be so essential to the Hitler regime and so captivating to German audiences of the Third Reich. It also reflects on the continuing allure of Nazi sights and sounds for contemporary mass culture.</description>
+<prerequisites/>
+<notes>No knowledge of German required. An additional film screening will be held on Sundays, 1-3. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="Main Lecture Hall" type="Film Screening"/>
+<location term="1" building="Carpenter Center" room="Main Lecture Hall" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

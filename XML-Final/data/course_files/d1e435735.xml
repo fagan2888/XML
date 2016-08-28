@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8789" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>Spanish and the Community</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30, and four hours of activities-based learning per week.</meeting_text>
+<faculty_text>Maria Luisa Parra-Velasco and members of the Department</faculty_text>
+<description>An advanced language course that examines the richness and complexity of the Latino experience in the US while promoting community engagement as a vehicle for greater linguistic fluency and cultural understanding. Students are placed with community organizations within the Boston area and volunteer for four hours a week. Class work focuses on expanding students' oral and written proficiency in Spanish through discussing and analyzing readings, arts, and films by and about Latinos in the US.</description>
+<prerequisites>A score between 721-750 on the SAT II test or on the Harvard Placement Test, Spanish 40 or permission of course head.</prerequisites>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0897c041f2b686516565ada9416945ee">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Luisa</middle>
+<last>Parra-Velasco</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0897c041f2b686516565ada9416945ee">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Luisa</middle>
+<last>Parra-Velasco</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Lamont Library" room="240" type="Section"/>
+<location term="1" building="Sever Hall" room="203" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

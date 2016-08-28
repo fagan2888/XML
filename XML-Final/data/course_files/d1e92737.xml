@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5906" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1400</num_int>
+</course_number>
+<title>The Future of Globalization: Issues, Actors, and Decisions</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1 and a weekly section to be arranged.</meeting_text>
+<faculty_text>Lawrence H. Summers (University Professor; Economics) and Robert Z. Lawrence (Harvard Kennedy School)</faculty_text>
+<description>What is the right balance between national sovereignty and international integration? Is the US equipped to sustain its role as a global leader? Should we regulate multi-national companies who move their factories to countries with lower labor standards? How should the IMF respond to financial crises in Europe and the developing world? How will the rise of China affect global inequality? These are all questions posed by globalization. This course uses basic economic logic to illuminate the choices faced by businesses, governments, international institutions and citizens as the global economy evolves. Policy issues are debated in class by the professors and students play the role of public and private actors in simulation exercises in order to experience the importance of the decisions made by individual actors for the evolution of the global system.</description>
+<prerequisites>Ec 10a, or equivalent economics background, or permission of instructor.</prerequisites>
+<notes>Jointly offered with the Kennedy School as ITF-225. This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F020bdb00b65eac0a29b5330cde1c3440">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>H.</middle>
+<last>Summers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7ff02c8229e25c05cf6e195b8c642795">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>Z.</middle>
+<last>Lawrence</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

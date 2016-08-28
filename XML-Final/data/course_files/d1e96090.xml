@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8656" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2010</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Economic Theory</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a 90-minute weekly section to be arranged.</meeting_text>
+<faculty_text>Edward L. Glaeser and Jerry R. Green</faculty_text>
+<description>Covers the theory of individual and group behavior. Topics include consumer theory, producer theory, behavior under uncertainty, externalities, monopolistic distortions, game theory, oligopolistic behavior, and asymmetric information.</description>
+<prerequisites>Mathematics 116 or equivalent; can be taken concurrently.</prerequisites>
+<notes>Enrollment is limited to students in the Economics and Business Economics PhD programs.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93f3b94977188309fb701159f26346dc">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle/>
+<last>Glaeser</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Holden Chapel" room="Main Room" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

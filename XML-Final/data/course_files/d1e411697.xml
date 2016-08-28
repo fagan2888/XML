@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25165" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1051</num_int>
+</course_number>
+<title>MATLAB: Introduction to Programming for Behavioral Research</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George Angelo Alvarez</faculty_text>
+<description>This course will introduce students to the basics of the MATLAB user interface and programming language, for the purpose of using MATLAB to conduct behavioral research. In the first half of the course, you will learn about MATLAB syntax, general programming concepts such as functions, loops, and conditional statements, and how to analyze and visualize data in MATLAB. In the second half of the course, you will learn to program psychology experiments with the Psychophysics toolbox (a set of MATLAB functions), including displaying stimuli (visual and auditory), and collecting responses from participants.</description>
+<prerequisites/>
+<notes>All students are required to bring a laptop computer to class. Open to graduate and undergraduate students with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18739" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APCOMP">Applied Computation</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Computational Design of Materials</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course will provide the background and an extensive set of examples showing how computational methods are applied to modern design of materials with desired functionality. The methods will span multiple length and time scales, including molecular dynamics simulations, first-principles approaches, stochastic methods for optimization and sampling, and continuum elasticity theory. Examples will include problems in electronic and photonic devices, materials for energy conversion, storage, and environmental protection, and those related to mechanical strength of materials.</description>
+<prerequisites>Undergraduate coursework in quantum mechanics, solid state physics, thermodynamics and statistical mechanics is recommended. Knowledge of physical chemistry and solid mechanics is required.</prerequisites>
+<notes>Applied Computation 275 is also offered as Applied Physics 275. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff5b6f0674eaa9f6305dcd37041a5d2f7">
+<name>
+<prefix/>
+<first>Brad</first>
+<middle>D.</middle>
+<last>Malone</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

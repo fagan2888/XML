@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9007" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>2</num_int>
+</course_number>
+<title>Evolutionary Human Physiology and Anatomy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>300</enrollment_limit>
+<meeting_text>M., W., F., at 1, and three hours of laboratory/discussion weekly.</meeting_text>
+<faculty_text>Peter T. Ellison, George V. Lauder, and Daniel E. Lieberman</faculty_text>
+<description>Why is the human body the way that it is? This course explores human anatomy and physiology from an integrated framework, combining functional, comparative, and evolutionary perspectives on how organisms work. Major topics, which follow a life-course framework, include embryogenesis, metabolism and energetics, growth and development, movement and locomotion, food and digestion, stress and disease, and reproduction. Also considered is the relevance of human biology to contemporary issues in human health and biology.</description>
+<prerequisites/>
+<notes>This course replaces OEB 102. This course, when taken for a letter grade, meets the General Education requirement in Science of Living Systems. This course may not be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F31e24de260e2d35bbbf63b5092863309">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Ellison</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7f49c5d86d2acd7c6159cce4c23e889f">
+<name>
+<prefix/>
+<first>George</first>
+<middle>V.</middle>
+<last>Lauder</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe601975271ed3c7237ec7c934fdf7882">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>E.</middle>
+<last>Lieberman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7260" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2576</num_int>
+</course_number>
+<title>Racial and Ethnic Politics in the United States</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Jennifer L. Hochschild and Claudine Gay</faculty_text>
+<description>The course begins with the history and structure of the classic Black-White binary, then addresses ways in which it must be rethought to include other groups, mainly Asians and Latinos. Issues include racialization, immigrant incorporation, political coalitions and conflict, racial mixture, and links between race, class, gender, and ideology. Focuses on the United States but includes comparisons with Europe, Latin America, and South Africa.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73010804b38948a70f242a4703ccc3e2">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle>L.</middle>
+<last>Hochschild</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F189a726620e87f9cd334692fac1c2008">
+<name>
+<prefix/>
+<first>Claudine</first>
+<middle/>
+<last>Gay</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

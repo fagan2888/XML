@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2947" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="TURKISH">Turkish</course_group>
+<course_number>
+<num_int>125</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Uzbek I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>William E. Granara and assistant</faculty_text>
+<description>Continuation of Elementary Uzbek with an emphasis on further development of both conversational and literary Uzbek.</description>
+<prerequisites>Turkish 121b or equivalent.</prerequisites>
+<notes>//For information on Uzbek instruction at other levels, please contact the Student Programs Officer at the Davis Center for Russian and Eurasian Studies, reeca@fas.harvard.edu.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

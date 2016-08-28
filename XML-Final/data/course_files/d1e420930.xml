@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4909" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2660</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Research Seminar in Mindfulness Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1:30-3:30</meeting_text>
+<faculty_text>Ellen J. Langer</faculty_text>
+<description>Mindlessness/mindfulness theory is compared/contrasted to relevant theories in social psychology, psychopathology, and cognitive psychology.</description>
+<prerequisites/>
+<notes>Open to students doing research with Prof. Langer.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6706c0eda411349f18e7f303e736f8d6">
+<name>
+<prefix/>
+<first>Ellen</first>
+<middle>J.</middle>
+<last>Langer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6706c0eda411349f18e7f303e736f8d6">
+<name>
+<prefix/>
+<first>Ellen</first>
+<middle>J.</middle>
+<last>Langer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1330" end_time="1530"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1305" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

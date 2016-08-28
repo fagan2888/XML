@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82815" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>60</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>How to Start Your Own Country: Histories of Sovereignty and State-Formation</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Steven Michael Press</faculty_text>
+<description>What does it mean to start a country, or to "acquire" and "possess" sovereignty over a state? This seminar will examine the historical evolution of fundamental concepts in our international system: state formation, statehood, and sovereignty. Simultaneously, the seminar will explore histories in which sovereignty and statehood have appeared greatly confused and hotly contested. These include: the UK-China lease for control of Hong Kong; the legal battles at the US Naval Station in Guantanamo Bay; international responses to the Indonesian invasion of East Timor; and the "corporate state" of the legendary British East India Company.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2645a5d58532af052b0acc5d74a2df24">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>Michael</middle>
+<last>Press</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

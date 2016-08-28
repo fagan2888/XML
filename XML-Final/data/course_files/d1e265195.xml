@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2118" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>116</num_int>
+</course_number>
+<title>Semantic Theory I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Gennaro Chierchia</faculty_text>
+<description>An introductory course on semantics in generative grammar. This course provides the formal tools to investigate the truth-conditional meanings of sentences. Topics covered include: compositionality, type theory and the fundamentals of clause structure, quantifier scope, and variable-binding.</description>
+<prerequisites>Linguistics 106, equivalent, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9640a897d547cab1de1ce8035cc8e532">
+<name>
+<prefix/>
+<first>Gennaro</first>
+<middle/>
+<last>Chierchia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

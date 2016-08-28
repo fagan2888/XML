@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84218" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>179</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>The Freudian Century</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Elizabeth Lunbeck</faculty_text>
+<description>Explores the consolidation and rise to prominence of a distinctively modern psychological perspective on human nature, motivation, and desire from 1900 to the present. Opens with the debut of therapeutic culture and the Freudian recasting of the self, with attention to dreams, sexuality, interiority, gender, and cultures of trauma. Moves to the mid-century period and beyond, the heyday of the psychological perspective in the United States, looking at the psychology of affluence, the invention of "identity," the new narcissism, and personalities and power in the workplace. Ends with an assessment of the virtues and liabilities of the 21st century expressive self.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F51e471ac3648a9754d6863c512ead552">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Lunbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

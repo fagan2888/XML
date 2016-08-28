@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8901" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>37</num_int>
+<num_char>y</num_char>
+</course_number>
+<title>Muslim Voices in Contemporary World Literatures</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 7-9:30 p.m.</meeting_text>
+<faculty_text>Ali S. Asani</faculty_text>
+<description>What do Muslims think of acts of terrorism committed in the name of Islam, the mixing of religion with politics, the status and rights of women, the hegemony of the "West"? This seminar investigates the viewpoints of prominent Muslim writers on these and other "hot button" issues as reflected in novels, short stories and poetry from different parts of the world. Explores a range of issues facing Muslim communities in various parts of the world by examining the impact of colonialism, nationalism, globalization and politicization of Islam on the search for a modern Islamic identity. Readings of Muslim authors from the Middle East, sub-Saharan Africa, South Asia, Europe and America.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. No prior knowledge of Islam required. Assignments include compiling a portfolio of creative responses to the weekly readings using different media.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1900" end_time="2130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="316" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

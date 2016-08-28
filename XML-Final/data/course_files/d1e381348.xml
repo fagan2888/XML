@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2314" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>191</num_int>
+</course_number>
+<title>Physiological and Biochemical Adaptation</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Peter R. Girguis</faculty_text>
+<description>This course examines how microbes and animals have evolved to maintain function throughout the wide range of extant habitats. Emphasis is on physiological/biochemical evolution in response to environmental conditions, including climate change and life in extreme environments. As the first course in the "genomes to biomes" series, we will examine new approaches to interrogating organismal physiology in nature. Those interested can continue the "genomes to biomes" program via LS 100r.</description>
+<prerequisites>OEB 10 or CHEM 27 or permission of the instructor.</prerequisites>
+<notes>One lab per week.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6f29a00838283af9e76aed74318a992a">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Girguis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5366" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>215</num_int>
+</course_number>
+<title>Principles of Toxicology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10:30-12:20</meeting_text>
+<faculty_text>Vishal S. Vaidya (Medical School)</faculty_text>
+<description>Emphasizes mechanisms of injury and clinical consequences following exposures to environmental and occupational chemicals. Examines actions at the molecular, cellular, organ system, and organismal levels. Discusses methods for detecting, evaluating, analyzing, and combating toxic effects.</description>
+<prerequisites>Organic chemistry and mammalian physiology or equivalent.</prerequisites>
+<notes>Offered jointly with the School of Public Health as EH 504.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb62bba609157c5e15a13c253623e2eb1">
+<name>
+<prefix>Dr</prefix>
+<first>Vishal</first>
+<middle>S.</middle>
+<last>Vaidya</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1030" end_time="1220"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1030" end_time="1220"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

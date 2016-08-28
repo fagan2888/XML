@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99331" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASARCH">Classical Archaeology</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Roman Greece</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Adrian Staehli</faculty_text>
+<description>This seminar explores the transformation of Greece into a Roman province since its conquest in 146 BC, and examines how this process framed, shaped, and changed the Roman perception of Greece as an imaginary place of culture, art, and erudition.</description>
+<prerequisites/>
+<notes>Upon consultation with the course instructor, undergraduates are welcome, but they are expected to cope with the modern language requirements (German and French or Italian).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fda9f906e413b8a91cfae6b1baf589069">
+<name>
+<prefix/>
+<first>Adrian</first>
+<middle/>
+<last>Staehli</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

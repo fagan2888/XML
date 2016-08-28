@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31502" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>177</num_int>
+</course_number>
+<title>Poetic Revolutions</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Verena A. Conley</faculty_text>
+<description>Focuses on major poets of the 19th-21st centuries (Hugo, Nerval, Baudelaire, Rimbaud, Mallarme, Apollinaire, Char, Michaux, Glissant, Cixous, Deguy and others) whose revolutionary aesthetics bear on ethics and politics.</description>
+<prerequisites/>
+<notes>Conducted in French.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F652b6249711e644ae28ee0b05e649062">
+<name>
+<prefix/>
+<first>Verena</first>
+<middle/>
+<last>Conley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67224" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>209</num_int>
+</course_number>
+<title>Oxygen and Life</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 12-2</meeting_text>
+<faculty_text>Andrew H. Knoll and Peter R. Girguis</faculty_text>
+<description>In this seminar, we will explore the molecular and physiological interactions between organisms and oxygen, and use these to shed light on the role of oxygen in modulating evolutionary change through Earth history.</description>
+<prerequisites>One of the following: OEB 191, EPS 181, EPS 186; or permission of instructors</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb82cd196ee80b3be9390f75ba4f1ee32">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Knoll</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6f29a00838283af9e76aed74318a992a">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Girguis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

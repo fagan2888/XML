@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7192" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1705</num_int>
+</course_number>
+<title>Tibetan Religions</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Janet Gyatso (Divinity School)</faculty_text>
+<description>A close look at practices and cultural productions of Tibetan Buddhism and other religious traditions in light of their distinctive historical contexts in Tibet. Topics include: yogic, lay, and monastic religions; visionary practices; religion, magic and the state; Buddhism in literature and art; medicine and Buddhism; death and reincarnation practices; the creation of sacred landscape; and certain distinctive literary genres including "mind training," "advice" writings, self-revelatory autobiography; and religious historiography. Throughout the course we will be considering a number of new publications that have recently enriched our understanding of Tibetan religious cultures and institutions.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3563.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb9495475596cf9db5d15efcee025f30c">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Gyatso</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

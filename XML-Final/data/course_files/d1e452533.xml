@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68018" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>Ma</num_char>
+</course_number>
+<title>Urban Social Problems and Public Policy</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Eva Rosen</faculty_text>
+<description>This tutorial will examine urban social problems and their relationship to public policy solutions through a sociological lens. We will examine social problems that affect city dwellers such as poverty, homelessness, crime, the achievement gap, and health, and their correlate policy solutions including public assistance, housing, policing and incarceration, education policy, health care and more. Students will complete an in-depth independent research project on a social problem of interest, collect their own data, and think through sociological and policy implications. The course will specialize in data collection through the use of qualitative methods such as ethnography, observation, and interviewing.</description>
+<prerequisites>Sociology 97</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F52a2657901e6b57740476815eabfcc63">
+<name>
+<prefix/>
+<first>Eva</first>
+<middle/>
+<last>Rosen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

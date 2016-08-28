@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7588" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SCAND">Scandinavian</course_group>
+<course_number>
+<num_int>160</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Old Norse Language, Literature, and Culture: Mythology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Stephen A. Mitchell</faculty_text>
+<description>Builds on Scandinavian 160a, continuing the language study and cultural survey of the first term, but now considers mythological texts relating to Viking religious life, mainly selections from the prose and poetic Eddas. Special attention is paid to scholarly tools and debates concerned with the interpretation of these cultural monuments.</description>
+<prerequisites>Scandinavian 160a or equivalent.</prerequisites>
+<notes>May be counted toward the Folklore and Mythology 90 requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

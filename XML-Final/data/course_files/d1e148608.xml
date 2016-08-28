@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59646" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Cbbr</num_char>
+</course_number>
+<title>Intermediate Poetry: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 4-7 p.m.</meeting_text>
+<faculty_text>Joshua Bell</faculty_text>
+<description>Initially, students can expect to read, discuss, and imitate the strategies of a wide range of poets writing in English; to investigate and reproduce prescribed forms and poetic structures; and to engage in writing exercises meant to expand the conception of what a poem is and can be. As the course progresses, reading assignments will be tailored on an individual basis, and an increasing amount of time will be spent in discussion of student work.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8fbf9efff7e0a64f21bc7a73ebd8fe75">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>David</middle>
+<last>Bell</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8fbf9efff7e0a64f21bc7a73ebd8fe75">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>David</middle>
+<last>Bell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1900"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1900"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="269 (Larsen Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1923" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>187</num_int>
+</course_number>
+<title>Low Temperature Geochemistry II: Modern and ancient biogeochemical processes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30&amp;#8211;4, and a weekly two-hour lab to be arranged.</meeting_text>
+<faculty_text>Ann Pearson</faculty_text>
+<description>Introduction to biological and organic chemistry of the Earth's environment. Primary focus on formation, processing, and preservation of organic carbon, with emphasis on paleoenvironmental applications and on processes occurring at the molecular level. This class is intended to be taken in series with EPS 186.</description>
+<prerequisites>A course in college-level chemistry or equivalent. Chemistry 17 or 27 strongly recommended. EPS 186 strongly recommended.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4e3d7bdea7afc4e4994b0775fa447030">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Pearson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

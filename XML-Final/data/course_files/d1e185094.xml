@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="748" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>12</num_int>
+</course_number>
+<title>Poetry in America</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>54</enrollment_limit>
+<meeting_text>M., W., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Elisa New (English)</faculty_text>
+<description>Surveying 300+ years of poetry in America, from the Puritans to the avant-garde poets of this new century, the course covers individual figures (Poe, Whitman, Dickinson, Frost, Williams, Hughes), major poetic movements (Firesides, Modernist, New York, Confessional, L-A-N-G-U-A-G-E) and probes uses of poetry across changing times. Who, and what, are poems for? For poets? Readers? To give vent to the soul? To paint or sculpt with words? Alter consciousness? Raise cultural tone? Students will read, write about and also recite American poems.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4a5464d10ff288b7cdbf1706d223581a">
+<name>
+<prefix/>
+<first>Elisa</first>
+<middle/>
+<last>New</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

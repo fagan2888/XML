@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29276" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1432</num_int>
+</course_number>
+<title>Economics of European Integrations</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Johann-helmut Kotz</faculty_text>
+<description>The aim of the course is to give students familiarity with a broad range of European policy issues: integration of markets (for goods, services, and labor), monetary union (ECB) and its consequences for fiscal policy, financial sector regulation as well as supervision. It is offered for students who would like to employ the tools they have learned in principles of economics and introductory micro and macro courses on real world cases. This implies to write and present a paper (mandatory writing requirement).</description>
+<prerequisites>Ec 10a and Ec 10b.</prerequisites>
+<notes>Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7607736b7781c5a5978f38c64174c2db">
+<name>
+<prefix/>
+<first>Johann-helmut</first>
+<middle/>
+<last>Kotz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

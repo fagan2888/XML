@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21669" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Tangible Things: Harvard Collections in World History</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>126</enrollment_limit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged</meeting_text>
+<faculty_text>Laurel Thatcher Ulrich (University Professor; History)</faculty_text>
+<description>People make history through the things they make, collect, exhibit, exchange, throw away, or ignore. Over four centuries, Harvard has not only amassed books and manuscripts but art works, scientific instruments and specimens, ethnographic objects, and historical relics of all sorts. By learning how and why particular things arrived in Cambridge and what happened to them when they got here, students will discover how material objects have shaped academic disciplines, reinforced or challenged social boundaries, and defined America's place in the world. This is an interactive course, with weekly visits to museums and close-up investigation of specimens and artifacts.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdf8358613c6a42ea6ac703720db85ca0">
+<name>
+<prefix/>
+<first>Laurel</first>
+<middle/>
+<last>Ulrich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

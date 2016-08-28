@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="375" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CELTIC">Celtic</course_group>
+<course_number>
+<num_int>305</num_int>
+</course_number>
+<title>Preparation of Doctoral Dissertation</title>
+<course_type>Direction of the Doctoral Dissertation</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F6fad88adea9109ffd34edb0c6b7879a8">
+<name>
+<prefix/>
+<first>Tomas</first>
+<middle/>
+<last>O Cathasaigh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

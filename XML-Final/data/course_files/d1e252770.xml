@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68182" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>149</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Explaining Epidemics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Aaron Pascal Mauck</faculty_text>
+<description>Outbreaks of epidemic disease have played a role in shaping human societies from the beginning of recorded history, transforming demographic patterns, social practices, and cultural expectations. Although they take fewer lives than the diseases we encounter every day, epidemics possess an extraordinary hold over our collective imagination. This course seeks to understand why. Through an analysis of outbreaks ranging from the Black Death to Avian Flu, we will explore the place of epidemic disease in human history, taking into account how those living in different times and places have responded when epidemics have appeared.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbdbed5d055fbefc9f13f21348d2be8d2">
+<name>
+<prefix/>
+<first>Aaron</first>
+<middle>Pascal</middle>
+<last>Mauck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

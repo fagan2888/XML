@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9123" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>26</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>What is Mental Illness?</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 2:30-4:30</meeting_text>
+<faculty_text>Michael William Kahn (Medical School)</faculty_text>
+<description>Introduces students to the nature of mental illness based on recorded interviews of people suffering from a variety of psychiatric conditions. Investigates what illness and treatment are like from patient's perspective. Interviews supplemented by readings which include a variety of patient narratives. Provides background on categories of mental illness, the varieties of treatment available, and the nature of the illness experience itself.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7852a99984a43f1596c22ed7659806c0">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle>William</middle>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1430" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Beth Israel Hospital, Yamins" room="407" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

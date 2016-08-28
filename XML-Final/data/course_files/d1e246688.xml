@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9976" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>197</num_int>
+</course_number>
+<title>The Imperial Arts of the Inca and the Aztec</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Thomas B. F. Cummins</faculty_text>
+<description>This course concentrates on the art and architecture of the two ancient American civilizations, surveying the forms of representation used to establish imperial presence within the accepted vernacular of Mesoamerican and Andean artistic traditions. Special attention is given to the role of art as a means of expressing imperial claims to mythic and historic precedents, upon which political and economic expansion could be realized.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7af4ca3452ac573c0753da6cecb6869a">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>B.F.</middle>
+<last>Cummins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9951" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Topics in African American History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Evelyn Brooks Higginbotham</faculty_text>
+<description>This graduate readings seminar surveys African American history from the slave trade through the early twentieth century. We will examine the experiences of African Americans alongside the history of race relations in a larger American context. Topics include slavery, abolition, and the transition to freedom; regional and cultural differences among African Americans; black politics; and issues of gender and class in black communities. We will also discuss the nature of historical inquiry and differing modes of historical interpretation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdaa86c961e899227f7629c43efb263fc">
+<name>
+<prefix/>
+<first>Evelyn</first>
+<middle>Brooks</middle>
+<last>Higginbotham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

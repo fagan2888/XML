@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92853" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1916</num_int>
+</course_number>
+<title>The History of Evidence</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>22</enrollment_limit>
+<meeting_text>M., 5-7 p.m.</meeting_text>
+<faculty_text>Jill M. Lepore</faculty_text>
+<description>This course will examine the rules and standards of evidence in law, history, science, and journalism. What counts as proof in these fields varies and has changed over time, often wildly. Emphasis will be on the histories of Western Europe and the United States, from the middle ages to the present, with an eye toward understanding how ideas about evidence shape criminal law and with special attention to the rise of empiricism in the nineteenth century, the questioning of truth in the twentieth, and the consequences of the digital revolution in the twenty-first. Topics will include the histories of trial by ordeal, trial by jury, "spectral evidence," "negro evidence," case law, scientific testimony, footnotes, the polygraph, statistics, anonymous sources, fact checking, and big data.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2694. Open to advanced undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5911e61286dfa51da2c01faa19323498">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Lepore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LAW - Caspersen Wasserstein Building" room="4063" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

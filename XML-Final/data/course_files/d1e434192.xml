@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="934" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Questions of Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 1-3</meeting_text>
+<faculty_text>Jeffrey Schnapp and John T. Hamilton</faculty_text>
+<description>The seminar is built around a sequence of fundamental questions regarding the literary disciplines, their history and epistemology. Discussions are instigated by readings in philology, stylistics, the history of ideas, semiotics, structuralism, psychoanalysis, post-structuralism, film theory, genetic criticism, literary sociology, cultural studies, and digital humanities.</description>
+<prerequisites/>
+<notes>Conducted in English. Required of all graduate students in Romance Languages and Literatures.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd1b8a5cf9abfd7e2ad72de32a2b00284">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Schnapp</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F4bfbc0671777708c7f556a2d9ecf2d1f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>T.</middle>
+<last>Hamilton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="335" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

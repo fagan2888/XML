@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22333" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>kb</num_char>
+</course_number>
+<title>Poems of Seamus Heaney and Thomas Hardy: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Elaine Scarry</faculty_text>
+<description>Written a century apart, the poems of Seamus Heaney and Thomas Hardy create an urgent call and response between earth and under-earth. The poets share metrical virtuosity, compressed lyric forms, the unfolding of personal history within public crisis and transformation, and the recognition that the acuity of sentience - the daily practice of exquisitely precise perceptual acts - is the ethical center of our brief stay above ground.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffbcae4c854da68515f9e803f0920389f">
+<name>
+<prefix/>
+<first>Elaine</first>
+<middle/>
+<last>Scarry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

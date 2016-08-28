@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92764" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1271</num_int>
+</course_number>
+<title>Women and War: Gender, Race, and the Politics of Militarism</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Elizabeth Mesok</faculty_text>
+<description>This course examines scholarship on gender, sexuality, and race within a multitude of feminist disciplines in order to suggest productive interventions in analyses of women and warfare. Refuting essentialized notions of womanhood as passive, peaceful, and submissive, this class encourages students to move beyond thinking about what men and women do in war, and instead consider how gendered constructs are necessary for war. Memoirs, documentaries, military policy, and legal cases will serve as case studies to analyze contemporary and historical issues of gender and militarism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe54d5ecd1e4343b74b1f219cbd8ea2e3">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Mesok</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

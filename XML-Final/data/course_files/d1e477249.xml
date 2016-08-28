@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44334" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Biomedical Entrepreneuring: Turning Ideas into Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>F., 9-12</meeting_text>
+<faculty_text>Derrick J. Rossi</faculty_text>
+<description>Medicines and other therapeutics have revolutionized the treatment of many diseases. Few of us pause to consider how these products are developed from an initial discovery in the lab to the treatment of patients. This course will consider this journey by incorporating scientific, biotechnology, intellectual property, venture capital, and business perspectives. In addition to lectures, students will work on group projects to chart a strategy toward bringing a novel biomedical idea to the clinic.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 52, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7329f1208e78b8ecef4bbce88a83af4d">
+<name>
+<prefix>Dr</prefix>
+<first>Derrick</first>
+<middle>J</middle>
+<last>Rossi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Fairchild Biochemistry Lab" room="062" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

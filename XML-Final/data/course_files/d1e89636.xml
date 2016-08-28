@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43294" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>985</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Research in Applied Microeconomics, Labor and Gender</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jane Leber Herr</faculty_text>
+<description>Workshop for seniors writing theses. Especially for applied work in microeconomics, labor, or gender issues, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F253d18f62323cbc709f1693a169888d0">
+<name>
+<prefix/>
+<first>Jane</first>
+<middle/>
+<last>Herr</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F253d18f62323cbc709f1693a169888d0">
+<name>
+<prefix/>
+<first>Jane</first>
+<middle/>
+<last>Herr</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7390" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>d</num_char>
+</course_number>
+<title>Conscious Perceptual Experience: A Systems Neuroscience Approach</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Florian Engert and MBB Faculty</faculty_text>
+<description>Renowned neuroscientists from Harvard and elsewhere will lead highly interactive seminars addressing core problems underlying the emergence of conscious visual experience. Topics include the requisite neuronal representations of the content of visual images, their localization within extrapersonal space and the sense of ownership of such images by an attentive self. Related topics include selective attention, the binding problem, recursive neuronal networks and the distinction between phenomenal and access consciousness. Finally, also explores both the commonalities and differences between visual perception and visual imagery so as to achieve a greater understanding of the bases for the emergence of both entities.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1af36f76d42e3b8eb7b8d64c532a3985">
+<name>
+<prefix/>
+<first>Florian</first>
+<middle/>
+<last>Engert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

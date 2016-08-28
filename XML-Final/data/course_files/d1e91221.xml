@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3692" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1051</num_int>
+</course_number>
+<title>Introduction to Game Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Drew Fudenberg</faculty_text>
+<description>Presents an introduction to the modern game theory, focusing on its use in economics. Main ideas of game theory are introduced and illustrated using examples from industrial organization, labor economics, and macroeconomics.</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a.</prerequisites>
+<notes>Students may not take both Economics 1051 and Economics 1052 for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

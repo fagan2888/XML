@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86446" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>127</num_int>
+</course_number>
+<title>News and Views: Accessing and Interpreting Hindi and Urdu Media</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Amy Bard</faculty_text>
+<description>This class focuses on Hindi and Urdu informational media, particularly coverage of current events, to develop knowledge of South Asian regional issues. Vocabulary building is a key aspect of the course. Assignments involve listening exercises aimed at either basic comprehension or close analysis and discussion; drafting news reports; and reading long and short form journalism. Newspaper, TV, radio, and internet news reports and debates are featured, with some exposure to the emerging field of online social media analysis. This course may count towards a citation in Hindi-Urdu.</description>
+<prerequisites>Hindi-Urdu 102 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F896d9c98bb849a3a2ffaa734db4fc68f">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Bard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

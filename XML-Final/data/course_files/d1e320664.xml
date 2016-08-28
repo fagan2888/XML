@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2141" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Cellular Neurophysiology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 9-12</meeting_text>
+<faculty_text>Bruce P. Bean (Medical School), Wade G. Regehr (Medical School), Bernardo L. Sabatini (Medical School), and Gary I. Yellen (Medical School)</faculty_text>
+<description>Introduction to the physiology of neurons, focusing on using electrophysiology and imaging to study function of ion channels, generation of action potentials, and physiology of synaptic transmission. Includes problem sets and reading of original papers.</description>
+<prerequisites>Introductory neurobiology.</prerequisites>
+<notes>Offered jointly with the Medical School as NB 714.0.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7f3d2d66461ad1a9cc3a23fd838113de">
+<name>
+<prefix/>
+<first>Bruce</first>
+<middle/>
+<last>Bean</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F21d05a66f07a61d9aab7e2985a26ff98">
+<name>
+<prefix/>
+<first>Wade</first>
+<middle>G.</middle>
+<last>Regehr</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F86f63134615ade7fe1b95da417ecfec5">
+<name>
+<prefix>Dr.</prefix>
+<first>Gary</first>
+<middle/>
+<last>Yellen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd322b2efc41828eaafa98289bd00f8cf">
+<name>
+<prefix/>
+<first>Bernardo</first>
+<middle/>
+<last>Sabatini</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

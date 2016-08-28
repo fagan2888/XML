@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8122" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Reading and Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F78ae516650022f771df1c70ef8d9fe54">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>McCann</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fae5110a17bc482ed0b35226e95c6ecb1">
+<name>
+<prefix/>
+<first>Sun Joo</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fcd6b0615e4b6ee3590f0f60eaf420d4d">
+<name>
+<prefix/>
+<first>Sang-suk</first>
+<middle/>
+<last>Oh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F78ae516650022f771df1c70ef8d9fe54">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>McCann</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fae5110a17bc482ed0b35226e95c6ecb1">
+<name>
+<prefix/>
+<first>Sun Joo</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fcd6b0615e4b6ee3590f0f60eaf420d4d">
+<name>
+<prefix/>
+<first>Sang-suk</first>
+<middle/>
+<last>Oh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6401" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>143</num_int>
+</course_number>
+<title>Computer Networks</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>H. T. Kung</faculty_text>
+<description>Networking has enabled the emergence of mobile and cloud computing, creating the most important technological paradigm shift in computing of the past decade. Further advancements in networking are expected to similarly transform the technological landscape over the next decade through the emergence of the Internet of Things and gigabit wireless networks. In order to play a role in this era of new network-powered advancements, students must have a thorough understanding of emerging networking topics. Rather than teaching the basic networking protocols, which have become very mature and can be treated as a black box, in CS 143, we will teach the new issues and topics of interest which will power important emerging applications. This focus on upcoming applications is the motivation for CS 143 this semester. The class will be organized into the following nine modules: Basic Networking Concepts: Protocol Layering; Internet of Things: All-service Bluetooth Low Energy (BLE); Data Center Networking: Software Defined Networking; Web-scale Networking: Distributed Cloud Computing and Virtual Machine Migration; Content Networks: Video Streaming; Network Security: Defense Against Protocol Exploitation; Wireless Networking: Wireless Mesh, Geographic Routing; Machine Learning Assisted Networking: End-to-end Application Adaptive Protocols; Cyber-physical Networks: Vehicular Networking. Students will have the opportunity to implement the concepts learned in the course through programming assignments, read and discuss the latest networking literature, and design and implement a final project.</description>
+<prerequisites>Strong interest in the subject matter and programming experience (CS50 should be fine). Lab sessions will be provided to give extra support.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab8407c04815d5cc75e496a62d13b31b">
+<name>
+<prefix/>
+<first>H.T.</first>
+<middle/>
+<last>Kung</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="119" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

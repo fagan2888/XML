@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4445" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNHIST">Japanese History</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>The History of Curiosity and the Curiosities of Edo Japan</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Shigehisa Kuriyama</faculty_text>
+<description>This course probes the nature and history of curiosity by exploring the strangely, extravagantly, intensely curious culture that was Japan in the Edo period (1600-1868), and spotlighting its entwinement with outsiders who were intensely curious about it. The design of the course is unique: crafted as an intellectual adventure game, it presupposes no prior knowledge, but will require keen curiosity and a willingness to experiment with new technologies of learning. In addition to students of Japanese culture, it should particularly interest those fascinated by global connections, early modern science, and the mystery of curiosity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdbe48e9d70a571fdece50053a0d056e0">
+<name>
+<prefix/>
+<first>Shigehisa</first>
+<middle/>
+<last>Kuriyama</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1835" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2445</num_int>
+</course_number>
+<title>Psychological Treatment Research</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Matthew K. Nock</faculty_text>
+<description>Review theories of behavior change, methods of studying such change (single-case research designs, randomized clinical trials, etc.), and current evidence-based approaches to assessing and treating psychopathology. Examines historical, ethical, and cultural issues.</description>
+<prerequisites>SLS-20 or its predecessors and Psychology 18.</prerequisites>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F47715861cd999e1ec1e0af43c83c9894">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>K.</middle>
+<last>Nock</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

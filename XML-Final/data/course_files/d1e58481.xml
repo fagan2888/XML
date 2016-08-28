@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65838" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>154</num_int>
+</course_number>
+<title>Music, Literature, and the Voice</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John T. Hamilton</faculty_text>
+<description>A comparative examination of literary, philosophical and theoretical works that deal with music and the phenomenon of the voice. Topics include: the role of the voice in myth; verbal and musical form; musical meaning and expression; reading, hearing and listening; music and psychoanalysis; evanescence and silence; narrative voice and responsibility.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4bfbc0671777708c7f556a2d9ecf2d1f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>T.</middle>
+<last>Hamilton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

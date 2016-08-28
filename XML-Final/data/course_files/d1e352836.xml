@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44691" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>191</num_int>
+<num_char>rtkc</num_char>
+</course_number>
+<title>Chant</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Thomas Forrest Kelly</faculty_text>
+<description>Gregorian Chant. From the time of Charlemagne until the 21st Century, the music called Gregorian chant has been in uninterrupted use in the West. This course will consider the music, the styles, the genres, and the sources of this music. Singing will be encouraged.</description>
+<prerequisites/>
+<notes>May be taken by students from other departments with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F17ca3a66be3f7e8654d22e7d35391b31">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>Forrest</middle>
+<last>Kelly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

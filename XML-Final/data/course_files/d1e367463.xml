@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15829" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>183</num_int>
+</course_number>
+<title>Reform and Revival in Modern Islam, 19th -20th centuries</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Malika Zeghal</faculty_text>
+<description>This course will shed light on the historical transformation of the internal religious reforms of Islam in the 18th and 19th century into politicized and/or fundamentalist versions of Islam in the 20th century.</description>
+<prerequisites/>
+<notes>Offered jointly with Divinity School as HDS 3362.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe6948c0967ee2cd544963b4bed2aad8d">
+<name>
+<prefix/>
+<first>Malika</first>
+<middle/>
+<last>Zeghal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

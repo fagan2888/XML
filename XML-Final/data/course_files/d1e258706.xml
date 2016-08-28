@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89118" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1411</num_int>
+</course_number>
+<title>Evolution and Adaptation of the Human Diet</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11; Tu., at 2</meeting_text>
+<faculty_text>Noreen Tuross and Richard W. Wrangham</faculty_text>
+<description>Within and across cultures people adopt widely varying diets, yet as a species, our foods are characteristically human. In this course we ask what is the fundamental nature of the human diet, what constrains it, how people adapt to different diets, and how the human diet evolved from those of our primate ancestors.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2303423c4fe9a3f261db85fad4ff0b1b">
+<name>
+<prefix/>
+<first>Noreen</first>
+<middle/>
+<last>Tuross</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd6b54ba52768230b1bc2d35125b69fe2">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>W.</middle>
+<last>Wrangham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

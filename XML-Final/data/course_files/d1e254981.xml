@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20249" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>237</num_int>
+</course_number>
+<title>Postgenomics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Sarah S. Richardson</faculty_text>
+<description>Joining "postgenomic" assessments of the genome projects, this seminar examines the history and contemporary practice of genomics from a multidisciplinary perspective. Topics include the role of technology, government funding, private industry, and race, gender, and nationality in the historical development of genomics, the ways in which genomic research challenges traditional conceptions of biology and science, and the implications of emerging trends such as direct-to-consumer genomics and whole-genome sequencing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9168" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="CHPB">
+<dept_long_name>Committee on Undergraduate Degrees in Chemical and Physical Biology</dept_long_name>
+<dept_short_name>Chemical and Physical Biology</dept_short_name>
+</department>
+<course_group code="CPB">Chemical and Physical Biology</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Introduction to Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>A. Thomas Torello</faculty_text>
+<description>Laboratory research in topics related to the CPB concentration under the direction of, or approved by, members of the Board of Tutors in CPB. A paper must be submitted to the laboratory sponsor and to the CPB Student Affairs Office for review by the Head Tutor and Course Director.</description>
+<prerequisites/>
+<notes>Limited to CPB concentrators; written permission of both the tutor and laboratory sponsor must be submitted to the CPB Concentration Office prior to enrolling in the course. Ordinarily may not be taken as a fifth course.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb95b92e491d145fc60a4f095e31423b">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Torello</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fcb95b92e491d145fc60a4f095e31423b">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Torello</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

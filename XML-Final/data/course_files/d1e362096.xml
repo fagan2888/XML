@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7849" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>250</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Islamic Theological Texts: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Khaled El-Rouayheb</faculty_text>
+<description>Readings on selected topics in Islamic theology.</description>
+<prerequisites>Three years of Arabic or permission of the instructor.</prerequisites>
+<notes>Offered jointly with the Divinity School as 3883. Students will be expected to read approximately 15-20 pages of classical Arabic per week.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fda65de331a6bba7e16cdf4f565fd0242">
+<name>
+<prefix/>
+<first>Khaled</first>
+<middle/>
+<last>El-Rouayheb</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

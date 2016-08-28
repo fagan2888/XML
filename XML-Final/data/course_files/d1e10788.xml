@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7746" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="SWAHILI">Swahili</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Reading in Swahili II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John M. Mugane and assistant</faculty_text>
+<description>Advanced reading in Swahili II.</description>
+<prerequisites>Swahili 101ar or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8991604883a4ca2601298f8ea013b389">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Mugane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

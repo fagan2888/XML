@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86549" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Topics in Geometry and Dynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Curtis T. McMullen</faculty_text>
+<description>A survey of fundamental results and current research. Topics may include: ergodic theory, hyperbolic manifolds, Mostow rigidity, Kazhdan's property T, Ratner's theorem, and dynamics over moduli space.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F16bc4f605a0f5ccc7546ddfbf7d36c88">
+<name>
+<prefix/>
+<first>Curtis</first>
+<middle>T.</middle>
+<last>McMullen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

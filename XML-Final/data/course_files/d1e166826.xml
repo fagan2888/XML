@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54029" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.224</num_char>
+</course_number>
+<title>Sports and the Law</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Brian T. Fobi</faculty_text>
+<description>The world of sports is one of the most dynamic and complete microcosms of American life. Since the advent of big-money professional and "amateur" athletics at the dawn of the 20th century, sports has had to confront a range of important issues revolving around fairness: race, gender, labor versus ownership, drugs, money, violence, and economic freedom. We will address these issues through court cases, articles, and documentary films. Using these sources, students will craft essays that present powerful arguments about the role and place of sports within American life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F10c39763309221d4eb7e7ea9e7870e52">
+<name>
+<prefix/>
+<first>Brian</first>
+<middle>T</middle>
+<last>Fobi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

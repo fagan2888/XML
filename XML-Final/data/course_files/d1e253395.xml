@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88209" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>167</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>To Boldly Go: Science, Exploration, and Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 12-2</meeting_text>
+<faculty_text>Matthew Shindell</faculty_text>
+<description>This course offers a history of exploration in science and science in exploration from the 16th century to the present - roughly from Columbus to the Mars rovers. We will approach exploration not as an abstract concept, but as a human enterprise that grows out of, reinforces, and occasionally confronts elements of culture. In addition to examining the voyages of exploration conducted during the periods of European expansion, the Enlightenment, the 19th century and 20th centuries, and the Space Age, we will also study exploration as depicted in popular culture, fiction, television, and film.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0fd85bf7487764f4ccbe235a86c6a59f">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Benjamin</middle>
+<last>Shindell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

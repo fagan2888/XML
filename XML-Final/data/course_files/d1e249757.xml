@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80845" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>286</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Modern Japanese Art</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Melissa M. McCormick</faculty_text>
+<description>This seminar examines art in Japan from the mid nineteenth century to the present, focusing on the visual arts, performance art, commercial design, and new media. Topics to be addressed include the reception of European beaux-arts institutions and artistic practices, international expositions, the role of art in the formation of the nation-state, the rise of the avant-garde, art and mass culture, and Japanese exhibition culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d24ba923e798e10e1696207b2b691c1">
+<name>
+<prefix/>
+<first>Melissa</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2422" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>214</num_int>
+</course_number>
+<title>Biology of Acoustic Communities</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 11:30-1</meeting_text>
+<faculty_text>Brian D. Farrell</faculty_text>
+<description>Four principal animal groups (insects, frogs, birds and mammals) sing and call in habitats around the world. We discuss the ecology, evolution and characteristics of such acoustic communities and the hypothesis that their members compete for "bandwidth". We discuss readings on acoustic ecology and evolution, and listen to (and watch, via spectrum analysis) soundscapes from selected tropical and temperate habitats. The capstone will be a fieldtrip to record natural soundscapes.</description>
+<prerequisites>OEB 10 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F61b660470f55e4527791e262c1d2da69">
+<name>
+<prefix/>
+<first>Brian</first>
+<middle>D.</middle>
+<last>Farrell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

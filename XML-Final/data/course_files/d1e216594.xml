@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40477" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1372</num_int>
+</course_number>
+<title>Political Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Ryan Enos</faculty_text>
+<description>This course examines the psychological mechanisms behind political behaviors and institutions. Topics covered will include voting behavior, campaigns and media, partisanship, political violence, and racial attitudes. For these and other topics we will not only ask what happens but examine how human psychology makes it happen.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5b9d4934bb2a0c05d49e21440b97ad6c">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>D.</middle>
+<last>Enos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

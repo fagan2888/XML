@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56141" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>289</num_int>
+</course_number>
+<title>Elegy: The Art of Losing</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Stephanie Sandler</faculty_text>
+<description>Poems, films, visual artifacts, and music alongside theories of loss. Focuses on non-narrative forms, with examples from Pushkin, Baratynsky, Fet, Brodsky, Shvarts; Tarkovsky, Shemiakin, Sokurov; Silvestrov, Sebald.</description>
+<prerequisites>Reading knowledge of Russian.</prerequisites>
+<notes>Open to qualified undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

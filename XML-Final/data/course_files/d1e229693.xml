@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84441" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1281</num_int>
+</course_number>
+<title>The End of Communism</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Terry D. Martin</faculty_text>
+<description>Examines how and why communism collapsed in the Soviet Union and Eastern Europe. Places the events of 1989/1991, usually considered sudden and shocking, within the political, economic, social, and cultural context of the surrounding decades (1970-2000). Considers both international and domestic factors, including the Cold War and the arms race; ideology and dissent; consumption and culture; oil, economics and the environment; nationalism and civil war; gender and health. Investigates the role of structural conditions and contingency in history.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7a060e1d1ba5ede7e6ccae3e183906a">
+<name>
+<prefix/>
+<first>Terry</first>
+<middle/>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

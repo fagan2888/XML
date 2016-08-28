@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90682" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1648</num_int>
+</course_number>
+<title>Latin@s Remaking America: Immigration, Culture and Language</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>75</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>David L. Carrasco (Divinity School and FAS) and Maria Luisa Parra-Velasco</faculty_text>
+<description>An introduction to the multiple ways the Latino diaspora is challenging and contributing to the revitalization of the cultural, religious and democratic processes in the United States. Special focus on migration histories to and from Latin America, cultural exchange and social practices in families, citizenship, the arts and religious traditions. Attention to the robust debates about immigration reform, ethnic identity, Dreamers, education, bilingualism, and American cultures as cores and borderlands.</description>
+<prerequisites/>
+<notes>Sections offered in English and Spanish, based on course enrollment. This course, when taken for a letter grade, may count as a related field in the Romance Languages and Literatures concentration (Spanish or Latin American Studies tracks) or Secondary Field in Spanish. Offered jointly in Harvard Divinity School as HDS 3164.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3c83ccd0120f2715a22ecff5ee871f82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Carrasco</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0897c041f2b686516565ada9416945ee">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Luisa</middle>
+<last>Parra-Velasco</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

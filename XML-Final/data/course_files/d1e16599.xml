@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84175" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1658</num_int>
+</course_number>
+<title>Law, Culture, and Islam</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11-12:30, and weekly section to be arranged</meeting_text>
+<faculty_text>Asad A. Ahmed</faculty_text>
+<description>From Afghanistan, through the Middle-East and to the United States, the Shari'a has become a site of intense conflict and controversy. Regarded as backward and barbaric by some and a source of ethical and religious life by others it marks deep divides and seemingly incommensurable world views. This course examines the Shari'a, primarily understood as law through an anthropological lens in recent and contemporary life. It will attend to the conjunctures, imaginaries and practices between ' law', culture and morality initially in the Muslim world before shifting to debates on incorporating Sharia law in the West.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F68a2d8e35b2521d0c3d4b2d2434465c6">
+<name>
+<prefix/>
+<first>Asad</first>
+<middle>A.</middle>
+<last>Ahmed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1230"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 416" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

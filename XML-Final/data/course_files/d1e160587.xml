@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39891" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.043</num_char>
+</course_number>
+<title>Why Shakespeare?</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeffrey Wilson</faculty_text>
+<description>We will first examine what Hamlet and Romeo and Juliet can tell us about how individuals-in particular Shakespeare himself-actively invent and renegotiate their identities within the confines of a given culture. In the third unit we will look at Tom Stoppard's Rosencrantz and Guildenstern Are Dead (1966) and Shakespeare in Love in order to assess the extent to which we rely on the re-invention of Shakespeare's works for our own cultural identity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc080d115a09846bd40f35b073033dfdd">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>Robert</middle>
+<last>Wilson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

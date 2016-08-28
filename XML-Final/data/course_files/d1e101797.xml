@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82759" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2415</num_int>
+</course_number>
+<title>Seminar on Macroeconomic Policy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2:30-4</meeting_text>
+<faculty_text>Benjamin M. Friedman and Martin Feldstein</faculty_text>
+<description>This new seminar will feature presentations on current macroeconomic policy issues by Economics Department faculty and invited outsider speakers. Specific topics will include (among others) Federal Reserve policy, increasing employment, raising the U.S. growth rate, Europe's economic problems, housing and the mortgage market. Graduate students taking the course for credit will be expected to write a research paper related to any one of the issues covered during the semester. Students not taking the course for credit are welcome to participate in each week's discussion.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F637b5514aa6b7ad65e075a1516fce531">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle>M.</middle>
+<last>Friedman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fcbdbd4fb4281b19b89852fbc0d4c7025">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>S.</middle>
+<last>Feldstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

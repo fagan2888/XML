@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33991" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1551</num_int>
+</course_number>
+<title>Journeys</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Leila N. Ahmed (Divinity School)</faculty_text>
+<description>A growing number of books have appeared recently recounting personal journeys of faith &amp;#151 faith searched for, wrestled with, lost, found, abandoned, affirmed, re-imagined, understood in new ways &amp;#151 or any combination of these. We will read contemporary works in this genre exploring, among others, themes of religion, gender and identity. Our readings will include Sarah Sentilles, Breaking Up with God, Joanna Brooks, The Book of Mormon Girl, Sheila Weinberg, Surprisingly Happy, Tariq Ramadan, What I Believe, Chris Stedman, Faithiest, Colleen Carroll Campbell, My Sisters the Saints, and Lauren Winner, Still: Notes on a Mid-Faith Crisis.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3107.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3a0b7c1827e5efebc50f0c8afb5cd563">
+<name>
+<prefix/>
+<first>Leila</first>
+<middle/>
+<last>Ahmed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52703" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>German Comedy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Lisa Parkes</faculty_text>
+<description>What provokes laughter in German culture? This course explores the genre of comedy from the 18th century to the present through major dramatists, satirists, stand-up comedians, and recent comedic films in German-speaking Europe. Introduction to forms, techniques, and theories of comedy, as well as workshops on techniques of comic performance.</description>
+<prerequisites>German 61, 62, or permission of the instructor.</prerequisites>
+<notes>Conducted in German.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

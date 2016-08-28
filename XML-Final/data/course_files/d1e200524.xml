@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4164" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>43</num_int>
+</course_number>
+<title>Japan's Samurai Revolution</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 2, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Ian J. Miller (History) and David Howell (East Asian Languages and Civilizations)</faculty_text>
+<description>On July 8, 1853, Commodore Mathew C. Perry steamed into Japan's Edo Bay with four heavily armed US Navy warships. Two were the so-called "black ships," ominously painted coal-burning steamships of the latest design. There, within view of a stunned populace, Perry issued an ultimatum: open the country to trade or face unstoppable bombardment. Thus began Japan's modern engagement with the outside world, a new chapter in the broader encounter between "East" and "West." Through primary sources, discussion and lecture, this course examines Japan's rapid development from samurai-led feudalism into the world's first non-Western imperial power.</description>
+<prerequisites/>
+<notes>No Japanese language skills required. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3a26ce1518f6308b400349875c90cb15">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>Jared</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc9a33ec400b982c103b8704a4733d3a7">
+<name>
+<prefix/>
+<first>David</first>
+<middle>L</middle>
+<last>Howell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

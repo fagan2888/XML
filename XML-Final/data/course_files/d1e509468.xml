@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69391" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>178</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Nonfiction Today</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tuesdays 10am-12pm and a mandatory weekly film screening on Mondays 4pm to 6pm</meeting_text>
+<faculty_text>Dennis Lim</faculty_text>
+<description>This class will survey recent developments and contemporary tendencies in nonfiction film, in particular those that have led to a redefinition and reconsideration of the form. Topics include the role of digital technology, the status of the moving image in contemporary art, and the proliferation of documentary-fiction hybrid films.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F843e6c0daf399416622de9c6fb4f2322">
+<name>
+<prefix/>
+<first>Dennis</first>
+<middle/>
+<last>Lim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11415" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>The Mathematics of Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Michael Manish Desai</faculty_text>
+<description>The quantitative basis of evolutionary theory: models of natural selection, mutations, and genetic drift at a single locus; multilocus problems in evolutionary dynamics including topics such as Muller's ratchet, hitchhiking, quasi-linkage equilibrium and strong linkage approximations; evolution of recombination and mutation rates and other modifiers of evolvability; an introduction to genealogical approaches; inference in population genetics; evolution in structured populations; and interactions between ecology, epidemiology, and evolution.</description>
+<prerequisites>Mathematics through calculus and familiarity with differential equations and probability.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fed7488796700d446724211885228f8a4">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>M</middle>
+<last>Desai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

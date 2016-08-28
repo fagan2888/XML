@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5085" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>17</num_int>
+</course_number>
+<title>Principles of Organic Chemistry</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30 - 4:00 pm (*Friday - optional lecture); and a weekly, ninety-minute section to be arranged</meeting_text>
+<faculty_text>Eric N. Jacobsen</faculty_text>
+<description>An introduction to organic chemistry, with an emphasis on structure and bonding, reaction mechanisms, and chemical reactivity.</description>
+<prerequisites>Open to freshmen with a score of 750 or higher in the College Boards or the Chemistry Placement Examination; to students who scored 4 or 5 on the Chemistry Advanced Placement Examination; and to students who achieved a grade of B or higher in either Physical Sciences 1, 10, 11, or another college-level introductory chemistry course. Others may enter only by permission of the instructor.</prerequisites>
+<notes>The Chemistry 17/27 sequence is intended primarily for students in the life sciences, who have completed LS1a and one of the PS courses (PS1, PS10, PS11). The Chemistry 20/30 sequence is intended primarily for students planning a concentration in Chemistry or the physical sciences. Either sequence satisfies the organic chemistry requirement for medical school. Students may not count both Chemistry 17 and Chemistry 20 for degree credit. On the other hand, Chemistry 27 and Chemistry 30 cover different material, so students may choose to take both courses for degree credit; students should ordinarily take the third half course only after completing either the 17/27 or 20/30 sequence.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9726b7dc2454aadb1d8243ac0cbfb81a">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>N.</middle>
+<last>Jacobsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+</requirements>
+</course></courses>

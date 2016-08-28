@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14022" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>55</num_int>
+</course_number>
+<title>The Enlightenment</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>James Engell (English; Comparative Literature)</faculty_text>
+<description>The Enlightenment creates modern ideas of the self, a just society, and reformed institutions. The course explores six interrelated developments: (1) taking nothing on authority, a spirit of critique examines knowledge, religion, and government; (2) the spread of general knowledge to populations of increasing literacy; (3) debates about human nature-naturally selfish or sympathetic, altered by race or gender, innate or learned? (4) new institutions for equity and justice, even using violent revolution; (5) efforts supporting abolition, women's rights, and religious toleration; (6) self-consciousness in philosophy, art, and psychology. Thinkers include Pope, Montesquieu, Voltaire, Diderot, Johnson, Rousseau, Burke, Lessing, Gibbon, Smith, Kant, Burney, and Wollstonecraft.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F04e26e5745cc926d59c1ed8a45ff9efc">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Engell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71575" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>213</num_int>
+</course_number>
+<title>Music and the Musical Imaginary in Archaic and Classical Greece</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Naomi A. Weiss</faculty_text>
+<description>For the Greeks, "music" (mousike) encompassed song, instrumental performance, and dance, all of which pervaded their social, religious, economic, and personal lives. This seminar will be an ethnomusicological exploration of the different types of mousike within archaic and classical Greek society&amp;#8212;not only their styles of performance, but also their conceptualizations as cultural practices. Although we lack recordings of live music and dance from this period, we do have an abundance of textual commentary on mousike as well as visual images of performance and instruments on Greek vases. The focus of the course will be the Greek musical imaginary, as we investigate how representations of mousike in Greek literature, philosophy, and art are linked with ideas about social structure, gender, ethnicity, education, the cosmos, and the self.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73b4e209ff195e0bac9cbaff549f27ee">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle>A</middle>
+<last>Weiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

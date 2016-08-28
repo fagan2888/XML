@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59755" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>The Origins and Evolution of Cognition: A Comparative Study of Human and Nonhuman Abilities</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Irene Pepperberg and Guven Guzeldere</faculty_text>
+<description>Most scientists agree cognition is widespread in nature and involves an organism processing information to solve problems (like avoiding predators, finding prey, attracting a mate, achieving shelter), and in humans higher-level reasoning and conceptualizing. Less clear are the origins and evolutionary basis of cognition-what evolutionary pressures were exerted that selected for such processing? Explores possible ways to answer this question with research in anthropology, neurobiology, philosophy, psychology, genetics, sociality, and other disciplines. Faculty from a variety of departments attend discussions in their areas of expertise and assist students in coming to their own conclusions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60ff6714daedb602e4bbcf8dfcab2f6c">
+<name>
+<prefix/>
+<first>Irene</first>
+<middle>M</middle>
+<last>Pepperberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4a922861f4a830f7b94377ed5a1da0cd">
+<name>
+<prefix/>
+<first>Guven</first>
+<middle/>
+<last>Guzeldere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

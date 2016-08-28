@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33084" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>287</num_int>
+</course_number>
+<title>Cinema and Nation</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4, with a weekly film screening F., 2-5.</meeting_text>
+<faculty_text>Eric Rentschler</faculty_text>
+<description>This course addresses the role of modern media in the formation of local and global identities. In that endeavor we will consider exemplary films from a number of nations as well as pertinent historical and theoretical texts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

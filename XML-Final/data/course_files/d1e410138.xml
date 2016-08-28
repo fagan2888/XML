@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76843" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Growing Up and Growing Old: Cognitive Changes in Childhood and Aging</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 6-8 p.m.</meeting_text>
+<faculty_text>Mahzarin R. Banaji and members of the Department</faculty_text>
+<description>This seminar will focus on the profound cognitive changes of early childhood and old age. We will be especially interested in what such changes tell us about how the adult mind -- perched between childhood and old age -- is organized. Topics include: theories of development and theories of aging, changes in the neural substrate; the rise and fall of executive functions; conceptual gain and conceptual loss; expertise and wisdom; healthy aging and dementias.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

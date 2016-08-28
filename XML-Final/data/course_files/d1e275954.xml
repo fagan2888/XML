@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3996" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Teaching Undergraduate Mathematics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Become an effective instructor. This course focuses on observation, practice, feedback, and reflection providing insight into teaching and learning. Involves iterated videotaped micro-teaching sessions, accompanied by individual consultations. Required of all mathematics graduate students.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F8835284534ce1a7597eaf23ed043084e">
+<name>
+<prefix/>
+<first>Jameel</first>
+<middle>Habeeb</middle>
+<last>Al-Aidroos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

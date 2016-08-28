@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77064" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>39</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>American Painting After the Civil War: John Singer Sargent,</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Theodore E. Stebbins</faculty_text>
+<description>This seminar will introduce students to the art of America's "Gilded Age," with emphasis on some of its greatest masters including the international portraitist John Singer Sargent, the painter of the sea, Winslow Homer, and the Philadelphia realist, Thomas Eakins. Their work will be examined in the context of their period, a time noted both for the nation's economic growth and the fortunes that were built, and for its corruption and social tensions. We will make regular use of the outstanding collections at Harvard's Fogg Museum and Boston's Museum of Fine Arts, and will examine the many ways that paintings may be interpreted and understood.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F827b16116c9605c3821edc234908cbe9">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle/>
+<last>Stebbins</last>
+<suffix>Jr.</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

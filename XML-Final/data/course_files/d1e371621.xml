@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2206" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="PERSIAN">Persian</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Intermediate Persian I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through F., at 11</meeting_text>
+<faculty_text>Nicholas Boylston</faculty_text>
+<description>A thorough review and continuation of modern Persian grammar with an emphasis on reading, writing, speaking, and listening comprehension. Includes an introduction to classical prosody. Course materials draw from both classical and modern poetry and prose.</description>
+<prerequisites>Persian A or the equivalent.</prerequisites>
+<notes>Not open to auditors. Cannot be taken pass/fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6472aca46b15a82aa9314ac4f4abfb1d">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>John</middle>
+<last>Boylston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Grays Hall" room="2" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

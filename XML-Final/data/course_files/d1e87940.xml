@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7923" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>970</num_int>
+</course_number>
+<title>Tutorial - Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anne Nathalie LeBrun</faculty_text>
+<description>A series of seminars taught in small sections focusing on applications of economic theory to real problems.</description>
+<prerequisites>Economics 10a and 10b (or equivalent); Statistics 100, 104, or 110; and Economics 1010a1, 1010a2, or 1011a.</prerequisites>
+<notes>One term required of all Economics concentrators. Enrollment limited to concentrators. Has an introductory meeting. Meets in assigned section thereafter.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3c5d7d2138fd7d6d770987d2c8300089">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>N.</middle>
+<last>Le Brun</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3c5d7d2138fd7d6d770987d2c8300089">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>N.</middle>
+<last>Le Brun</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

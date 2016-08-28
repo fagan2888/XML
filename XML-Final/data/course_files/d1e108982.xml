@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4648" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Thesis Research</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael P. Brenner and Margo S. Levine</faculty_text>
+<description>Provides an opportunity for students to engage in preparatory research and the writing of a senior thesis. Graded on a SAT/UNS basis as recommended by the thesis supervisor. The thesis is evaluated by the supervisor and by two additional readers.</description>
+<prerequisites/>
+<notes>May be taken as a half course in either term; normally may not be taken for more than two terms. The Director of Undergraduate Studies will sign the student's study card once a faculty member has agreed in writing to supervise preparation of the thesis, and reaffirmed this agreement if the course is to be repeated. Applications may be obtained at Pierce Hall 110. Students should consult their advisers and concentration literature for further information and guidance.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fba3ab5e9470559c1f77068a9e872c75b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>P.</middle>
+<last>Brenner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb103006542cd115cb57c63b2b9af2694">
+<name>
+<prefix>Dr</prefix>
+<first>Margo</first>
+<middle>S</middle>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fba3ab5e9470559c1f77068a9e872c75b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>P.</middle>
+<last>Brenner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb103006542cd115cb57c63b2b9af2694">
+<name>
+<prefix>Dr</prefix>
+<first>Margo</first>
+<middle>S</middle>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48543" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1025</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Museum Anthropology, Thinking with Objects: Kayaks: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2:30-4:30</meeting_text>
+<faculty_text>Patricia Capone</faculty_text>
+<description>By considering early Peabody Museum kayak collections from Alaska, students will explore the history of anthropology and museum collecting, representation of indigenous people in museum display, and modern stewardship of museum collections. Students will take part in a conservation and exhibition consultation project between the Peabody Museum and Alaska Native consultants. Students will utilize knowledge gained from the consultations, readings, and demonstrations to contribute to synthesize and further the modern conservation and exhibition of kayaks and co-development of knowledge related to Peabody Museum collections.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbfd6341f70c20885da8647380f38856d">
+<name>
+<prefix/>
+<first>Patricia</first>
+<middle/>
+<last>Capone</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

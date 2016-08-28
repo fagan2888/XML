@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1058" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>281</num_int>
+</course_number>
+<title>Literature, Film, and Visual Arts in Russia, 1920-1930</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym</faculty_text>
+<description>Examines poetry, prose and visual arts together with cultural theory. Explores issues of innovation and cultural memory, art and politics, bilingualism and exile. Works by Mayakovsky, Malevich, Mandelshtam, Tsvetaeva, Babel, Shklovsky, Nabokov, Vertov, and Eisenstein.</description>
+<prerequisites>Reading knowledge of Russian or with the permission of the instructor.</prerequisites>
+<notes>Texts are available in English and Russian. Open to qualified undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82095" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>34</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>A Dialogue between Old and New Theories of the Origin of Language</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Markus Wilczek</faculty_text>
+<description>The question of the origin of language constituted one of the major philosophical problems in the eighteenth century-only to be all but given up around 1820 as inexplicable. Today it is once again being raised as an issue in linguistics, neuroscience, paleoanthropology and behavioral biology. The aim of this course is to consider the differences and convergences in the explanations offered and methodologies employed in the efforts to discover the origin of language, from Ancient Greek philosophy to modern science. In this way, the seminar strives to initiate a dialogue between 'old' and 'new' perspectives, and to thus bridge the gap between the 'sciences' and the 'humanities.'</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0d3b22ac3e06368e61a35231dc76cff1">
+<name>
+<prefix/>
+<first>Markus</first>
+<middle/>
+<last>Wilczek</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

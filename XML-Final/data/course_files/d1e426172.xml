@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63702" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>127</num_int>
+</course_number>
+<title>Talking About Food</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu. 1-3, and one hour to be arranged</meeting_text>
+<faculty_text>Janet Beizer</faculty_text>
+<description>In the 19th century food became an object of aesthetic discourse, a focus of gustatory enjoyment and verbal pleasure. Readings include 19th-century food writers and novelists, and contemporary historians, commentators, and theorists.</description>
+<prerequisites/>
+<notes>Excellent reading knowledge of French required; class discussions in English or French, to be decided.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8a5c0427496442fd9ebecde474ce1896">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle>L.</middle>
+<last>Beizer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="403" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82663" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1042</num_int>
+</course_number>
+<title>Religious Tourism</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Aisha Mahina Beliso-De Jesus (Divinity School)</faculty_text>
+<description>This seminar will explore the relationship between "religion" and "tourisms. "We will examine theories of "the tour" and the production of touristic moments in relation to contemporary modernist movements and subjectivities including cosmopolitanisms, emigration, travelogues and the notion of "the tourist." This engagement will juxtapose conceptions of "religion" encompassed broadly within ritual, spiritual, diasporic and esoteric practices-as-tours. We will read ethnographies of religious tourisms in different trans-local sites, exploring the engagement with issues of commodification and religion, religion and the state, religion and nationalisms, and the inciting of touristic desires.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 3105.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcc524482c79a6d31d161cbf9ef59742b">
+<name>
+<prefix/>
+<first>Aisha</first>
+<middle>Mahina</middle>
+<last>Beliso-De Jesus</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

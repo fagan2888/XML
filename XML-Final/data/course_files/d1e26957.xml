@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72213" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>185</num_int>
+</course_number>
+<title>Orders of Magnitude</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course offers an introduction to order-of-magnitude estimation, as applied to astrophysical systems. Emphasis will be placed on research triage---how to decide which theoretical and observational ideas merit in depth exploration. Example topics include diffusion and viscosity; material properties; gas drag; collisional dynamics; radiative and non-radiative cooling mechanisms; the structure of astrophysical disks; and turbulence.</description>
+<prerequisites/>
+<notes>Notes: This course is open to undergraduates, but familiarity with a broad range of physical topics at the level of incoming graduate students will be assumed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

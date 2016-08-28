@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8204" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>285</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Modern Atomic and Optical Physics I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M.,W., 12-1:30</meeting_text>
+<faculty_text>Gerald Gabrielse</faculty_text>
+<description>Introduction to modern atomic physics. The fundamental concepts and modern experimental techniques will be introduced. Topics will include two-state systems, magnetic resonance, interaction of radiation with atoms, transition probabilities, spontaneous and stimulated emission, dressed atoms, trapping, laser cooling of "two-level" atoms, structure of simple atoms, fundamental symmetries, two-photon excitation, light scattering and selected experiments. The first of a two-term subject sequence that provides the foundations for contemporary research.</description>
+<prerequisites>One course in quantum mechanics (143a and b, or equivalent).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F88da9bcaf4b43bff3548ced1f6e9e45a">
+<name>
+<prefix/>
+<first>Gerald</first>
+<middle/>
+<last>Gabrielse</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1330"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="356" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

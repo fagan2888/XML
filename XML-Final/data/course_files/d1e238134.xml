@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72066" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2469</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Multimedia History and Literature: New Directions in Scholarly Design: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Vincent Brown and Glenda R. Carpio</faculty_text>
+<description>Associated with the Warren Center visiting scholars' workshop on the same topic, this research seminar explores new models for the design and presentation of historical and literary scholarship.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7f33beb298dd9d02b954c82d48aa3bfd">
+<name>
+<prefix/>
+<first>Vincent</first>
+<middle/>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2573af4905b8b108f21ba8a6bbb3391e">
+<name>
+<prefix/>
+<first>Glenda</first>
+<middle/>
+<last>Carpio</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F7f33beb298dd9d02b954c82d48aa3bfd">
+<name>
+<prefix/>
+<first>Vincent</first>
+<middle/>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2573af4905b8b108f21ba8a6bbb3391e">
+<name>
+<prefix/>
+<first>Glenda</first>
+<middle/>
+<last>Carpio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="Warren Ctr Seminar Rm (Basement Seminar Rm)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

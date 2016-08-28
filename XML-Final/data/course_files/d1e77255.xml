@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6509" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>The Uses and Meaning of the New Arts of Presentation</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Shigehisa Kuriyama</faculty_text>
+<description>Exploration of the new horizons of communication created by current media technology and their implications for the future of teaching and scholarship. The seminar will combine theoretical readings and reflection with practical, hands-on experiments using podcasts, media-intensive lectures, and iMovies for conveying academic research.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdbe48e9d70a571fdece50053a0d056e0">
+<name>
+<prefix/>
+<first>Shigehisa</first>
+<middle/>
+<last>Kuriyama</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

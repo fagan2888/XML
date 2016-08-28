@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30424" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>209</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Curation, Conservation and Programming</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eric Rentschler</faculty_text>
+<description>For research and independent projects in the archives, collections, and exhibitions of the Carpenter Center for the Visual Arts, the Harvard Film Archive, or the Harvard Museums and other campus arts institutions. Open only by petition to the Department; petitions should be presented during the term preceding enrollment, and must be signed by the instructor or staff member with whom the project is to be done.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

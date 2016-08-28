@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15067" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>223</num_int>
+</course_number>
+<title>American Society and Public Policy: Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Theda Skocpol and Mary C. Waters</faculty_text>
+<description>Explores growing inequality in the U.S., and its implications for public policy in the areas of social support for families and workers, immigration and citizenship, and access to higher education. Students are expected to develop and present their own research.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62b9f8bb02cc1342740662892fcede11">
+<name>
+<prefix/>
+<first>Theda</first>
+<middle>R</middle>
+<last>Skocpol</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F8654db23f652f8ddd0548ef88e289f04">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>C.</middle>
+<last>Waters</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

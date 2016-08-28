@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67397" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>233</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Innovating in Health Care</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>See HBS course schedule for course meeting day/times and location</meeting_text>
+<faculty_text>Regina E. Herzlinger (Business School) and Margo I. Seltzer</faculty_text>
+<description>This course helps students to create successful entrepreneurial health care ventures by enabling them to: 1) Identify the alignment between an entrepreneurial health care venture and the six forces that shape health care - structure, financing, technology, consumers, accountability, and public policy; and 2) Create a product and business model that responds appropriately to any misalignments. The course covers four modules: The analytic framework, case studies of the six forces, case studies of firms responses to the forces, and student presentation of business plans.</description>
+<prerequisites/>
+<notes>Must be taken concurrently with ES233b. Offered jointly with the Business School as 6340.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62cc227ec8a6edb2b65e55893b26a51d">
+<name>
+<prefix/>
+<first>Regina</first>
+<middle>E.</middle>
+<last>Herzlinger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F69e7709bfa572dad6549b62e71dde145">
+<name>
+<prefix/>
+<first>Margo</first>
+<middle>I.</middle>
+<last>Seltzer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

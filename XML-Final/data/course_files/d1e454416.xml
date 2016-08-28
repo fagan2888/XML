@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29895" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>145</num_int>
+</course_number>
+<title>Student Experience in Global Perspective</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Manja Klemencic</faculty_text>
+<description>Explores key concepts in sociology of higher education through study of student experience, the effects of college on students, and student engagement in social change - focusing on different parts of the world. This course has a strong empirical component: student research projects will involve qualitative or quantitative methods of social analysis to investigate research questions related to student experience (through fieldwork on Harvard campus or outside of it).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F22cbe80ed7767261d1c601c0106c1b39">
+<name>
+<prefix/>
+<first>Manja</first>
+<middle/>
+<last>Klemencic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

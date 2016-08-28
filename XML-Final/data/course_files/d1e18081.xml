@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1686" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1850</num_int>
+</course_number>
+<title>Ethnography as Practice and Genre</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Mary M. Steedly</faculty_text>
+<description>For sociocultural anthropologists, ethnography is both a way of studying human communities and a way of writing about them. Ethnographic fieldwork raises issues of participation, power, and perspective; cultural relativism; the nature of evidence; and the ethics of engagement. Writing ethnography highlights other issues, such as the politics of representing "others." This course explores these and related issues through close reading and intensive discussion of selected texts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdfa10e30eb866665b83ceb2a35613f80">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>M.</middle>
+<last>Steedly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

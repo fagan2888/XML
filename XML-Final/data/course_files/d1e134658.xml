@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8997" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>Introduction to Probability with Engineering Applications</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Yue Lu</faculty_text>
+<description>This course introduces students to probability theory and statistics, and their applications to physical, biological and information systems. Topics include: random variables, distributions and densities, conditional expectations, Bayes' rules, laws of large numbers, central limit theorems, Markov chains, Bayesian statistical inferences and parameter estimations. The goal of this course is to prepare students with adequate knowledge of probability theory and statistical methods, which will be useful in the study of several advanced undergraduate/graduate courses and in formulating and solving practical engineering problems.</description>
+<prerequisites>Mathematics 21a or Applied Mathematics 21a, and Mathematics 21b or Applied Mathematics 21b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6533e5de560d9ed75c09872d892481f6">
+<name>
+<prefix/>
+<first>Yue</first>
+<middle/>
+<last>Lu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4068" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>55</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Honors Abstract Algebra</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Dennis Gaitsgory</faculty_text>
+<description>A rigorous treatment of abstract algebra including linear algebra and group theory.</description>
+<prerequisites/>
+<notes>Mathematics 55a is an intensive course for students having significant experience with abstract mathematics. Instructor permission required. Every effort will be made to accommodate students uncertain of whether the course is appropriate for them; in particular, Mathematics 55a and 25a will be closely coordinated for the first three weeks of instruction. Students can switch between the two courses during the first three weeks without penalty. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffb653ee20d661589495e62c335eaa13a">
+<name>
+<prefix/>
+<first>Dennis</first>
+<middle/>
+<last>Gaitsgory</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="101B" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

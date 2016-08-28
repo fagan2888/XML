@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8241" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>192</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Religion and Society in Nigeria</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Jacob Olupona</faculty_text>
+<description>The seminar examines the historical development of religion in Nigeria and explores its intersection with ethnic identity, culture, and society in pre-colonial, colonial, and contemporary periods. The course provides an understanding of various cultural tradition, historical events, and social forces that have shaped Nigeria's religious express. Many topical issues will be explored such as indigenous religious culture, Christian and Muslim identities, civil religion, and civil society and democratization, as well as religion and politics in present-day Nigeria.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3704.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F67ada1528672ca0b575f45e4f43615ff">
+<name>
+<prefix/>
+<first>Jacob</first>
+<middle/>
+<last>Olupona</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

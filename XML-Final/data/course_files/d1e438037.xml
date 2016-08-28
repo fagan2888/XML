@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11542" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>Filming the Text</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Luis Fernandez-Cifuentes</faculty_text>
+<description>We will explore the complex process that takes place when certain literary texts (novels like Unamuno's La tia Tula; short stories like Aldecoa's Los pajaros de Badem-Badem or Garcia Morales's El Sur; and, especially, plays like Garcia Lorca's Bodas de sangre or Valle-Inclan's Divinas palabras) are transformed into films by such prominent directors as Luis Bunuel, Juan Antonio Bardem, Carlos Saura, and Mario Camus.</description>
+<prerequisites>Previous coursework in Spanish at the 90- or 100-level; or the permission of the course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fabe6beb17d40e8c77a35321744b703e1">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle/>
+<last>Fernandez Cifuentes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

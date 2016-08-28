@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14325" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1936</num_int>
+</course_number>
+<title>Keynes</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 4&amp;#8211;6</meeting_text>
+<faculty_text>Stephen A. Marglin</faculty_text>
+<description>This course explores the birth, death, and resurrection of The General Theory of Employment, Interest and Money from the Great Depression (1929-1939) to the Great Recession (2008-?). A major goal is to lay out a coherent argument that, for all its theoretical innovation, The General Theory did not deliver: the argument why a market system, even an idealized system with all of the warts removed, may fail to provide jobs for willing workers. In the process we will examine the orthodoxy that Keynes attacked and that resurfaced in the 1960s and 70s; the key concepts underlying the models implicit in The General Theory; and the attempts of the Keynesian mainstream to make peace with both Keynes and orthodoxy. We will also explore the applicability of The General Theory to the long run. A final section will view the present economic difficulties through a Keynesian lens.</description>
+<prerequisites>Economics 1010b or 1011b, or permission of instructor; a year of college calculus allowing students to understand mathematical notation and concepts (derivatives, maximization, etc.) even though mathematics will be used very sparingly.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd8b219dd3ccb270f67773b2798db2053">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Marglin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

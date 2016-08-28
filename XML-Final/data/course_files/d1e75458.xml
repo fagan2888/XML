@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77551" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>The Three Kingdoms: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Xiaofei Tian</faculty_text>
+<description>This course focuses on the literature of the Three Kingdoms period and on the Three Kingdoms imaginary constructed from the fourth century until today. All primary readings in Literary Chinese.</description>
+<prerequisites>Prerequisite: At least one year of Literary Chinese or equivalent; some familiarity with early vernacular Chinese is welcome but not essential.</prerequisites>
+<notes>There is an enormous amount of TK material, textual and visual, from premodern to modern period. The content of the course therefore can be modified each time it is taught, using different kinds of material depending on its focus in a given term.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="213" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

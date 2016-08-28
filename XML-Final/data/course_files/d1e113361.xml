@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91399" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>274</num_int>
+</course_number>
+<title>Computational Modeling of Fluids and Soft Matter</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4:30</meeting_text>
+<faculty_text>Sauro Succi</faculty_text>
+<description>The course will describe major computational techniques for fluid flows, as described by the Navier-Stokes equations of continuum mechanics. In addition, the course will cover a new class of mesoscale techniques for complex flows and soft matter systems, which do not fit within the continuum Navier-Stokes description. The latter encompass a broad class of flowing materials of special interest to micro-nano engineering and biology.</description>
+<prerequisites>Basic notions of numerical analysis and scientific computing.</prerequisites>
+<notes>Applied Physics 274 is also offered as Applied Computation 274. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F88b92898aafd4ff264b2f850d5f528ca">
+<name>
+<prefix/>
+<first>Sauro</first>
+<middle/>
+<last>Succi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1630"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="221" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

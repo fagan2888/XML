@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="YORUBA">Yoruba</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Yoruba</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>John M. Mugane</faculty_text>
+<description>Yoruba is spoken in the West African countries of Nigeria, Benin Republic, and parts of Togo and Sierra Leone, therefore constituting one of the largest single languages in sub-Saharan Africa. Yoruba is also spoken in Cuba and Brazil. Students will acquire the Yoruba language at the basic or elementary level.</description>
+<prerequisites/>
+<notes>Primarily designed for students who have no prior knowledge of Yoruba. However, students with minimal knowledge of the language may also register for the course. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8991604883a4ca2601298f8ea013b389">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Mugane</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8991604883a4ca2601298f8ea013b389">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Mugane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

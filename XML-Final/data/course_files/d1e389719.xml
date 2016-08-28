@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2512" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>The Rationalists</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeffrey K. McDonough</faculty_text>
+<description>The Early Modern Era was dominated by two broad philosophical traditions: British Empiricism and Continental Rationalism. This course examines the development of Continental Rationalism through the works of its three most important proponents, Rene Descartes, Baruch Spinoza, and G.W. Leibniz. Focusing on their contributions to metaphysics and epistemology, specific topics will include rationalist treatments of philosophical method, skepticism, knowledge, the nature of substance, mind-body relations, and the metaphysical foundations of science. Attention to how the Rationalists reacted to the medieval tradition and their Empiricists rivals, and set the stage for Kant's "Copernican Revolution."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F25857a432afc38d32abf45843107be01">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>K.</middle>
+<last>McDonough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

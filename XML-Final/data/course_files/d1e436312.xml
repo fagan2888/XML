@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99782" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>80</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Words of Which History is Made: Translation Workshop on 20th-Century Spain</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Daniel Aguirre Oteiza</faculty_text>
+<description>Through close readings and translations centering on 20th-century Spanish history and society, students hone their linguistic, grammatical, and stylistic skills, and acquire the interpretive skills required to comprehend and analyze increasingly complex literary and cultural texts. Course materials include short stories, poems, newspaper articles, memoirs, travel journals and historical essays.</description>
+<prerequisites>A score between 751 and 780 on the SAT II test or on the Harvard Placement test, a Spanish 50-level course, or permission of course head.</prerequisites>
+<notes>Conducted in Spanish. Recommended for concentrators. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60. Interested students should contact Dr. Daniel Aguirre Oteiza no later than August 26, 2013.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3f0d2617a9d9596480241185013c2acc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Aguirre-Oteiza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

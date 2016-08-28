@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8935" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>116</num_int>
+</course_number>
+<title>Autobiography and Memoir: Remembering the Self</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Jamaica Kincaid</faculty_text>
+<description>Close readings of classic autobiographies: Fredrick Douglas, Booker T. Washington, Thomas Jefferson, Henry Adams, Elizabeth Keckley; and contemporary memoirs by Ta Nahesi Coates, Hilton Als among others. A weekly critical paper is required; the final paper is a creative one, a short memoir.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F92cee8ab66af07e524d85d3f4eea1db9">
+<name>
+<prefix/>
+<first>Jamaica</first>
+<middle/>
+<last>Kincaid</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

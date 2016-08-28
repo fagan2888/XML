@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78055" offered="Y" next_year_offered="2014">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="IRANIAN">Iranian</course_group>
+<course_number>
+<num_int>218</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Avestan Language and Literature II</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>P. Oktor Skjaervo</faculty_text>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F234e2856ad4bc206ead4a3c25f0ff2ed">
+<name>
+<prefix/>
+<first>P.</first>
+<middle>Oktor</middle>
+<last>Skjaervo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

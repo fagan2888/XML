@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79976" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2455</num_int>
+</course_number>
+<title>Aquinas: Incarnation, Narration, Sacrament</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4&amp;#8211;6 and an hour to be arranged.</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>At the center of the Summa of Theology, the reader finds a broad analysis of the motives and purposes of human action. But the analysis remains incomplete until Thomas takes up the incarnation, narrated life, and memorial sacraments of the Christ. Incarnation is the pedagogical principle that makes moral formation possible. It also justifies the teaching of Christian theology, not least in a summa. This course will read selected questions from Thomas's Summa. It will seek to understand the logic of divine teaching that explains God's choice to become incarnate, the events of Jesus's life, and the legacy of sacramental scenes of instruction. It will then ask how this logic was already at work in Thomas's description of moral life, perhaps especially in his treatments of the passions, the succession of laws, and vocation to a way of life.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2609.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

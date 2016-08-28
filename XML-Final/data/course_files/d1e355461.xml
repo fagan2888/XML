@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89653" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>230</num_int>
+<num_char>rs</num_char>
+</course_number>
+<title>Topics in Music Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Christopher Hasty</faculty_text>
+<description>Music and Language In this course we will explore commonalities and divergences of music and language and work toward productive ways of understanding sign/symbol, concepts and categories, meaning, discourse, rhetoric, and narrative through theories of music and language, old and new. We will consider "textless" and texted music, poetry and prose (including musicological writing) and relation of notation and performance in both music and language.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fccff6b646caf0249e792abaf7612f482">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle/>
+<last>Hasty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

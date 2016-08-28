@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4045" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>11</num_int>
+</course_number>
+<title>American Health Care Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 3:30-5, and a weekly section to be arranged</meeting_text>
+<faculty_text>Richard Frank (Harvard Medical School)</faculty_text>
+<description>Health care in America poses fundamental policy challenges to our ability to protect low income Americans from the costs of illness; to produce high quality care; to efficiently use health care resources, and to allow Americans to die without pain, in the company of family, as they desire. This course aims to offer students a solid understanding of the American health care system, the potential impact of new reform legislation, and challenges that will remain in the future.</description>
+<prerequisites/>
+<notes>Students who have taken General Education 186 or Extra-Departmental Courses 186 may not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F799899c42ba2678ebd0dbd49daa00c3f">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Frank</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1860" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>203</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Analysis of Longitudinal Data: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Alexandra Achen Killewald</faculty_text>
+<description>This course takes an applied approach to the analysis of longitudinal data. Lectures will provide an overview of a variety of techniques, including fixed effects models, multilevel models, and duration models. Students will develop their own empirical projects and receive support as they begin to work with longitudinal datasets.</description>
+<prerequisites/>
+<notes>Primarily for graduate students in sociology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F940e292b3ef3bd4741dc2c0306407109">
+<name>
+<prefix/>
+<first>Alexandra</first>
+<middle>Achen</middle>
+<last>Killewald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

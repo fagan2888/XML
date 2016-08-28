@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79363" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2250</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Proseminar in Archaeology</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Rowan K. Flad and Christian Alexander Tryon</faculty_text>
+<description>This graduate seminar reviews critical issues in archaeological approaches to small-scale societies, including methods and interpretations relating to the study of mobility, sedentism, seasonality, plant and animal exploitation, and migration.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a16a2de6b6120f4f3adb5a1e7d35dc0">
+<name>
+<prefix/>
+<first>Rowan</first>
+<middle>K.</middle>
+<last>Flad</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ffd043baeb07c6e397cf2549816223931">
+<name>
+<prefix/>
+<first>Christian</first>
+<middle>Alexander</middle>
+<last>Tryon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="57-E" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

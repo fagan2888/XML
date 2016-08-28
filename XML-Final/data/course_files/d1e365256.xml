@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6496" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="HEBREW">Hebrew</course_group>
+<course_number>
+<num_int>236</num_int>
+</course_number>
+<title>Song at the Sea: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>A close reading of Exodus 13:17-15:21 in the context of the Hebrew Bible together with its ancient Near Eastern background. Ample Hebrew readings in this block of material and parallel biblical texts.</description>
+<prerequisites>An introductory course in the critical study of the Hebrew Bible and a solid command of Hebrew grammar (any period).</prerequisites>
+<notes>Offered jointly with the Divinity School as 1816.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

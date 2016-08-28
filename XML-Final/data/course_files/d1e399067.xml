@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7647" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>271</num_int>
+</course_number>
+<title>Topics in the Physics of Quantum Information</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Mikhail D. Lukin</faculty_text>
+<description>Introduction to physics of quantum information, with emphasis on ideas and experiments ranging from quantum optics to condensed matter physics. Background and theoretical tools will be introduced. The format is a combination of lectures and class presentations.</description>
+<prerequisites>Quantum mechanics at the level of introductory graduate courses.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb14f8493bdbdb01b64b8b03ffbbc881">
+<name>
+<prefix/>
+<first>Mikhail</first>
+<middle/>
+<last>Lukin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="256" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3451" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Statistical Computing Software</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Steven Richard Finch</faculty_text>
+<description>An introduction to major statistics packages used in academics and industry (SAS and R). Will discuss data entry and manipulation, implementing standard analyses and graphics, exploratory data analysis, simulation-based methods, and new programming methods.</description>
+<prerequisites>Statistics 110 and 139 (may be taken concurrently) or with permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcf85ec3e43533e52dc0e8e8a546a3c1e">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>R.</middle>
+<last>Finch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="B09" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

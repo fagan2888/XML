@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6937" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>295</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Introduction to Quantum Theory of Solids</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Bertrand I. Halperin</faculty_text>
+<description>Electrical, optical, thermal, magnetic, and mechanical properties of solids will be treated based on an atomic scale picture and using the independent electron approximation. Metals, semiconductors, and insulators will be covered, with possible special topics such as superconductivity.</description>
+<prerequisites>Applied Physics 195 or equivalent, and a graduate level quantum mechanics course similar to Physics 251a. (Physics 251b would be helpful and may be taken concurrently.)</prerequisites>
+<notes>Applied Physics 295a is also offered as Physics 295a. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe3cc3dd3a54feed45cb09a721843ffd4">
+<name>
+<prefix/>
+<first>Bertrand</first>
+<middle>I.</middle>
+<last>Halperin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

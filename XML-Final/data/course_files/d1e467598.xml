@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8582" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="THI">Thai</course_group>
+<course_number>
+<num_int>102</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Thai I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., Th., at 5</meeting_text>
+<faculty_text>Parimal G. Patil and members of the Department</faculty_text>
+<description>A two-term continuation of the study of Thai at the intermediate level. Students build on acquired proficiency at the elementary level (or its equivalent) towards achieving more fluency in reading, speaking, writing, and listening comprehension of standard Thai, as well as in cultural-social skills. Introduces new vocabulary and grammar through communicative tasks and text readings, mainly using the situational-communicative methodology.</description>
+<prerequisites>Successful completion of Elementary Thai (or equivalent) is required. Continuing students who did not take Introductory Thai, as well as new students, are encouraged to talk to the instructor prior to registration.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

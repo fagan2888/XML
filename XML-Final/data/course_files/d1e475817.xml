@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85678" offered="N" next_year_offered="2015">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>329</num_int>
+</course_number>
+<title>Special Topics in Bootstrap and Permutation Methods</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Bootstrap and permutation methods with readings both applied and theoretical. Selection of topics will vary by interest, potentially including any of Bayesian approaches, high dimensional concerns, the wild bootstrap and regression, semi-parametric likelihood with bootstrap techniques, subsampling, and more complex extensions of permutation tests.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

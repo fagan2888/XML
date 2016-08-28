@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7112" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>140</num_int>
+</course_number>
+<title>Design of Experiments</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Tirthankar Dasgupta and Donald B. Rubin</faculty_text>
+<description>Statistical designs for efficient experimentation in the physical, life, social and management sciences and in engineering. A systematic approach to explore input-output relationships by deliberately manipulating input variables. Topics include completely randomized and randomized block designs, Latin square designs, balanced incomplete block designs, factorial designs, confounding in blocks, fractional replications, and re-randomization. Each topic motivated by real-life examples.</description>
+<prerequisites>Statistics 111 or 139.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc04d8e9c0d3cf9b223c9d76ee5b15704">
+<name>
+<prefix/>
+<first>Tirthankar</first>
+<middle/>
+<last>Dasgupta</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Feb4afb2e8ccd873f1187bb462dc2125e">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle>B.</middle>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

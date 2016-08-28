@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26091" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>In the Presence of the Enemy: Social-Psychological Approaches to Intergroup Conflict</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Mahzarin Banaji and members of the Department.</faculty_text>
+<description>Conflicts begin in human minds -therefore understanding conflict requires the understanding of the influence of social-psychological dynamics-. In this course we will focus on social psychological concepts of intergroup conflict, such as identity, collective memory and stereotypes, and inquire how they propel groups towards conflict. We will also consider how understanding these processes can help prevent and resolve conflicts. For example, we will ask, how individuals reform as one identity group. What role does collective memory play in sustaining conflicts? Can contact and dialogue help to overcome conflict? Which specific circumstances are required for a successful conflict resolution?</description>
+<prerequisites>Science of Living Systems 20 and PSY 15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd6ee11b3f600050505cd187dde1bac07">
+<name>
+<prefix/>
+<first>Mariska</first>
+<middle/>
+<last>Kappmeier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1408" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

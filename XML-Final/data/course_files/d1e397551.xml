@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85954" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>216</num_int>
+</course_number>
+<title>Mathematics of Modern Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Arthur M. Jaffe</faculty_text>
+<description>Introduction to functional analytic methods relevant for problems in quantum and statistical physics. Properties of linear transformations on Hilbert space. Generators of continuous groups and semigroups. Properties of Green's functions and matrices. Uniqueness and non-uniqueness of ground states and equilibrium states. Heat kernel methods. Index theory, invariants, and related algebraic structure. The KMS condition and its consequences.</description>
+<prerequisites>Familiarity with quantum theory at an undergraduate level.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc6408f2fa116d1c65a1608f315ae1b02">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Jaffe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

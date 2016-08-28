@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31571" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>3200</num_int>
+</course_number>
+<title>Graduate Seminar in Human Evolutionary Biology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Proseminar for Human Evolutionary Biology graduate students. Discussion of adaptations and the process of adaptation using examples from various areas of human evolutionary biology.</description>
+<prerequisites/>
+<notes>Open to graduate students in Human Evolutionary Biology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F517763dd0fd2e6fd9a2fb9995263409a">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Pilbeam</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F85c7bd61b373969d123929119c884f01">
+<name>
+<prefix/>
+<first>Terence</first>
+<middle>D.</middle>
+<last>Capellini</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="52H" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17538" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>61</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Advanced Spanish Language and Culture: The Ethics of Business</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Section I: Tu., Th., 10-11:30; Section II: Tu., Th., 11:30-1.</meeting_text>
+<faculty_text>Adriana Gutierrez and members of the Department</faculty_text>
+<description>An advanced language and culture class that examines literature and films portraying the political, sociological, financial and environmental impact of multinational companies doing business in Latin America. Students' linguistic competency is developed through discussion of the ethics of business, grammar reviews, and weekly writing assignments. Students will also choose a specific project for a business in Latin America and research its possible outcome and social, political, and environmental consequences.</description>
+<prerequisites>A score between 751 and 780 on the SAT II test or Harvard Placement test, a Spanish 50-level course, or permission of course head. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60.</prerequisites>
+<notes>Interested students must apply in writing to Dr. Gutierrez no later than August 21, 2013 (Fall Term) or January 15, 2014 (Spring Term). Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd9ce6597ccfee1a9a38d006964b3c71d">
+<name>
+<prefix/>
+<first>Adriana</first>
+<middle/>
+<last>Gutierrez</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd9ce6597ccfee1a9a38d006964b3c71d">
+<name>
+<prefix/>
+<first>Adriana</first>
+<middle/>
+<last>Gutierrez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="205" type="Section"/>
+<location term="1" building="Sever Hall" room="205" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

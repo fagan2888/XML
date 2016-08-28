@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90518" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>Major Advances in Understanding Heredity and Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 2-3:30</meeting_text>
+<faculty_text>Matthew Meselson and James Mallet</faculty_text>
+<description>MCB 162 aims to develop an understanding of the major conceptual and experimental advances to our present understanding of heredity and evolution, connecting today's science with its history and some of the personalities involved. Course work includes critical reading of original literature, student presentations, group discussion, and submission of written answers to weekly problem sets. Participation in class discussion of readings is essential. A substantial essay on a mutually agreed topic is due at the end of reading period.</description>
+<prerequisites>LS 1b or equivalent and permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbb80514268c7f53789fe7df1b1949c5c">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Meselson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6ceba15e7c8a343a2f4da9b140aca915">
+<name>
+<prefix/>
+<first>Jim</first>
+<middle/>
+<last>Mallet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

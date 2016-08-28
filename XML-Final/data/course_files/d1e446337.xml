@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8028" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>287</num_int>
+</course_number>
+<title>Poetic Self-Creation in 20th-Century Russia: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Stephanie Sandler</faculty_text>
+<description>Examines how poems create self-images for poets working in and after Russian modernism, including Khlebnikov, Vvedenskii, Mandel'shtam, Tsvetaeva, Barkova, Brodsky, Sedakova, Shvarts, Dragomoshchenko. Relies on literary and psychoanalytic theories of identity.</description>
+<prerequisites>Reading knowledge of Russian required.</prerequisites>
+<notes>Open to qualified undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

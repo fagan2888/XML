@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="140" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2112</num_int>
+</course_number>
+<title>Latin Texts of the Italian Renaissance: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Hankins</faculty_text>
+<description>Introduction to methods and techniques of textual scholarship with reference to Renaissance Latin texts. Topics include finding and describing manuscript and printed sources; paleography and codicology; text editing; rhetorical analysis. Course includes a six-week paleography workshop held in Houghton Library.</description>
+<prerequisites>A reading knowledge of Latin, French, Italian, and German.</prerequisites>
+<notes>Enrollment by permission of the instructor. May not ordinarily be credited as one of the research seminars required in the first-year program.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa0ffc0789d9f24e4f0d1e391c53ae727">
+<name>
+<prefix>Prof</prefix>
+<first>James</first>
+<middle/>
+<last>Hankins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

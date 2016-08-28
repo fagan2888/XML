@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6099" offered="N" next_year_offered="2015">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>229</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Early Medieval Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Xiaofei Tian</faculty_text>
+<description>Topic for fall term is poetry and poetics from the late Eastern Han through Sui. Spring term topic: The fall of the South in mid-sixth century and the subsequent displacement of many southerners to north China was a traumatic event for Southern Dynasties elite. We will discuss the writing of trauma, diaspora and nostalgia in this period with focus on the use of poetry as a medium of writing the history of self and state.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

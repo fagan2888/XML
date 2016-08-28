@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9694" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>42</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>The Laws of War and the War on Terrorism</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Gregg Andrew Peeples</faculty_text>
+<description>How do the "laws of war" regulate the conduct of the United States in the "Global War on Terrorism?" This seminar examines the historical development of two legal concepts: jus ad bellum, which determines the legitimacy of the use of armed force; and jus in bello, which defines the duties of soldiers and belligerent states. Drawing on this background, the seminar explores how these laws have influenced U.S. military and anti-terrorism operations since 9/11.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faed81ad522c0adb5d4eece1bc0b28b40">
+<name>
+<prefix/>
+<first>Gregg</first>
+<middle>Andrew</middle>
+<last>Peeples</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Winthrop House" room="Owen Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

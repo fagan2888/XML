@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49178" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNHIST">Japanese History</course_group>
+<course_number>
+<num_int>271</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Research in Early Modern Japanese History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-5</meeting_text>
+<faculty_text>David Howell</faculty_text>
+<description>This seminar deals with the politics, society, and culture of Japan from the late sixteenth to the mid-nineteenth centuries. Readings will include primary and secondary sources in Japanese and English. Students will write a major research paper.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc9a33ec400b982c103b8704a4733d3a7">
+<name>
+<prefix/>
+<first>David</first>
+<middle>L</middle>
+<last>Howell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96159" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Two Scientific Revolutions: From the Classical Age of Islamic Sciences to the Scientific World of Early Modern Europe</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Ahmed Ragab (Divinity School)</faculty_text>
+<description>Explores the emergence and consolidation in the Islamic Middle East of a new science and philosophy constructed in part out of Persian and Greek materials; the consolidation and development of this science in an Islamic context; and its connections with novel developments in sixteenth- and early seventeenth-century European science. Attention to cultural context, including imperial projects, societal transformation, and religious worldviews.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

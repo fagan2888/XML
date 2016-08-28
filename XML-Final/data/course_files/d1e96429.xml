@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2041" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2010</num_int>
+<num_char>d</num_char>
+</course_number>
+<title>Economic Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 8:30-10, and a 90-minute section to be arranged.</meeting_text>
+<faculty_text>Emmanuel Farhi and Pierre-Olivier Gourinchas</faculty_text>
+<description>A basic course in graduate macroeconomics, including models of business fluctuations, analyses of monetary and fiscal policy, and introduction to open economy macroeconomic issues.</description>
+<prerequisites>Mathematics 116 or the equivalent; can be taken concurrently.</prerequisites>
+<notes>Enrollment is strictly limited to PhD students in the Economics Department, Business Economics program, and PEG program. Qualified Harvard undergraduates may also enroll. No other students may take the course for credit or as auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60a897d927654bf987246576e9840e2b">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Farhi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="830" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="830" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

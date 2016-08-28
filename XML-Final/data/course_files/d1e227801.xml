@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25449" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1015</num_int>
+</course_number>
+<title>From Ghana to Guantanamo: European and American Empires in the Long Nineteenth Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Steven Michael Press</faculty_text>
+<description>This course surveys the origins and impact of encounters at several sites of empire: Qing China, British India, Africa, the Pacific, and the Caribbean. The course conducts its inquiry from several angles, focusing on the way American and European imperial systems affected politics, law, economics, and culture. Students will grapple with key concepts, including financial imperialism and neocolonialism; they will also learn about such specialized topics as the laws of imperial expansion. While the course will spend ample time covering the effects of imperialism "at home," it will equally engage with its effects abroad.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2645a5d58532af052b0acc5d74a2df24">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>Michael</middle>
+<last>Press</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

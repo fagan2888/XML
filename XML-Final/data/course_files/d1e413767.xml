@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39049" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1553</num_int>
+</course_number>
+<title>Social Bonds and Human Connections</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Katherine E. Powers</faculty_text>
+<description>As social beings, humans have a fundamental need to affiliate and bond with each other. In this course, we will trace social relationships across the human lifespan, from parent-infant attachment to adolescent peer relationships to pair bonding in adulthood. We will also discuss the evolutionary benefits of this social motive and draw links to social bonding in other species.</description>
+<prerequisites>SLS-20 and one from PSY 14, PSY 15, PSY 18, and SLS-15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3249b34decf98e3ac6f165bf48c16d0e">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>E</middle>
+<last>Powers</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

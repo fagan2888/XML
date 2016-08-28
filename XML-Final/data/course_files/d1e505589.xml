@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21952" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>60</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Fiction in the Flesh: Studio Course (Formerly Trials in Narrative Filmmaking)</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tuesdays 6pm-9pm and Wednesdays 1pm-4pm</meeting_text>
+<faculty_text>Athina Rachel Tsangari</faculty_text>
+<description>In this introduction to fiction filmmaking, we will explore the technical, structural, sensorial, and ontological language of cinema in all its idiomatic, hybrid expressions, from associative assemblages to naturalism. Emphasis will be given to the synesthetic processes of meaning construction, from the seed of an idea to its screen embodiments shot by shot, as well as the relation between sound and image. Projects will be collaborative as well as individual. Occasional in-class workshops by film professionals and artists.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffe309d12b89dc97864ab33e23b5e3df8">
+<name>
+<prefix/>
+<first>Athina</first>
+<middle>Rachel</middle>
+<last>Tsangari</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="415" type="Studio"/>
+<location term="1" building="Sever Hall" room="415" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

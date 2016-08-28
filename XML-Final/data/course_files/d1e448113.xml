@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2114" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>eo</num_char>
+</course_number>
+<title>Culture and Society</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Kiku Adatto</faculty_text>
+<description>The course explores various approaches to the study of culture, drawing on studies in anthropology, history, philosophy, sociology, literature, and photography. Among the questions addressed are: How is historical memory constructed, and what are the competing forces that shape it? How do advertisements, photography, and film document cultural change? How is culture tied to power, domination, and resistance?</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5919eabca3b2d777db1ba84fc58c0d8a">
+<name>
+<prefix/>
+<first>Kiku</first>
+<middle/>
+<last>Adatto</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

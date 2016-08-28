@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44306" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>252</num_int>
+</course_number>
+<title>The Ethics of Belief: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Susanna Rinard</faculty_text>
+<description>What should I believe? Can the practical advantages of holding a particular belief contribute to the rationality of that belief-or does rationality always require believing in accordance with the evidence? Do we have voluntary control over our beliefs-and how (if at all) might this be relevant to the ethics of belief? Is there any sense in which belief "aims" at truth, and if so, how is this relevant to the ethics of belief?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa35ce67647a31ef3afff9636a373e656">
+<name>
+<prefix/>
+<first>Susanna</first>
+<middle/>
+<last>Rinard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="104" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

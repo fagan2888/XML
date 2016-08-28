@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5934" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Tumor Pathophysiology and Transport Phenomena - A Systems Biology Approach</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 5-7.</meeting_text>
+<faculty_text>Rakesh K. Jain (Medical School)</faculty_text>
+<description>Tumor pathophysiology plays a central role in the growth, metastasis, detection, and treatment of solid tumors. Principles of transport phenomena are applied to develop a quantitative understanding of tumor biology and treatment.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-2016. Given alternate years with Cell Biology 212. Offered jointly with the Medical School as CB 704.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd3a07224cab0eab8cd392dbc1629f683">
+<name>
+<prefix>Dr</prefix>
+<first>Rakesh</first>
+<middle>K.</middle>
+<last>Jain</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

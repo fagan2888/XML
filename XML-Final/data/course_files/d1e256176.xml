@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87975" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>274</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Topics in the History of Psychoanalysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Elizabeth Lunbeck</faculty_text>
+<description>An introduction to issues and concepts in psychoanalysis, considered clinically in cultural, historical, and contemporary contexts. Major texts, figures, and controversies from Freud to the present. The course will focus on conceptualizations of theory creation and change, and on research and writing strategies.</description>
+<prerequisites/>
+<notes>Open to advanced undergraduates with permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F51e471ac3648a9754d6863c512ead552">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Lunbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

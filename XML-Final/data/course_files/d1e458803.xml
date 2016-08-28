@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82536" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>263</num_int>
+</course_number>
+<title>Historical Sociology: Cultural and Institutional Perspectives</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Orlando Patterson</faculty_text>
+<description>The seminar explores the emergence, dynamics and interaction of cultural, structural and institutional processes in the development, and underdevelopment, of capitalism in western and non-western societies. Among the topics explored are: merchant capital, network channeling and cultural change in the late medieval and renaissance periods; institutional and imperial factors in the rise of West European capitalism; networks and informal institutions in the rise of capitalism in China; honorific individualism and networks of aesthetic publics in in the making of modern Japanese culture; and colonialism and the institutional and cultural origins of development and underdevelopment in Africa and the Caribbean. Our readings and discussions will be guided by the recurring theoretical problems of causality, origins, continuity and change in institutional and cultural processes.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc197af23215b1e2c00da3a19634ab1a5">
+<name>
+<prefix/>
+<first>Orlando</first>
+<middle/>
+<last>Patterson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

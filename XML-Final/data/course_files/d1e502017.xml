@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5295" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2542</num_int>
+</course_number>
+<title>Kant: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>F., 12-2</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>A close reading of major works of Kant relevant to theology and philosophy of religion. The seminar focuses on issues such as the nature and limits of reason, the concepts of freedom, morality and faith, and the idea of God.</description>
+<prerequisites>Advanced work in theology or philosophy of religion.</prerequisites>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 2674.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

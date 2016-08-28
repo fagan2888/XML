@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2874" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>Film, Modernity and Visual Culture</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11:30-1, a weekly film screening W., 7-9, and a weekly section to be arranged</meeting_text>
+<faculty_text>Giuliana Bruno</faculty_text>
+<description>Cinema has changed the way we see and think. Modern visual culture develops with the art of film. Course considers this major 20th century shift in visual perception. We look at "motion" pictures as a product of modernity, born of scientific motion studies, aesthetic and cultural mobility. We relate film to the moving experience of urban space. Key writings and films engage sites of modern movement: home(land) and city, voyage and transport, gender and body.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as 4131. This course has an additional weekly film screening, Wednesday, 7 pm-9 pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

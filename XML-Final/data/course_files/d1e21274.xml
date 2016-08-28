@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1752" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2650</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>History and Theory of Social Anthropology: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-1</meeting_text>
+<faculty_text>Mary M. Steedly</faculty_text>
+<description>A critical review of the major theoretical approaches in social anthropology.</description>
+<prerequisites/>
+<notes>In conjunction with Anthropology 2840 in 2009-10, required of candidates for the PhD in Social Anthropology. Limited to, and aimed at, doctoral candidates. Not open to undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfa10e30eb866665b83ceb2a35613f80">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>M.</middle>
+<last>Steedly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="12" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

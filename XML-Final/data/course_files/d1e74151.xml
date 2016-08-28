@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48777" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>234</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>The Historiography of Early Chinese History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Michael J. Puett</faculty_text>
+<description>A study of major trends in the history of scholarship on early China. The main focus will be on 20th-century scholarship, but earlier developments will be introduced where relevant.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc5f5889e1d28d688d9d261ff25b6edbe">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Puett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="213" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

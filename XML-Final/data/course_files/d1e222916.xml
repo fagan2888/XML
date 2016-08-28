@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82983" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>60</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Good Works: Charity and Philanthropy before the Modern Era</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Meredith M. Quinn</faculty_text>
+<description>In a society where material possessions are distributed unequally, what obligations do the well-off have towards everyone else? This undergraduate seminar examines conceptions and practices of charity in early modern Europe and the Middle East. The study of charity reveals not only the forms that giving has taken in the past, but also the complexity of motivations that surround giving, the often gendered nature of charity, and the visions of an ideal social order that are embedded within the acts and institutions of charity. Taking a comparative approach, the course emphasizes how charity and "doing good" mean different things depending on the historical setting.</description>
+<prerequisites/>
+<notes>For their final paper, students are encouraged to pursue a topic drawn from any historical time or place (i.e., not limited to early modern Europe and the Middle East).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F43ea76f7749ac9e73d532e55d509561d">
+<name>
+<prefix/>
+<first>Meredith</first>
+<middle>Moss</middle>
+<last>Quinn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

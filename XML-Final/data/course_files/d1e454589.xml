@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53684" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>Masculinities: Global Perspectives</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Seungsook Moon</faculty_text>
+<description>This course approaches masculinities not only as an aspect of individual (gender) identity and a social structure but also as symbols that convey ideas about dominance or positive values in a given society. It examines complex meanings, everyday practices, and rituals of masculinities in various societies both at the level of important social institutions as well as at the level of lived experiences of individual men (and some women). During the first half of the semester, we will focus on the making and remaking of "hegemonic masculinity" in the modern West, which had global ramifications, and compare it with marginalized masculinities. During the second half of the semester, we will focus on how major social institutions construct and maintain hegemonic masculinity and to what extent it is subverted or challenged; we will also examine how masculinities as symbols of dominance shape workings of the major institutions. Examples of such institutions include the military, the family, the school, business firms/organizations, and entertainment and leisure industry. Throughout this line of inquiry, we will look into the binary and hierarchical gender relations and explore an alternative to this dominant construction of gender.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fab037c09415ba0ba3cf36cff1181b614">
+<name>
+<prefix/>
+<first>Seungsook</first>
+<middle/>
+<last>Moon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

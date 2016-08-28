@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14726" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>24</num_int>
+</course_number>
+<title>Introduction to Technology and Society</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>M., W., 2:30-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Venkatesh Narayanamurti (Harvard School of Engineering and Applied Sciences, Physics)</faculty_text>
+<description>From the digital revolution to bio informatics, from global warming to sustainability, and from national security to renewable energy, technology plays a critical role in shaping our lives. In this course, the students will be exposed to applied science and engineering concepts that span disciplines and examine broadly how technology shapes society and vice versa. It will emphasize both qualitative and quantitative analysis, modelling, and the importance of a conceptual understanding of science and technology in tackling the grand challenges facing global society.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc9d83a1a398d93e4b98fe5879e5f7f94">
+<name>
+<prefix/>
+<first>Venkatesh</first>
+<middle/>
+<last>Narayanamurti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

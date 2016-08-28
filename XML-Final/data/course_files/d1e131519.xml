@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33688" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>27</num_int>
+</course_number>
+<title>Design By Committee. Digital Interfaces for Collaborative and Participatory Design</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 1-4</meeting_text>
+<faculty_text>Panagiotis Michalatos (Design School)</faculty_text>
+<description>This Seminar/Workshop will look into the design and technical challenges involved in the development of web based interfaces for collaborative and participatory design scenarios where more than one agents are involved. The designer in a sense is given the chance to design and experiment with the communication architecture and temporality of the design process itself. Students will be introduced to web technologies for front end and back end development [javascript, webGL, nodeJS, MongoDB].</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as GSD-6468. Meets at GSD. More information can be found at &lt;a href="http://www.gsd.harvard.edu/cgi-bin/courses/index.cgi"&gt;www.gsd.harvard.edu/cgi-bin/courses/index.cgi&lt;/a&gt;.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd0f628928b94a9c6e47caf5fd48ec5f">
+<name>
+<prefix/>
+<first>Panagiotis</first>
+<middle/>
+<last>Michalatos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

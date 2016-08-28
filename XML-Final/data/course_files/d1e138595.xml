@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73624" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>238</num_int>
+</course_number>
+<title>Introduction to Innovation and Entrepreneurship</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3-4:30</meeting_text>
+<faculty_text>Joseph B. Lassiter (Business School)</faculty_text>
+<description>This course is designed for those who want to understand the role of start-ups and venture capital in the creation of new products and services in the for-profit and not-for-profit sectors. It is intended to help students identify areas in which changes in science and technology, consumer and social attitudes, or political and regulatory processes support the creation of new businesses and organizations in independent ventures or within established organizations. Margo Seltzer and Bill Anderson are supporting the course by supervising course projects in their respective areas of expertise.</description>
+<prerequisites/>
+<notes>Open to undergraduates. Not intended for freshmen. May not be taken concurrently with SCRB 235. May not be taken concurrently with SCRB 335qc. Credit may be earned for either Engineering Sciences 238 or SCRB 235, but not both. Not offered in 2014-15. Undergraduates interested in entrepreneurship offerings provided by HBS faculty should consider United States in the World 36: Innovation and Entrepreneurship: American Experience in Comparative Perspective in Fall 2014. Graduate students should consider HBS 2017: Commercializing Science in Fall 2014.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fce52c1252aa735b67f5e053884c268db">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>B.</middle>
+<last>Lassiter</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

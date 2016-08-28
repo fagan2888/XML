@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56336" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1221</num_int>
+</course_number>
+<title>La Chicana: Race, Gender, and Mexican-American Identity</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Julie R. Grigsby</faculty_text>
+<description>This course is an interdisciplinary exploration of the Chicana identities through feminist histories and scholarship. Beginning with a brief historical overview of Mexican American women in the U.S., we'll consider the emergence of Chicana feminism and examine the genesis of the term, "Chicana" as it was developed and deployed during El Movimiento in the early 1970's. Then move into contemporary explorations of identity including race, regional difference, art, literature, and community organizing. Course participants will gain the ability to recognize the interplay of social processes on the development of identity, especially within U.S. cultural institutions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2ea5e8d3b7c29139c642308a609266be">
+<name>
+<prefix/>
+<first>Juli</first>
+<middle>R</middle>
+<last>Grigsby</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

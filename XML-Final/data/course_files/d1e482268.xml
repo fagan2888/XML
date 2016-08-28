@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="730" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1407</num_int>
+</course_number>
+<title>Harlots, Dandies, Bluestockings: Sexuality, Gender, and Feminism in the 18th and 19th Centuries</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Linda Schlossberg</faculty_text>
+<description>How did social forces in the 18th and 19th centuries shape (and contest) new theories of womanhood, sexuality, and political equality? Readings from a variety of literary and political sources, including "Fanny Hill: Memoirs of a Woman of Pleasure," "Moll Flanders," "The Picture of Dorian Gray," "Dr. Jekyll and Mr. Hyde," "A Vindication of the Rights of Women." Areas of inquiry: prostitution, the suffrage movement, motherhood, property rights, psychology, manliness, sexology, Victorian pornography.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="106" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

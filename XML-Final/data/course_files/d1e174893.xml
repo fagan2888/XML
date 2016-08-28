@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14833" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>23</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>The Scientific Method: A Roadmap to Knowledge</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Robert Sackstein (Medical School)</faculty_text>
+<description>This course is designed to provide a working knowledge of the scientific method, thereby fostering development of fundamental skills in logic and experimental design. The various forms of reasoning (inductive, abductive, deductive) will be discussed in context of the practice of science. Through critical analysis of historical and contemporary scientific reports, students will gain an understanding of creating appropriate hypotheses, of controlled experimentation, and of the breadth and limits of conclusions drawn from experimental data.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F85652225a3ea758d8a37874c06c39466">
+<name>
+<prefix>Dr</prefix>
+<first>Robert</first>
+<middle/>
+<last>Sackstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Institute of Medicine (4 Blackfan Circle)" room="HIM_680" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

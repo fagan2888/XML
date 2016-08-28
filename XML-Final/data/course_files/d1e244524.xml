@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1094" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>139</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Greek Myths on Roman Sarcophagi</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ruth Bielfeldt</faculty_text>
+<description>In second-century Rome, Greek Myths enter a new sphere: tombs. But the mythological narratives adorning the imperial relief sarcophagi are more than traditional tales being retold. Their original visual language, combining Greek and Roman motifs, turns the caskets into powerful mediators that help express central experiences of life and death. In this seminar we will examine the complex imagery of Roman sarcophagi and interpret the mythological narratives from different perspectives &amp;#8211; contextual, cultural, social, and philosophical.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6cb20c1952b8e4e014c9fbfa7eeefcc0">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle/>
+<last>Bielfeldt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68015" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>190</num_int>
+<num_char>we</num_char>
+</course_number>
+<title>David Foster Wallace</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Andrew Warren</faculty_text>
+<description>This course looks at the scene of contemporary American fiction via the work of someone whom many-perhaps controversially-have called the writer of his generation: David Foster Wallace. This year we will pay particular attention to influences on Wallace: Pynchon, Barth, Dostoyevsky, Kierkegaard, Ozick, Borges, Kafka.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2d0644ecfce7ddc1bef643a6b6780cc2">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Warren</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="108" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

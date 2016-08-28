@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="910" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>3006</num_int>
+</course_number>
+<title>Research Workshop in Comparative Politics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="2">Full course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>The workshop offers advanced graduate students an opportunity to present their work-in-progress, benefit from critiques of it, and discuss theoretical and methodological issues.</description>
+<prerequisites/>
+<notes>Doctoral students from other departments and faculties admitted if space permits.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F42fc4851dfbdf0e700c5ec7bf6d66005">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>M.</middle>
+<last>Smith</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F80e86eea13175e1f339f22245a4c8a8b">
+<name>
+<prefix/>
+<first>Gwyneth</first>
+<middle/>
+<last>McClendon</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F42fc4851dfbdf0e700c5ec7bf6d66005">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>M.</middle>
+<last>Smith</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F80e86eea13175e1f339f22245a4c8a8b">
+<name>
+<prefix/>
+<first>Gwyneth</first>
+<middle/>
+<last>McClendon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-354" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

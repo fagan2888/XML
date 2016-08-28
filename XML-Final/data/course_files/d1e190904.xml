@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5237" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>42</num_int>
+</course_number>
+<title>Communism and the Politics of Culture: Czechoslovakia from World War II to the Velvet Revolution</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jonathan H. Bolton (Slavic Languages and Literatures)</faculty_text>
+<description>What was Communism, and how did it shape the intellectual life of East Central Europe after World War II? How do artists and writers counter the ideological pressures of the state? This course examines how the intense political pressures of invasion, occupation, and revolution shape a country's cultural life and are shaped by it in turn. We look at Czechoslovakia's literature, drama, film, and music from the 1948 Communist takeover, through the Prague Spring and Soviet invasion of 1968, to the 1989 Velvet Revolution, a hallmark of the peaceful overthrow of Communism in Europe. We consider works by Milan Kundera, Bohumil Hrabal, Vaclav Havel; films of the Czech New Wave (Milos Forman, Vera Chytilova, Jiri Menzel); clandestine publishing and underground art; and theories of political dissent under authoritarian regimes.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F56e0a0c2f19f7c66ce1f947e2fc0c56a">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>Hughes</middle>
+<last>Bolton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

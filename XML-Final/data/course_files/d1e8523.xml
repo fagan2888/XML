@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5172" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>197</num_int>
+</course_number>
+<title>Poverty, Race, and Health</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>David Williams</faculty_text>
+<description>This course critically examines the health status of the poor, and of African Americans and other socially disadvantaged racial and ethnic groups in the US. Attention will be focused on the patterned ways in which the health of these groups is embedded in the social, cultural, political, and economic contexts, and arrangements of US society. Topics covered include the meaning and measurement of race, the ways in which racism affects health, the historic uses of minorities in medical research, how acculturation and migration affects health, and an examination of the specific health problems that disproportionately affect nondominant racial groups.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1f27cc4efa3fc2915610739ce76b7120">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Williams</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

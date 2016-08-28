@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3627" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>208</num_int>
+</course_number>
+<title>Human Physiology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10:30-12:20</meeting_text>
+<faculty_text>Stephanie A. Shore (Public Health)</faculty_text>
+<description>An introduction to the principles governing function in the human body designed to provide a framework in physiology for future public health researchers and professionals who have not taken college level physiology courses. Emphasis on the concept of homeostasis and on integrative aspects of physiology. Examples of pathophysiology and environmental physiology highlight these processes.</description>
+<prerequisites>College-level introductory biology or permission of the instructor.</prerequisites>
+<notes>Offered jointly with the School of Public Health as EH 205. Required lab.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F05c8c5ba886d3b3205c4dedfccca25b5">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Shore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1030" end_time="1220"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1030" end_time="1220"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93053" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>83</num_int>
+</course_number>
+<title>The Devil, Probably x 10 + 1: A Studio-based Seminar</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1-4, Thu., 1-4</meeting_text>
+<faculty_text>Stephen Prina</faculty_text>
+<description>Part 1 is a weekly studio session during which participants will create 3 projects in any medium or discipline during the term. Part 2 is a screening of the film "The Devil, Probably," 1977 by Robert Bresson for 10 consecutive weeks, interrupted by the 3 project class presentations. Different readings will accompany each screening. The final screening--+1--is "The Third Generation," 1979 by Rainer Werner Fassbinder.</description>
+<prerequisites>There are no prerequisites for the class. First year participants are encouraged to apply.</prerequisites>
+<notes>The studio projects do not need to pertain to the Bresson/Fassbinder screenings.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F71740399998e654a517d06536d6cc792">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Prina</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

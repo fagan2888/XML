@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12362" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>Va</num_char>
+</course_number>
+<title>Development in Theory and Practice</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Jocelyn Viterna</faculty_text>
+<description>Why are some societies wealthier, healthier, and more highly educated than others? And how might we improve the lives of those individuals with the fewest opportunities? The purpose of this course is to investigate whether and how scholarly theories of development map onto the real world practices of development organizations (state development offices, intergovernmental agencies, not-for-profit organizations) and vice versa. Readings in development sociology will be interspersed with individual student analyses of specific development organizations across a range of issues including (but not limited to) gender, politics, the environment, education, health care, and the economy.</description>
+<prerequisites>Sociology 97</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F458908b1d1ef32de0d790fe64551ab70">
+<name>
+<prefix/>
+<first>Jocelyn</first>
+<middle/>
+<last>Viterna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

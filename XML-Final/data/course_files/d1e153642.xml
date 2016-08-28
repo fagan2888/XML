@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8250" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>168</num_int>
+<num_char>d</num_char>
+</course_number>
+<title>Postwar American and British Fiction</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1; and a weekly section to be arranged.</meeting_text>
+<faculty_text>James Wood</faculty_text>
+<description>Examines a range of works, including novels and stories by Saul Bellow, Philip Roth, Raymond Carver, Henry Green, Muriel Spark, Ian McEwan, Penelope Fitzgerald, and Martin Amis. Attempts to situate these books in their larger historical traditions, while emphasizing that we are reading a living literature.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0c13de022a0c302baa8d4a17f576feb3">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Wood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24433" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>bb</num_char>
+</course_number>
+<title>Behavioral Economics</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Tomasz Strzalecki</faculty_text>
+<description>The seminar will focus on theoretical and experimental issues in behavioral economics. We will study the relationships between the mathematical models of individual behavior (both utility maximization and psychologically motivated models) and the kinds of behavior we can observe in the lab. We will design experiments to test various theories and also study the types of behavior for which we don't have good models yet and try to understand what a good model would look like.</description>
+<prerequisites>Prior knowledge of behavioral economics will be useful. The course will focus on analytical methods and therefore requires knowledge of calculus.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

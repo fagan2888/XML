@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="489" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3600</num_int>
+</course_number>
+<title>The Origins of Knowledge: Talking Points</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Graduate companion course to Origins of Knowledge, which explores the theories and controversies in greater depth. Topics include the evolutionary, cultural, and ontogenetic origins of representational capacities, including space, number, objects, agents, language, and intuitive theories.</description>
+<prerequisites/>
+<notes>Limited to students in the Psychology Department or to those who have obtained permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F03a201163c0204b1e6f8b73fd376e943">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Carey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

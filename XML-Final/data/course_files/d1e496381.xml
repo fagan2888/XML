@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10836" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1497</num_int>
+</course_number>
+<title>Evangelicalism in America</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Catherine Brekus</faculty_text>
+<description>This course focuses on the American evangelical movement from the 1740s to the present. Beginning with the rise of transatlantic evangelicalism in the eighteenth century, we will explore the role of evangelicals in the American Revolution, the revivals of the Second Great Awakening, the crisis caused by slavery, the Fundamentalist-Modernist controversy in the early twentieth century, the emergence of Pentecostalism and the Charismatic Movement, the controversies created by neo-evangelicalism in the 1940s, the relationship between evangelicalism and the civil rights movement, the political activism of the Christian Right, and contemporary evangelical attitudes toward gender and sexuality. Readings will introduce students to both evangelical ideas and practices. Throughout the course, we will focus on the historical development of evangelicalism and the relationship between evangelicals and American culture.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

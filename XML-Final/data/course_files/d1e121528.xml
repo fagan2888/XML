@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37293" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>na</num_char>
+</course_number>
+<title>The Internet: Governance and Power</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Jack L. Goldsmith (Law School) and Bruce Schneier (Law School)</faculty_text>
+<description>This seminar will examine the individuals and institutions that control the Internet, and how the Internet affects the distribution and operation of power, broadly conceived. We will examine technologies of control (such as surveillance, censorship, propaganda, and use control) and of evading control, the individuals and institutions that seek to regulate the Internet (such as governments, the IETF, and hackers), the relationship between cybersecurity, national security, and Internet governance, the economics of Internet communications, and more.</description>
+<prerequisites>Seminar is by permission of instructor. Please send a statement of interest and resume to qashat@law.harvard.edu. Please include your year and program information as well. The application deadline for HLS/FAS/SEAS students is October 31. The application deadline for HKS students is November 7.</prerequisites>
+<notes>Offered jointly with the Kennedy School and the Law School. This course does not count for concentration credit in Computer Science.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd41aa62c7c8f218a270f7397a38675a2">
+<name>
+<prefix/>
+<first>Jack</first>
+<middle>L.</middle>
+<last>Goldsmith</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa57bc9d1396cbf4386ccfeda32429214">
+<name>
+<prefix/>
+<first>Bruce</first>
+<middle/>
+<last>Schneier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

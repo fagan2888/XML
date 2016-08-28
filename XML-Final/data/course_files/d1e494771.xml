@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5783" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1434</num_int>
+</course_number>
+<title>History of Western Christianity, 150-1100</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Kevin J. Madigan (Divinity School)</faculty_text>
+<description>This course is designed to provide a historical overview of the Church and society in western Europe from the fourth through the twelfth century. Thus, this course will investigate late-antique and early medieval Christianity in its social and its cultural context. Narrative and theological story lines to be pursued will include the varieties of early Christianity; relations with the Roman state (including persecution of Christians by it); the emergence of normative or "early Catholic" Christianity; early and early medieval monasticism; the search for the Christian doctrine of God and Christ; early Christian architecture, piety and worship; Christianity and other world religions (especially Judaism and Islam); western and eastern Christianity; the emergence of the Roman primacy; the Christianization of the north of Europe; the nature of parochial Christianity; the emergence of the pope, in the eleventh century, as an international religious force; the crusades; and early medieval piety. We will also be strengthening our skills as interpreters of primary sources. Some attention will be paid to major historiographical issues.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2230.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F13548845a4d25d8736fd01d1e9976142">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>J.</middle>
+<last>Madigan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

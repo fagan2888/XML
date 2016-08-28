@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1982" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1243</num_int>
+</course_number>
+<title>Russian Politics in Transition</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Timothy J. Colton</faculty_text>
+<description>An examination of politics in the Russian Federation since the collapse of Soviet communism, focusing on the factors promoting and impeding the development of a stable democratic regime. Topics include the general dynamics of political and economic transformation, leadership, institution building, political culture, regionalism and federalism, electoral and party politics, state-society relations and interest groups, and Russian nationalism and neo-imperialism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc1e9ffa46ec3d5e5fce6129d8ae4b4c1">
+<name>
+<prefix/>
+<first>Timothy</first>
+<middle>J.</middle>
+<last>Colton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-020 Case Study Room" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

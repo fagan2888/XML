@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4325" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3660</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>The Law, Economics, and Organizations Workshop</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>The presentation of work in progress in the field of law, economics, and organizations. Presentations by members of the various Harvard faculties, outside speakers, and graduate students.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 96250-11 and with the Business School as 4670.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1230" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1230" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

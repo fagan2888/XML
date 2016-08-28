@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4030" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHBI">
+<dept_long_name>Committee on Higher Degrees in Chemical Biology</dept_long_name>
+<dept_short_name>Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEMBIO">Chemical Biology</course_group>
+<course_number>
+<num_int>207</num_int>
+</course_number>
+<title>Molecular Approaches to Drug Action, Discovery, and Design</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3:30-5:30</meeting_text>
+<faculty_text>Donald M. Coen (Medical School), Nathanael Gray (Medical School), Suzanne Walker (Medical School), Timothy J. Mitchison (Medical School) and members of the Committee</faculty_text>
+<description>Application of molecular, systems, and structural biology, genetics, genomics, enzymology, and chemistry to drug action and development of new therapies. Analyzes molecular underpinnings of pharmacological principles. Examples drawn from diseases including cancer and AIDS.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7e9d6850f5f88182ffd7b0aa07f7d9a5">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle/>
+<last>Coen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F31f04860bbad3ff54ed325d0a593b0f2">
+<name>
+<prefix>Dr.</prefix>
+<first>Suzanne</first>
+<middle/>
+<last>Walker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F883f0b0e9d9ea96c0d681258e0da81ec">
+<name>
+<prefix/>
+<first>Timothy</first>
+<middle/>
+<last>Mitchison</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe2c30e4434c06b4f26060fdbebb95c98">
+<name>
+<prefix/>
+<first>Nathanael</first>
+<middle>Schiander</middle>
+<last>Gray</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1530" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1530" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

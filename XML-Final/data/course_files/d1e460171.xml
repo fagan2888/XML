@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16972" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>314</num_int>
+</course_number>
+<title>Workshop on Urban Social Processes</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Cities are back, urbanization is rapidly expanding around the world, and new forms of data are presenting unique opportunities for research. SOC314 is a forum to explore the social mechanisms, processes, and structures that occur in urban settings and the diverse behaviors that are shaped by spatial inequality. The workshop highlights the presentation of graduate student research but also includes discussion sessions on selected readings and work-in-progress by faculty at Harvard and around the country.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd35b4d622c81c4456c59fdcd9b1c6166">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Sampson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

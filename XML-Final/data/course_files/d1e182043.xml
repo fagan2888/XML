@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48874" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>l</num_char>
+</course_number>
+<title>Free Speech</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Sanford J. Ungar</faculty_text>
+<description>In this age of rapid globalization and heightened cross-cultural contacts, nations struggle to reaffirm their identities and values. In the United States, one of the most precious values is free speech, embedded in the First Amendment to the Constitution and regarded as a keystone of American democracy. But arguments over the boundaries of free speech have become intense, especially in the era of electronic communication. This seminar will examine the dialogue taking place within the United States and around the world on free speech issues - sometimes civil, but often a political or cultural confrontation that turns violent.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fad45ff3ab786fb3b70bc15bd97e2b6ed">
+<name>
+<prefix/>
+<first>Sanford</first>
+<middle>J.</middle>
+<last>Ungar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="205" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

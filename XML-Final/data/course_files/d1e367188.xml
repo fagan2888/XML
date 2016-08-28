@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15502" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>175</num_int>
+</course_number>
+<title>Islam in African History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Ousmane Oumar Kane</faculty_text>
+<description>As of 2009 according to the Pew Charitable Trust Survey of the Global Muslim population, 241 million Muslims lived south of the Sahara. This is about 15 percent of the Muslim global population. The course is designed to provide an understanding of the spread of Islam and the formation and transformation of Muslim societies in Sub-Saharan Africa. The course is organized in two parts. The first part of the course will focus on the history of Islamization of Africa, and topics will include the ways in which Islam came to Africa, the relationships of Islam to trade, the growth of literacy in Arabic and Ajami, the rise of clerical classes and their contribution to State formation in the pre-colonial period. The second part of the course will address Muslim responses to European colonial domination, and the varieties of Islamic expressions in the post-independence period (rise of Islamist, Shiite and Salafi jihadi movements) and Muslim globalization. In addition to the lectures, the course will include film showing, and two discussion sections: one in English and one in Arabic.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3365.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F00abc6f9c5d7e8bf194316f8154b61b4">
+<name>
+<prefix>Prof</prefix>
+<first>Ousmane</first>
+<middle/>
+<last>Kane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51727" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>161</num_int>
+</course_number>
+<title>Religion, Diaspora, and Migration: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Jacob Olupona</faculty_text>
+<description>This seminar explores critical and interdisciplinary approaches to the place of religion and the emergence of the new immigrant and diaspora communities in the modern world, and the discourses emerging from the practice of diaspora and migration scholarship. Using historical, ethnographic, and textual sources, the course will illuminate the lived religious experiences of immigrant and diaspora communities in the United States and elsewhere. It introduces critical perspectives on forms of interaction between religion and other aspects of social identity - ethnicity, gender, nationality, race, age, and sexuality, as well as transnational and global influences on social and cultural identity. The course also examines the complex networks of economic, cultural, and technological innovations that the "new" diaspora and immigrant communities have developed to make sense of their spiritual and cultural lives in new situations.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3702.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F67ada1528672ca0b575f45e4f43615ff">
+<name>
+<prefix/>
+<first>Jacob</first>
+<middle/>
+<last>Olupona</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

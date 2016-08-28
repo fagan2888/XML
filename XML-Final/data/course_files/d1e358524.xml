@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22968" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Introduction to the Hebrew Bible/Old Testament 2: Latter Prophets and Writings</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10-11:30, and a section to be arranged</meeting_text>
+<faculty_text>D. Andrew Teeter (Divinity School)</faculty_text>
+<description>A critical introduction to the literature and theology of the Hebrew Bible, considered in light of the historical contexts of its formation and the interpretive contexts of its reception within Judaism and Christianity. The course, the second part of a divisible, year-long sequence, will focus on the Latter Prophets and the Writings.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1103.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F37aba7954c6560225e7044e3eb7287cb">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Teeter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

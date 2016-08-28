@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49949" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>214</num_int>
+</course_number>
+<title>Islands and the World</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Marc Shell</faculty_text>
+<description>Islands, both a part of and apart from the main, offer ready-made laboratories for linguistic, biological and political investigation; islandness as such encourages national literature, philosophy, and vacation. Our seminar focuses on fictional islands as well as Canadian ice floes, Hormuz (Persia), Maine islets, and urban Venice. Aristotle, Plato, Darwin, Melville, Hesiod, Homer, Rabelais, More, Shakespeare, and Flaherty (director).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe23d103e4569abae053b4255d84f6b4c">
+<name>
+<prefix/>
+<first>Marc</first>
+<middle/>
+<last>Shell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

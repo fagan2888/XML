@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2622" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1610</num_int>
+</course_number>
+<title>Ethnographic Research Methods</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Laurence A. Ralph</faculty_text>
+<description>Introduction to methodology for contemporary ethnographic field research in anthropology. Students complete assigned and independent research projects relying on a variety of ethnographic methods, under supervision of department faculty.</description>
+<prerequisites/>
+<notes>Open to undergraduates only. Preference given to anthropology concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F19d9cdd40b32d9fde520ebafc0fd3968">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>A</middle>
+<last>Ralph</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="12" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

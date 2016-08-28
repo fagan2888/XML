@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34637" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1682</num_int>
+</course_number>
+<title>Gangsters and Troublesome Populations</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Laurence A. Ralph</faculty_text>
+<description>The term "gang" has been used to describe all kinds of collectives, from well-dressed mobsters to petty criminals to juvenile delinquents. About the only thing that has remained consistent about gangs is their characterization as the internal Other. This class will investigate how the category of "the gang" serves to provoke discourses of "dangerous" subjects in urban enclaves. More broadly, we will examine the methods and means by which liberal democratic governments maintain their sovereign integrity through the containment of threatening populations.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F19d9cdd40b32d9fde520ebafc0fd3968">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>A</middle>
+<last>Ralph</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

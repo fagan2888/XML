@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36534" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>385</num_int>
+</course_number>
+<title>The Molecular Genetics of Aging</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fb64ddc69e20b078189e3ae0cc7a37955">
+<name>
+<prefix>Dr</prefix>
+<first>William</first>
+<middle>B</middle>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb64ddc69e20b078189e3ae0cc7a37955">
+<name>
+<prefix>Dr</prefix>
+<first>William</first>
+<middle>B</middle>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

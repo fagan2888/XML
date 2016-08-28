@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4800" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>d</num_char>
+</course_number>
+<title>Junior Tutorial--The Political Economy of Modern China</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Nara Dillon</faculty_text>
+<description>Junior Tutorial for students with an interest in China Social Sciences. After an introduction to the historical context of China's development, this course will focus on the political economy of reform in the post-Mao period. Some of the topics covered include democracy, the 1989 Tiananmen protests, the rise of entrepreneurs, the role of labor, rural-urban migration, and the Internet.</description>
+<prerequisites/>
+<notes>EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators. Preference to EAS students but open to Government concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa9f109a967fb73ad6c9af0129bf7220f">
+<name>
+<prefix/>
+<first>Nara</first>
+<middle/>
+<last>Dillon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B110" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

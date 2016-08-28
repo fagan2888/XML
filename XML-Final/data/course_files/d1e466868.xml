@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27362" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TAM">Tamil</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Elementary Tamil</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9</meeting_text>
+<faculty_text>Jonathan Ripley</faculty_text>
+<description>An introduction to the oldest of the Dravidian languages of South India, Tamil holds official language status in Tamil Nadu, Singapore, and Sri Lanka. Tamil has one of the oldest uninterrupted literary traditions in the world, ranging from classical love poetry, devotional compositions and epics to the modern novel and short story. Students will be introduced to the Tamil script and to reading, writing, and speaking. Materials from popular culture will supplement modern teaching materials.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F827ba0faf46a2509c4325f1eb8bd477c">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>Daniel</middle>
+<last>Ripley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

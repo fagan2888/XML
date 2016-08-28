@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7766" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>47</num_int>
+</course_number>
+<title>Forbidden Romance in Modern China</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Der-Wei Wang (East Asian Languages and Civilizations)</faculty_text>
+<description>This course introduces a unique dimension of Chinese modernity: amorous engagement in fiction and lived experience, its discursive and visual representations, and its institutional implementation (gender, marriage, family, law, nation/state, etc.), censorship, and transgression. It examines how the modern lure of free will and emancipated subjectivity drove Chinese to redefine terms of affect, such as love, feeling, desire, passion, sexuality, loyalty, dedication, revolution and sacrifice. It also looks into how the moral, legal and political consequences of affect were evoked in such a way as to traverse or fortify consensual boundaries and their manifestations.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe790a2b8396e12fed32ad26201143f8e">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Der-Wei</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

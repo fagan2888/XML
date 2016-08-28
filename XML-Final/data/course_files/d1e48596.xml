@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3420" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>The Quantum World</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Alan Aspuru-Guzik</faculty_text>
+<description>Many essential properties of atoms, molecules and materials stem from their quantum mechanical nature. In this course, we will focus on the quantum mechanical aspects of physical chemistry. The basic principles of quantum mechanics will be introduced in tandem with the chemical concepts covered. We will describe the quantum mechanics of molecular bonding, vibrations and rotations. The fundamentals of molecular spectroscopy and photophysics will be seen in the light of quantum mechanics. We will end the course by introducing what goes behind the sciences in quantum chemistry packages for calculating molecular electronic structure and molecular properties. This year, the course will employ online forums for student discussions and turning in homework assignments. Most of the materials for evaluation will be take-home team programming exercises written in interactive Phython (iPhython). There will be no final exam.</description>
+<prerequisites>Applied Mathematics 21a and 21b, Mathematics 21a and 21b, or equivalent preparation in calculus and differential equations; Physical Sciences 1 or equivalent preparation in chemical bonding and fundamental principles; Physical Sciences 2 or Physics 11a, and Physical Sciences 3 or Physics 11b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F44e0a1e2eb9d69343414ec43194844bb">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Aspuru-Guzik</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Mallinckrodt" room="Pfizer Lecture Hall (MB23)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

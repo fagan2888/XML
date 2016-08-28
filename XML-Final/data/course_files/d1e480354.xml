@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8094" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Tutorial - Junior Year: Research and Methods</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Sarah S. Richardson</faculty_text>
+<description>This course supports the writing of the junior paper through seminar discussions and one-on-one tutoring. In the seminar portion of the course, students discuss feminist methodologies across the humanities, social sciences, and life sciences through engagement with diverse readings from these fields. In the practicum, students work with an individual tutor on a semester-long research project in his or her area of interest.</description>
+<prerequisites/>
+<notes>Required of all Honors concentrators in their junior year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

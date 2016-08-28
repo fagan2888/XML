@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36932" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>189</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Autonomous Multi-Robot Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>F., 1-4</meeting_text>
+<faculty_text>Radhika Nagpal</faculty_text>
+<description>Building autonomous robotic systems requires understanding how to make robots that observe, reason, and act. Each component uses many engineering principles: how to fuse, multiple, noisy sensors; how to balance short-term versus long-term goals; how to control one's actions and how to coordinate with others. This year, we will study these questions in the context of a project to develop autonomous robot soccer teams. The class format will mix seminar and lab formats.</description>
+<prerequisites/>
+<notes>Preference will be given to students with experience in AI (e.g. CS181 or CS182 and/or robotics ES159).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a48e4e06e3dece44781a13510b69216">
+<name>
+<prefix/>
+<first>Radhika</first>
+<middle/>
+<last>Nagpal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="B127" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

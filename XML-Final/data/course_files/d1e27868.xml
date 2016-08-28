@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2883" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Radio Astronomy</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>James M. Moran</faculty_text>
+<description>Historical development; diffraction theory of antennas and interferometers; signal detection and measurement techniques. Thermal, synchrotron and spectral-line emission in the context of radio observations of the sun, planets, pulsars, masers, hydrogen clouds, molecular clouds, ionized regions, active galaxies, quasars, and the cosmic background. Observational projects and laboratory exercises carried out with the Submillimeter Array, Haystack Observatory and the CMB Laboratory.</description>
+<prerequisites>Astronomy 200 or Physics 153 recommended.</prerequisites>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a78c0ecabeae263de9d975f90032fa9">
+<name>
+<prefix/>
+<first>James</first>
+<middle>M.</middle>
+<last>Moran</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

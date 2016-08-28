@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80854" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.265</num_char>
+</course_number>
+<title>Writing the Environment</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Martin Thomas Greenup</faculty_text>
+<description>How are we to make sense of the high-stakes debates about the environment today? In attempting to answer this question, this course focusses on the rhetoric and not the science of environmentalism. We will look at what happens when the impressions of a naturalist or the findings of a scientist are put into language and communicated to a wider public. As we examine a range of works including Thoreau's Walden, Carson's Silent Spring, and documentary movies, we will ask how each work presents nature to the reader through the medium of language, how each attempts to persuade the reader, and each draws upon sources as varied as literary romanticism and science.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73c644c76667938a6967eb8f3a697bab">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>Thomas</middle>
+<last>Greenup</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1450" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>139</num_int>
+</course_number>
+<title>Statistical Sleuthing Through Linear Models</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Viktoriia Liublinska</faculty_text>
+<description>A serious introduction to statistical inference with linear models and related methods. Topics include t-tools and permutation-based alternatives, multiple-group comparisons, analysis of variance, linear regression, model checking and refinement, and causation versus correlation. Emphasis on thinking statistically, evaluating assumptions, and developing tools for real-life applications.</description>
+<prerequisites>Statistics 100 or equivalent and Mathematics 19a and 19b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0fba82f809c81eb1638c04a5054a84c">
+<name>
+<prefix/>
+<first>Viktoriia</first>
+<middle/>
+<last>Liublinska</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" E" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

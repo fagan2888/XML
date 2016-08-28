@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65056" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>181</num_int>
+</course_number>
+<title>Kafka, Coetzee and the Difficulty of Reality</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Karen Zumhagen-Yekple</faculty_text>
+<description>This course examines selected works of two major modern writers, Franz Kafka and the South African Nobel Prize winner J.M. Coetzee, exploring their unique brands of literary realism, fantasy, and philosophical ethics and treatments of crises of identity, language, faith, authority and empire.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2bee41891e5bfec041d9331e989c8a35">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle/>
+<last>Zumhagen-Yekple</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

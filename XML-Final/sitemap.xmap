@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+    
+<map:flow language="javascript"/>
+
+ <!-- Filtering resources -->
+    <map:resources>
+    
+        <map:resource name="course_detail-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/course_detail.xq"/>
+        </map:resource>
+    
+        <map:resource name="list_cg-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/list_cg.xq"/>      
+        </map:resource>
+
+         <map:resource name="list_dept-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/list_dept.xq"/>      
+        </map:resource>
+
+         <map:resource name="list_fac-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/list_fac.xq"/>      
+        </map:resource>
+
+         <map:resource name="search_results-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/search_results.xq"/>      
+        </map:resource>
+
+        <map:resource name="search_form-xquery">
+            <map:generate src="http://localhost:8984/rest?run=xq/search_form.xq"/>      
+        </map:resource>
+
+    </map:resources>
+
+    <map:pipelines>
+       
+        <map:pipeline type="noncaching">
+                
+            <!-- Redirect of index -->
+            <map:match pattern="">
+                <map:redirect-to uri="index.html"/>
+            </map:match>
+
+            <map:match pattern="index.html">
+                <map:redirect-to uri="search_form.html" />
+            </map:match>  
+
+        </map:pipeline>
+        
+        <!-- Main Pipeline -->
+        <map:pipeline type="noncaching">
+
+            <!-- Shows course_detail -->
+            <map:match pattern="course_detail.xml">
+                <map:call resource="course_detail-xquery" />
+                <map:parameter name="use-request-parameters" value="true"/>
+                <map:parameter name="querystring" value="{request:queryString}"/>
+                <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                <map:serialize type="xml" />
+            </map:match>
+
+            <map:match pattern="course_detail.html">
+                <map:call resource="course_detail-xquery" />
+                <map:transform src="xsl/html/course_detail.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                   
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+            
+            <map:match pattern="course_detail.pdf">
+                <map:call resource="course_detail-xquery" />
+                <map:transform src="xsl/fo/course_details.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+                <map:serialize type="fo2pdf"/>
+            </map:match>
+
+            <!-- Shows List of Course Groups  -->
+            <map:match pattern="list_cg.xml">
+                <map:call resource="list_cg-xquery" />
+                <map:parameter name="use-request-parameters" value="true"/>
+                <map:parameter name="querystring" value="{request:queryString}"/>
+                <map:serialize type="xml" />
+                 <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+            </map:match>
+
+            <map:match pattern="list_cg.html">
+                <map:call resource="list_cg-xquery" />
+                <map:transform src="xsl/includes/param_facets/list_cg.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+
+            <!-- Shows List of Departments  -->
+            <map:match pattern="list_dept.xml">
+                <map:call resource="list_dept-xquery" />
+                <map:serialize type="xml" />
+            </map:match>
+
+             <map:match pattern="list_dept.html">
+                <map:call resource="list_dept-xquery" />
+                <map:transform src="xsl/includes/param_facets/list_dept.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+
+            <!-- Shows List of Faculty  -->
+            <map:match pattern="list_fac.xml">
+                <map:call resource="list_fac-xquery" />
+                <map:serialize type="xml" />
+            </map:match>
+
+              <map:match pattern="list_fac.html">
+                <map:call resource="list_fac-xquery" />
+                <map:transform src="xsl/includes/param_facets/list_fac.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+
+             <!-- Shows Search Results -->
+            <map:match pattern="search_results.xml">
+                <map:call resource="search_results-xquery" />
+                 <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                <map:serialize type="xml" />
+            </map:match>
+            
+            <map:match pattern="search_results.html">
+                <map:call resource="search_results-xquery" />
+                <map:transform src="xsl/html/search_results.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+
+            <!-- Shows Search Form  -->
+            <map:match pattern="search_form.xml">
+                <map:call resource="search_form-xquery" />
+
+                <map:serialize type="xml" />
+            </map:match>
+
+            <map:match pattern="search_form.html">
+                 <map:call resource="search_form-xquery" />
+                <map:transform src="xsl/html/search_form.xsl" type="xslt2">
+                    <map:parameter name="baselink" value="{baselink:SitemapBaseLink}"/>
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="querystring" value="{request:queryString}"/>
+                </map:transform>
+
+                <map:serialize type="xhtml" />
+            </map:match>
+
+            
+
+        </map:pipeline>
+        
+        <!-- Generic match patterns -->
+        <map:pipeline>
+            <map:match pattern="**.html">
+                <map:read src="{1}.html" mime-type="text/html" />
+            </map:match>
+            <map:match pattern="**.xml">
+                <map:read src="{1}.xml" mime-type="text/xml" />
+            </map:match>
+            <map:match pattern="**.xsl">
+                <map:read src="{1}.xsl" mime-type="text/xml" />
+            </map:match>
+            <map:match pattern="**.css">
+                <map:read src="{1}.css" mime-type="text/css" />
+            </map:match>
+            <map:match pattern="**.png">
+                <map:read src="{1}.png" mime-type="image/png" />
+            </map:match>
+            <map:match pattern="**.gif">
+                <map:read src="{1}.gif" mime-type="image/gif" />
+            </map:match>
+            <map:match pattern="**.jpg">
+                <map:read src="{1}.jpg" mime-type="image/jpeg" />
+            </map:match>
+            <map:match pattern="**.js">
+                <map:read src="{1}.js" mime-type="text/javascript" />
+            </map:match>
+        </map:pipeline>
+    </map:pipelines>
+    
+</map:sitemap>

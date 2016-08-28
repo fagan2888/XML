@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47498" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>28</num_int>
+</course_number>
+<title>Exploration and Empire Building</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Kelly A. O'Neill (History)</faculty_text>
+<description>This course studies the relationships between scientific study, aesthetic representation, and imperial power. Students will examine documentary and visual records of encounters between indigenous peoples, agents of rival empires, and the physical environment along the vast Siberian and Pacific frontiers.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engages substantially with the Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9ac7035fefcd39b20b126d7e628d39aa">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle>A.</middle>
+<last>O'Neill</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

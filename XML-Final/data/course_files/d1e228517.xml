@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3447" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1063</num_int>
+</course_number>
+<title>America and Vietnam: 1945-1975</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Hue-Tam Ho Tai and Brett Flehinger</faculty_text>
+<description>Examines modern conflicts in Vietnam and their implications for the US from 1945-75, from both Vietnamese and American perspectives. Seeks to provide an understanding of the complexity of the war and the ethical dilemmas it raised by examining issues ranging from the power-politics assumptions of decision makers to the personal experiences of those caught in the war. Covers both background and consequences of the war, but the main focus is on the 30-year period during which the fortunes of America and Vietnam became intertwined.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7838a4a3e347975aabd79881a919028a">
+<name>
+<prefix/>
+<first>Hue-Tam</first>
+<middle>Ho</middle>
+<last>Tai</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff8649cdb68955a28e2bfc520deb4ba77">
+<name>
+<prefix/>
+<first>Brett</first>
+<middle/>
+<last>Flehinger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

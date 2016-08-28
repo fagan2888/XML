@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1116" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>Scenography Studio</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 12-2</meeting_text>
+<faculty_text>Sara Brown (Massachusetts Institute of Technology)</faculty_text>
+<description>Theater designers use figures, space, objects, time and light to create environments that are integral to performance events. The potential for action and the integration with the performance as a whole is key to the design process. Like any artist, the designer needs to create visual studies to explore possibilities and communicate ideas. In Scenography Studio students will respond to architecture, photography, fiction, painting, sculpture, etc., to develop a series of performance design projects. In the course of developing these projects, students will gain skills in a variety of digital and manual media as well as study significant 20th and 21st century artists and theorists. Artists studied include but are not limited to - Robert Rauschenberg - John Cage - Sol LeWitt - Adolph Appia - Richard Serra - Alan Kaprow - Cindy Sherman - Italo Calvino - Bertolt Brecht.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

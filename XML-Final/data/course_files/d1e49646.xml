@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3622" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>243</num_int>
+</course_number>
+<title>Applied Quantum Mechanics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Hongkun Park</faculty_text>
+<description>The course will cover the application of quantum mechanical principles to contemporary problems in chemistry and physics. The topics covered in the course will include: chemical bonding and the Born-Oppenheimer Approximation, atom/molecule-photon interaction (including second quantization and the dressed-state approach), Quantum Optics, and solid-state and nano-science (band theory, Fermi liquid theory, and electron transport).</description>
+<prerequisites>Two semesters of quantum mechanics (Chemistry 160 / Chemistry 242, or Physics 143a / 143b, or equivalent).</prerequisites>
+<notes>Intended for graduate and advanced undergraduate students in chemistry, physics, and applied physics.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb0262b1ed3f794bb62f64d523a3b6f60">
+<name>
+<prefix/>
+<first>Hongkun</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

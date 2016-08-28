@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6899" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Social Network Analysis: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Peter V. Marsden</faculty_text>
+<description>Concepts and methods for studying social structure using social networks. Approaches to collecting network data; data quality; graph-theoretic, statistical, and visual approaches to analyzing network data, including blockmodels and multidimensional scaling.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F431cb655d5d4d107cbe787746527fcdc">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>V.</middle>
+<last>Marsden</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

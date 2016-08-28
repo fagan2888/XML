@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4109" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>240</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Byzantine Art : Illustrating the Word: manuscripts and their images from the Byzantine religious and secular world</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ioli Kalavrezou</faculty_text>
+<description>The course will concentrate on manuscripts produced after the period of Iconoclasm beginning in the second half of the 9th century. A variety of texts will be examined from courtly as well as monastic environments.</description>
+<prerequisites/>
+<notes>Open to interested undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0ef8e28d3c328bf7860fc8b9f873b6e7">
+<name>
+<prefix/>
+<first>Ioli</first>
+<middle/>
+<last>Kalavrezou</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

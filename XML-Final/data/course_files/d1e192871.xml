@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8782" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Real-Life Statistics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course explores the statistical reasoning underlying everyday life: learn to inform ordinary decisions with statistical understanding and critically assess information reported in the news. Topics include the implications and validity of medical studies; the interpretation and common pitfalls of surveys and election polls; the motivation for diversifying stock portfolios; the strategies behind online dating websites; and the optimal design for wine tastings. The course also unravels fallacies and paradoxes that often mislead. Students will develop the ability to identify, appreciate, and question the frequent appeals to statistical principles encountered in real life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

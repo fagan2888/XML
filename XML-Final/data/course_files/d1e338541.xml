@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84714" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>250</num_int>
+</course_number>
+<title>At Cross Purposes: The Crusades in Material Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Evridiki Georganteli</faculty_text>
+<description>Crusading expeditions in the Holy Land, Spain and Eastern Europe from 1096 until the end of the Middle Ages shaped the political, socio-economic and cultural map of Europe and the Middle East. This course explores the multifaceted encounters between crusaders, Byzantines, Jews, Armenians and Muslims through the material traces they left behind: architecture, Byzantine objects dispersed across Western Europe, coins, sculptures, frescoes, and manuscripts from the East and the West.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd9e7d9d3a5b7d68e47eacceb63bd6457">
+<name>
+<prefix/>
+<first>Evridiki</first>
+<middle/>
+<last>Georganteli</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

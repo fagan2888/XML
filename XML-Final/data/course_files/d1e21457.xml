@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7070" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2660</num_int>
+</course_number>
+<title>The Anthropology of Knowledge: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Michael Herzfeld</faculty_text>
+<description>Comparative exploration of local epistemologies from craft apprentices and skilled manual workers to schoolchildren, journalists and scientists, emphasizing the embodiment, inculcation, and transmission of practical knowledge and the relationships among cosmology, social context, and pragmatic understanding.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4da516f68fb02c445e7bb66990f2b686">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Herzfeld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 416" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

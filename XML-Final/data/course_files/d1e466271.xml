@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15796" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>198</num_int>
+</course_number>
+<title>The Middle Way Philosophy of Candrakirti</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-6</meeting_text>
+<faculty_text>Shenghai Li</faculty_text>
+<description>The philosophical writings of the seventh century Indian scholar Candrak&amp;#299rti became increasingly influential in late Indian Buddhism and during the Second Dissemination of Buddhism in Tibet. Since then the interpretation of his thought has occupied a prominent place in the intellectual history of Buddhism. The primary goal of this course is to examine Candrak&amp;#299rti's philosophical ideas through studying his major writings in translation. We will pursue this objective with an attention to Candrak&amp;#299rti's intellectual context and the reception of his work. Prior study of Indian philosophy or Buddhist intellectual history will be helpful but there is no prerequisite for this course.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3541.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F651915e8b3ca866de8efa016bd46bd19">
+<name>
+<prefix/>
+<first>Shenghai</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="330" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8711" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>268</num_int>
+</course_number>
+<title>Chemical Kinetics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Scot T. Martin</faculty_text>
+<description>Time rate of change of chemical species. Rate constants. Formulating a coupled chemical system. Numerical analysis of complex systems.</description>
+<prerequisites/>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3127a1e60588003a06bbe3ee7f94b1bc">
+<name>
+<prefix/>
+<first>Scot</first>
+<middle>T.</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="223" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

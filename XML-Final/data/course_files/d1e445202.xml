@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6120" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>192</num_int>
+</course_number>
+<title>Literature as Institutions: Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>William Mills Todd III</faculty_text>
+<description>A study of literary production, dissemination, and reception in selected periods of Russian literature from the Middle Ages to the present. Readings in social theory, cultural studies, literary criticism, and imaginative literature.</description>
+<prerequisites/>
+<notes>Open to advanced undergraduates and graduates. Students must pick up a syllabus in Barker 374 before the term begins, as there will be a brief assignment for the first class meeting.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff9c1e173800d1dc8c3a65df81868849e">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Mills</middle>
+<last>Todd</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

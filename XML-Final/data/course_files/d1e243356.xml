@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35764" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>96</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Connections - Studio II</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., Th., 1-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>In this course, students will explore the urban context through experiences developing critical media projects in Boston. Student projects will integrate a combination of graphical, analytical and narrative methods to illuminate the city's often overlooked non-human actors, such as spontaneous vegetation, feral animals, local building materials, transportation infrastructure and communication technologies. Seeing these "things" as part of the social life of the city helps to understand the urban context as a space of active relationships, a place that is always in the making. Selected readings in urban theory, viewings/listenings in critical media practice, field trips through Boston, and visits from guests across the Graduate School of Design will supplement project-based work.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

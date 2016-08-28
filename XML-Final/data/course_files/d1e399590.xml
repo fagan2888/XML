@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4555" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>287</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Topics in String Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 3-4:30</meeting_text>
+<faculty_text>Xi Yin</faculty_text>
+<description>A selection of topics from current areas of research on string theory.</description>
+<prerequisites>Physics 287a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe1259fc0beaf0726d4249872c41700b5">
+<name>
+<prefix/>
+<first>Xi</first>
+<middle/>
+<last>Yin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1630"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1500" end_time="1630"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

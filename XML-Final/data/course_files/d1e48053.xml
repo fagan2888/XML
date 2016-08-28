@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79903" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>145</num_int>
+</course_number>
+<title>Experimental Inorganic Chemistry</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>6</enrollment_limit>
+<meeting_text>One 90 minute lecture per week Tuesdays 6 - 7:30 pm; Labs Tuesday &amp; Thursday 1 - 6 pm</meeting_text>
+<faculty_text>Theodore A. Betley and Austin Bennett Scharf</faculty_text>
+<description>An introduction to experimental problems encountered in the synthesis, isolation, purification, characterization, and identification of inorganic compounds, with an emphasis in air-free synthetic techniques and spectroscopic characterization methods specifically applicable to complexes containing transition metals.</description>
+<prerequisites>Chemistry 40 and either Chemistry 27 or 30, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc9830ad903f00d80e7c0a81f42fbb08e">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle>A.</middle>
+<last>Betley</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F94babcfdf82480a81d67aead80fcf879">
+<name>
+<prefix/>
+<first>Austin</first>
+<middle>Bennett</middle>
+<last>Scharf</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1800" end_time="1930"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="158" type="Lecture"/>
+<location term="1" building="Northwest Building" room="158" type="Lab"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

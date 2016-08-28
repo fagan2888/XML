@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28071" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HUM">
+<dept_long_name>Division of Humanities</dept_long_name>
+<dept_short_name>Humanities</dept_short_name>
+</department>
+<course_group code="HUM-STUDIO">Humanities Studio</course_group>
+<course_number>
+<num_int>4</num_int>
+</course_number>
+<title>The Mixed-Reality City</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeffrey Schnapp and the metaLAB team</faculty_text>
+<description>The contemporary city is constituted by multiple overlapping realities articulated across built form and imagined space, individual experience and collective memory, embodied sensation and digital mediation. Often, these multiple realities are invisible or illegible. However, realities always leave traces, to be excavated and reconstructed. The Mixed-Reality City is a combined seminar and workshop in which students pursue studies of urbanism-in-the-making through means and methods emerging in the digital arts and humanities, including: data narrative, digital ethnography, adversarial design, and critical technical practice. The course focuses in equal parts on unpacking discourses and developing interpretative digital artifacts.</description>
+<prerequisites/>
+<notes>Humanities Studios are project-based courses designed to foster translational thinking. They combine in-depth research, design thinking, and hands-on training with digital tools and media in an environment that involves sustained cross-disciplinary teamwork. At once practical and experimental, Humanities Studio courses renew the relevance of the critical and narrative tools of the arts and sciences for a world in which technology is a means of inquiry.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd1b8a5cf9abfd7e2ad72de32a2b00284">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Schnapp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

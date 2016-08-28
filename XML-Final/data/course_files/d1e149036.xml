@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6781" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Ckr</num_char>
+</course_number>
+<title>Introduction to Playwriting: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 4-7 p.m.</meeting_text>
+<faculty_text>Sam Marks</faculty_text>
+<description>This workshop is an introduction to writing for the stage through intensive reading and in-depth written exercises. Each student will explore the fundamentals and possibilities of playwriting by generating short scripts and completing a one act play with an eye towards both experimental and traditional narrative styles. Readings will examine various ways of creating dramatic art and include work from contemporary playwrights such as Kenneth Lonergan, Martin McDonagh, Suzan Lori-Parks, and Sarah Ruhl as well established work from Anton Chekhov, Sarah Kane, and Harold Pinter.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0a67b2b85a48fa610d9e33482abf76f1">
+<name>
+<prefix/>
+<first>Sam</first>
+<middle/>
+<last>Marks</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0a67b2b85a48fa610d9e33482abf76f1">
+<name>
+<prefix/>
+<first>Sam</first>
+<middle/>
+<last>Marks</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

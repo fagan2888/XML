@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86032" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>161</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Rome: Eternal City</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Joseph Connors</faculty_text>
+<description>An architectural history of Rome from the empire through the early Christian and medieval city, the Renaissance revival of antiquity, Baroque planning, and early archeology to Fascism and modernism, including the imperial fora, aqueducts, fountains, medieval basilicas, the piazza, villas, gardens, St. Peter's and the Vatican complex.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf826a81f657486507d7163597b3d539">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Connors</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

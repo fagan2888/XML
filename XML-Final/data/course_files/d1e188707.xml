@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8736" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>11</num_int>
+</course_number>
+<title>Medicine and the Body in East Asia and in Europe</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Shigehisa Kuriyama (East Asian Languages and Civilizations)</faculty_text>
+<description>Comparative historical exploration of the striking differences and unexpected similarities between traditional conceptions of the body in East Asian and European medicine; the evolution of beliefs within medical traditions; the relationship between traditional medicine and contemporary experience.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdbe48e9d70a571fdece50053a0d056e0">
+<name>
+<prefix/>
+<first>Shigehisa</first>
+<middle/>
+<last>Kuriyama</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

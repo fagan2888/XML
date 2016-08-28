@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68708" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1540</num_int>
+</course_number>
+<title>Human Migration</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Noreen Tuross</faculty_text>
+<description>The course will explore human migration at several scales, time depths and data sources, including the movement of humans out of Africa and the complex movements of the first farmers across Europe. We will explore the impacts that climates and disease burden have had on human migrations, and discuss recent movements of people and the reasons for migratory behavior in humans. in addition, a personal migration story will be developed by the class.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2303423c4fe9a3f261db85fad4ff0b1b">
+<name>
+<prefix/>
+<first>Noreen</first>
+<middle/>
+<last>Tuross</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

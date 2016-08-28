@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44967" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1727</num_int>
+</course_number>
+<title>Sensory Korea</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Nicholas H. Harkness</faculty_text>
+<description>Spicy stews and softer soju, warm hearts and clean voices, fire illness and refreshing prayer: these are various sites through which Korean social life materializes. This course introduces contemporary South (and North) Korea through the cultural semiotics of the senses. Lectures and discussion will explore social class and mobility through the tastes and smells of food and drink; gender and religion through bodily experiences of illness and healing; politics and kinship through mass spectacle and feelings of human contact; and urban modernity through sound. Course materials combine history and ethnography, social and semiotic theory, and multimedia documentation.</description>
+<prerequisites>None. Korean language is helpful but not necessary.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf8a114fc4429cf23897a57f991bd63f">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>H.</middle>
+<last>Harkness</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

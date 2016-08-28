@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53708" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>Writing the World: Literature and Its Theories</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Delia Ungureanu</faculty_text>
+<description>The role and relations of author, reader, and text in creating fictional worlds are problems as old as literature itself. This course will look at how literature addresses these conceptual issues throughout time, from poetry to novels and plays. Each session will pair literary and theoretical texts that address one of the major conceptual issues involved in the creation and reading of literature. Using perspectives provided by Plato, Eco, Foucault, Barthes, Hutcheon, and others, we will analyze the types of relations configured among Author - Reader - Text through works that range from Shakespeare's Hamlet to Flaubert's Madame Bovary and Dostoyevsky's Notes from Underground, T.S. Eliot's Waste Land and Virginia Woolf's Mrs. Dalloway, and from Vladimir Nabokov's Pale Fire to short fictions by Jorge Luis Borges.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faf94a2aee8164f3e3c63a2eb86b49aab">
+<name>
+<prefix/>
+<first>Delia</first>
+<middle/>
+<last>Ungureanu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

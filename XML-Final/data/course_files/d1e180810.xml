@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39378" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>37</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Horror in Literature and Movies: Cultural, Psychological, and Scientific Aspects of the Horror Genre</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Steven C. Schlozman</faculty_text>
+<description>This seminar involves defining fictional horror and also creating horror stories. As such, the course is both a discussion of horror and an introduction to creative horror writing. We will utilize literature from film theorists, literary critics, cultural psychologists, neuroscientists, and the popular press. We will also examine seminal films and written stories. The instructor is both a medical school professor and a professional horror writer. Through techniques that have been employed at writing workshops and panel discussions, we will develop our own sense of what constitutes horror and at the same time hone our creative writing skills.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1bbf012b1ec0ad0cb6e4c384d63d2276">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Schlozman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

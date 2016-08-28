@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2176" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>212</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Topics in Plant Physiology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>N. Michele Holbrook</faculty_text>
+<description>A critical discussion of current research in plant physiology including measurement techniques, modeling, and experimental approaches.</description>
+<prerequisites>OEB 120 , OEB 52 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F805894e20c2b57d1b48bbbfb742a7248">
+<name>
+<prefix/>
+<first>Noel</first>
+<middle>Michele</middle>
+<last>Holbrook</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

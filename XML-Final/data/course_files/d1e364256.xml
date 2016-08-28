@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80515" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EGYPTIAN">Egyptian</course_group>
+<course_number>
+<num_char>Ab</num_char>
+</course_number>
+<title>The Language of the Pharaohs: Introduction to Egyptian hieroglyphs II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:30-3</meeting_text>
+<faculty_text>Peter Der Manuelian</faculty_text>
+<description>Continues Middle Egyptian I from the spring 2013 semester. Students will complete the introductory grammar book lessons, and move on to read a selection of basic stories, historical and biographical inscriptions, in the original hieroglyphs. Visits to the Egyptian galleries of the Museum of Fine Arts, Boston, in order to read some of the ancient hieroglyphic inscriptions on the original monuments, may also be included.</description>
+<prerequisites>Egyptian Aa, Middle Egyptian I or consent of instructor.</prerequisites>
+<notes>Offered jointly with the Divinity School as 4121.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F33d0218f6c7df0f0511ff24a5a7e48fc">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>Der</middle>
+<last>Manuelian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54999" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>Laboratory Electronics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>22</enrollment_limit>
+<meeting_text>Tu., Th., 1:30-5:30</meeting_text>
+<faculty_text>Thomas C. Hayes</faculty_text>
+<description>A lab-intensive introduction to electronic circuit design. Develops circuit intuition and debugging skills through daily hands-on lab exercises, each preceded by class discussion, with minimal use of mathematics and physics. Moves quickly from passive circuits, to discrete transistors, then concentrates on operational amplifiers, used to make a variety of circuits including integrators, oscillators, regulators, and filters. The digital half of the course treats analog-digital interfacing, emphasizes the use of microcontrollers and programmable logic devices (PLDs).</description>
+<prerequisites/>
+<notes>Engineering Sciences 153 is also offered as Physics 123. Students may not take both for credit. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faeea5c27f9df88b8160fd67ae557721d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>C.</middle>
+<last>Hayes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Faeea5c27f9df88b8160fd67ae557721d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>C.</middle>
+<last>Hayes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1730"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="206" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

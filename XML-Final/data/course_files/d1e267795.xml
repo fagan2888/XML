@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4260" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>241</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Practicum in Linguistics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Isabelle Carole Charnavel</faculty_text>
+<description>Presentation of reports on current research or assigned topics.</description>
+<prerequisites/>
+<notes>Required of second- and third-year Linguistics graduate students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffb29930a9fef4d2f0d0142e07c3d8e13">
+<name>
+<prefix/>
+<first>Isabelle</first>
+<middle>Carole</middle>
+<last>Charnavel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

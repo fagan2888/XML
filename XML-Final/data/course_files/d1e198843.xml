@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26005" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>Asia in the Making of the Modern World</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., 1-2:30, and a weekly 90-minute section to be arranged.</meeting_text>
+<faculty_text>Shigehisa Kuriyama (East Asian Languages and Civilizations) and Ian J. Miller (History)</faculty_text>
+<description>How did we come to live as we do? Why do we eat what we eat, wear what we wear, play the games that we play, take the SATs? The roots of a surprisingly large number of things that we now take for granted, as parts of everyday American life, lie deep in the Asian past. In this class you will learn to perceive global history in the American present, and more importantly, to make new historical discoveries yourself. You will master powerful new tools of research and presentation that will allow you to uncover the hidden ties binding our lives here and now with Asia centuries or even millennia ago, and to broadcast your original findings. No prior knowledge of Asian history or languages required. Limited enrollment.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdbe48e9d70a571fdece50053a0d056e0">
+<name>
+<prefix/>
+<first>Shigehisa</first>
+<middle/>
+<last>Kuriyama</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3a26ce1518f6308b400349875c90cb15">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>Jared</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

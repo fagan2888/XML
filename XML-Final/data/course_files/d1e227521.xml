@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55764" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1010</num_int>
+</course_number>
+<title>History of the Prison</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Elizabeth Kai Hinton</faculty_text>
+<description>This course provides an introduction to theories of social control, prison practices, and experiences of confinement. Our historical comparison of penal regimes from different time periods and different nations will explore fundamental questions about the purpose of government authority and the role of prisons in society. In the spirit of Nelson Mandela's famous observation that "no one truly knows a nation until one has been inside its jails," this course offers a deep and critical analysis of social exclusion, the contours of state power, and the malleability of the law and its function in various societies over time.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff47371f1a7c6cdb4a0170e97c80b67de">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>Kai</middle>
+<last>Hinton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

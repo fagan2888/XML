@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83222" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>222</num_int>
+</course_number>
+<title>Media Cultures in the People's Republic</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Jie Li</faculty_text>
+<description>This seminar examines the changing Chinese mediascape from the 1950s to the present. Every week, we will focus a different form of representational media, from propaganda posters, photography, radio broadcasting, and cinema, to television, video piracy, and the Internet. We will ask question such as: How have media technologies changed contemporary Chinese culture and society? Were they instruments of totalitarian control, commodities of market capitalism, or tools of resistance and independent expression? How did the mass media affect perception, experiences, and memories of socialism and postsocialism, as well as the periods' cultural forms and aesthetics? What is specific or special about each medium, and how do different types of media interact in the Chinese context? While analyzing media texts, we will also consider their sociopolitical, institutional, and technological as well as engage with media theories and explore untapped historical sources.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc06e4746ec56a05dc3384b7ffa9356ef">
+<name>
+<prefix/>
+<first>Jie</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

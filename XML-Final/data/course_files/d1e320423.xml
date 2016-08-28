@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4977" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>207</num_int>
+</course_number>
+<title>Developmental Neurobiology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>F., 10-12, W., 2-4</meeting_text>
+<faculty_text>Lisa V. Goodrich (Medical School), Michela Fagiolini (Medical School), Chenghua Gu (Medical School), and Beth Stevens (Medical School)</faculty_text>
+<description>Advanced topics in nervous system development, including embryonic and adult neurogenesis, axon guidance, synapse development, and critical periods. Focus on current areas of investigation, unresolved questions, and common experimental approaches.</description>
+<prerequisites>Neurobiology 200 or with permission of instructor.</prerequisites>
+<notes>Offered jointly with the Medical School as NB 720.0. Includes reading and discussion of primary literature aimed towards identifying important questions and developing a feasible research plan. The final exam consists of a grant proposal.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd8f28a5d24ad5df0eda74eac406ad469">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>V</middle>
+<last>Goodrich</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F037133f01b1da9891719b21a9c10d47c">
+<name>
+<prefix>Dr</prefix>
+<first>Chenghua</first>
+<middle/>
+<last>Gu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fee42510d5f0e91190914d9c492f19b69">
+<name>
+<prefix>Dr</prefix>
+<first>Michela</first>
+<middle/>
+<last>Fagiolini</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fef633e9e8d85e46a20db760b7b0a2b84">
+<name>
+<prefix>Dr</prefix>
+<first>Beth</first>
+<middle/>
+<last>Stevens</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

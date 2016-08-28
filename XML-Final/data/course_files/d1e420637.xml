@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31825" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2651</num_int>
+</course_number>
+<title>Social Cognition from a Developmental and Evolutionary Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Felix Warneken</faculty_text>
+<description>The course addresses traditional questions about the role of social cognition in human evolution and development, integrating the newest findings from comparative and developmental psychology. The course is structured around three themes (cultural learning, cooperation, and competition), corresponding to the three main theoretical approaches that have given rise to the study of social cognition from an evolutionary perspective. This course is discussion-based, bringing some new ideas (your ideas!) to bear on tricky questions that are still unresolved in the field.</description>
+<prerequisites/>
+<notes>Open to advanced undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3918f1a9b1dac463f83262a97a8e372d">
+<name>
+<prefix/>
+<first>Felix</first>
+<middle/>
+<last>Warneken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

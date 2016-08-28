@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40815" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>60</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Empire of Dirt: History of the United States West</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Rhae Lynn Barnes</faculty_text>
+<description>This seminar will introduce students to the history of the U.S. West. The course will examine the shifting place, process, idea, cultural memory, conquest, legacies, and environments of the U.S. West throughout American history. Drawing on recent historiography and primary sources such as journals, photography, music, film, and material culture, students will explore how individual people who fell under competing empires, nations, and tribes became a part of the United States. Major themes will include the mapping and the scientific cataloging of the West, racial caricature and exclusion, gender, imperialism, and the increasing role of the federal government.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9e098fdf4b40bcfed91a988c32c4668e">
+<name>
+<prefix/>
+<first>Rhae Lynn</first>
+<middle/>
+<last>Barnes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

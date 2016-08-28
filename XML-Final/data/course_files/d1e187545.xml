@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49715" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>51</num_int>
+</course_number>
+<title>The Cosmos of the Comedy</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jeffrey Schnapp (Romance Languages and Literatures)</faculty_text>
+<description>This course provides an in-depth exploration of Dante Alighieri's 14th-century masterpiece, the Divine Comedy, from the standpoint of the history of Western poetry, language, religious belief, geography and science. Particular attention is paid to Dante's dialogue with ancient authors such as Plato, Aristotle, Virgil and Ovid, as well as to imaginative mappings of Hell, Purgatory and Paradise. One of the course's highlights is a multimedia web-based competition in which all enrolled students compete for the annual Bedeviled Harvard prize.</description>
+<prerequisites/>
+<notes>Conducted in English. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd1b8a5cf9abfd7e2ad72de32a2b00284">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Schnapp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="102" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

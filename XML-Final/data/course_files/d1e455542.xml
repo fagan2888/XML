@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64297" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>167</num_int>
+</course_number>
+<title>Art, Crime and Law</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Cory Theodore Way</faculty_text>
+<description>Explores the intersection of art, crime and law, including: (1) how certain crimes involve-or are directed at or against-art; (2) how certain activities are interpreted as both crime and art; (3) how traditional artists and others have creatively depicted crime, criminals and deviance over the centuries; and (4) what contemporary laws and international treaties cover art crime, and what opportunities exist for further legislations/global cooperation. Case studies may involve the protest artist Banksy and other "street artists," the destruction of the Buddas of Bamiyan, the confiscation/destruction of art in armed conflict (e.g., World War II and the Bosnian War of 1992-95), the thefts at Boston's Isabella Gardner Museum, and many others. This course will be highly interdisciplinary and interactive, and it will encourage students to explore the topic from both scholarly and creative perspectives</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd0cc9efad81de673f7b1cae2e39e7c36">
+<name>
+<prefix/>
+<first>Cory</first>
+<middle/>
+<last>Way</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LAW - Pound Hall" room="202" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

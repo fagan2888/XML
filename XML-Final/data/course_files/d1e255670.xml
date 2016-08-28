@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68494" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>259</num_int>
+</course_number>
+<title>The History of the History of Science</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Naomi Oreskes</faculty_text>
+<description>A critical survey of conceptions of the history of science over the past hundred years or so and an interpretative engagement with why what's been said about science and its history has mattered so much.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F061d3c7baf040f0301684cd55e33d5a0">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle/>
+<last>Oreskes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

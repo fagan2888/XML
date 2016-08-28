@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35526" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>110</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Acting Lab: The Fusion of Intellect and Imagination for the Stage</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Thomas Derrah</faculty_text>
+<description>Following guidelines without a prescribed text, students will work on physical and vocal invention, exploring the many ways and styles in which dynamic and compelling stories can be told. In this course, we will aim to heighten imagination and observation, build confidence, and enhance extemporaneous speech and thought through exercises, exploring impulses, and imaginative courage. Techniques used will include both individual and group activities, Grotowski exercises, mask work, and classical commedia dell'arte.</description>
+<prerequisites/>
+<notes>Enrollment determined by audition. Students will audition for the course with a short improvisation described by the professor at the first class meeting.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb956b1e7ac42f3b9242080c587326c49">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Derrah</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

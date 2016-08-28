@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30956" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>212</num_int>
+</course_number>
+<title>Quantitative Cell Biology: Self-Organization and Cellular Architecture</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Cell biology - from foundations to current research topics. Intended for students without cell/molecular biology training. Cell architecture, molecular and phenomenological aspects, signaling, organelle form/function, trafficking, quantitative experimental techniques, models of cellular organization and dynamics.</description>
+<prerequisites/>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0f8eb98b54d512201eb1b5fa7b01fc9">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Needleman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

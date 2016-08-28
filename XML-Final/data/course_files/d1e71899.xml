@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1945" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>140</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Modern Chinese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Sections M., W., F., at 10, or 2, and two additional hours to be arranged.</meeting_text>
+<faculty_text>Panpan Gao</faculty_text>
+<description>Rapid reading of selections from books and articles.</description>
+<prerequisites>Chinese 130b, Chinese 130xb</prerequisites>
+<notes>Conducted in Chinese. No auditors. May not be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F57c1be4f605f4fdc856d43896d316cdc">
+<name>
+<prefix/>
+<first>Panpan</first>
+<middle/>
+<last>Gao</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="25a" type="Lecture"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="27a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="27a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="25a" type="Lecture"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

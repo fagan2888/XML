@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8296" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1600</num_int>
+</course_number>
+<title>Grounding the Global</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., W., at 10; Spring: M., W., at 2</meeting_text>
+<faculty_text>Michael Herzfeld (fall term) and Steven C. Caton (spring term)</faculty_text>
+<description>What is the value of anthropology for understanding today's world? This course illustrates the importance of an anthropological perspective for engaging with a wide range of pressing global issues such as border regimes, climate change, human rights, and health epidemics. Over the semester, students will grapple with what it means to "ground the global" through an emphasis on everyday experience, cultural particularity, subject formation, and collective action.</description>
+<prerequisites/>
+<notes>Freshmen welcome. This course is now specifically required of all Social Anthropology students, beginning with those who entered the concentration in 2013-14.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4da516f68fb02c445e7bb66990f2b686">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Herzfeld</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbe7849d3617ae4605b3a67dc96a4491e">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Caton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

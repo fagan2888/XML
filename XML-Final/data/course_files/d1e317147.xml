@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37145" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MICROBI">Microbiology</course_group>
+<course_number>
+<num_int>214</num_int>
+</course_number>
+<title>Mechanisms of Bacterial Pathogenesis and Host Immune Response</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-12</meeting_text>
+<faculty_text>Marcia Goldberg (Medical School), Jonathan C. Kagan (Medical School), and Michael Starnbach (Medical School)</faculty_text>
+<description>This course focuses on molecular mechanisms of bacterial pathogenesis and the host response to infection. The class consists of lectures and group discussions emphasizing methods, results, and interpretations of classic and contemporary literature. The course is designed to complement Microbiology 201.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F682660290cb56f77b04271c8e4d7137e">
+<name>
+<prefix/>
+<first>Marcia</first>
+<middle/>
+<last>Goldberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F379ade935dc5a56422360734a3d8fa13">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Starnbach</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F58f9996579c60564c66402022e3f893f">
+<name>
+<prefix>Dr</prefix>
+<first>Jonathan</first>
+<middle>C.</middle>
+<last>Kagan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6464" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2260</num_int>
+</course_number>
+<title>Central Europe: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alison Frank Johnson</faculty_text>
+<description>Major themes include nationalism, communism, the `Polish question,' the `Jewish question,' the political and economic viability of the Habsburg Empire, cultural exchange and diplomatic relations between Austria, Germany and the Russian Empire/Soviet Union.</description>
+<prerequisites>Reading Knowledge of either German, Polish, Czech, or another Central European language.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbce33fc85d702fa036f8fc9938d701eb">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Frank</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

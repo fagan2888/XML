@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9055" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2727</num_int>
+</course_number>
+<title>Empirical Methods in Corporate Finance</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2:30-5:30</meeting_text>
+<faculty_text>Paul Gompers (Business School), Samuel Gregory Hanson, Victoria Izashina, and Adi Sunderam</faculty_text>
+<description>Examines empirical research in corporate finance. Covers empirical research methodology, financial institutions, and financial policy. Major emphasis is on how to do well-executed and persuasive research in corporate finance.</description>
+<prerequisites/>
+<notes>Structured to minimize overlap with Economics 2725. Seminar format; students write referee reports and a research paper. Offered jointly with the Business School as 4220.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc34c4e8633a49bbedaf173710c929f0f">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>A.</middle>
+<last>Gompers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F39a1685631100219dab9c1820e9ad3ce">
+<name>
+<prefix/>
+<first>Samuel</first>
+<middle>Gregory</middle>
+<last>Hanson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4008be402914dc57f42968135490fa5d">
+<name>
+<prefix/>
+<first>Adi</first>
+<middle/>
+<last>Sunderam</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

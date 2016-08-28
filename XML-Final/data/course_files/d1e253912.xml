@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5317" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>Science, Technology, and Society in Modern East Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Dong Won Kim</faculty_text>
+<description>This course aims to survey the history of science and technology in East Asian countries-China, Japan and Korea-since the late 19th century. It will emphasize the mutual influence between science &amp; technology and society to answer how they become major industrial powers in the 21st century.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab564f9dd95d9ba8f91dfe3f0064f6e2">
+<name>
+<prefix/>
+<first>Dong Won</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="252" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

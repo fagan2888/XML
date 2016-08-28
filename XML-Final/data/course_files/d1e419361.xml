@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46912" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2475</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory for the Systems Neuroscience of Psychopathology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joshua William Buckholtz</faculty_text>
+<description>Research seminar examines the neurobiology of disinhibitory psychopathology (aggression, antisocial behavior, substance abuse). Students participate first-hand in personality/behavioral testing and brain imaging, and in weekly discussions of the genetics and cellular/systems/cognitive neuroscience of disinhibitory psychopathology.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F48a7feb18ea8ffc5b8dc7a746cec9b1d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>William</middle>
+<last>Buckholtz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F48a7feb18ea8ffc5b8dc7a746cec9b1d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>William</middle>
+<last>Buckholtz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

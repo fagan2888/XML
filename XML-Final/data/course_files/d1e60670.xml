@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2983" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Introduction to Choreography</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This introductory choreography course utilizes movement exploration to tap into the participant's aesthetic and interpretive skills as they are challenged to make dances. Explorations into the use of time, weight and space inform their creative process. Through a combination of readings, writings, discussions, videos and dance improvisation, the course focuses on how movement choices develop dances that are kinesthetic, dramatic, and artistic for both the performer and the audience. No previous dance experience necessary.</description>
+<prerequisites/>
+<notes>Enrollment determined by interview during the first week of class.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

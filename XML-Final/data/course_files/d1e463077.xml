@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8376" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="PAL">Pali</course_group>
+<course_number>
+<num_int>102</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Pali</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Parimal G. Patil and members of the Department</faculty_text>
+<description>Developing the skills gained in Introduction to Pali, the student reads texts of greater linguistic complexity in a wide variety of genres. The choice of text can be influenced by the students' particular interests. Where applicable, we will use the Pali commentarial tradition as a tool to understanding the texts, thus providing the student with access to this illuminating but challenging body of material.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

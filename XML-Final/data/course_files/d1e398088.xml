@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5431" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>248</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Phenomena of Elementary Particle Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12</meeting_text>
+<faculty_text>Tai T. Wu</faculty_text>
+<description>Recently, the Higgs particle was discovered experimentally by the ATLAS and the CMS Collaborations at CERN; it is the first spin-0 elementary particle ever observed. It is the purpose of this course to discuss various topics related to this particle.</description>
+<prerequisites>Prerequisite: Physics 145 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3bac5f219533652ba1cc8a0e5b206c5f">
+<name>
+<prefix/>
+<first>Tai</first>
+<middle>T.</middle>
+<last>Wu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

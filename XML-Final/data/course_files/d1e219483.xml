@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7051" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2310</num_int>
+</course_number>
+<title>Social Capital and Public Affairs: Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4:10-6</meeting_text>
+<faculty_text>Robert D. Putnam</faculty_text>
+<description>Topics in the relationship between politics and civil society in the US.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as DPI-360. Meets at the Kennedy School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1bc3994ee3e8c4e1f316677c66e7f75f">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>D.</middle>
+<last>Putnam</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1610" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="KSG - Taubman" room="301" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

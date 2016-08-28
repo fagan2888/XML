@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90876" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>215</num_int>
+</course_number>
+<title>Biological Dynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Aravinthan D. T. Samuel</faculty_text>
+<description>Develops theoretical basis for modeling and quantitative analysis of biological problems. Emphasis on contemporary research topics, including molecular, cellular and tissue dynamics; development and differentiation; signal- and mechano-transduction; individuals, populations and environments.</description>
+<prerequisites>Knowledge of differential equations and statistical mechanics at undergraduate level.</prerequisites>
+<notes>It is suggested that students may wish to take AP215 when this course is bracketed. May not be taken for credit in addition to AP215.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbe1481325f212cb3851d6aaef157a5f5">
+<name>
+<prefix/>
+<first>Aravinthan</first>
+<middle/>
+<last>Samuel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

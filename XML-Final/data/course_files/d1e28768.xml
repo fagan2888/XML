@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1049" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>206</num_int>
+</course_number>
+<title>Advanced Respiratory Physiology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 9-10:20</meeting_text>
+<faculty_text>James Preston Butler (Medical School)</faculty_text>
+<description>Respiratory measurements are an integral part of public health research. We will critically discuss their scientific bases, noting practical considerations and pitfalls, and their interpretations and inferences about physiological status and disease.</description>
+<prerequisites>EH 205 or equivalent, or signature of instructor indicating suitable background required. College-level physiology.</prerequisites>
+<notes>Offered jointly with the School of Public Health as EH 223.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffe6dcdbf0cf99bce744ab19ec0df8bad">
+<name>
+<prefix/>
+<first>James</first>
+<middle>P.</middle>
+<last>Butler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1020"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1020"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1522" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1720</num_int>
+</course_number>
+<title>Anthropology, Cultural Studies, and Film (The Frankfurt School)</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., W., at 11; film screening: F., 5-9 pm</meeting_text>
+<faculty_text>Steven C. Caton</faculty_text>
+<description>Focuses on feature-length commercial film (rather than ethnographic or documentary film) and some of the culture industries (Hollywood, Iran, and Egypt) that produce them, paying particular attention to the Middle East. What might an anthropology of film look like? Film theory and cultural studies will be examined for their contributions to the answer to that question. Topics include the culture industry, critical theory, the ethnographic gaze, orientalism, media studies, modernity, nationalism, and transnationalism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbe7849d3617ae4605b3a67dc96a4491e">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Caton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

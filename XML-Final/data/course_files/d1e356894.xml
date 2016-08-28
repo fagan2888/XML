@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4891" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="AKKAD">Akkadian</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Introductory Akkadian</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Gojko Barjamovic</faculty_text>
+<description>An introduction to the Semitic language of Akkadian, primarily through the Old Babylonian dialect and cuneiform writing system as used during the time of Hammurabi (c. 1750 BCE). Students learn the fundamentals of grammar and the writing system, as well as the most common cuneiform signs in official and cursive script. Readings span a variety of genres, including private letters, judicial documents, literary and religious texts, divinatory compendia, legal code, and royal inscriptions. The course also briefly introduces students to examples of texts from other periods and dialects of the Akkadian language for cultural and comparative purposes.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b00dba177010d0334940507032e9f1b">
+<name>
+<prefix/>
+<first>Gojko</first>
+<middle/>
+<last>Barjamovic</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1b00dba177010d0334940507032e9f1b">
+<name>
+<prefix/>
+<first>Gojko</first>
+<middle/>
+<last>Barjamovic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

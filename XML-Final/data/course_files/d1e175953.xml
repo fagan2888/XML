@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36551" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>24</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Getting to Know Charles Darwin</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-6</meeting_text>
+<faculty_text>William Friedman</faculty_text>
+<description>We will read a selection of Darwin's publications, as well as his private correspondence, paying close attention to the man behind the science as revealed by his writings. We will get to know Darwin, the avid breeder of pigeons, lover of barnacles, devoted father and husband, gifted correspondent and tactician, and remarkable backyard scientist. Together, the class will reproduce ten of Darwin's classic Down House experiments and observations that were central to his case for natural selection and evolution.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Required field trips to the Arnold Arboretum of Harvard University, the Museum of Comparative Zoology, and a local pigeon fancier will be included.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F68d7237568b20e9b5c74b29dddfe7a43">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Friedman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Herbaria" room="Seminar Rm 125" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

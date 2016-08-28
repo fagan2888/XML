@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10086" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>134</num_int>
+</course_number>
+<title>World Cinema</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Katharina Piechocki</faculty_text>
+<description>This course explores the development of world cinema from the silent era to the present. What is "world cinema"? How is "the world" created in cinema? How does cinema respond to global topics and debates? What contact zones exist between world cinema and world literature? What are the theoretical limits and practical challenges of "world cinema?" Can we "translate" films from one culture to another? This course includes films by Dziga Vertov, Man Ray, Maya Deren, Fritz Lang, Satyajit Ray, Jean-Luc Godard, Samira Makhmalbaf, Woody Allen, Sofia Coppola, Pedro Almodovar, Nadia Labaki, Zacharias Kunuk, and Deepak Rauniyar.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8b9f3118d75e6ba332177e2d231fd59b">
+<name>
+<prefix/>
+<first>Katharina</first>
+<middle>Natalia</middle>
+<last>Piechocki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97512" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.256</num_char>
+</course_number>
+<title>The Science of Emotion</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Adrienne Leigh Tierney</faculty_text>
+<description>Reason has been routinely championed as the epitome of human achievement and framed as profoundly at odds with emotion. For much of the 20th century, scientists had even characterized emotion as unimportant. However, after the past 30 years of research, we now understand emotion to be a crucial factor in human behavior, including reasoning. This class will focus on the science of emotion. We'll read theoretical and empirical pieces from psychology and neuroscience to explore what defines emotion, how it operates, and how it allows for the individuality and universality of human experience.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9ebea58018f737c8ba05f70b41d0c578">
+<name>
+<prefix/>
+<first>Adrienne</first>
+<middle>Leigh</middle>
+<last>Tierney</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

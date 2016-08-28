@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89477" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>172</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Vienna Interior</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joseph Koerner</faculty_text>
+<description>This course explores Vienna in its golden age (1890-1938) through attempts by its leading lights-including Klimt, Schiele, Freud, Wittgenstein and Schonberg-to imagine a new architecture of home. At once a built environment and a subjective inwardness, the Viennese interior was a blueprint of dwelling and of exile for our modern world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F08c1d573a5c2f51da2fbaace12f0d7fb">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Koerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

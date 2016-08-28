@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1725" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>37</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>Socrates and His Critics</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Amelie Rorty</faculty_text>
+<description>Was Socrates guilty of treason and impiety? Did he corrupt the young of Athens? In this seminar, we will read a number of Plato's "Socratic" dialogues (on friendship, sex, piety, imitation and censorship, courage, and justice), along with the work of authors whose views on these topics dramatically contrast with those of Socrates. The seminar will include Socratic discussions, with half the class taking the role of Socrates and half the role of his opponents; a visit to the Sackler Museum to compare Socrates' and Oscar Wilde's responses to art; and a dramatic re-enactment of the trial of Socrates.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff3003d944badb8d38e9298b05f0ada0b">
+<name>
+<prefix/>
+<first>Amelie</first>
+<middle/>
+<last>Rorty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

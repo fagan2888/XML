@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54506" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Scriptures and Classics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10 and an hour to be arranged.</meeting_text>
+<faculty_text>William Albert Graham</faculty_text>
+<description>An introduction to the history of religion through selective reading in significant, iconic texts from diverse religious and cultural traditions. Considers important themes (e.g., suffering, death, love, community, transcendence) as well as problems of method and definition as they present themselves in the sources considered. Readings from texts such as the Upanisads, Bhagavad Gita, Dhammapada, Lotus Sutra, Analects, Chuang Tzu, Gilgamesh, Black Elk Speaks, Aeneid, Torah, Talmud, New Testament, and Qur'an.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3225.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe4290077ff347c8195d7fafadb3557d4">
+<name>
+<prefix/>
+<first>William</first>
+<middle>A.</middle>
+<last>Graham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="110 (Fong Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

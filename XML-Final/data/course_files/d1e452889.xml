@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24423" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>Wb</num_char>
+</course_number>
+<title>Race, Poverty, and Justice</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 12-2</meeting_text>
+<faculty_text>Kaia Stern</faculty_text>
+<description>Race, Poverty and Justice surveys some of the key topics in urban sociology, focusing on major social problems in American cities. With particular attention to factors associated with crime, such as poverty, race, education, gender and unemployment, the course draws from different academic, media and narrative sources. Our focus on urban communities of concentrated poverty is intended to challenge students to think about policy solutions to complex problems. How do we respond to under-resourced schools, violence, joblessness, drug addiction and incarceration? Our methodological focus will be on qualitative data collection that includes ethnography and interviews. The last three weeks of the semester will be reserved for students to present original research projects designed to address the problems discussed in class. Questions for consideration: In what ways do various political, economic and religious ideologies shape our understandings of race? What kinds of practices lead us out of poverty? How do we understand justice? An optional visit to at least one Massachusetts state jail/prison will be incorporated into the curriculum.</description>
+<prerequisites>Sociology 97</prerequisites>
+<notes>Required of and limited to Sociology concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F17e8fe0917967a2d49451a7bbaf523cf">
+<name>
+<prefix/>
+<first>Kaia</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="501" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

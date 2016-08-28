@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5224" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Journal Club</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Each week two speakers (faculty, lecturers, and students) will report on current research in astronomy, providing students with an opportunity to practice the organization and presentation of technical material. A minimum of one presentation will be expected from each student each year focused on their own research or new results in the literature. Faculty will similarly discuss recent results from the literature, as well as their own research as a way to provide an overview of research activities at the Harvard Astronomy Department. The course is intended as an opportunity for substantive discussion, as an opportunity to find out about research activities, and to foster interaction between the students and faculty.</description>
+<prerequisites/>
+<notes>This course is offered each semester and attendance is required for all registered graduate students in Astronomy.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F35457916d166a9a937bec5d2b4246b0f">
+<name>
+<prefix/>
+<first>Edo</first>
+<middle/>
+<last>Berger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F35457916d166a9a937bec5d2b4246b0f">
+<name>
+<prefix/>
+<first>Edo</first>
+<middle/>
+<last>Berger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc1dccc9a636ffd158d025925e5379827">
+<name>
+<prefix/>
+<first>Alicia</first>
+<middle>M.</middle>
+<last>Soderberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1700"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Observatory Perkin Building" room="3/4 (Pratt Conference Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

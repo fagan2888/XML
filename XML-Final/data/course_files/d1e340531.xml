@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5424" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>65</num_int>
+</course_number>
+<title>Physical Biochemistry: Understanding Macromolecular Machines</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly laboratory/discussion section.</meeting_text>
+<faculty_text>Rachelle Gaudet and Andres Leschziner</faculty_text>
+<description>The course aims to develop fundamental concepts of biochemistry as they apply to macromolecules, including protein and nucleic acid structure, thermodynamics and kinetics, ligand interactions and chemical equilibria. The course will also emphasize how these concepts are used in studies of the structure and function of biological molecules, including examples from metabolism. In the weekly section, students will undertake a discovery-based laboratory research project in which they will apply these concepts toward understanding the structure and function of the ATPase domain from the ABC transporter associated with antigen processing (TAP).</description>
+<prerequisites>LPS A or LS 1a, Chemistry 20 or Chemistry 17, Math 1b</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F165edb8d123232254f2eb19b107308ff">
+<name>
+<prefix/>
+<first>Rachelle</first>
+<middle/>
+<last>Gaudet</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ffdb4a66a12b052321a6c121d74fe5f0d">
+<name>
+<prefix/>
+<first>Andres</first>
+<middle/>
+<last>Leschziner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

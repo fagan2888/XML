@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37166" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>165</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Baroque Architecture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joseph Connors</faculty_text>
+<description>Genial architecture, gardens, and urban planning from 1600 to 1750 in Rome (Maderno, Borromini, Bernini, Cortona, Piranesi), Naples (Fanzago), Sicily, Turin (Guarini), Venice (Longhena), Paris and Versailles (Le Vau, Le Notre, Francois &amp; Jules Hardouin-Mansart, Perrault), London (Jones, Wren, Hawksmoor, Vanbrugh), Vienna (Fischer von Erlach), Prague (Santini Aichel), Madrid, Salamanca, Lisbon, Mafra, Goa, Vilnius, Warsaw, and St. Petersburg. Issues to be treated include urban planning, landscape, water and fountains, earthquake reconstruction, the influence of mathematics and the sciences, architectural drawing and the illustrated architectural book.</description>
+<prerequisites/>
+<notes>Offered jointly with the Design School as GSD HIS 004361.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf826a81f657486507d7163597b3d539">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Connors</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

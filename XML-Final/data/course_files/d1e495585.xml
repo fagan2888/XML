@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99266" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1460</num_int>
+</course_number>
+<title>Christianity and Slavery in America, 1619-1865</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Catherine Brekus</faculty_text>
+<description>This course will explore the relationship between Christianity and slavery from 1619, when the first African slaves arrived in Virginia, to the Emancipation Proclamation of 1865. We will discuss biblical defenses of slavery, "scientific" racism, plantation missions, slave resistance and rebellion, abolitionism, and slave worship and theology. Readings include African-American memoirs, fugitive slave narratives, proslavery sermons, abolitionist newspapers, and interviews with ex-slaves. Students will also analyze visual representations of slavery and listen to slave spirituals.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

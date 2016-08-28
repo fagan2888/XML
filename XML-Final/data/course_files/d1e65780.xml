@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98708" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>239</num_int>
+</course_number>
+<title>The Consequences of Energy Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Daniel P. Schrag</faculty_text>
+<description>This course provides an introduction to the physical and chemical impacts of energy choices on human society and natural ecosystems. Topics will include the carbon cycle, climate, air and water pollution, impacts of energy systems on health, land use consequences of energy technologies, and nuclear waste and proliferation.</description>
+<prerequisites>College level chemistry and physics and permission of instructor.</prerequisites>
+<notes>This course is a requirement for the Graduate Consortium on Energy and Environment.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1578e68b0be8a33b6173f9884b4282fc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P.</middle>
+<last>Schrag</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5649" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Seeing is Believing: A History of Photography</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Robin E. Kelsey (History of Art and Architecture)</faculty_text>
+<description>Modern society is unthinkable without the photograph, and yet we rarely have occasion to ponder what photographs are, what they do, and how they do it. In this course, we will consider photography from its origins to the digital era, paying particular attention to its role as an engine of belief in various cultural domains. Our goal will be to understand more incisively how photographs define and shape relations between their subjects and their viewers.</description>
+<prerequisites/>
+<notes>Students who have taken Literature and Arts B-24 may not take this course for credit. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcda09aae232767cac57c6ef5075e7b5d">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Kelsey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

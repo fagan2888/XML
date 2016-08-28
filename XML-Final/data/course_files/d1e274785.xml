@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53245" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>250</num_int>
+</course_number>
+<title>Algebraic Invariants of Knots</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Alison Beth Miller</faculty_text>
+<description>Topics in classical and high-dimensional knot theory, with a focus on invariants related to the Alexander module. Possible topics: Seifert surfaces and pairings, Tristram-Levine signatures, the Blanchfield pairing, classification of simple n-knots, singularities of algebraic hypersurfaces, connections to arithmetic invariant theory.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F250614c400ce1f50d017f59c2a4cd0b7">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Beth</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="216" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

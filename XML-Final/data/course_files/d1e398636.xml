@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29114" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>254</num_int>
+</course_number>
+<title>The Standard Model</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Matthew Reece</faculty_text>
+<description>The Standard Model of particle physics: theory and experimental implications. Topics include nonabelian gauge theory, spontaneous symmetry breaking, anomalies, the chiral Lagrangian, QCD and jets, collider physics and simulation, the Higgs at the LHC.</description>
+<prerequisites>Introductory relativistic field theory, at the level of Physics 253a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F39c882f574a2e29392ec0d07d65a215b">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Reece</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

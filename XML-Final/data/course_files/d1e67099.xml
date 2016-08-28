@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2474" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>281</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Great Papers in Earth Sciences</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Peter John Huybers and Eli Tziperman</faculty_text>
+<description>A survey and discussion of groundbreaking papers from across the Earth sciences.</description>
+<prerequisites/>
+<notes>Open to undergraduate students with permission of instructor. Given in alternate years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F671d658c63bb83213b482ab3610ce08d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>John</middle>
+<last>Huybers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe1ffe9c112c1c708a96de4cf369b4eea">
+<name>
+<prefix/>
+<first>Eli</first>
+<middle/>
+<last>Tziperman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

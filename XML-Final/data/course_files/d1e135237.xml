@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17656" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>158</num_int>
+</course_number>
+<title>Feedback Systems: Analysis and Design</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Na Li</faculty_text>
+<description>This course provides an introduction to feedback and control in physical, biological, engineering, information, financial, and social sciences. The focus is on the basic principles of feedback and its use as a tool for inferring and/or altering the dynamics of systems under uncertainty. Key themes throughout the course will include linear system analysis, state/output feedback, frequency response, reference tracking, PID controller, dynamic programming, and limit of performance. This includes both the practical and theoretical aspects of the topic.</description>
+<prerequisites>Applied Math 21b or Math 21b or equivalent (ordinary differential equations and basic linear algebra).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fee9f09b1633e1397f0f68a511bada19e">
+<name>
+<prefix/>
+<first>Na</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

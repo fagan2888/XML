@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23117" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>108</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Exploring Race and Community in the Digital World</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1</meeting_text>
+<faculty_text>Carla Denny Martin</faculty_text>
+<description>This class will consider the study of race, ethnicity, and diaspora in relation to the digital world. Complex societal issues of power, domination, and bias follow us into digital spaces. Simultaneously, the much discussed digital divide has shifted from differential access to inequity in ownership, control, and content. The imagined democratizing promise of the digital exists in stark contrast to "the other". Individuals and collectives use digital technologies to reproduce and address notions of social difference. Hate groups actively recruit members and propagandize online via chat rooms, websites, social media, and virtual world games. Anti-racism organizations and individuals expose hate groups, educate on race and gender, transform the digital humanities to be more inclusive, and critique and advocate against faulty policies and stereotypical representations of minority groups. Digital environments are crucial spaces for research, critique, and social engagement on intolerance and inequality and simultaneously, positive ways of commemorating, representing, and engaging with shared experiences of race, gender, and ethnicity. Weekly workshops will feature expert guest visitors from a variety of interdisciplinary and cross-cultural backgrounds, and will be organized around a series of themes that are key to studies of race and technology. These workshops, open to faculty and students, will meet Thursdays from 11:30-1 pm. 30 students will be permitted to take this as a course; they will also meet on Tuesdays, 11:30-1 pm. Innovative assignments will develop student skills in digital research, content creation, and design.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5865f1233860d1cd612476ad4e53c50b">
+<name>
+<prefix/>
+<first>Carla</first>
+<middle>Denny</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Lecture"/>
+<location term="1" building="Barker Center" room="316" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

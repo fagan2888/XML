@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4303" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>201</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Stellar Astrophysics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Steven Robert Cranmer</faculty_text>
+<description>Stars are the basic building blocks of the universe, and they are responsible for the production of most elements via nucleosynthesis. This course covers the energy generation and transport in stars, stellar atmospheres and radiative transfer, stellar evolution, and asteroseismology. The Sun and its heliosphere are also studied as the closest and best-studied examples of a star and its circumstellar plasma. This course also provides a brief survey of planetary astrophysics, including the dominant processes acting in the interiors and atmospheres of planets in our own solar system and in others.</description>
+<prerequisites>Astronomy 200 (may be taken concurrently).</prerequisites>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9a34a951114d5b5a00ec9b89bd56783b">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>Robert</middle>
+<last>Cranmer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Observatory A Building" room="A-101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28863" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>127</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>An Album of Sketches, Designs, and Drawings from Nineteenth-Century Qajar Iran</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>David J. Roxburgh</faculty_text>
+<description>In 1960 the Harvard Art Museums acquired an album composed of sketches, designs, and finished drawings (no. 1960.161). The 57 album folios preserve these valuable resources, with the artworks arranged singly or in groups on each page. The corpus constitutes the materia technica used by artists to make objects in different media, principally lacquered pen boxes and mirror cases, which were purchased from the bazaar by members of Qajar society and Europeans who visited Iran between the early 1800s and 1900s. The album has not yet been the subject of close study, despite the fact that it is the richest resource of its kind known today. The goal of the seminar is to examine the album and its contents from different perspectives, the period in which it was made, to prepare for the album's exhibition and publication as a monograph in 2017.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe1ff1e585b2b311c17248381e8e9d73f">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J.</middle>
+<last>Roxburgh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

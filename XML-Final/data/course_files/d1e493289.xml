@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27714" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1043</num_int>
+</course_number>
+<title>The Self Writing the Self: Autobiography and Religion</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Janet Gyatso (Divinity School)</faculty_text>
+<description>This course explores the nature of selfhood as it is constituted in the writing of autobiography. Our questions include: What do autobiographies tell us about the relationship of personal identity, individuality, subjectivity, and alienation to religious truth? What can we say about the relationship of the lived life to what is remembered and written in autobiography? To whom are autobiographers telling their self-stories, and why? What constitutes such critical experiences as moments of conversion, enlightenment, or self-consciousness? Our interpretive methodology will draw from literary theory on autobiographical writing. Autobiographical writings to be studied include those by Augustine, Teresa of Avila, a Tibetan Buddhist hermitess, a Jewish Kabbalist mystic, a contemporary Chinese-American novelist, a 17th century Venetian Rabbi, an American freed slave, a Japanese pilgrim poet, and James Joyce.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3721. Students will keep autobiographical journals for the course, as an exercise in the practice of this genre of writing.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb9495475596cf9db5d15efcee025f30c">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Gyatso</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1891" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>238</num_int>
+</course_number>
+<title>Spectroscopy and Radiative Transfer of Planetary Atmospheres</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Kelly V. Chance</faculty_text>
+<description>Absorption, emission, and scattering of planetary atmospheres, emphasizing Earth. Atmospheric spectroscopic properties for various measurement geometries. Quantitative spectroscopy and atmospheric structure are reviewed. Radiative transfer modeling and simulation and interpretation of atmospheric spectra from microwave through ultraviolet.</description>
+<prerequisites>Ability to program in a high-level computer language (may be learned in parallel with the permission of the instructor).</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fded136a7005d9e82489781f48b774551">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle/>
+<last>Chance</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

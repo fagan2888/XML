@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43494" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>265</num_int>
+</course_number>
+<title>Science in/as/of Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>This seminar introduces students to Science and Technology Studies (STS), an interdisciplinary field seeking to understand the natural sciences as cultural and social practices. STS increasingly draws upon a diverse methodological and analytic toolkit: not only sociology, anthropology, and philosophy, but cultural studies, critical theory, gender, race, and postcolonial studies, and laboratory studies. Each unit in this course combines theories and methods in the social study of science with a series of cross-cutting themes including: proof, controversy, practice, actants and agency, post-humanism. Students will investigate the relation of STS to the History of Science and explore recent trends and theories in STS.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

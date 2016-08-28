@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54641" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.226</num_char>
+</course_number>
+<title>Who Owns the Past?</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Janling L. Fu</faculty_text>
+<description>What does it mean for archaeologists to discover and curate the past? We will consider the rights and problems around the passage of legislation arguing for the return of objects to Native American tribes in the United States. We will grapple with the very mission of archaeology as we study tombstones in Harvard's own backyard, investigating the challenges faced by archaeologists as they collect and interpret often apparently scant, fragile, and historically distant data. We will probe how political regimes use archaeology to legitimate versions of the past, examining cases in Israel and Palestine, Nazi Germany, and Saddam Hussein's regime.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8ba1304ec8e49fe4b02b8fd8598f93d9">
+<name>
+<prefix/>
+<first>Janling</first>
+<middle>L.</middle>
+<last>Fu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

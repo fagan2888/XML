@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4157" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2460</num_int>
+</course_number>
+<title>Diagnostic Interviewing</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Jill M. Hooley</faculty_text>
+<description>Students develop clinical interviewing and diagnostic skills using the Structured Clinical Interview for DSM-III-R and other instruments. Examines issues in diagnosis and assessment; provides exposure to psychopathology syndromes via tapes and clinical interviews.</description>
+<prerequisites>Psychology 2040.</prerequisites>
+<notes>Graduate students only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

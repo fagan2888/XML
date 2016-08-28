@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9647" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2541</num_int>
+</course_number>
+<title>Religious Experience: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>An in-depth analysis of the investigation into and construction and critique of "religious experience" in philosophy of religion, theology, critical religious thought and contemporary neuroscience. Issues will include asking what is at stake in the appeal to experience, what experience is or might be, and what evidence for such experiences currently looks like. Authors will include Edwards. James, Katz, Otto, Proudfoot, Schleiermacher, as well as contemporary neuroscientists.</description>
+<prerequisites>Previous work in theology or philosophy recommended.</prerequisites>
+<notes>Offered jointly with the Divinity School as 2675.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

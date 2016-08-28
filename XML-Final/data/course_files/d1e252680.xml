@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20134" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>146</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Bodies in Flux: Medicine, Gender, and Sexuality in the Modern Middle East</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Soha Bayoumi</faculty_text>
+<description>This course examines how bodies, genders and sexualities in the modern Middle East, from the nineteenth century to the Arab revolts, have been shaped and represented via changing and competing discourses. Through a variety of historical, ethnographic, media and literary readings, the course studies multiple and dynamic representations of bodies in flux: medicalized bodies, gendered bodies, sexualized bodies, (re)productive bodies, aging bodies and bodies in revolt. The course pays special attention to medicine and science in their interaction with laws, traditions and religious practices. Some of the topics covered include analyzing histories of and discourses on slavery, femininity and masculinity, homosexuality, health, reproduction, disabilities, circumcision and genital cutting/mutilation and gender-based violence.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9d999bb4ac1d9aef86ba61d054143aa2">
+<name>
+<prefix/>
+<first>Soha</first>
+<middle/>
+<last>Bayoumi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

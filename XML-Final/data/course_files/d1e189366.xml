@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2073" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>Pathways through the Andes-Culture, History, and Beliefs in Andean South America</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:00&amp;#8211;2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Thomas B. F. Cummins (History of Art and Architecture)</faculty_text>
+<description>This course explores the arts and cultures of Andean South America from the Pre-Columbian through Colonial periods. Emphasis is on the place of objects-textiles, ceramics, sculptures, and books-in the construction of meanings, identities and values as these changed over time. Readings are drawn from archaeology, ethnohistory, ethnology, art history and original sources. Students will work with Pre-Columbian and Colonial Andean artifacts in the collections of the Peabody Museum.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief or Societies of the World, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7af4ca3452ac573c0753da6cecb6869a">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>B.F.</middle>
+<last>Cummins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

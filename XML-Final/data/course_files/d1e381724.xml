@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37244" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>210</num_int>
+</course_number>
+<title>Writing Scientific Papers</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Andrew Richardson</faculty_text>
+<description>You've designed your experiment, made your measurements, and analyzed your data. Now what? How do you write a paper that will not only get accepted, but also get cited? This is a hands-on workshop course targeted at graduate students who are ready to write up their first research paper for submission to a peer-reviewed scientific journal. The class will emphasize the idea that your paper should tell a (nonfiction!) story that engages the reader. By the end of the semester you will have a coherent, well-structured, and polished manuscript.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdf129a2ca944d92912ab7d20ced01ba6">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8813" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Stellar and Planetary Astronomy</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>John Asher Johnson</faculty_text>
+<description>This course provides an introduction to the physical principles describing the formation and evolution of stars and their planetary companions. Topics include thermal radiation and stellar spectra; telescopes; energy generation in stars; stellar evolution; orbital dynamics; the Solar system; and exoplanets. This course includes an observational component: students will determine the distance to the Sun, and use the Clay Telescope atop the Science Center to study stellar evolution and detect exoplanets.</description>
+<prerequisites>An introductory course in mechanics, which may be taken concurrently, satisfied by Physics 11a, Physics 15a, Physics 16 or Physical Sciences 12a.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. This course is offered each year.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F47e69f4df4aefa2a6ed06b667196f8d4">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Asher</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

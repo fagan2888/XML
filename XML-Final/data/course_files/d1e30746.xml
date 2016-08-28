@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15743" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>319</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Biology and Control of Insect Vectors in Human Health</title>
+<course_type>Lecture</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>The course will provide an introduction to the biology, genetics and control of insect vectors of infectious diseases that are relevant for Public Health. The focus will be on the mosquito vectors of human malaria, however students will study other vector-borne diseases including African Trypanosomiasis, Dengue and Yellow Fever. The course will address the major biological components shaping vectorial capacity: vector/parasite interactions; immunity; host seeking behavior, reproduction; chemoreception. The role of symbionts and microbiota in insect physiology and disease transmission will also be discussed. Strengths and limitations of current control strategies based on the use of insecticides (bednets and sprays), traps, larvicidal compounds, biological agents and environmental strategies will be discussed, as well as novel strategies based on genetically modified organisms and paratransgenic control (bacteria/fungi). Students will also learn current methods for functional and comparative genomics of principal disease vectors.</description>
+<prerequisites/>
+<notes>The course runs from May 23, 2015 - May 15, 2015.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F2c32a1d082234f48a4c2ea4d40c16063">
+<name>
+<prefix>Dr</prefix>
+<first>Flaminia</first>
+<middle/>
+<last>Catteruccia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1530" end_time="1820"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

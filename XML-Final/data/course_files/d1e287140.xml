@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61023" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>304</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Introduction to Human Gross Anatomy</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Lectures, laboratory dissections, and prosections to explore the gross structure and function of the human body. Provide a foundation to acquire practical skills in recognizing, dissecting, and differentiating key anatomical structures.</description>
+<prerequisites/>
+<notes>Open to graduate students only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F374e54e326b7b4e260eaaa185fa5502f">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cardozo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

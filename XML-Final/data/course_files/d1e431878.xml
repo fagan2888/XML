@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8893" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Images of Brazil: Contemporary Brazilian Cinema</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: T., Th., 2:30-4. Spring: M., W., 2:30-4</meeting_text>
+<faculty_text>Clemence Jouet-Pastre and members of the Department</faculty_text>
+<description>Examines major Brazilian films in their historical, political, and social context. Class discussion also focuses on documentaries, reviews, and critical articles. In-depth textual and grammatical analysis, vocabulary building, reflections on the similarities and differences of the oral and written Portuguese will lead students to achieve a high level of competency.</description>
+<prerequisites>Portuguese C, 30, 37, or permission of course head.</prerequisites>
+<notes>Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese 40 website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="211" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

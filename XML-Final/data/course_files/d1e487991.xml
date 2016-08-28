@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6274" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>Greek Tragedy: The Electra Plays</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Naomi A. Weiss</faculty_text>
+<description>Close readings of two tragedies that deal with the same notorious family: Sophocles' Electra and Euripides' Electra. In addition to considering the plays' relationship with each other (and with Aeschylus' Libation Bearers), we will pay close attention to tragic diction, the construction of gender, dramatic conventions, and different styles of musical performance.</description>
+<prerequisites>Greek Ba or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73b4e209ff195e0bac9cbaff549f27ee">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle>A</middle>
+<last>Weiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

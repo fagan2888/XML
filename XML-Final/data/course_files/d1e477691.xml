@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48086" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>(Epi)Genomics and Genome Regulation</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>John L. Rinn and Alexander Meissner</faculty_text>
+<description>How does every cell use the same genome template to create a myriad of cellular functions? This course will introduce the basic principles behind genome regulation, ranging from classic studies to next generation approaches and technologies. A particular emphasis will be placed on the roles of epigenetic mechanisms and ncRNA in establishing cell fate. Collectively, students will gain a proficiency in understanding the key principles and questions faced in the post genomic era.</description>
+<prerequisites>Life Sciences 1a or equivalent; Life Sciences 1b; SCRB 10; MCB 52 or permission of the instructor.</prerequisites>
+<notes>This course is a condensed combination of SCRB 155 and SCRB 157.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2a26ee1728915af632b6e933e4d4b114">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>L</middle>
+<last>Rinn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ffcbc00c43acc3c71cd8e6a537a72c06a">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Meissner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

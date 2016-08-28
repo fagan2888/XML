@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33407" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1434</num_int>
+</course_number>
+<title>American Public Life in the 20th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Brett Flehinger</faculty_text>
+<description>A course covering the major public and political events in America from the administration of Teddy Roosevelt through Ronald Reagan. Focuses on both rising national unity and power, as well as persistent racial, gender, and economic division that conflicted with this unity. Topics include: the Progressive Era, New Deal, World Wars, and Civil Rights Movement, and Watergate.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff8649cdb68955a28e2bfc520deb4ba77">
+<name>
+<prefix/>
+<first>Brett</first>
+<middle/>
+<last>Flehinger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

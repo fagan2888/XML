@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7130" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>Beginning Portuguese I</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M.,T., W., Th. , at 11, 12 or 1</meeting_text>
+<faculty_text>Viviane Gontijo and members of the Department</faculty_text>
+<description>An introductory course designed to introduce the student with little or no knowledge of the language to the Portuguese-speaking world. Focuses on fundamental communication skills -- listening, speaking, reading, and writing -- and, at the same time, provides exposure to Portuguese-speaking cultures through media broadcasts, literature, films, music, and videos.</description>
+<prerequisites/>
+<notes>Conducted in Portuguese. May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese Aa website. Students who have studied Portuguese for two years or more in secondary school must begin at Portuguese Ab or higher. Students with an advanced knowledge of Spanish should enroll in Portuguese Ac instead of Portuguese Aa.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4b5a157452d50cc583464c6528f091df">
+<name>
+<prefix/>
+<first>Viviane</first>
+<middle/>
+<last>Gontijo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="307" type="Section"/>
+<location term="1" building="Sever Hall" room="307" type="Section"/>
+<location term="1" building="Sever Hall" room="307" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

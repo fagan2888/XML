@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45671" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APCOMP">Applied Computation</course_group>
+<course_number>
+<num_int>297</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Computational Science and Engineering Capstone Project</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 9-11</meeting_text>
+<faculty_text>Pavlos Protopapas and Cristopher R. Cecka</faculty_text>
+<description>The CSE capstone project is intended to integrate and apply the skills and ideas CSE students acquire in their core courses and electives. By requiring students to complete a substantial and challenging collaborative project, the capstone course will prepare students for the professional world and ensure that they are trained to conduct research. There will be no homework or lectures. Students will be dealing with real-world problems, messy data sets, and the chance to work on an end-to-end solution to a problem using computational methods.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8687365fe291ffb88448df3c06b28502">
+<name>
+<prefix/>
+<first>Pavlos</first>
+<middle/>
+<last>Protopapas</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F423284d44b50e57a3f46b2ec875259db">
+<name>
+<prefix/>
+<first>Cristopher</first>
+<middle/>
+<last>Cecka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

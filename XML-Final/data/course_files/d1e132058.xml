@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50605" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>The Joy of Electronics - Part 1</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1&amp;#8211;2:30; followed by 2-hour lab.</meeting_text>
+<faculty_text>David Eric Abrams</faculty_text>
+<description>Introduction to designing circuits to solve real problems. Two lecture and two lab sessions a week blend instruction with hands-on lab work to emphasize understanding, building and testing circuits. The course incorporates useful design experiences from day one. Covered topics include amplication, feedback, impedance, stability, filtering, switching, digital logic, microcontrollers, and more. The class ends with an open ended project that challenges students to build on core concepts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F98a1c3f176f79c622ce9e97759aa4be7">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Eric</middle>
+<last>Abrams</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F98a1c3f176f79c622ce9e97759aa4be7">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Eric</middle>
+<last>Abrams</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="G-115" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

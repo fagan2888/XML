@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49177" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>255</num_int>
+</course_number>
+<title>Metamorphoses of the Vampire</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Janet Beizer</faculty_text>
+<description>The vampire myth came of age with literary modernism and shares with it an identity in displacement, fragmentation, and fluidity. Texts may include Baudelaire, Nodier, Balzac, Gautier, Maupassant, Rachilde, Stoker, Coppola, and theory.</description>
+<prerequisites/>
+<notes>Conducted in French or English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8a5c0427496442fd9ebecde474ce1896">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle>L.</middle>
+<last>Beizer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

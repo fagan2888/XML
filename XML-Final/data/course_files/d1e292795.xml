@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65789" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="DRB">DRB</course_group>
+<course_number>
+<num_int>312</num_int>
+</course_number>
+<title>Epigenetic Modifications and Cellular Identity</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Ffcbc00c43acc3c71cd8e6a537a72c06a">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Meissner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ffcbc00c43acc3c71cd8e6a537a72c06a">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Meissner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3828" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2030</num_int>
+</course_number>
+<title>Psychology and Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>David I. Laibson and Andrei Shleifer</faculty_text>
+<description>Explores economic and psychological models of human behavior. Topics include bounded rationality, intertemporal choice, decision making under uncertainty, inference, choice heuristics, and social preferences. Economic applications include asset pricing, corporate finance, macroeconomics, labor, development, and industrial organization.</description>
+<prerequisites>Knowledge of multivariable calculus and econometrics.</prerequisites>
+<notes>Primarily for graduate students but open to undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F96a8d36bc5067e1aa6b31b49e2cf8040">
+<name>
+<prefix/>
+<first>David</first>
+<middle>I.</middle>
+<last>Laibson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7ca55c65e5ebe038d5511c67077b95c6">
+<name>
+<prefix/>
+<first>Andrei</first>
+<middle/>
+<last>Shleifer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

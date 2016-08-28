@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8319" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>83</num_int>
+</course_number>
+<title>Language, Structure, and Cognition</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Maria Polinsky</faculty_text>
+<description>What do the world's almost 7,000 languages have in common? Why do they show recurrent commonalities and principled differences? What do they reveal about the human ability for speaking and thinking? How do languages develop? How do they die? This course addresses these and related questions while introducing the languages of the world; their distribution, recurrent structural properties, and genetic classification; processes of language contact; and the relationship between language and the brain.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffc33fb29a8029a4dce510f312600015e">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle/>
+<last>Polinsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="213" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

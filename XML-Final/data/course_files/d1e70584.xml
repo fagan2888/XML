@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3600" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>106</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Introduction to Literary Chinese</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Chen Zhang</faculty_text>
+<description>Introduction to pre-Qin philosophical texts.</description>
+<prerequisites>Chinese 106a or permission of instructor.</prerequisites>
+<notes>An additional lecture slot may be added if enough students enroll, with times to be arranged.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F734163b3f47d3ed15be79bbdc9a74df5">
+<name>
+<prefix/>
+<first>Chen</first>
+<middle/>
+<last>Zhang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

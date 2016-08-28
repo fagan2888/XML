@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76384" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>ak</num_char>
+</course_number>
+<title>The Vietnam War in American Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Steven Biel</faculty_text>
+<description>Considering a range of texts by and about soldiers and veterans, policy makers and protesters, reporters and refugees, the course explores Americans' contested and changing understandings of the experiences and meanings of the U.S. war in Vietnam. Texts include popular films, documentaries, journalism, fiction, letters, diaries, government documents, and war memorials.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9277acf7f9277ac1c2802eefc06c206b">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Biel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="128 (Kates Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

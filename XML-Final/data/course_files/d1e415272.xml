@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65987" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1852</num_int>
+</course_number>
+<title>Clinical Psychology in Everyday Life</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Lauren Cristina Santucci</faculty_text>
+<description>This course is designed to give you exposure to the types of evidence-based psychological interventions available for many clinical and non-clinical conditions, such as sadness, anxiety, substance use, insomnia, pain-management, weight-loss, and why your roommate can't stop interrupting you. While the seminar emphasizes intervention research in the context of children and adolescents, the principles are often applicable across age groups. The seminar is not a self-help program or a training program for providing therapeutic services to others. Instead, the weekly discussions, exercises, and assignments will help you view the world through the lens of a scientist-practitioner - and apply those insights to everyday life in a scientific manner.</description>
+<prerequisites>Science of Living Systems 20 and Psychology 18.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd60ae019a034046bd785d8b38f422619">
+<name>
+<prefix/>
+<first>Lauren</first>
+<middle>Cristina</middle>
+<last>Santucci</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

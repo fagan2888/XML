@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81563" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1272</num_int>
+</course_number>
+<title>Global Reproductive Health</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Madina Agenor</faculty_text>
+<description>This course examines how poverty, development and global health policies, legacies of colonialism, and public infrastructure influence sexual and reproductive health outcomes (pregnancy, maternal and child health, HIV/AIDS, cervical cancer) and access to sexual and reproductive health services (family planning, abortion, HIV testing and counseling, cervical cancer screening) among women in developing countries. We will also address how inequities based on socioeconomic position, ethnicity, nationality, religion, gender, and sexuality shape sexual and reproductive health inequities within countries in the Global South and how women have responded to these challenges through individual and collective agency.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbeece13e4d353db31f9d2281d3364ccd">
+<name>
+<prefix/>
+<first>Madina</first>
+<middle/>
+<last>Agenor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

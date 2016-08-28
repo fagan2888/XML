@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27876" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1212</num_int>
+</course_number>
+<title>The Archaeology of Modern Human Origins: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 11-1</meeting_text>
+<faculty_text>Christian Alexander Tryon</faculty_text>
+<description>One of the key areas of debate in paleoanthropology today is the emergence and dispersal of biologically and culturally modern humans. This seminar provides students with the scientific foundation to contribute to this debate and to understand its significance in a broader anthropological context. Using readings, discussion, hands on analysis of ancient artifacts and student-driven presentations, we will examine the history of investigation, relevant methodological, interpretive and epistemological issues, and a detailed survey of the empirical data from our African roots to the subsequent global dispersal and replacement of hominin populations that included the Neanderthals.</description>
+<prerequisites>Anthropology 1010</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffd043baeb07c6e397cf2549816223931">
+<name>
+<prefix/>
+<first>Christian</first>
+<middle>Alexander</middle>
+<last>Tryon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

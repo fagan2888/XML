@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26805" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.162</num_char>
+</course_number>
+<title>Gothic Fiction</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Patricia M. Bellanca</faculty_text>
+<description>This course explores the meaning and function of Gothic literature, a genre characterized by secrecy, perversion, madness, and death. In our first unit, short stories-of various centuries and nations-will allow us to develop a working definition of Gothic. In unit two we'll interpret Jane Austen's Gothic spoof Northanger Abbey in the context of both popular fiction and eighteenth-century debates about reading. The third unit introduces research methods that focus on the works of Edgar Allan Poe.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fded9c7ebfa7c3b450747811a1c46b639">
+<name>
+<prefix/>
+<first>Patricia</first>
+<middle/>
+<last>Bellanca</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

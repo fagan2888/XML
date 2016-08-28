@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30214" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Openings: The Illuminated Manuscript</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jeffrey F. Hamburger (History of Art and Architecture)</faculty_text>
+<description>In an age of mechanical - and now virtual - reproduction, we have lost sight of the basic visual unit that structures our experience of the book: the opening. Employing old and new technologies, this course focuses on medieval books, their decoration and their readers in the Middle Ages (ca. 300-1500), when the book as we have known it, along with allied institutions, such as the university itself, first came into being.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F172929cf4c6b52dd8d88e24d67ad2549">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>F.</middle>
+<last>Hamburger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

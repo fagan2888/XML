@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18224" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>259</num_int>
+</course_number>
+<title>Policing Urban Communities</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Anthony A. Braga</faculty_text>
+<description>Examines the issues involved in providing fair and effective police services to urban communities. Questions of how police can effectively prevent crime while enhancing their legitimacy will be addressed. Major police innovations over the last thirty years, such as community and problem-oriented policing, are closely examined and discussed. Sociological and criminological theories, as well as empirical evidence, are applied to understand critical issues that persist for the policing profession such as race, use of force, and police deviance.</description>
+<prerequisites/>
+<notes>Undergrads by permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F654eb6107c36bce5d9326ec01cd615b8">
+<name>
+<prefix/>
+<first>Anthony</first>
+<middle/>
+<last>Braga</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="501" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

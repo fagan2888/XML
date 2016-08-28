@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6926" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1493</num_int>
+</course_number>
+<title>Contemporary Roman Catholic Theology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Francis Fiorenza (Divinity School)</faculty_text>
+<description>A survey of contemporary Roman Catholic theology that discusses issues in the interpretations of God, Jesus, and the church with reference to theological method. The broad spectrum of present-day Roman Catholic theology will be covered through an analysis of diverse theologians and approaches: existential, transcendental, liberationist, feminist, analytical, and hermeneutical.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 2479.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2996850aad46273857ba447ccb886940">
+<name>
+<prefix/>
+<first>Francis</first>
+<middle>Schussler</middle>
+<last>Fiorenza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55275" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.253</num_char>
+</course_number>
+<title>Wizards and Wild Things</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>David C. Barber</faculty_text>
+<description>This course will consider the origin and evolution of children's literature by examining pivotal works from the Puritan era to the present. We'll also draw on critical perspectives as we consider evolving ideas of childhood, persistent disputes about what children should read, and the essential function of imaginative literature for children. In the final unit, students will conduct research to place a major children's author of their choice in a relevant cultural and historical context.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1d9562f3ecdbbf1dd9d3bae781b70eab">
+<name>
+<prefix/>
+<first>David</first>
+<middle>C.</middle>
+<last>Barber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="211" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

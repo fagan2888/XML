@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36062" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERM-STD">Germanic Studies</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Germanic Mythology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Stephen A. Mitchell</faculty_text>
+<description>Examines pre-Christian religions of the Germanic peoples, with an emphasis on Old Norse sources (especially Snorra edda, and eddic and scaldic poetry) but also with references to non-Scandinavian materials (e.g.Heliand; Old English metrical charms).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

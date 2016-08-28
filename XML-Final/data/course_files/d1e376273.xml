@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72995" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NEURO">
+<dept_long_name>Committee on Degrees in Neurobiology</dept_long_name>
+<dept_short_name>Neurobiology</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>hff</num_char>
+</course_number>
+<title>Seeing Time in the Brain</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 7&amp;#8211;8:30 p.m.</meeting_text>
+<faculty_text>Members of the Department</faculty_text>
+<description>Time critically shapes our perceptual experience, yet how the brain represents time is poorly understood. This course investigates the experience of time from multiple perspectives, focusing on a systems-level analysis of visual time perception. Topics include illusions of time, neuronal mechanisms of time, the meaning of timescales, models of time perception, and the influence of expectation on brain activity.</description>
+<prerequisites>LS 1a, MCB 80, and permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F354c73c7356f9f19f4b85caf1c730094">
+<name>
+<prefix/>
+<first>J.</first>
+<middle>Patrick</middle>
+<last>Mayo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

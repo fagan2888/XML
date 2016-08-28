@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59961" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2324</num_int>
+</course_number>
+<title>Contesting Political Theology and Secularization: Schmitt, Lowith, Blumenberg: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Peter E. Gordon</faculty_text>
+<description>The political and legal theorist Carl Schmitt famously observed that "All significant concepts of the modern theory of the state are secularized theological concepts." But what does it mean to secularize a concept? This graduate-level seminar will explore the controversy and aftermath of this political-theological dictum by considering the broader history of theoretical debate concerning the place of religion in the modern world. We will focus on works by Carl Schmitt together with his many interlocutors, including Walter Benjamin, Jacob Taubes, and Erik Peterson, with special attention to the postwar debate over secularization between Karl Lowith and Hans Blumenberg.</description>
+<prerequisites/>
+<notes>The seminar involves intensive reading of theoretical and philosophical texts, and it is open to advanced undergraduates only at the discretion of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

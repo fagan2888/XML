@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50046" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORHIST">Korean History</course_group>
+<course_number>
+<num_int>257</num_int>
+</course_number>
+<title>Modern Korean History: Special Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Carter J. Eckert</faculty_text>
+<description>Readings and research in modern Korean history. Students are required to write a seminar paper based largely on primary materials. Focus in Spring 2015 will be on contemporary (post-1945) Korean history, especially the Park Chung Hee period (1961-1979).</description>
+<prerequisites>Korean History 253 or equivalent, and reading proficiency in Korean.</prerequisites>
+<notes>Note: This course is designed as a one-semester substitute for Korean History 255, which will not be offered in 2014-2015.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

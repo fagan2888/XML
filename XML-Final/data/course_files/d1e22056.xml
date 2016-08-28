@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39129" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2695</num_int>
+</course_number>
+<title>Design Anthropology: Objects, Landscapes, Cities</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 3-6</meeting_text>
+<faculty_text>Gareth Gerard Doherty (Design School)</faculty_text>
+<description>This course will examine the intersections between design and anthropology. In recent years, there has been a movement in anthropology toward a focus on objects, while design, which has traditionally been concerned with objects, has been moving toward the understanding of objects as part of a greater milieu. This course explores the common ethnographic ground. No background in anthropology or design required.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as GSD 3336.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9ed55ba9e0f59679aa050c1843f0e7ea">
+<name>
+<prefix/>
+<first>Gareth</first>
+<middle>Gerard</middle>
+<last>Doherty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

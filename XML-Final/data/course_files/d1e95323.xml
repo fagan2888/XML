@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3130" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1815</num_int>
+</course_number>
+<title>Social Problems of the American Economy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Lawrence F. Katz</faculty_text>
+<description>Examines selected social and economic problems of the US and evaluates market and governmental solutions. Topics include discrimination, income and wage inequality, welfare reform, antipoverty strategy (including education and training programs), homelessness, crime, and charitable behavior.</description>
+<prerequisites>Ec 10a and Ec 10b or permission of the instructor.</prerequisites>
+<notes>A research paper is required. This course meets the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2385b7a6f221e630e40d2444a5fbbaa7">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>F.</middle>
+<last>Katz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

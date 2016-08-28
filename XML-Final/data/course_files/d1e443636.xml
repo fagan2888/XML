@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7101" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>148</num_int>
+</course_number>
+<title>Strange Russian Writers</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11and a weekly section to be arranged.</meeting_text>
+<faculty_text>Stephanie Sandler</faculty_text>
+<description>Studies Russia's rebels, deviants, martyrs, loners, and losers as emblems of national identity. Stories, films and poems that project Russia's distinctive obsessions with history and religion. Includes Gogol, Dostoevsky, Tolstoy, Leskov, Kharms, Platonov, Nabokov, Petrushevskaya, Prigov; films by Eisenstein, Tarkovsky, Askoldov, Sokurov.</description>
+<prerequisites/>
+<notes>All readings in English. Separate additional section for those able to read texts in Russian. This course, when taken for a letter grade, meets the General Education requirement for either Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

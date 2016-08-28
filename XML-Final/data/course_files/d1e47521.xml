@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7505" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Organic Synthesis Towards a Genomic Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Stuart L. Schreiber</faculty_text>
+<description>Organic Synthesis Towards a Genomic Medicine teaches students principles of modern organicsynthesis, chemical biology and genome biology relevant to the discovery of safe and effective therapeutics in the future. The course will then explore patient-based 'experiments of nature' that illuminate disease, including cancer, diabetes, infectious disease and psychiatric disease, among others. Students will then use their knowledge of chemistry and chemical biology to propose research yielding novel small molecules that emulate the experiments of nature. Chem 101 aims to prepare students for the next decade where academic research tests hypotheses emerging from humanbiology in humans using novel small-molecule probes.</description>
+<prerequisites>Chemistry 17/27, Chemistry 20/30, or the equivalent</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9e6aac3b53a1abd8d747ee1f3c733471">
+<name>
+<prefix/>
+<first>Stuart</first>
+<middle>L.</middle>
+<last>Schreiber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" A" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

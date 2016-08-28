@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9344" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Introduction to Applied Mathematics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Christopher Rycroft and Avi M. Shapiro</faculty_text>
+<description>Introduction to the problems and issues of applied mathematics. This will be accomplished both through the reading of papers that use mathematical arguments to have substantial impact on some field of human activity, as well as guest lecturers from around Harvard to discuss how mathematics is used in their field.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F72f56f5fa5293bd91a51a1b6290e94bd">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle/>
+<last>Rycroft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2add28de1f08ae4b2d4f2d0bb3187122">
+<name>
+<prefix/>
+<first>Avi</first>
+<middle/>
+<last>Shapiro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

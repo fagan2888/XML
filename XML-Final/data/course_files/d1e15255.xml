@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1793" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1210</num_int>
+</course_number>
+<title>The Archaeology of Ancient China</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Rowan K. Flad</faculty_text>
+<description>A survey of the archaeology of China from the origins of humans during the Palaeolithic into the Bronze Age (ca. 220 BCE), with an emphasis on the origins of agriculture and the emergence of complex society during the late Neolithic and Early Bronze Age. We survey important archaeological finds from these periods and examine relevant issues in anthropological archaeology. Sections will involve the discussion and use of materials from the Peabody and Sackler Museums.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a16a2de6b6120f4f3adb5a1e7d35dc0">
+<name>
+<prefix/>
+<first>Rowan</first>
+<middle>K.</middle>
+<last>Flad</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="Putnam Lab (59-D)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

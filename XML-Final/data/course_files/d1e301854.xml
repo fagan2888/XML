@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82892" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>235</num_int>
+</course_number>
+<title>Principles of Human Disease: Physiology and Pathology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 9-10:30</meeting_text>
+<faculty_text>Constance L. Cepko (Medical School), and members of the Medical School</faculty_text>
+<description>This course covers the normal physiology and pathophysiology of selected organs, through lectures, readings, tutorials based on clinical cases, and patient presentations. Human biology is emphasized, with some examples also drawn from model organisms.</description>
+<prerequisites>Knowledge of introductory biochemistry, molecular biology, and cell biology required (MCB52 and MCB54 or equivalent and one year of organic chemistry for undergraduates).</prerequisites>
+<notes>Course enrollment will be limited, with priority given to graduate students and a maximum of 10 undergraduates (priority given to seniors).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbc6cd562f07d3c556a73acb2cb69020b">
+<name>
+<prefix/>
+<first>Connie</first>
+<middle/>
+<last>Cepko</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1030"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1030"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1471" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>82</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Fin-de-Siecle Vienna</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Alison Frank Johnson 5313</faculty_text>
+<description>Explores the history of the political, social, and cultural center of the largest continental European Empire in modern history, and one of the birthplaces of European modernism. From the 1880s through WWI and into the early years of the Republic of Austria, the course examines not only Vienna's intellectual vitality, but also the social and ideological divisions underlying the human catastrophes of World War and genocide in the twentieth century.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbce33fc85d702fa036f8fc9938d701eb">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Frank</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="106" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3018" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>244</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Networks Design Projects</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>The contents and course requirements are similar to those of Computer Science 144r, with the exception that students enrolled in Computer Science 244r are expected to do substantial system implementation and perform graduate-level work.</description>
+<prerequisites>Computer Science 143 or equivalent experience.</prerequisites>
+<notes>Preference given to upper-class undergraduates or graduate students in computer science or in business who are proficient in computer programming or in business software.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fab8407c04815d5cc75e496a62d13b31b">
+<name>
+<prefix/>
+<first>H.T.</first>
+<middle/>
+<last>Kung</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

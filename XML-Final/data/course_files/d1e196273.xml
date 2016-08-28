@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2635" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>25</num_int>
+</course_number>
+<title>Trees, Forests and Global Change</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section/laboratory to be arranged.</meeting_text>
+<faculty_text>Donald H. Pfister (Organismic and Evolutionary Biology)</faculty_text>
+<description>Forests cover nearly one third of the earth's land surface area. They provide a vast range of products and services to human civilization, and are important for economic and cultural reasons. This class will provide students with an introduction to the biology and ecology of forest ecosystems. An overarching theme throughout the course will be to understand how climate change will affect forests and the ecological services we derive from them, and in turn how forests can affect their own growth environment and climate change itself.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4bee53341e1e8a9c831f393e139bc0a8">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle>H.</middle>
+<last>Pfister</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23048" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>985</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>Research in International Trade, Education, and Public Economics</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anne Nathalie LeBrun</faculty_text>
+<description>Workshop for seniors writing theses. Especially for topics in international trade, education, or public economics, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3c5d7d2138fd7d6d770987d2c8300089">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>N.</middle>
+<last>Le Brun</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3c5d7d2138fd7d6d770987d2c8300089">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>N.</middle>
+<last>Le Brun</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

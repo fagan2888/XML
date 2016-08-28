@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64588" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2250</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Proseminar in Archaeology</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Gary Urton and C. C. Lamberg-Karlovsky</faculty_text>
+<description>This graduate seminar reviews critical issues in archaeological approaches to the study of complex societies, including writing, trade, craft specialization, technology, landscape, urbanism, and political organization.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa512804ed79c861545ff45ddbf1564fc">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Urton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

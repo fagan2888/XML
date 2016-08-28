@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9774" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1009</num_int>
+</course_number>
+<title>Religion, Gender, and Politics in Transnational Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Ann D. Braude (Divinity School) and Leila N. Ahmed (Divinity School)</faculty_text>
+<description>The course follows key themes in religion and gender as these were shaped and reshaped through the colonial and post-colonial eras. In particular, the religious history of American women and the history of women in Islam primarily in relation to the Middle East (professors Braude's and Ahmed's fields respectively) are intertwined and brought into conversation. The interaction of religion, gender and sexuality and the turns and complexities imparted to these by the politics of imperialism, race, resistance, and the politics of class, are examined in the context of the emergence of modernity, nationalism, feminism and the globalization of religions in the wake of empire and Christian mission.</description>
+<prerequisites/>
+<notes>Offered jointly with Divinity school as 3223.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F879e152c02a8e7c5235363c6f3b44ad0">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Braude</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3a0b7c1827e5efebc50f0c8afb5cd563">
+<name>
+<prefix/>
+<first>Leila</first>
+<middle/>
+<last>Ahmed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

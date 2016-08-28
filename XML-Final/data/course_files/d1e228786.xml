@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83327" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1079</num_int>
+</course_number>
+<title>Breaking Headlines: The History of News</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Heidi Jacqueline Tworek</faculty_text>
+<description>An untold story lies behind the news that we read, hear or see every day and the media sources that we mine constantly as historians. This lecture course introduces students to the major themes and approaches to the historical study of news from the `invention' of modern newspapers in the seventeenth century to the multiplication of media today. Topics include journalism, propaganda, public opinion, news agencies, radio, television, and Twitter.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F12e88e247a4bfd7c00db1c425c4b5c9e">
+<name>
+<prefix/>
+<first>Heidi</first>
+<middle>Jacqueline</middle>
+<last>Tworek</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

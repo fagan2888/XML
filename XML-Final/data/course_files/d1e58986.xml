@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95112" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Images in Motion: Time and Space in Film and Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Delia Ungureanu</faculty_text>
+<description>This course will is look at the universal language of images through masterpieces of film and literature, comparing films with works of literature that address similar topics, configuring them as temporal arts turned spatial through the use of a magical mechanism. How do verbal and visual images capture time on film and on the page? We will explore questions of memory and oblivion, war and peace, desire and loss, in films by Martin Scorcese, Andrei Tarkovsky, Wong Kar Wai, Volker Schlondorff, Michael Gondry, and others, and in works by Shakespeare, Tolstoy, Woolf, Calvino, and Pamuk.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Faf94a2aee8164f3e3c63a2eb86b49aab">
+<name>
+<prefix/>
+<first>Delia</first>
+<middle/>
+<last>Ungureanu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73191" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>27</num_int>
+</course_number>
+<title>Science and Cooking: From Haute Cuisine to Soft Matter Science</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>300</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Michael P. Brenner (Harvard School of Engineering and Applied Sciences), David Weitz (Harvard School of Engineering and Applied Sciences) and Pia Sorensen (Harvard School of Engineering and Applied Sciences)</faculty_text>
+<description>This course is a collaboration between world-class chefs and Harvard professors. Each week, a chef will lecture about some aspect of gastronomy. This lecture will introduce and motivate a lecture about the science of soft materials by a Harvard professor. The course will cover the basic concepts in the science of soft materials, providing a solid understanding of their properties and behavior. All food is made of soft materials, and cooking relies on many of their fundamental properties. The course will also include laboratory work that uses concepts of cooking to understand and motivate experimental measurements on soft materials.</description>
+<prerequisites/>
+<notes>Occasionally there will be an optional 15-30 minute question and answer session with visiting chefs.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fba3ab5e9470559c1f77068a9e872c75b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>P.</middle>
+<last>Brenner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F37f466225c3feb4b439445e32efecf4c">
+<name>
+<prefix/>
+<first>David</first>
+<middle>A.</middle>
+<last>Weitz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

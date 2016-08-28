@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37752" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>364</num_int>
+</course_number>
+<title>Vertebrate Development</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Ff7b2bff19566ce2f02f917fc66546e11">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>P.</middle>
+<last>McMahon</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff7b2bff19566ce2f02f917fc66546e11">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>P.</middle>
+<last>McMahon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

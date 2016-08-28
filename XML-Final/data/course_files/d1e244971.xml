@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31365" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>147</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Popular Cults and the Formation of Pilgrimage Sites</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ioli Kalavrezou</faculty_text>
+<description>Focuses on the phenomenon of relic worship and the popular veneration of holy sites and holy men in the early Christian period. A number of sites that for differing reasons became important cult centers around the Mediterranean world are studied.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0ef8e28d3c328bf7860fc8b9f873b6e7">
+<name>
+<prefix/>
+<first>Ioli</first>
+<middle/>
+<last>Kalavrezou</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

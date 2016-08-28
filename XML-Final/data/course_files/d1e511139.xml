@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74909" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>283</num_int>
+</course_number>
+<title>Screens: Media Archaeology and Visual Arts Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Giuliana Bruno</faculty_text>
+<description>How do screens function as interface between us and the world? What is the role of the screen in contemporary visual arts and media culture? The art of projection has traveled from film exhibition to art installation. With the interdisciplinary approach of visual studies, we examine the history and archaeology of screen media, their cultural and aesthetic dimensions, from pre-cinematic exhibition to the post-medium condition. Considering the art of screening in the deep time of media, we explore the changing architecture of screen space, at the crossroads of science and art, museum and moving images.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as 4356.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

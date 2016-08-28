@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1193" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2670</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Decision Making and the Psychology of Possibility</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 9:30-11:30</meeting_text>
+<faculty_text>Ellen J. Langer</faculty_text>
+<description>Topics in decision making such as rationality, risk-taking, helplessness, and health are examined through the lens of mindfulness theory. Special emphasis given to the psychology of possibility in applied settings.</description>
+<prerequisites>An introductory psychology course and a foundational course.</prerequisites>
+<notes>Open to qualified undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6706c0eda411349f18e7f303e736f8d6">
+<name>
+<prefix/>
+<first>Ellen</first>
+<middle>J.</middle>
+<last>Langer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="930" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1305" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

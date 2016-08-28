@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9771" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1918</num_int>
+</course_number>
+<title>Telling Lives in Asia</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Hue-Tam Ho Tai</faculty_text>
+<description>Using sources ranging from diaries and memoirs to biographies, autobiographies, records of interrogations, resumes and self-criticisms, we will explore the ways in which individuals, both famous and ordinary, make sense of their lives in Asia. The focus will be on the upheavals of the twentieth century were experienced and how individual biographies and national histories enrich one another.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7838a4a3e347975aabd79881a919028a">
+<name>
+<prefix/>
+<first>Hue-Tam</first>
+<middle>Ho</middle>
+<last>Tai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

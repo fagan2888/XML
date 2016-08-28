@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6191" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1952</num_int>
+</course_number>
+<title>Multivariate Analysis in Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Lecture: M., W., 12-1:30; Lab: Th., 6:30 - 8</meeting_text>
+<faculty_text>James Sidanius</faculty_text>
+<description>This course introduces the empirical measurement of abstract constructs and multivariate analysis. Topics include: reliability and validity, multiple regression, exploratory and confirmatory factor analyses, discriminant function analysis and structural equation modeling.</description>
+<prerequisites>Psychology 1900.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbd78d2fe37ffd66716143ced8a25d51e">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Sidanius</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1330"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

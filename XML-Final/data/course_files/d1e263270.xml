@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2122" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>100</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Experimental Research in the Life Sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Fall: Th., 3-5; Spring: M., 1-2:30</meeting_text>
+<faculty_text>Alain Viel</faculty_text>
+<description>A laboratory course that immerses students in a dynamic project-based research environment. Participate in experimental projects directly linked with ongoing faculty research. Students select a project from the following research tracks: neurobiology, microbial sciences, cell biology, and synthetic biology. New projects, including some in other research fields, are offered every term. In a highly collaborative atmosphere, students form a fully-functional and diverse research group based on the sharing of ideas and progress reports between projects. New projects every term. Students collaborate to form a fully-functional and diverse research group based on the sharing of ideas and progress reports between projects. The spring microbiology project is part of the "genomes to Biomes" series.</description>
+<prerequisites>LPS A or LS 1a or permission of the instructor. Students interested in a neurobiology project will need MCB 80 or permission of the instructor.</prerequisites>
+<notes>Location of the first meeting will be announced on the course website. Open to freshmen, sophomores, juniors, and seniors, regardless of concentration, and suitable for students either with or without extensive laboratory experience. The course may only be repeated once and the second enrollment must be approved by the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F395d5e262cea6d425331a5558e5dde1d">
+<name>
+<prefix/>
+<first>Alain</first>
+<middle/>
+<last>Viel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F395d5e262cea6d425331a5558e5dde1d">
+<name>
+<prefix/>
+<first>Alain</first>
+<middle/>
+<last>Viel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B108" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1837" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1040</num_int>
+</course_number>
+<title>Origins of the Food We Eat</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Richard H. Meadow</faculty_text>
+<description>Focuses on arguably the most significant lifestyle revolution in the human past, namely, the change from hunting and gathering to agriculture and pastoralism. Working from representative meal menus, covers the emergence of cultivation and domestication along with the adoption and spread of key plant foods and animals in the Eastern and Western Hemispheres and between the two. Discusses the contributions of archaeology, anthropology, climatology, botany, zoology, genetics, and linguistics to these topics.</description>
+<prerequisites/>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3191d88825175d2767ab2f1f7afaf480">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>H.</middle>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

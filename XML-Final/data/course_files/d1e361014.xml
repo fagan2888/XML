@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4454" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Colloquial Egyptian Arabic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., W., 3-5</meeting_text>
+<faculty_text>Nevenka Korica-Sullivan</faculty_text>
+<description>Introduces students to Egyptian Arabic, the most widely recognized dialect in the Arab world. The course emphasizes the development of speaking and listening skills through the reinforcement of grammar and vocabulary.</description>
+<prerequisites>Two years of Standard Arabic or the equivalent.</prerequisites>
+<notes>Not open to auditors. Students who have completed Arabic 134 may not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F154f8ff402e97fb6921620992b1a92c9">
+<name>
+<prefix/>
+<first>Nevenka</first>
+<middle/>
+<last>Korica Sullivan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

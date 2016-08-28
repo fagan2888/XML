@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35711" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>zb</num_char>
+</course_number>
+<title>Junior Tutorial for thesis writers in Social Anthropology</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard H. Meadow</faculty_text>
+<description>This individual tutorial is for social anthropology students intending to write a senior thesis, and is normally undertaken with an advanced graduate student during the second term of junior year. Students will have weekly meetings with the project advisor for the purposes of developing the appropriate background research on theoretical, thematic, regional, and methodological literature relevant to their thesis topic, and fully refining their summer research proposal. The tutorial's final paper will be comprised of a research proposal representing the research undertaken during the semester.</description>
+<prerequisites/>
+<notes>Strongly recommended for any social anthropology junior intending to write a senior thesis. Taken in addition to the required fall term group junior tutorial, Anthropology 98za (formerly 98z).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3191d88825175d2767ab2f1f7afaf480">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>H.</middle>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

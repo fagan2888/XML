@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1897" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>30</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>What is College and What is It For?</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Paul J. Barreira (Medical School)</faculty_text>
+<description>Asks students to think and write critically about American higher education--its history, purpose and ongoing challenges. Considers "the uses of the university" from a variety of perspectives: historical, sociological, economic, and developmental. Addresses questions: What constitutes a liberal arts education? What are its goals? How should students be assessed? What role do extracurricular activities play in a college education? Does a bachelor's degree certify a vocational education, a cultural one, or a moral one?</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1b13b3edb0ac21b183de02adc634f424">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Barreira</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

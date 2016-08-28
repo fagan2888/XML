@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66405" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2332</num_int>
+<num_char>hfc</num_char>
+</course_number>
+<title>Early-Stage Research and Discussions on Economic Development</title>
+<course_type>Workshop</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., at 3; Spring: M., at 2:45</meeting_text>
+<faculty_text>Nathan J. Nunn, Richard A. Hornbeck, and Michael R. Kremer (fall term)</faculty_text>
+<description>Participants discuss recent research in economic development and present their own work in progress. Popularly known as the Development Tea.</description>
+<prerequisites/>
+<notes>Primarily, but not exclusively, for doctoral students in economics who have passed their oral examinations.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F28a91cb5bbe2487547a7907500048214">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>A.</middle>
+<last>Hornbeck</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F28a91cb5bbe2487547a7907500048214">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>A.</middle>
+<last>Hornbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1445" end_time="1545"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

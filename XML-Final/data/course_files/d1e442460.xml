@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="795" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>114</num_int>
+</course_number>
+<title>Advanced Russian: Russian Cultural Self-Images and National "Mentality"</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Natalia Pokrovsky</faculty_text>
+<description>Through readings and film, we explore Russian cultural attitudes and self-images as socio-cultural context. Topics include cultural perceptions of self as nation and as cultural "mentality," the collective vs. the individual, attitudes toward friendship, the family and women, law, crime, prestige and success, and ethnic difference. Concentrates on vocabulary and phrasing, and includes extensive writing practice.</description>
+<prerequisites>Russian 103, 113, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fee613ed315f0a049e5c36c23f1e0ffca">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle/>
+<last>Pokrovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

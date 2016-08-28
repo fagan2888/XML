@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32489" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2087</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Advanced Topics in Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 3-5</meeting_text>
+<faculty_text>Drew Fudenberg</faculty_text>
+<description>The class will read and discuss current research in economics with a focus on game theory and decision theory. Students will be expected to make a verbal presentation.</description>
+<prerequisites>Economics 2010a or permission of the instructor.</prerequisites>
+<notes>Course will start in late October.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1500" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-15" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

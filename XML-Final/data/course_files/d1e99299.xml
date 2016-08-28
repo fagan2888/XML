@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7236" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2149</num_int>
+</course_number>
+<title>Computational Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-5:30</meeting_text>
+<faculty_text>Che-lin Su</faculty_text>
+<description>Graduate introduction to computational approaches for solving economic models. Formulate economic problems in computationally tractable form and use techniques from numerical analysis to solve them. Computational techniques in the current economics literature will be examined. Topics include solving dynamic optimization problems, computing equilibria of games and estimating structural models.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd60d3fd811c71830c975bf22f88a7dfc">
+<name>
+<prefix/>
+<first>Che-lin</first>
+<middle/>
+<last>Su</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93647" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>Modeling Matter at Nanoscale: An Introduction to Theoretical and Computational Approaches</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Luis Alberto Montero Cabrera</faculty_text>
+<description>Essentials of modeling the structure of matter at the nanoscale. Material properties and connections to the mesocale. Intended for advanced undergraduate students or beginning graduate students in Chemistry, Physics, Applied Physics and the Life Sciences.</description>
+<prerequisites>Applied Mathematics 21a and 21b; Mathematics 21a and 21b, or equivalent preparation in calculus and differential equations; Physical Sciences 1 or equivalent preparation in chemical bonding and fundamental principles; Physical Sciences 2 or Physics 11a, and Physical Sciences 3 or Physics 11b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5e27a076b88d55c6c0db9cd6b45d7b83">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>Alberto</middle>
+<last>Montero Cabrera</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

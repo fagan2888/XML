@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="816" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>265</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Geodynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 2:30-4</meeting_text>
+<faculty_text>Richard J. O'Connell</faculty_text>
+<description>Topics in the dynamics of processes and properties in the Earth's interior, including: thermal convection and flow in the mantle, rheology of the mantle, plate motions, plate deformation, physical properties of rocks and minerals.</description>
+<prerequisites/>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2be28d18e90da8b65bb4ad521f580c47">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>O'Connell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

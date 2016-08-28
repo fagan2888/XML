@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4798" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>48</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Political Legitimacy and Resistance: What Happened in Montaigne's Library on the Night of October 23, 1587, and Why Should Political Philosophers Care?</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2:30-4:30</meeting_text>
+<faculty_text>Arthur I. Applbaum (Kennedy School)</faculty_text>
+<description>Explores the theories of political legitimacy and justified resistance to authority developed by the persecuted Protestants during the French Wars of Religion, and traces the influence of these ideas about political obligation and religious conscience on some of the major figures in modern political philosophy from Hobbes to Kant. Students should be prepared to engage in both historical detective work and philosophical reflection. All required reading will be in English.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F774405734056de8cd51a3952ce2e5316">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Applbaum</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1430" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="KSG - Rubenstein" room="219 (Carr Ctr. Seminar Rm)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

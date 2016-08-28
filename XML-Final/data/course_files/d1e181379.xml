@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35345" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>39</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Dirty and Dangerous: Environmental Problems and Problem Environments in US History</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Susanna Bohme</faculty_text>
+<description>"Dirty and Dangerous" explores the relationship between people and the material world by focusing on the "dark side" of natural and human-made environments. How have people in the US perceived and experienced dangers associated with climate, landscape, toxins, disease, and the built environment? Focusing on the late 19th century until today, the course is organized around three types of environment: wilderness, homes, and workplace. We will draw on a range of sources, including poetry, fiction, films, activist writing, historical scholarship, and a "Toxic Tour" of Boston, examining dangers, fears and anxieties about these various environments in their historical context.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6671683175f547c0ba0e1fe467266572">
+<name>
+<prefix/>
+<first>Susanna</first>
+<middle/>
+<last>Bohme</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

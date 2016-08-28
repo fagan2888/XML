@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37587" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>249</num_int>
+</course_number>
+<title>Cartography and Early Modern Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Katharina Piechocki</faculty_text>
+<description>This course explores the emergence of new cartographies, maps, and itineraries in a period of increased interest in world travels, philology, and translation. We start from ancient and medieval "cartographic" texts and authors (both European and non-European) and move to Renaissance texts and maps. How does the "spatial turn" and the visualization of knowledge-key to digital humanities today-help us deepen our understanding of early modernity? We will discuss European, Arab, and New World maps, texts and authors, among which Petrarch, Margery Kempe, Columbus, Waldseemuller, Tomas More, Sebastian Munster, Vespucci, Ibn Fadlan, Tasso, Montaigne, Boccaccio, and Catalina de Erauso.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8b9f3118d75e6ba332177e2d231fd59b">
+<name>
+<prefix/>
+<first>Katharina</first>
+<middle>Natalia</middle>
+<last>Piechocki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

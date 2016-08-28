@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29408" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>193</num_int>
+<num_char>rs</num_char>
+</course_number>
+<title>Topics in Music from 1800 - Present</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Tamar Barzel</faculty_text>
+<description>Music, Identity, and Radical Poetics. This course will explore the radical poetics of meaning developed by twentieth-century composer/improvisers, with a focus on the AACM, Asian improv, queercore, and Radical Jewish Culture scenes. Drawing on jazz's performance practices, these artists developed provacative ways of conceptualizing heritage, memory and identity, while transforming the ostensibly "unmarked" sound world of experimental music. With attenion to the politcs of gender, race and authenticity, we will engage their work through close listening, small-group discussions, and readings in critical theory and ethnomusicology. Students will conduct research projects (historical or ethnographic), culminating in a paper or combined paper-performance.</description>
+<prerequisites>One course in music theory/composition or jazz history, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F65d4bfd371ad2c9bd3457fe4389a2796">
+<name>
+<prefix/>
+<first>Tamar</first>
+<middle/>
+<last>Barzel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

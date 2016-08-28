@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4581" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1619</num_int>
+</course_number>
+<title>Premodern Vietnam</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 2</meeting_text>
+<faculty_text>Hue-Tam Ho Tai</faculty_text>
+<description>Vietnamese history from antiquity to the founding of the Nguyen dynasty in 1802 with emphasis on the period following independence from China in the 10th century. Topics include the Sinicization of Vietnam and the sources of Vietnamese national identity; tensions between aristocratic and bureaucratic rule; territorial expansion and national division; first contacts with the West; the changing status of women.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7838a4a3e347975aabd79881a919028a">
+<name>
+<prefix/>
+<first>Hue-Tam</first>
+<middle>Ho</middle>
+<last>Tai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="153" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

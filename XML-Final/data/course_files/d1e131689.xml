@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78467" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>29</num_int>
+</course_number>
+<title>Introduction to Computational Design</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 9-11:30, Tu., 10-11:30</meeting_text>
+<faculty_text>Panagiotis Michalatos (Design School)</faculty_text>
+<description>This is an introductory course to computational design and the prerequisite for a spring course that deals with more advanced topics in the field. This course is primarily intended for designers with little background in programming who are interested in developing their skills in order to be able to better understand, interface with and customize the digital tools they are using, or develop their own software and interactive applications. The course introduces students to fundamental concepts and techniques in computational design. By the term "computational design" we mean an ad hoc set of methods borrowed from computer science, computational geometry and other fields, and adapted to specific design problems such as design development, fabrication, analysis, interaction and communication.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as GSD-6338. Meets at GSD. More information can be found at &lt;a href="http://www.gsd.harvard.edu/cgi-bin/courses/index.cgi"&gt;www.gsd.harvard.edu/cgi-bin/courses/index.cgi&lt;/a&gt;.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd0f628928b94a9c6e47caf5fd48ec5f">
+<name>
+<prefix/>
+<first>Panagiotis</first>
+<middle/>
+<last>Michalatos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

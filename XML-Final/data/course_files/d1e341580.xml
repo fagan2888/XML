@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19325" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>121</num_int>
+</course_number>
+<title>The Microbes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Karine A. Gibbs</faculty_text>
+<description>This general microbiology course will focus on the genetics, cell biology, and physiology of microorganisms. The goal of this course is to give the students a broad overview of microbial physiology in the context of disease and environmental applications. The course will primarily consist of lectures with problem sets; we will also incorporate current and classical literature.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F665b31d42ba5d6c2dafd6e0132802236">
+<name>
+<prefix/>
+<first>Karine</first>
+<middle>A.</middle>
+<last>Gibbs</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="1058" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

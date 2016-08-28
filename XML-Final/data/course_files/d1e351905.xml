@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72478" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>185</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Classical Improvisation</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Course will identify the contexts and theoretical concepts of 18th and early 19th century improvisation in vocal and instrumental music. Authentic written-out embellishments and cadenzas by composers and their contemporaries will be studied and used as a basis for both written and improvised work, to include decoration, cadenzas, preludes, modulating preludes, and free fantasies.</description>
+<prerequisites/>
+<notes>By audition only, prior to the first class.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

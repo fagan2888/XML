@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13398" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>French and the Community</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1:00</meeting_text>
+<faculty_text>Carole Bergin</faculty_text>
+<description>An advanced French language course, where students will explore Haitian culture in the classroom and in the community. In class students will work on interactive oral and written activities using a variety of texts and media. In the community, through teaching French to Haitian-American children in community organizations within the Greater Boston area, students will develop their oral communication skills and acquire first-hand insights into Haitian culture. Introduces students to some methods for teaching a foreign language.</description>
+<prerequisites>French 40 or 50; a placement score of 721-750 on the SAT II test or the Harvard Placement test; or permission of course head.</prerequisites>
+<notes>Interested students must apply in writing no later than August 28, 2012 to Carole Bergin. More information can be found on the French 59 website. Students may take no more than two courses numbered in the 50s.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff6c79eed4fe81d56db624f228deb2e2e">
+<name>
+<prefix/>
+<first>Carole</first>
+<middle/>
+<last>Bergin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

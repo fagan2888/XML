@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25653" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>308</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular Signals to Understand Exposure Biology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will offer students a deeper understanding of molecular signals often termed, as "Biomarkers" that serve as highly useful tools for understanding the biology of the disease as well as nature and extent of human exposure from environmental contaminants and drugs. The course is divided in 4 modules: 1) Biomarker discovery, 2) Organ/Disease specific biomarkers, 3) Multiscale technologies for biomarker quantitation, and 4) Clinical and statistical considerations in biomarker research.</description>
+<prerequisites/>
+<notes>Offered jointly with School of Public Heath as EH 527.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fb62bba609157c5e15a13c253623e2eb1">
+<name>
+<prefix>Dr</prefix>
+<first>Vishal</first>
+<middle>S.</middle>
+<last>Vaidya</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1030" end_time="1220"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

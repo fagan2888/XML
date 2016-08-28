@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69294" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="SHBT">SHBT</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Clinical Aspects of Hearing and Speech</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., 5&amp;#8211;7. Clinical observations Mon-Fri 8-3</meeting_text>
+<faculty_text>Joseph B. Nadol (Medical School and MEEI) and Konstantina Stankovic (Medical School and MEEI)</faculty_text>
+<description>Clinical approach to speech and hearing disorders as practiced by physicians, audiologists, speech clinicians, rehabilitation specialists, bioengineers. Includes observation of patient care in clinic and operating room, audiology/balance disorders experience, lectures and discussion groups.</description>
+<prerequisites>Anatomy of Speech and Hearing, Acoustics of Speech and Hearing or permission of the course director</prerequisites>
+<notes>Offered jointly with HST 724 at MIT. Classes to be held at the Massachusetts Eye and Ear Infirmary (MEEI)</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffee779511be49ec9b57410aec4d67872">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>B.</middle>
+<last>Nadol</last>
+<suffix>Jr</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1700" end_time="1900"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

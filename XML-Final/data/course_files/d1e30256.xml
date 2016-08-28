@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61482" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>310</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular Mechanisms of Aging</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>We will explore molecular mechanisms underlying aging and aging-related disease. Topics will include nutrient signaling and energy metabolism, genome stability and proteostasis, interventional approaches to extended longevity, and theories of aging including the free radical theory. Recent and classic literature will be critically discussed.</description>
+<prerequisites>Preference given to PhD students in HILS-affiliated programs (e.g., BPH, BBS, etc.)</prerequisites>
+<notes>This course will be taught every other year (odd years). Offered jointly with the School of Public Health as GCD 212.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fb2facd071461a42510a4970438ad3918">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

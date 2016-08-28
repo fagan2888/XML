@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4906" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1801</num_int>
+</course_number>
+<title>Anxiety Disorders</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Richard J. McNally</faculty_text>
+<description>Concerns current theory and research on the etiology and treatment of anxiety disorders (e.g., panic disorder, obsessive-compulsive disorder, social phobia, post-traumatic stress disorder). Cognitive, behavioral, and biological approaches are emphasized.</description>
+<prerequisites>Science of Living Systems 20 and Psychology 18.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F64d44107a85593ee8e1e855b795d528d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>McNally</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

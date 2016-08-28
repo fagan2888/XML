@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7028" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="URBP">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Architecture, Landscape Architecture, and Urban Planning</dept_long_name>
+<dept_short_name>Architecture, Landscape Architecture, and Urban Planning</dept_short_name>
+</department>
+<course_group code="DESIGN">Design</course_group>
+<course_number>
+<num_int>307</num_int>
+</course_number>
+<title>Direction of Doctoral Dissertations in Landscape Architecture</title>
+<course_type>Direction of the Doctoral Dissertation</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F1415af7976ee6698c4f21964eeb1c391">
+<name>
+<prefix/>
+<first>K.</first>
+<middle>Michael</middle>
+<last>Hays</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F400778383e89ab4aedbc6d7993b4564b">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>T.T.</middle>
+<last>Forman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe17bd586eff7e3872d83b0ed16244218">
+<name>
+<prefix/>
+<first>John</first>
+<middle>R.</middle>
+<last>Stilgoe</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1415af7976ee6698c4f21964eeb1c391">
+<name>
+<prefix/>
+<first>K.</first>
+<middle>Michael</middle>
+<last>Hays</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F400778383e89ab4aedbc6d7993b4564b">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>T.T.</middle>
+<last>Forman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe17bd586eff7e3872d83b0ed16244218">
+<name>
+<prefix/>
+<first>John</first>
+<middle>R.</middle>
+<last>Stilgoe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

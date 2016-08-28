@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8721" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1380</num_int>
+</course_number>
+<title>Behavioral Biology of Women</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Lara Durgavich</faculty_text>
+<description>This course is an exploration of female behavioral biology from an evolutionary and biosocial perspective. We will focus on physiological, ecological, and social aspects of women's development from puberty, through reproductive processes such as pregnancy, birth and lactation, to menopause and aging. We will also explore female life-history strategies in a variety of cultural settings. Topics include cognitive and behavioral differences between men and women and male and female reproductive strategies. Examples are drawn primarily from traditional and modern human societies; data from studies of nonhuman primates are also considered.</description>
+<prerequisites/>
+<notes>Priority given to Human Evolutionary Biology concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F671ea5ffd6d04572731db6b688b8604e">
+<name>
+<prefix/>
+<first>Lara</first>
+<middle/>
+<last>Durgavich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

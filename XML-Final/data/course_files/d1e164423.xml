@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68425" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.141</num_char>
+</course_number>
+<title>Portraits of Madness</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Karen L. Heath</faculty_text>
+<description>Writers and filmmakers have long been fascinated by the artistic challenge of representing madness. What can those portraits tell us about the relationship of illness and identity, the ease of losing touch with rationality, the nature of the mind, and our own relative sanity? We will study Susanna Kaysen's memoir Girl, Interrupted; Patrick McGrath's gothic novel Spider and its film adaptation; and the films Donnie Darko, The Hours, and The Silence of the Lambs.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe308fa75205279ffab40062809768086">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle/>
+<last>Heath</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

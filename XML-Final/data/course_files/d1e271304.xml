@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7855" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>122</num_int>
+</course_number>
+<title>Algebra I: Theory of Groups and Vector Spaces</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12</meeting_text>
+<faculty_text>Hiro Tanaka</faculty_text>
+<description>Groups and group actions, vector spaces and their linear transformations, bilinear forms and linear representations of finite groups.</description>
+<prerequisites>Mathematics 23a, 25a, 121; or 101 with the instructor's permission. Should not be taken in addition to Mathematics 55a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa034decde822c3dc06511e4826d595fe">
+<name>
+<prefix/>
+<first>Hiro</first>
+<middle>Lee</middle>
+<last>Tanaka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" A" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8440" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1330</num_int>
+</course_number>
+<title>Social Thought in Modern America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>James T. Kloppenberg</faculty_text>
+<description>An inquiry into American ideas since 1870, examining developments in political and social theory, philosophy, and literature in the context of socioeconomic change. Topics include the breakdown of Victorian idealism and laissez-faire; the emergence of social science and progressivism; conflicts over gender, race, and ethnicity; interwar cultural ferment and political reform; post-World War II theories of consensus and 1960s radicalism; and the consequences for democracy of our contemporary culture of hyper-partisanship.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F747b5b6b1ee7d18b831a2edabdb99e2a">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Kloppenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

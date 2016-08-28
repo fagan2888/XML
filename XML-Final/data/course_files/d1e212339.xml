@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29395" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>is</num_char>
+</course_number>
+<title>Individual and Society: the psychology of how society affects its citizens</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Kris-Stella Trump</faculty_text>
+<description>Description: In this course we use insights from social psychology to ask how the beliefs, desires and even perceived opportunities of citizens are affected by the society they live in. We contrast the rational and the psychological approaches to human beings, and ask under what conditions rational assumptions are useful. The readings are drawn largely but not exclusively from psychology, and they are used to spur questions about the realm of society and politics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb3349537874fa17f6652bbfe147683a">
+<name>
+<prefix/>
+<first>Kris-Stella</first>
+<middle/>
+<last>Trump</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

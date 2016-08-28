@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65818" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.098</num_char>
+</course_number>
+<title>HIV/AIDS in Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Joaquin Sebastian Terrones</faculty_text>
+<description>Perhaps more than any other event in the last quarter of the twentieth century, the AIDS crisis condensed or crystallized cultural anxieties about the body, identity, and difference. In this course, we will examine the cultural response to HIV/AIDS in North and Latin America through fiction, poetry, and visual art from the pandemic's first fifteen years. No knowledge of Spanish or Portuguese is necessary; all materials will be available in English.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb35bfc9cb14cf94fa7b3641d780b78c1">
+<name>
+<prefix/>
+<first>Joaquin</first>
+<middle>Sebastian</middle>
+<last>Terrones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

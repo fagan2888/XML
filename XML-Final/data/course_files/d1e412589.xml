@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30065" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1355</num_int>
+</course_number>
+<title>The Adolescent Brain</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Leah Somerville</faculty_text>
+<description>This course will introduce students to the dynamics of brain development during the second decade of life. This course will examine key changes in structural, functional, connectivity, and neurochemical changes that take place in the brain during adolescence. We will assess how these changes influence several domains of the adolescent mind, including self-control, risky decision making, changes in daily emotions and moods, the onset of psychiatric illnesses (such as mood and anxiety disorders), and sensitivity to social evaluation.</description>
+<prerequisites>For undergraduates, Science of Living Systems 20 and one of MCB 80, SLS 15, Psy 13, Psy 14, Psy 15, or Psy 18</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0424c0799eff9f95a1857ef0f8989715">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle/>
+<last>Somerville</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

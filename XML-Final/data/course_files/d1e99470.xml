@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2372" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2162</num_int>
+</course_number>
+<title>Research in Econometrics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., at 12:30</meeting_text>
+<faculty_text>Maximilian Kasy, Alberto Abadie (Kennedy School) (spring term), Gary Chamberlain, Dale W. Jorgenson, and James H. Stock</faculty_text>
+<description>Participants discuss recent research in econometrics and present their own work in progress. Open to doctoral students in economics.</description>
+<prerequisites/>
+<notes>This course must be taken Sat/Unsat.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62cc0dc492b1593956dd015fb7b2c47e">
+<name>
+<prefix/>
+<first>Maximilian</first>
+<middle/>
+<last>Kasy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F813e1772ac330f4c4eaf4302680a41ea">
+<name>
+<prefix/>
+<first>James</first>
+<middle>H.</middle>
+<last>Stock</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F82239807c5b441abce31acb8df9b3be5">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Chamberlain</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb9948105d6d0927515c621d9db2714bf">
+<name>
+<prefix/>
+<first>Dale</first>
+<middle>W.</middle>
+<last>Jorgenson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F62cc0dc492b1593956dd015fb7b2c47e">
+<name>
+<prefix/>
+<first>Maximilian</first>
+<middle/>
+<last>Kasy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1230" end_time="1330"/>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1230" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

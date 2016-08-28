@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17666" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Advanced Semiclassical Methods for Quantum Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eric J. Heller</faculty_text>
+<description>Semiclassical approaches to quantum systems provide both intuitive understanding of quantum processes and methods for calculations that are vastly simpler than full quantum mechanical simulations. Semiclassical methods are based on classical mechanics including interference and phases computed with classical actions. The course, based on a textbook being written by Prof. Heller (The Semiclassical Way to Quantum Mechanics) begins with a review of some salient features of classical physics, followed by an introduction to stationary phase integration and the Feynman Path Integral in the semiclassical imit, including time and energy domains, and the famous Trace Formula. This is followed by a number if widely useful techniques, such as generalized tunneling, applications to classically chaotic systems,semiclassical wave packet dynamics, WKB methods and uniformization. A number of "special topics" will then be taken up, including decoherence, certain forms of spectroscopy, and scattering theory of nanoscale devices.</description>
+<prerequisites/>
+<notes>Chemistry 218 is also offered as Physics 218. Only one of the two courses may be taken for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F02bcfbc275978b4ce4b82cd4f4dec068">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>J.</middle>
+<last>Heller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22477" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1926</num_int>
+</course_number>
+<title>How Historians Imagine Latin American Pasts</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Tamar Herzog</faculty_text>
+<description>This course examines how our image of Latin American past(s) changed in last decades in order to introduce students to some of the major debates and recent developments in history and the art of history making. Among other things, it examines issues of periodization, comparative and Atlantic history, the nature of the sources and their interpretation, the use of notions such as "crisis," "decline," and "corruption," the object historians reconstruct, and the contribution of subaltern studies and postcolonialism to the study of Latin America.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2c293d3e795d8616212c0f99753afdfc">
+<name>
+<prefix/>
+<first>Tamar</first>
+<middle/>
+<last>Herzog</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="450" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

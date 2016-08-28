@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3262" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>B</num_char>
+</course_number>
+<title>Intermediate Russian</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 9 with speaking practice Tu., Th., at 9 or 10. Tuesday/Thursday small group practice times are tentative and will be adjusted to accommodate student schedules.</meeting_text>
+<faculty_text>Steven Clancy (fall term) and Veronika Egorova (spring term) and others</faculty_text>
+<description>An intermediate course in modern Russian language and culture for students with previous study of the language. Further development of vocabulary and oral expression within a comprehensive review of Russian grammar. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Vocabulary is thematically organized to include such topics as self and family, education, work, human relationships, politics, and national attitudes and is reinforced through film and the reading of classical and contemporary fiction and history. Practice in the etiquette of common social situations (sociolinguistic competence). Computer exercises on selected topics. This year-long full course prepares students for continued study of Russian in advanced-level courses and for study or travel abroad in Russian-speaking countries.</description>
+<prerequisites>Russian A, Aab, At, Ah, or placement at the B-level. Familiarity with fundamentals of Russian grammar, particularly case endings, verb conjugation, and elementary competence in spoken Russian.</prerequisites>
+<notes>See "Sectioning Note" above. Russian B, Russian Bab, and Russian Bt all prepare students to continue in Russian 101.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1cfeebd45324a9126a47e704afebd8a3">
+<name>
+<prefix/>
+<first>Veronika</first>
+<middle>A.</middle>
+<last>Egorova</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="103B" type="Speaking Section"/>
+<location term="1" building="Science Center" room="103B" type="Speaking Section"/>
+<location term="1" building="Science Center" room="103B" type="Speaking Section"/>
+<location term="1" building="Science Center" room="101B" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

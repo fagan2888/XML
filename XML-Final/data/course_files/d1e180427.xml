@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1868" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Poems and Photographs</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Melissa Sara Feuerstein</faculty_text>
+<description>Brings together lyric poetry and photography as art forms that provide respite from plot's pull toward closure. Explores how poems and photographs engage the mind in different rhythms of contemplation by preserving tensions between movement and stillness, fragmentation and wholeness, familiarity and strangeness, presence and absence, life and death. Focuses on genres of self-portrait, still life, landscape, and elegy, suggesting how particular poems and photographs satisfy mind's desire for non-narrative expression and experience.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F91c2aff4c02f25250e20fdadf19353bb">
+<name>
+<prefix/>
+<first>Melissa</first>
+<middle>Sara</middle>
+<last>Feuerstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

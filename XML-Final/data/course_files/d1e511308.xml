@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75119" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>289</num_int>
+</course_number>
+<title>The Frankfurt School on Mass Media and Mass Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu. 1-3 and a weekly film screening F. 1-4</meeting_text>
+<faculty_text>Eric Rentschler</faculty_text>
+<description>This seminar considers the Frankfurt School's deliberations on film, radio, television, and mass culture. We will devote the majority of the course to three seminal figures: Siegfried Kracauer, Walter Benjamin, and T. W. Adorno. More generally, we will focus on the debates catalyzed by the emergence of modern mass media and an industrialized visual culture; we will also reflect on the pertinence of these debates for our own contemporary culture of media convergence.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

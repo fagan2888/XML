@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83976" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Directing Film: Telling the Story and Working with Actors</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., W., 10-1</meeting_text>
+<faculty_text>Alfred F. Guzzetti and Marcus Stern</faculty_text>
+<description>Students will build scenes based on observed incidents, act and direct them, then, using high-definition video, record and edit them. The course will include study of scenes in film and instruction in the techniques of directing, working with actors, and video production. Emphasis will be placed on clarity of storytelling, eliciting performances from actors, and visceral impact of the filmed events.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb4c276b771a145716843af02b495d78c">
+<name>
+<prefix/>
+<first>Alfred</first>
+<middle/>
+<last>Guzzetti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F87f9af28d7055d155f148d8f9750559a">
+<name>
+<prefix/>
+<first>Marcus</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

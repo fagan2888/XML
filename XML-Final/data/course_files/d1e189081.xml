@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2603" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>17</num_int>
+</course_number>
+<title>Institutional Violence and Public Spectacle: The Case of the Roman Games</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Kathleen M. Coleman (The Classics)</faculty_text>
+<description>Gladiatorial combat, beast fights, staged hunts, mock naval battles, and exposure of criminals to wild animals were defining features of the culture of ancient Rome. Examining texts and images from across the Roman world, this course seeks to identify and probe the values, attitudes, and social, political, and economic factors that contributed to the popularity of institutionalized violence as public entertainment for six hundred years from the Punic Wars until the Christianization of the Empire.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9646d235fa698efc908533541db421a9">
+<name>
+<prefix/>
+<first>Kathleen</first>
+<middle>M.</middle>
+<last>Coleman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

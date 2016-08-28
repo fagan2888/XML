@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73679" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>227</num_int>
+</course_number>
+<title>Medical Device Design</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Conor J. Walsh and Donal Padraic Holland</faculty_text>
+<description>Project-based course on the design of medical devices to address needs identified by hospital-based clinicians. Students work in teams with physicians to develop a novel device. The design process includes: needs finding; problem identification; prior art searches; strategy and concept generation; estimation; sketching; sketch modeling; machine elements, ergonomics and prototyping.</description>
+<prerequisites>Engineering Sciences 51 or machine design experience. Graduate course, but open to qualified junior and senior undergraduates.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff425e52cec3e9d6131d99c318c623e36">
+<name>
+<prefix>Dr</prefix>
+<first>Conor</first>
+<middle>J</middle>
+<last>Walsh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Faa35378c1917958761fedf4ed40dcca9">
+<name>
+<prefix/>
+<first>Donal</first>
+<middle>Padraic</middle>
+<last>Holland</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16391" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>Reading Contemporary Russia (Graduate Seminar in Undergraduate Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Stephanie Sandler</faculty_text>
+<description>Seminar on post-1989 Russian literature, film, and culture, and on the challenges and pleasures of studying contemporary cultural processes. Includes Brodsky, Medvedev, Pelevin, Petrushevskaya, Prigov, Shvarts, Sorokin; German, Muratova, Sokurov. Combines individual research proposals with designing an undergraduate course.</description>
+<prerequisites>Reading knowledge of Russian.</prerequisites>
+<notes>Graduate students who take this class will help to shape the structure of a concentration course to be offered in 2016-17 and will be encouraged to serve as its teaching fellows.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

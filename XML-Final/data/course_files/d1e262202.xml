@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42018" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HUM">
+<dept_long_name>Division of Humanities</dept_long_name>
+<dept_short_name>Humanities</dept_short_name>
+</department>
+<course_group code="HUM-STUDIO">Humanities Studio</course_group>
+<course_number>
+<num_int>3</num_int>
+</course_number>
+<title>Architectures of the Book: Book making-past, present, future</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeffrey Schnapp and the metaLAB team</faculty_text>
+<description>Contemporary speculations regarding print-plus or post-print publishing represent just the latest in the legion of mutations undergone by that most venerable and resistant of literary supports: the book. This Humanities Studio explores the past, present, and future of books as designed and programmable artifacts from both a historical and hands-on perspective. Book making in a broad array of consolidated and experimental forms will serve both as object of critical study and focus for projects, as students explore and evaluate claims about the history of books by making them in paper, pixels, and other media.</description>
+<prerequisites/>
+<notes>Humanities Studios are project-based courses designed to foster translational thinking. They combine in-depth research, design thinking, and hands-on training with digital tools and media in an environment that involves sustained cross-disciplinary teamwork. At once practical and experimental, Humanities Studio courses renew the relevance of the critical and narrative tools of the arts and sciences for a world in which technology is a means of inquiry.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd1b8a5cf9abfd7e2ad72de32a2b00284">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Schnapp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

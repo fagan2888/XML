@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8758" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1421</num_int>
+</course_number>
+<title>Teeth</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>6</enrollment_limit>
+<meeting_text>W., 3-5:30</meeting_text>
+<faculty_text>Tanya M. Smith</faculty_text>
+<description>Teeth are one of the best preserved and most commonly-recovered elements in fossil assemblages. This seminar will focus on ways in which dental remains may inform studies of primate growth and development, ecology, and health. Students will read and discuss current scientific literature, engage in histological studies in the Dental Hard Tissue Laboratory, and conduct pilot research projects.</description>
+<prerequisites/>
+<notes>Preference given to Human Evolutionary Biology junior and senior concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa4b14a95bbabc1b8e554c7fb68185bea">
+<name>
+<prefix/>
+<first>Tanya</first>
+<middle/>
+<last>Smith</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="501" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7429" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>118</num_int>
+</course_number>
+<title>The History of African Americans From the Slave Trade to the Civil War</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Vincent Brown</faculty_text>
+<description>This course surveys African American History from the first migrations of Africans to the Americas during the Transatlantic Slave Trade to the eve of the U.S. Civil War. Atlantic in scope, our studies will consider black US history in the context of broader regional variations, highlighting both the distinctive and the unexceptional features of black society, culture, and politics. Lectures, readings, discussions, and assignments will emphasize several key themes: the indispensability of slavery to the colonial development of the Americas, the entrenchment of race as a mode of categorical belonging and discrimination, the continuity of multivalent struggles for dignity, freedom, and equality, and the shaping force of gender, geography, and imperial warfare in the transformations of the period. Special attention will be paid to the interpretive possibilities of representing this history in the form of data, argumentative prose, storytelling, and works of visual art.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7f33beb298dd9d02b954c82d48aa3bfd">
+<name>
+<prefix/>
+<first>Vincent</first>
+<middle/>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

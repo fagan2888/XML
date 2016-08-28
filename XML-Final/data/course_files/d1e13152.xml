@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8727" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1010</num_int>
+</course_number>
+<title>The Fundamentals of Archaeological Methods &amp; Reasoning</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>150</enrollment_limit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Jason A. Ur and Christian Alexander Tryon</faculty_text>
+<description>A comprehensive introduction to the practice of archaeology and major themes from our human past: how do archaeologists know where to dig? How do we analyze and understand what we find? What do we know about the origins of the human species, agriculture, cities, and civilization? The course integrates methods and theory, and utilizes Peabody Museum collections, to show how we reconstruct ancient diet, trade, and political systems. We also explore the role of archaeology in colonialism, modern politics, and film.</description>
+<prerequisites/>
+<notes>One 2 hour section per week. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6d160deef5c5d0c72eba28d6854fb314">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Alik</middle>
+<last>Ur</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ffd043baeb07c6e397cf2549816223931">
+<name>
+<prefix/>
+<first>Christian</first>
+<middle>Alexander</middle>
+<last>Tryon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

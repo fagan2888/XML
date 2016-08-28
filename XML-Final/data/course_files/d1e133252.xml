@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="452" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Science, Engineering, and the Community</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 5-7:30 p.m.</meeting_text>
+<faculty_text>Vinothan N. Manoharan</faculty_text>
+<description>Activity-based course for beginning/intermediate science and engineering undergraduates. Combines readings and discussions on techniques for learning science and engineering design with implementation in an 8th grade science class in Cambridge. Students work directly with the 8th graders to guide how they learn. Students apply what they discover to improve their own understanding of college-level science and engineering.</description>
+<prerequisites>Interest in science, engineering, learning, and outreach.</prerequisites>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd5da4ad9a60144994d3e0594c41e3f09">
+<name>
+<prefix/>
+<first>Vinothan</first>
+<middle>N</middle>
+<last>Manoharan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

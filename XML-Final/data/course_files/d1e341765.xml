@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9868" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Computational Neuroscience</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Haim I. Sompolinsky (Hebrew University)</faculty_text>
+<description>Follows trends in modern brain theory, focusing on local neuronal circuits as basic computational modules. Explores the relation between network architecture, dynamics, and function. Introduces tools from information theory, statistical inference, and the learning theory for the study of experience-dependent neural codes. Specific topics: computational principles of early sensory systems; adaptation and gain control in vision, dynamics of recurrent networks; feature selectivity in cortical circuits; memory; learning and synaptic plasticity; noise and chaos in neuronal systems.</description>
+<prerequisites>Basic knowledge of multivariate calculus, differential equations, linear algebra, and elementary probability theory.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6392d6c02a61e0c3c73bea7e394da14c">
+<name>
+<prefix/>
+<first>Haim</first>
+<middle/>
+<last>Sompolinsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

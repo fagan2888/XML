@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4345" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2080</num_int>
+</course_number>
+<title>Topics in Political Philosophy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Harvey C. Mansfield</faculty_text>
+<description>Machiavelli and the Discovery of Fact. Machiavelli as philosopher and as founder of modern philosophy. Readings in Machiavelli, Descartes, Hobbes, Locke, and Hume; and on the fact/value distinction.</description>
+<prerequisites/>
+<notes>Open to selected undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F235dc4db73201a25cc64eed212021bb5">
+<name>
+<prefix/>
+<first>Harvey</first>
+<middle>C.</middle>
+<last>Mansfield</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

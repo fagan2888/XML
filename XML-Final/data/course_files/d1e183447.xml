@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6004" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>42</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>The Book: From Gutenberg to the Internet</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1-4</meeting_text>
+<faculty_text>Robert Darnton</faculty_text>
+<description>Examines the impact of books on Western culture from the time of Gutenberg. Hands-on experience in studying the book as a physical object and theoretical reflection on the nature of printing as a means of communication. Students will consider the publishing history of great books such as Shakespeare's First Folio and will address the problem of books as elements in the electronic media.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Additional time after the seminar meeting may be arranged for hands-on workshops.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff51ce5133c4c651421493056d2ec225f">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Darnton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

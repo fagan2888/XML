@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92389" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>Autism</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Charles A. Nelson (Medical School, Public Health)</faculty_text>
+<description>Autism is an increasingly common disorder, frequently found in the popular press and Hollywood movies. It affects roughly 1:100 individuals, approximately 500 times the rate of just a few decades ago. Sadly, despite the considerable financial resources devoted to the study of autism we still do not know what causes the disorder, why its severity varies so enormously from person to person and how best to treat it. This seminar will be broad in scope, focusing on the following key themes: genetic, neurological and possibly environmental causes of autism, risk factors for developing the disorder, best way to characterize the disorder, best treatment options.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Note: The instructor will arrange field trips to various clinics that provide services for individuals with autism.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F62101404226ccde50cb95207dd8f568a">
+<name>
+<prefix>Dr</prefix>
+<first>Charles</first>
+<middle>A.</middle>
+<last>Nelson</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

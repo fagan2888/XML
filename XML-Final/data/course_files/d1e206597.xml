@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95593" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>182</num_int>
+</course_number>
+<title>Music and German National Identity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Lisa Parkes</faculty_text>
+<description>Introduction to the relationship between 'German' music, history, society and politics. By analyzing texted (vocal) music in various settings - historical, political, filmic, literary - this course revisits important and often controversial moments in musical history that have shaped German cultural and national identity. Musical genres include the Lied, folk song, the choral symphony, opera, cabaret, post-war popular music, and contemporary hip-hop.</description>
+<prerequisites/>
+<notes>Reading and listening in German and English; discussion in German. An ability to read musical notation is not required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80341" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>204</num_int>
+</course_number>
+<title>Three Times + 1. Transitional Moments in Film and Media Culture in Japan: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-4</meeting_text>
+<faculty_text>Alexander Nikolas Zahlten</faculty_text>
+<description>This seminar will focus on transitional moments in the history of film and media culture in Japan, all of them embedded in decisive socio-political shifts. It will explore the deep transformations manifesting around the years 1927, 1963, and 1995, with an additional focus on 1973.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93e2ce4ee008656d8065c527b6afdf72">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Zahlten</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

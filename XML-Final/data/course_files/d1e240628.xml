@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5222" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>3920</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Colloquium on Teaching Practices</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Required of and open only to all third-year history department graduate students.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fa7fdf5bc2488632fabb4290914abff77">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Lord</middle>
+<last>Smail</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa7fdf5bc2488632fabb4290914abff77">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Lord</middle>
+<last>Smail</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="Warren Ctr Seminar Rm (Basement Seminar Rm)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

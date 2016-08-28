@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7762" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>60</num_int>
+</course_number>
+<title>Literature and Art in an Era of Crisis and Oppression: Modernism in Eastern Europe</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1&amp;#8211;3, and a weekly section to be arranged.</meeting_text>
+<faculty_text>George G. Grabowicz (Slavic Languages and Literatures; Comparative Literature)</faculty_text>
+<description>The course will examine seminal literary works (with forays into film and art) from Eastern Europe in the first half of the 20th century with special attention to their response to convention, censorship and totalitarian strictures as well as "high modernist" experimentation and a "low modernist" focus on popular genres and a new poetics of trash. Focus on Kafka, Zamiatin, Bulgakov, Capek, Nabokov, Platonov, Witkacy, Schulz, Gombrowicz, Vertov, Dovzhenko and others.</description>
+<prerequisites/>
+<notes>All texts can be read in English translation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73bf491f95e0ac10058e5224877659ba">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Grabowicz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

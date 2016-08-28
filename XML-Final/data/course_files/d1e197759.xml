@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5565" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>28</num_int>
+</course_number>
+<title>Invisible Worlds</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Mara Prentiss (Physics) and George M. Whitesides (University Professor; Chemistry and Chemical Biology)</faculty_text>
+<description>What we perceive as "reality" is the best effort of our senses to interpret a deeper, largely invisible, reality that is unnervingly strange. This course will survey the world of very small things, objects with dimensions of nanometers and micrometers. The behaviors of these objects are often entirely counterintuitive; they can also be quite useful. Micro- and nanostructures are the basis both of fundamentally new science, and of ubiquitous technologies: quantum dots, computers, the biological nanomotors that power muscle, buckyballs, tools for examining single mammalian cells, lasers. The course will describe these objects and how they function; it will also touch on issues of commercialization, economics, public policy, and ethics that spring from the avalanche of discovery and invention in this area.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2cad8e6e404ab4062b2845d6509fcfc2">
+<name>
+<prefix/>
+<first>Mara</first>
+<middle/>
+<last>Prentiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

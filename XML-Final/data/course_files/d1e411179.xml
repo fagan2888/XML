@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5201" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>995</num_int>
+</course_number>
+<title>Senior Seminar: General Psychology</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Elinor Amit</faculty_text>
+<description>A capstone course aimed at an integrated review of the field through seminar discussions, oral reports, field experience, practitioner interviews, and independent research projects. Focus is upon the perspectives and prescriptions in contemporary psychology.</description>
+<prerequisites/>
+<notes>Designed for senior concentrators not engaged in an honors thesis.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd8a63421199f42821d2944a94f09e880">
+<name>
+<prefix/>
+<first>Elinor</first>
+<middle/>
+<last>Amit</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

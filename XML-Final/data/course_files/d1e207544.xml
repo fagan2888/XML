@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15187" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SCAND">Scandinavian</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Becoming Scandinavia: Introduction to Scandinavian History and Identity</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 12-2, W., 12</meeting_text>
+<faculty_text>Maja Backvall</faculty_text>
+<description>This course takes a historical perspective on Scandinavian culture, introducing it through texts and art from the Viking Age until the present day. It also discusses how history has shaped and continues to shape contemporary Scandinavian identity and the relationships between the countries. We will be reading primary sources as well as fiction, in translation, watching films and making use of Harvard's library and museum collections.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

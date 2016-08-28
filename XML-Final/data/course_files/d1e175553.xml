@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3573" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>24</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>The Physics and Applied Physics Freshman Research Laboratory</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., F., 3-5</meeting_text>
+<faculty_text>Jene A. Golovchenko</faculty_text>
+<description>Exposes students considering careers in science or engineering to environment of a modern research laboratory. Research teams construct, perform, analyze, and report on cutting-edge experiments in physical, engineering, and biological sciences. Projects provide insight into the mathematical, mechanical, electronic, chemical, computational, and organizational tools and skills that characterize modern experimental science. Past projects focused on atomic, nuclear, and solid state physics, materials science, dynamical systems, and biophysical science. Projects highlight both team and individual effort.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. This class will meet off-campus at the Rowlands Institute at Harvard. Transportation will be provided at no charge to students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3d751b7255396ca574ec1d41d79cf607">
+<name>
+<prefix/>
+<first>Jene</first>
+<middle>A.</middle>
+<last>Golovchenko</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Rowland Institute" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

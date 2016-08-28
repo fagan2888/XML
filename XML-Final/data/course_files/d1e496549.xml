@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91883" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1512</num_int>
+</course_number>
+<title>Cities on a Hill: Images of America as a Redeemer Nation, 1630-present</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 12-2</meeting_text>
+<faculty_text>Catherine A. Brekus (Divinity)</faculty_text>
+<description>Beginning with John Winthrop's 1630 speech, "A Model of Christian Charity," and ending with the 2012 presidential election, we will examine images of America as a city on a hill. We will ask several questions: How and why have Americans conceived of the nation in sacred terms? How have religious images of the nation developed and changed over time? What are the implications of America's "civil religion"? We will discuss the Puritan idea of a national covenant, the millennial rhetoric of the American Revolution, defenses of manifest destiny, the sacrificial theology of the Civil War, religious and political rationales for global missions, the rise of the Christian Right, and presidential invocations of America as a city on a hill. We will also examine how women's rights leaders, abolitionists, and civil rights activists both critiqued and appropriated the image of America as a city on a hill.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2180.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffba72e10c1581291fc561d94769d1f12">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle>A</middle>
+<last>Brekus</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

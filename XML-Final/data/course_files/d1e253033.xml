@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8254" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Filming Science</title>
+<course_type>Workshop</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-3, W., 1-4</meeting_text>
+<faculty_text>Peter L. Galison and Robb Moss</faculty_text>
+<description>Examination of the theory and practice of capturing scientific practice on film. Topics will include fictional, documentary, informational, and instructional films and raise problems emerging from film theory, visual anthropology and science studies. Each student will make and edit short film(s) about laboratory, field, or theoretical scientific work.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9528cb55a07148d5cbe39df4d3355578">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Galison</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa07342c0634acbdbdde076b32e7190b2">
+<name>
+<prefix/>
+<first>Robb</first>
+<middle/>
+<last>Moss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

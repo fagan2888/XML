@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7779" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2300</num_int>
+</course_number>
+<title>Methods in Intellectual History: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David R. Armitage and Peter K. Bol</faculty_text>
+<description>Introduction to advanced research in intellectual history with special reference to philosophy and political thought. Readings will include primary and secondary materials drawn from East-Asian and Euro-American traditions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe774867882d55040c69d786eeec30111">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Armitage</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F33c73f03f0b4a8d66da1c28f47cbd9ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>K.</middle>
+<last>Bol</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

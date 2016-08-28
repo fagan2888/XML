@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5157" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>272</num_int>
+</course_number>
+<title>RF and High-Speed Integrated Circuits</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Donhee Ham</faculty_text>
+<description>Design of RF and high speed integrated communication circuits at both transistor and system levels.</description>
+<prerequisites>Solid-state devices and analog circuits (Engineering Sciences 154 or equivalent), basic electromagnetism (Physics 11b or 15b or some part of Engineering Sciences 151 or equivalent), basic differential equations (Applied Mathematics 21b or equivalent), and Fourier analysis (some part of Applied Mathematics 105a or Engineering Sciences 156 or equivalent).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F107ad64f31ec540a749d9d9d2be4e363">
+<name>
+<prefix/>
+<first>Donhee</first>
+<middle/>
+<last>Ham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

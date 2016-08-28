@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95758" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>ns</num_char>
+</course_number>
+<title>Culture and Politics in the United States</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Lisa Stampnitzky</faculty_text>
+<description>This course aims to provide a conceptual and methodological toolkit for studying the intersection of "culture," broadly understood, and politics in American society. Key questions to be addressed will include: How can "culture" help us understand American politics? What, if anything, is distinctive about American politics and society? And how does culture shape individual and societal approaches to particular political issues?</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F82071a6f5d5825b289ad1a51762b6dfb">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle/>
+<last>Stampnitzky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

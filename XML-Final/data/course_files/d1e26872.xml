@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3025" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>151</num_int>
+</course_number>
+<title>Astrophysical Fluid Dynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9</meeting_text>
+<faculty_text>Lars Hernquist</faculty_text>
+<description>Fluid and gas dynamics with applications drawn from astrophysical phenomena. Topics include: kinetic theory, diffusive effects, incompressible fluids, inviscid and viscous flows, boundary layer theory, accretion disks, fluid instabilities, turbulence, convection, gas dynamics, linear (sound) waves, method of characteristics, Riemann invariants, supersonic flow, non-linear waves, shocks, similarity solutions, blast waves, radiative shocks, ionization fronts, magnetohygrodynamics, hydromagnetic shocks, dynamos, gravitational collapse, principles of plasma physics, Landau damping, computational approaches, stability criteria, particle based (Lagrangian) methods, adaptive mesh refinement, radiation hydrodynamics.</description>
+<prerequisites/>
+<notes>This course offered alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8feb1488d87e163363917539cb199843">
+<name>
+<prefix/>
+<first>Lars</first>
+<middle>Eric</middle>
+<last>Hernquist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

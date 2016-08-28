@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="363" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2000</num_int>
+</course_number>
+<title>Osteoarchaeology Lab</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2:30-5:30, and at least three hours of laboratory weekly.</meeting_text>
+<faculty_text>Richard H. Meadow</faculty_text>
+<description>Introduction to the osteoarchaeological analysis. Identification of animal bones and teeth from archaeological sites using comparative materials and their characterization employing visual, metric, and microscopic methods.</description>
+<prerequisites/>
+<notes>Given in alternate years. Open to qualified undergraduates. Fulfills laboratory course requirement for archaeology graduate students and archaeological science requirement for undergraduate concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3191d88825175d2767ab2f1f7afaf480">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>H.</middle>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

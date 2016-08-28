@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4591" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Upper-Level Classical Arabic I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., Tu., Th., at 9</meeting_text>
+<faculty_text>Dalia Abo Haggar</faculty_text>
+<description>Concentration on readings from classical Islamic texts, with emphasis on Qur'an, hadith, sira, and tafsir literature; directed readings and textual analysis; review of classical Arabic morphology and syntax.</description>
+<prerequisites>Arabic Ba or equivalent, or may be taken separately with permission of the instructor.</prerequisites>
+<notes>Not open to auditors. Offered jointly with the Divinity School as 4353.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3f8b76442135998fc388362a3c7e664b">
+<name>
+<prefix/>
+<first>Dalia</first>
+<middle/>
+<last>Abo-Haggar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-109" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

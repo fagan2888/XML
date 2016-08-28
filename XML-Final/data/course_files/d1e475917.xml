@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1650" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>340</num_int>
+</course_number>
+<title>Random Network Models</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Random graph models for biological, social, and information networks, including fixed degree, exponential, power law, small world, and geometric random graphs. Estimation and sampling methods for network data.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F48331742259037b9b8a17000234a8e7e">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>K.</middle>
+<last>Blitzstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3e5508a589c37efba3bebf5d46135f06">
+<name>
+<prefix/>
+<first>Edoardo</first>
+<middle>Maria</middle>
+<last>Airoldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

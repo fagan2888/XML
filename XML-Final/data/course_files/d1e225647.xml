@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9674" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>84</num_int>
+<num_char>l</num_char>
+</course_number>
+<title>Democracy and Education in Modern America</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James T. Kloppenberg</faculty_text>
+<description>The birth of contemporary American politics and our current regime of primary, secondary, and university education both date from the 1890-1930 period. Focusing on psychology, philosophy, and political and educational reform, with particular emphasis on the writings of William James and John Dewey, this course examines the shaping of modern American democracy and education.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F747b5b6b1ee7d18b831a2edabdb99e2a">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Kloppenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

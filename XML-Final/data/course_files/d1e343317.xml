@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2854" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>186</num_int>
+</course_number>
+<title>Circadian Biology: From Cellular Oscillators to Sleep Regulation</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-5, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Charles A. Czeisler (Medical School)</faculty_text>
+<description>Properties, mechanisms, and functional roles of circadian (daily) rhythms in organisms ranging from unicells to mammals. Cellular and molecular components, regulation of gene expression and physiological functions, genetic and biochemical analyses of circadian rhythms, and neurobiology of the mammalian circadian pacemaker. Mathematics and modeling of oscillatory systems and applications to circadian rhythms. Experimental studies of human rhythms, including the sleep-wake cycle and hormone rhythms, with applications to sleep disorders.</description>
+<prerequisites>LS 1b or equivalent, MCB 80 desirable.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faf5f79774787eea7a4ee64faab04644d">
+<name>
+<prefix>Dr</prefix>
+<first>Charles</first>
+<middle>Andrew</middle>
+<last>Czeisler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="1058" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

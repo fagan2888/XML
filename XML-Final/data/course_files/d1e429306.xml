@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1167" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Tutorial-Junior Year</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Elvira G. DiFabio and members of the Department</faculty_text>
+<description>Weekly individual instruction for juniors pursuing a thesis honors track in Italian Studies, culminating in the writing of a 20-25 page research paper in Italian.</description>
+<prerequisites/>
+<notes>Successful completion of one term of Italian 98 (or equivalent) is required of all thesis-track honors concentrators in Italian Studies.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

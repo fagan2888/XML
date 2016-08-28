@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45945" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>55</num_int>
+</course_number>
+<title>Shakespeare, The Early Plays</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Marjorie Garber (English; Visual and Environmental Studies)</faculty_text>
+<description>The early comedies, tragedies, and histories, considered in the context of the origins of the English stage and the conventions of Elizabethan drama. Particular attention paid to Shakespeare's development as a dramatist, and to poetic expression, thematic design, stagecraft, and character portrayal in plays.</description>
+<prerequisites/>
+<notes>This course, when taken for letter grade, meets the Department of English Shakespeare requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2800b74f91e501cd019a46fd48a90074">
+<name>
+<prefix/>
+<first>Marjorie</first>
+<middle/>
+<last>Garber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20356" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>182</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>China in Twelve Artworks</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Eugene Wang</faculty_text>
+<description>The course revolves around close looking at twelve Chinese artworks from Harvard Art Museums. The objects to be examined range from the Neolithic period to the twentieth century. They anchor larger horizons, opening up hidden historical dimensions. Students learn to interrogate artworks by forming fruitful questions and identifying leads that take them to deeper cultural historical contexts. It will be demonstrated that artworks yield insights into a culture in a palpable way unobtainable from texts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb75a30470fbc826e536a58d6d25d284f">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle>Yuejin</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

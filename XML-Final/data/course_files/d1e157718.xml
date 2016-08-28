@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40047" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Environmental Health: Your World and Your Life at Risk</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2:30-5 with local field trips to be arranged.</meeting_text>
+<faculty_text>Douglas W. Dockery (Public Health)</faculty_text>
+<description>Through the seminar course students will be introduced to ongoing environmental health research. They will read published articles and interview faculty. Studies will include birth outcomes and heavy metals; neurological and cognitive development in children exposed to lead; dietary interventions and pesticide exposure; asthma and public housing; air pollution and cardiovascular health; exposures and effects of plasticizers, flame retardants, polychlorinated biphenyls (PCBs), bisphenol A (BPA) and other synthetic organic compounds; cell phone use and brain cancer; respiratory effects of biomass cooking and heat fuels on children and women; heat waves and heat stress mortality; and land-use factors and obesity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F806b0311896b078940ae7cfa415bb367">
+<name>
+<prefix/>
+<first>Douglas</first>
+<middle>W.</middle>
+<last>Dockery</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1430" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4099" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>164</num_int>
+</course_number>
+<title>Environmental Chemistry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Karena A. McKinney</faculty_text>
+<description>Basic concepts, principles, and applications of environmental chemistry for students in Earth and environmental sciences. We will investigate a variety of chemistry topics relevant for environmental systems, including water chemistry, acids and bases, redox reactions, precipitation/dissolution, sorption, gas solubility, and aqueous and atmospheric reaction rates and mechanisms. The principal goal is to explore and apply the fundamental principles of chemical thermodynamics and kinetics to understand Earth processes and solve complex environmental problems.</description>
+<prerequisites>Physical Sciences 1 or permission of the instructor.</prerequisites>
+<notes>Cannot be taken for credit by students who have already taken ENG-SCI 264.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0bbe53f12b1298572b2dc5a425263ece">
+<name>
+<prefix/>
+<first>Karena</first>
+<middle>A.</middle>
+<last>McKinney</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="223" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59441" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>175</num_int>
+</course_number>
+<title>Glucose: From Molecule to Society</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a lab component to be arranged</meeting_text>
+<faculty_text>Richard T. Lee</faculty_text>
+<description>We will explore the biochemistry, cell biology, and physiology that make glucose our main source of energy. How did humans depend on and crave this molecule? What consequences does it hold for normal metabolism and disease? Students will integrate evolution, endocrinology, biostatistics, bioengineering, and regenerative biology approaches in considering sugar and all its consequences. Finally, we will evaluate legal and business issues necessary to move scientific and technical innovations from the laboratory to the patient.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54; MCB 52 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc400ec849be85b237d5882ff125565ba">
+<name>
+<prefix>Dr.</prefix>
+<first>Richard</first>
+<middle>T.</middle>
+<last>Lee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Fairchild Biochemistry Lab" room="062" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

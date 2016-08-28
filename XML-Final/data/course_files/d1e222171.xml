@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8870" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>3040</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research Seminar in Health Policy</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F96fa1fc1c5a62f5636d1404688a62791">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle/>
+<last>Swartz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F96fa1fc1c5a62f5636d1404688a62791">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle/>
+<last>Swartz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58133" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>290</num_int>
+</course_number>
+<title>Heritage Languages and Their Speakers</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course will present and analyze theoretical and experimental aspects of heritage language study. A heritage language is a minority language that an individual was exposed to in childhood but never learned to full competence because of the switch to another language. The course will identify critical linguistic generalizations applying to heritage languages. We will test the universal principles of language structure that are expected to stay unchanged in any language. The students will also learn crucial methodologies and tools for investigating heritage languages and their speakers in an experimental setting. Class discussions will reflect the current social and political discourse surrounding heritage populations. The work done in this class will lead to the development of experimental methodologies and tools for studying and testing heritage languages in the classroom.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

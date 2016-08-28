@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4076" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1126</num_int>
+</course_number>
+<title>Quantitative Methods in Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Elie Tamer</faculty_text>
+<description>Topics include elements of statistical decision theory and related experimental evidence; some game theory and related experimental evidence; maximum likelihood; logit, normal, probit, and ordered probit regression models; panel data models with random effects</description>
+<prerequisites>Math 18/21a/Applied Math 21a.</prerequisites>
+<notes>Economics 1123 may not be taken for credit if taken after Economics 1126, but credit will be given for both courses if Economics 1123 is taken first. Students who fulfill the econometrics requirement with Economics 1126 and who intend to pursue Honors should note that the Honors exam assumes knowledge of the material covered in Economics 1123.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcfb2377aff377b74f65335c70b2d8864">
+<name>
+<prefix/>
+<first>Elie</first>
+<middle/>
+<last>Tamer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+</requirements>
+</course></courses>

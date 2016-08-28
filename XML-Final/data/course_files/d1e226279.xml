@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38953" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>89</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Henry Kissinger: Statecraft in Theory and Practice</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Niall Ferguson</faculty_text>
+<description>As National Security Adviser and Secretary of State, Henry Kissinger was the architect of the policy of detente with the Soviet Union, of the "opening" to China, and of the effort to salvage "peace with honor" in Vietnam. Yet Kissinger should be understood as a scholar as well as a statesman. Using selections from his writings, this seminar will assess Kissinger in his own terms and in the context of modern international history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="354" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

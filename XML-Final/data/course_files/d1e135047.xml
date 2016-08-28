@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63833" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>155</num_int>
+</course_number>
+<title>Biological Signal Processing</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Vahid Tarokh and Paul Coote</faculty_text>
+<description>General properties of common biosignals, Bioelectrical (electrophysiological), Biomechanical, Biomagnetic , and Biochemical signals, Bioelectrical acquisition process. Brief discussion of bio-signals obtained from tomography and inverse imaging. Brief introduction to underlying principles of MRI, Ultrasound, CT-Scan, PET, and SPECT, and their associated signals, inverse imaging, ill-posed problems and regularization. Non-transformed and transformed methods for biosignal processing. Structural and Graphical descriptions. Overview of Fourier transforms, Sine and cosine transform, Wavelet transform, Principle Component Analysis, dimension reduction techniques. Blind Source Separation, Representation models based on the statistical independence of the underlying sources, Independent component analysis (ICA), Dependent component analysis, Independent Subspace separation, Pattern Recognition, neural networks, clustering, and genetics algorithms. Applications to Biosignal Processing, and Human computer interaction.</description>
+<prerequisites>AM21a (knowledge of AM21b can be helpful).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7e8c124524bf17a9190aaa933bb1f154">
+<name>
+<prefix/>
+<first>Vahid</first>
+<middle/>
+<last>Tarokh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fab012aed15f69957297722feb09aa0ad">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>William</middle>
+<last>Coote</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

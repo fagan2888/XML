@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2733" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1760</num_int>
+</course_number>
+<title>International Relations of East Asia</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>M., W., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Alastair Iain Johnston</faculty_text>
+<description>Introduction to the historical, military, political, economic, and cultural features of interstate relations in East Asia and the Pacific. The course also presents some theoretical and methodological tools for more systematic analysis of these issues. The goal is to understand changing levels of conflict and cooperation in the region.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F78da1c4db54dbd15bb39cc9a1a105efc">
+<name>
+<prefix/>
+<first>Alastair</first>
+<middle>Iain</middle>
+<last>Johnston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

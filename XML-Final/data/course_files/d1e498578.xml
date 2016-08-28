@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48595" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1610</num_int>
+</course_number>
+<title>Householders and Ascetics: An Introduction to Religions of South Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Shenghai Li</faculty_text>
+<description>This course introduces the remarkable diversity of religious literature, philosophical thought, ritual and contemplative practices, and cultural forms that have emerged on the South Asian subcontinent. Focusing on Hinduism, Buddhism, and Jainism, the course examines common South Asian religious patterns in the areas of textual practices, social institutions, and contemplative traditions. We will explore intellectual achievements and religious experiences lived by householders and ascetics alike. By engaging with South Asian materials and becoming familiar with the scholarship in the field, students will gain refined perspectives on religions in the world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F651915e8b3ca866de8efa016bd46bd19">
+<name>
+<prefix/>
+<first>Shenghai</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

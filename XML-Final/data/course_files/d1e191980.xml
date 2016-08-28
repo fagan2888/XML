@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42449" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>56</num_int>
+</course_number>
+<title>The Culture of Capitalism</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Martin Puchner (English; Comparative Literature; Dramatic Arts)</faculty_text>
+<description>The course asks how cultural products, including literature, theater and film have captured the spirit of capitalism-fuelling its fantasies, contemplating its effects, and chronicling its crises. More than just an economic system, capitalism created new habits of life and mind as well as new values, forged and distilled by new forms of art. Core readings by Defoe, Franklin, O'Neill, Rand, Miller, and Mamet and background readings by Smith, Marx, Taylor, Weber, Keynes, and Hayek.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5fcd1f48f3a54ebfe504ba8649213dae">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle/>
+<last>Puchner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

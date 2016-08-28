@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9076" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>175</num_int>
+</course_number>
+<title>Laser Physics and Modern Optical Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Markus Greiner</faculty_text>
+<description>Introduction to laser physics and modern optical physics aimed at advanced undergraduates. Review of electromagnetic theory and relevant aspects of quantum mechanics. Wave nature of light. Physics of basic optical elements. Propagation of focused beams, optical resonators, dielectric waveguides. Interaction of light with matter, introduction to quantum optics. Lasers. Physics of specific laser systems. Introduction to nonlinear optics. Modern applications.</description>
+<prerequisites>Physics 15b, 15c, 143a, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcbb522a1316c7aefa0c61b37327d9552">
+<name>
+<prefix/>
+<first>Markus</first>
+<middle/>
+<last>Greiner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

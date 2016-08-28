@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42651" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="TURKISH">Turkish</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Turkish I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 9-11</meeting_text>
+<faculty_text>William E. Granara and assistant</faculty_text>
+<description>Gaining and improving advanced language skills in Modern Turkish through reading, writing, listening, and speaking with special emphasis on the proper usage of vocabulary and idiomatic expressions.</description>
+<prerequisites/>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

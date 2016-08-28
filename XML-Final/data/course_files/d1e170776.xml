@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71959" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.269</num_char>
+</course_number>
+<title>Society and the Witch</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Witches are often imagined to be outside society. But this socially marginal figure may provide a key to understanding social norms, norms that get articulated through the witch's very violation of them. In this course, we ask what discourses about witches tell us about the societies that produce them. We'll examine enduring fascinations with the occult in modernity, a period when magic was supposed to disappear. We'll explore topics ranging from self-identified magicians to the sensationally successful Harry Potter series. Readings draw from anthropology, folklore and mythology, gender studies, history, literature, and popular culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcd867bce4be4fc775bc02a1fe6804f39">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Joseph</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

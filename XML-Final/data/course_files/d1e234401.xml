@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63974" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1993</num_int>
+</course_number>
+<title>Introduction to Digital History</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Gabriel Pizzorno</faculty_text>
+<description>This course will introduce students to the use of digital tools in historical research. We will explore the emerging fields of digital history and public history and the current and potential impact of digital technologies on the theory and practice of history. The course will train students in the acquisition, management, analysis, visualization, and sharing of historical data, documents, and texts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0c6faad37f9dedd3e2f139a41a0801a9">
+<name>
+<prefix/>
+<first>Gabriel</first>
+<middle/>
+<last>Pizzorno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

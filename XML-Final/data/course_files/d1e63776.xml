@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1540" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>166</num_int>
+</course_number>
+<title>Consequences of Earthquakes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30&amp;#8211;4, and a weekly three-hour lab to be arranged.</meeting_text>
+<faculty_text>Miaki Ishii</faculty_text>
+<description>Introduction to seismology with a focus on conceptual understanding of seismic phenomena. Emphasis will be on earthquakes, e.g., detection, mechanism, characteristics, statistics, hazard, and relationship to dynamics. Broader topics such as the types of seismological data and inferences of the Earth's internal structure also will be covered.</description>
+<prerequisites>Mathematics 21a, b or Applied Mathematics 21a, b (may be taken concurrently); or equivalent.</prerequisites>
+<notes>//Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7edba0f5ca8a767c3b3e7ecaff527ecb">
+<name>
+<prefix/>
+<first>Miaki</first>
+<middle/>
+<last>Ishii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

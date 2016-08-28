@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5928" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>154</num_int>
+</course_number>
+<title>Literature and Sexuality</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Stephen Louis Burt</faculty_text>
+<description>What do love, sex, erotic desire, gender and personality have to do with one another, with how you see yourself, with what and how you read, with how others see you? What is this thing called sexuality, where did it come from, and how did literary creators find ways to reflect it, or change it? We'll look for answers in novels, plays, film, poetry, comics and nonfiction from the Renaissance to the present, among them Austen, Baldwin, Bechdel, Binnie, Lawrence, Rochester, Sedgwick, Wilde, and Whitman.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc52476beecb36712d85097fc658f5ff9">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>Louis</middle>
+<last>Burt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

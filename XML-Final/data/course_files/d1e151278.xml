@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23333" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>fd</num_char>
+</course_number>
+<title>The Rhetoric of Frederick Douglass and Abraham Lincoln: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>John Stauffer</faculty_text>
+<description>A critical examination of Douglass' and Lincoln's speeches and other exemplary writings from Lincoln's 1838 Lyceum Address to Douglass's 1894 "Lessons of the Hour." We explore Douglass' and Lincoln's respective rhetorical practices in relation to their politics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5803a5a34ebf6e53757c113ac97051c0">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Stauffer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59051" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>hb</num_char>
+</course_number>
+<title>Four Shakespeare Plays: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Marc Shell</faculty_text>
+<description>This is a survey course of Shakespeare plays.</description>
+<prerequisites/>
+<notes>This course, when taken for letter grade, meets the Department of English Shakespeare requirement.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe23d103e4569abae053b4255d84f6b4c">
+<name>
+<prefix/>
+<first>Marc</first>
+<middle/>
+<last>Shell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

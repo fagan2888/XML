@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4500" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>Bioethics, Law, and the Life Sciences</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Sheila Jasanoff (Kennedy School)</faculty_text>
+<description>Seeks to identify and explore salient ethical, legal, and policy issues - and possible solutions - associated with developments in biotechnology and the life sciences.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as IGA-515. May not be taken for credit by students who have already taken IGA-515 (KSG).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F921a0da39765c5df9f0fd85a2cf9e236">
+<name>
+<prefix/>
+<first>Sheila</first>
+<middle/>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

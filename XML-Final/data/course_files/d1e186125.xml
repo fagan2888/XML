@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6240" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Love In A Dead Language: Classical Indian Literature and Its Theorists</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Parimal G. Patil (Study of Religion; South Asian Studies)</faculty_text>
+<description>An exploration of love in five genres of classical South Asian literature-epic history, story literature, plays, poetic miniatures, and court poetry. We will pay particular attention to the nature of literary genres and practices and how they were theorized by South Asian intellectuals. Especially relevant are theories of poetic language, aestheticized emotion (especially love), and literary ornamentation.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

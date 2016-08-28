@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50018" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>19</num_int>
+</course_number>
+<title>Nutrition and Global Health</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Clifford W. Lo (Harvard Medical School) and Christopher P. Duggan (Harvard Medical School; Harvard School of Public Health) and Wafaie W. Fawzi (Harvard School of Public Health)</faculty_text>
+<description>This course will introduce students to nutrition and global health problems through exploration of demographic, epidemiological, biological, social, political, and economic determinants of nutritional status. Emphasis will be placed on the role of nutritional status and dietary intake, both as a determinant and as a consequence, of these health problems. Students will be encouraged to think critically about the major challenges to improve nutrition and health at a global level, with a focus on nutrition and infectious diseases, maternal and child health, and chronic diseases. Nutritional assessment, study design, and efficacy of nutrition interventions, will be explored in detail.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feb0b82d8a894c6dbf7e94b7d0a3ab3f1">
+<name>
+<prefix/>
+<first>Clifford</first>
+<middle>W.</middle>
+<last>Lo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4a505125d60433fedfe22861e0bd50d8">
+<name>
+<prefix>Dr.</prefix>
+<first>Christopher</first>
+<middle/>
+<last>Duggan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F82267b94e9384068f392001630a1c36a">
+<name>
+<prefix/>
+<first>Wafaie</first>
+<middle>W.</middle>
+<last>Fawzi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5344" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>232</num_int>
+</course_number>
+<title>Dynamic Meteorology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Brian F. Farrell</faculty_text>
+<description>The atmosphere understood as a fluid dynamical system. Observations of atmospheric motions related to weather and climate. Application of the equations of atmospheric dynamics to explaining phenomena such as jet streams, cyclones and fronts.</description>
+<prerequisites>Applied Mathematics 105; or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5d773e4d0809b4bc25c81639ecd89b6c">
+<name>
+<prefix/>
+<first>Brian</first>
+<middle>F.</middle>
+<last>Farrell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

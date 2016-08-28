@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="648" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>181</num_int>
+</course_number>
+<title>Film Theory, Visual Thinking</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11:30-1, a weekly film screening W., 7-9 pm, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Giuliana Bruno</faculty_text>
+<description>How do moving images transform the way we think? Introduction to film theory aimed at interpreting the visual world, and developing skills to analyze films and media images. Survey of classical and contemporary film theory goes from turn-of-the-century scientific motion studies to the virtual movements of today. Considers theories of space, time, and motion, including Eisenstein's theory of montage and architecture. Treats visual technology and sensate space, the cultural history of the cinematic apparatus, the body and physical existence, affect and gender, and screen theory. Different theoretical positions guide us in understanding and reading films.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as 4132. This course has an additional weekly film screening, Wednesday, 7 pm-9pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

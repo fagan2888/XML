@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7111" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="LATIN">Latin</course_group>
+<course_number>
+<num_char>Aab</num_char>
+</course_number>
+<title>Beginning Latin (Intensive)</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M. through F., at 9, M., at 1</meeting_text>
+<faculty_text>Ivy Livingston and assistants</faculty_text>
+<description>For students with little or no previous instruction in Latin who are seriously interested in making very rapid progress. All basic grammar of the normal first-year sequence (Latin Aa and Ab) and practice in reading prose. Students are prepared for Latin Ba, Bb, Bam, or Bbm.</description>
+<prerequisites/>
+<notes>No auditors. May be taken pass/fail. Students with more than one year of formal instruction should take the Harvard placement test in Latin.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc2da8660ca48ffbab0f0353c42055450">
+<name>
+<prefix/>
+<first>Ivy</first>
+<middle/>
+<last>Livingston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="105" type="Speaking Section"/>
+<location term="1" building="Sever Hall" room="105" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

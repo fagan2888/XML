@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95879" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>190</num_int>
+</course_number>
+<title>The Horror Film</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Thursday 2-4, and a weekly film screening Wednesday 4-6.</meeting_text>
+<faculty_text>Adam Charles Hart</faculty_text>
+<description>This course will provide a historical and theoretical survey of the horror film. Beginning in the silent era and working up to recent entries, we will explore the nature of horror and the horrific in the cinema and the various approaches and perspectives that can be utilized to understand these films and their persistent global appeal.We will discuss major films in the genre as well as avant-garde outliers and cult films that push at the boundaries of the genre.</description>
+<prerequisites>No background in film theory or history necessary.</prerequisites>
+<notes>This course has mandatory weekly screenings on Wednesdays 4pm to 6pm</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F57fafdc787a4575f80d2a5e73a55f1c2">
+<name>
+<prefix/>
+<first>Adam</first>
+<middle>Charles</middle>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

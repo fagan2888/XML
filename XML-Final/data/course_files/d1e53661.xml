@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87232" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Literature, Philosophy, Pedagogy: Love and Freedom</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Svetlana Boym and John T. Hamilton</faculty_text>
+<description>Notions of "love" and "freedom" have persistently informed works of literature, visual art, and music since antiquity, exhibiting a complex variety of meanings, functions and values. The aim of this course is to investigate exemplary works that highlight some of the major tensions and questions related to distinct formulations of these two key terms. In reviewing a broad range of material, attention is paid throughout to specific historical, social, and cultural differences.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4bfbc0671777708c7f556a2d9ecf2d1f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>T.</middle>
+<last>Hamilton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

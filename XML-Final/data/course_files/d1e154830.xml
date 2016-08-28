@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4996" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>256</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Theory and Practice of the Victorian Novel: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Leah Price</faculty_text>
+<description>Reading-list to be determined in consultation with seminar members will include Austen, Bronte, Thackeray, Gaskell, Dickens, Collins, Trollope, read against both contemporaneous and new criticism and theory. Exercises in book reviewing, abstract-writing and conference presentation/public speaking.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0ef7948155cd9d9a60741208490dfa16">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle/>
+<last>Price</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="269 (Larsen Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87741" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2706</num_int>
+</course_number>
+<title>Disease, Disability, and the Body</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Laurence A. Ralph</faculty_text>
+<description>This course will theorize the ways in which disability and disease become linked to inequality. We will explore the social factors that produce forms of suffering, as well as kinds of violence that people experience when social difference is mapped onto the materiality of their bodies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F19d9cdd40b32d9fde520ebafc0fd3968">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>A</middle>
+<last>Ralph</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

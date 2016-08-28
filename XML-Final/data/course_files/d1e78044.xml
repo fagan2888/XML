@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2337" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>ab</num_char>
+</course_number>
+<title>Introduction to the Study of East Asia: Issues and Methods</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>James Robson and members of the Department</faculty_text>
+<description>This interdisciplinary and team-taught course provides an introduction to several of the approaches and methods through which the societies and cultures of East Asia can be studied at Harvard, including history, philosophy, literary studies, political science, film studies, anthropology and gender studies. We consider both commonalities and differences across the region, and explore how larger processes of imperialism, modernization, and globalization have shaped contemporary East Asian societies and their future trajectories.</description>
+<prerequisites/>
+<notes>Required of sophomore concentrators and secondary field candidates. Open to freshmen. EAS 97ab may not be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

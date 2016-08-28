@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31518" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1455</num_int>
+</course_number>
+<title>Perceiving People</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Ken Nakayama</faculty_text>
+<description>Our sensory world is filled with people and other creatures and we learn much about them from observation. Animals do similar things with their conspecifics, their prey and enemies. In this seminar course, we probe the psychological and specialized neural mechanisms that underlie these often hidden and remarkable abilities.</description>
+<prerequisites>SLS-20 and MCB80 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0de948ca917d4930fb40a4748ac83c5a">
+<name>
+<prefix/>
+<first>Ken</first>
+<middle/>
+<last>Nakayama</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

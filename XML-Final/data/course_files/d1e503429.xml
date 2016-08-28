@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57371" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Drawing 2: Drawing Expanded</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Monday and Wednesday at 1pm-4pm</meeting_text>
+<faculty_text>Katarina Burin</faculty_text>
+<description>An intermediate studio course to build upon basic skills, while exploring various methods and modes of drawing. Emphasis will be placed on individual projects and developing a body of work. This course considers drawing as both an immediate and mediated form, with distanced and nuanced potential. Exploring drawing as an expanded field, as process and installation, students can use various transfer techniques and incorporate found imagery--combining traditional skills and contemporary practice.</description>
+<prerequisites>At least one VES studio half-course or permission of the instructor.</prerequisites>
+<notes>This course may be taken as continuation of Drawing 1 or as a stand-alone course.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0bf87e9bc52c50aff9dec6d73b199a57">
+<name>
+<prefix/>
+<first>Katarina</first>
+<middle/>
+<last>Burin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="5th Floor Studio" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41864" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>278</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Drawing: Object, Medium, Discourse</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Ewa Lajer-Burcharth</faculty_text>
+<description>Explores the invention of drawing as a modern medium. Examines practices, theories, and debates on drawing focusing especially in the 18th &amp;19th centuries. Hands-on experience of works of art, honing of curatorial skills with practice in exhibition design, and extensive discussions of recent readings and methodologies. Materiality, technique, the aesthetic, philosophical, and institutional parameters of practice, including the notions of trace, touch, stain, speed, surface, sight, time, reproduction, generation, the mechanical, value, curiosity, etc. Course designed as preparation for a curricular exhibition on the subject to take place at Harvard Art Museums involving students</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6554df6d5af17648b84e59cbbd390ffb">
+<name>
+<prefix/>
+<first>Ewa</first>
+<middle/>
+<last>Lajer-Burcharth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

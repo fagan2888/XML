@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6484" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1651</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Language Development: Undergraduate Laboratory Course: Research Seminar</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jesse Snedeker</faculty_text>
+<description>Students participate in research on language acquisition, language comprehension, and language production. Each student has responsibility for a project. Weekly meeting to discuss student projects and readings that are relevant to them. Ten hours a week commitment (includes lab meeting).</description>
+<prerequisites>Science of Living Systems 20 or its predecessors plus either Psychology 13 or Psychology 16.</prerequisites>
+<notes>For undergraduates seeking research experience, especially in preparation for undergraduate theses.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb791950275922dcbb3737a20a6101bbd">
+<name>
+<prefix/>
+<first>Jesse</first>
+<middle/>
+<last>Snedeker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb791950275922dcbb3737a20a6101bbd">
+<name>
+<prefix/>
+<first>Jesse</first>
+<middle/>
+<last>Snedeker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

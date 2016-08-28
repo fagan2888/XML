@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93018" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>307</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular Causes of Congenital Defects of the CNS</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Congenital defects can be caused by inheritance of a defective gene, maternal infection, or prenatal exposure to environmental teratogens. Use of mutant mouse strains and genomic sequencing have been particularly useful in the rapid proliferation of our understanding of the cellular and molecular mechanisms by which congenital defects of the brain or nervous system arise, and how they lead to functional consequences that range from biochemical abnormalities to gross structural defects.</description>
+<prerequisites/>
+<notes>Given every three years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fef95054d4fd978f437a5929a21c56e6c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>Rose</middle>
+<last>Loeken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

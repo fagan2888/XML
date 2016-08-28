@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54824" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1698</num_int>
+</course_number>
+<title>Anthropology of Death and the Afterlife: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Anya Bernstein</faculty_text>
+<description>This course explores how different cultures imagine death and the afterlife, drawing on insights from the anthropology of religion, politics, and medical anthropology. Based on readings that range from classical ethnographies of death and dying to contemporary debates on the politics of death, we will discuss cultural theories on what constitutes the moment of death and what happens after, as well as investigate the political lives of dead bodies. The topics covered include conceptualizations of the body and mind, ideas of the spirit world, witchcraft, mortuary rituals, relic veneration, royal and communist corpses, organ donation, end-of-life care, and concepts of biopolitics and bare life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc54758ba6ad38f9e1dc0e675df7d9112">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bernstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

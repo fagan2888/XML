@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31335" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>2</num_int>
+</course_number>
+<title>Digital Platforms</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>5</enrollment_limit>
+<meeting_text>Th., 5-7 p.m.</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>The Internet operates in layers, and so does much of the technology that hooks up to it: PCs, mobile phones, tablets. Nearly two decades ago those platforms were conceptually simple: a "generative" base offered by one manufacturer, on which any third party could build. (Think: Windows and the programs that run on it.) Some efforts by platform makers to tip the scales in their favor in the layer above resulted in extended controversy and regulatory efforts, such as over Windows coming bundled with Internet Explorer. Today platforms are just as vital but far more complex. We have hybrids like the iOS and Android operating systems or the Facebook and Twitter platforms, where the platform makers offer their systems as services rather than products, influencing and sometimes outright limiting connection between users and independent developers for those platforms. How should we think about these new platforms? What counts as a "level playing field," and what responsibility, if any, is there for public authorities to enforce it? What lessons, if any, do the prior tangles offer for today?</description>
+<prerequisites/>
+<notes>This course is jointly-offered with the Kennedy School as DPI-668 and with the Law School as 2601.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5aece5c57c2169c10a3b79ed6fea9526">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>L.</middle>
+<last>Zittrain</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

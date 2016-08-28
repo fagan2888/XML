@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65544" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>366</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Introduction to Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Introduction to the process of developing research ideas into publications in Statistics, using case studies and actual research projects. Emphasizes scientific communication in research papers and presentations, deciphering referee reports, and finding the right forum.</description>
+<prerequisites>Statistics 211a.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3e5508a589c37efba3bebf5d46135f06">
+<name>
+<prefix/>
+<first>Edoardo</first>
+<middle>Maria</middle>
+<last>Airoldi</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3e5508a589c37efba3bebf5d46135f06">
+<name>
+<prefix/>
+<first>Edoardo</first>
+<middle>Maria</middle>
+<last>Airoldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1800" end_time="2000"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1800" end_time="2000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

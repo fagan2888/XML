@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22518" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>146</num_int>
+</course_number>
+<title>Ocean Ridges and the Earth System</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 12-1:30</meeting_text>
+<faculty_text>Charles H. Langmuir</faculty_text>
+<description>Course will present our current knowledge of the ocean ridge system where two thirds of Earth's crust is continually being created. We will examine the progressive understanding of ocean ridges from a historical perspective, emphasizing the process of scientific discovery. Topics include melt generation in the mantle, magmatic processes in the crust, formation of ocean ridge topography, faulting and tectonics, hydrothermal systems, manifestations in the overlying water column, and the unique ecosystems associated with vents. Approaches must be inherently interdisciplinary, including geochemistry, geophysics, geology, hydrothermal systems, and biology. The place of the ocean ridge system within the overall Earth system will be emphasized.</description>
+<prerequisites>One of: EPS 21, EPS 22, or SPU 14; or permission of instructor.</prerequisites>
+<notes>Students may have the opportunity to participate in a sea-going expedition as part of the course.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fc0b628b1643d26413bf5c600c7a80c">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Langmuir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9326" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>54</num_int>
+</course_number>
+<title>Biology of the Fungi</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly laboratory on Tu., 2:30 -5.</meeting_text>
+<faculty_text>Rosanne Healy</faculty_text>
+<description>This course explores the fascinating diversity of the kingdom fungi, including evolution, ecology and morphology. All of the major groups of fungi, from smuts to molds, will be included. Students use a variety of techniques to learn about these organisms and their activities.</description>
+<prerequisites>Life Sciences 1a and 1b or permission of instructor.</prerequisites>
+<notes>There is a weekly laboratory, and several afternoon field trips are required (dates to be announced).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5bfabdffab79ead93eca2ddc3279baff">
+<name>
+<prefix/>
+<first>Rosanne</first>
+<middle/>
+<last>Healy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Herbaria" room="Seminar Rm 125" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

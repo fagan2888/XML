@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19012" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1150</num_int>
+</course_number>
+<title>Data Analysis: A Project Class</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2:30-5:30</meeting_text>
+<faculty_text>Sendhil Mullainathan</faculty_text>
+<description>Many classes teach students valuable statistical tools. But students often do not develop the analytical skills and know-how needed to use these skills in business, government or other professional settings. This hands-on data analytics class fills this gap. Students will work semester-long in teams of two or three on a single project. The projects will largely come from real problems sourced from private companies, non-profits, governments, technology firms and so on. This class will not teach new statistical tools. Students are expected to have technical mastery of these tools coming in as well as the capacity and desire to learn new statistics as needed. At the minimum students should have (i) a working knowledge of basic econometric concepts such as linear regression, omitted variable bias, and the problems missing data can create (ii) working facility with some statistical package. The semester-long work will culminate in a presentation and report to the client that posed the problem.</description>
+<prerequisites/>
+<notes>This course meets the concentration writing requirement. Also offered by Harvard Kennedy School as API-219.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f0d679c0b35b05a12f4c718a8dba9c9">
+<name>
+<prefix/>
+<first>Sendhil</first>
+<middle/>
+<last>Mullainathan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="306" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

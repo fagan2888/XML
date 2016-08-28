@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7389" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>cl</num_char>
+</course_number>
+<title>Law and Society</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Terry K. Aladjem</faculty_text>
+<description>Examines law as a defining force in American culture and society in four dimensions-as it establishes individual rights, liberties, and limits of toleration; as it attempts to resolve differences among competing constituencies; as it sets out terms of punishment and social control, and as a source of informing images and ideological consistency.</description>
+<prerequisites/>
+<notes>A prison trip is planned, subject to approval. This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9f3edf7daf9d656f1384284ebfb2ccaf">
+<name>
+<prefix/>
+<first>Terry</first>
+<middle/>
+<last>Aladjem</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

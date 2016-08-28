@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92015" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>106</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Contemporary African Music: Global and Local</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Ingrid Monson</faculty_text>
+<description>Examines contemporary African music with emphasis on the relationship between traditional and popular genres. Of particular interest are themes of music and social commentary, music and public health, music and political conflict, and music and youth empowerment. Case studies from Mali, Nigeria, Kenya, Democratic Republic of the Congo, and South Africa will be featured.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F05a9c5641b1007f2f1216e13bab67182">
+<name>
+<prefix/>
+<first>Ingrid</first>
+<middle/>
+<last>Monson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

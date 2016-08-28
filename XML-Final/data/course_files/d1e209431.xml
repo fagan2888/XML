@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52527" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GLOBHLTH">
+<dept_long_name>Standing Committee on Global Health and Health Policy</dept_long_name>
+<dept_short_name>Global Health and Health Policy</dept_short_name>
+</department>
+<course_group code="GHHP">Global Health and Health Policy</course_group>
+<course_number>
+<num_int>60</num_int>
+</course_number>
+<title>Negotiation and Conflict Management: From the Interpersonal to the International</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>34</enrollment_limit>
+<meeting_text>M., 2-5</meeting_text>
+<faculty_text>Daniel Louis Shapiro (Medical School)</faculty_text>
+<description>How can you best negotiate conflict in your own life? How should policymakers negotiate global conflict? Around the world, conflict imposes profound direct and indirect costs on global health and individual well-being, ranging from death and injury to trauma, the loss of social networks, and destabilization of political systems. Rather than focusing on how to address the aftermath of conflict and violence, this course examines theory and practical methods to prevent destructive conflict. Explores theory, frameworks, and tools developed to negotiate the substantive, emotional, and identity-based dimensions of conflict. Applies the theory to a diversity of real-life negotiations, ranging from interpersonal disputes between friends to international conflicts in the Middle East and elsewhere.</description>
+<prerequisites/>
+<notes>This highly interactive course aims to improve students' skill in resolving conflicts, and draws on a variety of learning methodologies, including lecture, case simulations, self-reflection exercises, and application of negotiation frameworks to conflicts depicted in movies. Students will have the opportunity to analyze firsthand case narratives of senior-level global leaders who have negotiated serious conflicts; these cases are part of an emerging Global Curriculum on Conflict Management spearheaded by the instructor, the Harvard International Negotiation Program, and the World Economic Forum.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F784727d57f3cd8dbc216d1c93963d5bc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Louis</middle>
+<last>Shapiro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

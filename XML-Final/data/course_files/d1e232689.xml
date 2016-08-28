@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72126" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1911</num_int>
+</course_number>
+<title>Pacific History</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David R. Armitage</faculty_text>
+<description>The Pacific Ocean covers a third of the Earth's surface and one-third of humanity lives on its shores and islands, from Russia to New Zealand and from Southeast Asia to South America. This seminar introduces students to oceanic and global history via works in Pacific history by scholars of the Pacific Islands, Asia, Australasia, Europe, and the Americas. Themes covered include cultural encounters, exploration, migration, history of science, geopolitics, and economic history.</description>
+<prerequisites/>
+<notes>Students can count the course towards the fulfillment of an Ethnic Studies Secondary Field.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe774867882d55040c69d786eeec30111">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Armitage</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

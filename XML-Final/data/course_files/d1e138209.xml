@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1486" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>231</num_int>
+</course_number>
+<title>Energy Technology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>David Keith</faculty_text>
+<description>Principles governing energy generation and interconversion. Current and projected world energy use. Selected important current and anticipated future technologies for energy generation, interconversion, storage, and end usage.</description>
+<prerequisites>One semester of college-level calculus-based physics and familiarity with chemistry at the high school advanced placement level.</prerequisites>
+<notes>Students may not take both Engineering Sciences 231 and Engineering Sciences 229 for credit.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8767495d32284516409fa6a9fadb8058">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Keith</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

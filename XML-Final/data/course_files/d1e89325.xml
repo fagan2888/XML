@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="871" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>985</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Research in Macroeconomics, Finance, and Modeling</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Kiran Gajwani</faculty_text>
+<description>Workshop for seniors writing theses. Especially for topics in macroeconomics, finance, or theses involving theoretical models, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd916dc8270522f0e4e06e88b1f9929a3">
+<name>
+<prefix/>
+<first>Kiran</first>
+<middle/>
+<last>Gajwani</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd916dc8270522f0e4e06e88b1f9929a3">
+<name>
+<prefix/>
+<first>Kiran</first>
+<middle/>
+<last>Gajwani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

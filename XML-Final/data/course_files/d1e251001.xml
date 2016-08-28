@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54617" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Communities of Knowledge: Science, Religion, and Culture in Medieval Europe and the Lands of Islam</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Katharine Park and Ahmed Ragab (Divinity School)</faculty_text>
+<description>Explores the development of scientific ideas and practices in Europe, North Africa, and the Middle East, focusing on the circulation of texts, people, and objects. Special attention to intellectual, social, and institutional contexts.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3340.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F70f4ce8ca93187ceebd075d38745e1cd">
+<name>
+<prefix/>
+<first>Katharine</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

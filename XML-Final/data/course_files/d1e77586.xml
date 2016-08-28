@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93879" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Topics in Chinese Film and Media Studies: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Jie Li</faculty_text>
+<description>This course addresses the question "What was/is cinema in China?" from shadow puppets to DV documentaries. Topics include cinema's arrival in China, silent film stars, sound film sing-alongs, wartime collaborations, mobile projection teams, revolutionary model operas, and Chinese cinema's transnational connections.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc06e4746ec56a05dc3384b7ffa9356ef">
+<name>
+<prefix/>
+<first>Jie</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

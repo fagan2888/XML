@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11972" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SCAND">Scandinavian</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Scandinavian Language Tutorial</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Maja Backvall and members of the Department</faculty_text>
+<description>Individualized study of a Scandinavian language at the elementary, intermediate and advanced levels. Contact hours with language coach. Emphasis on literacy. Any language not listed as a course is taught under this number.</description>
+<prerequisites/>
+<notes>For instruction in languages that are not listed (for example, modern Icelandic or Faroese), please consult the Director of Undergraduate Studies for Scandinavian. Not open to auditors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

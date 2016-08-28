@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67777" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Cyborg Psychology</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 6-8 p.m.</meeting_text>
+<faculty_text>Justin Anthony Junge</faculty_text>
+<description>Cyborgs are created when biological brains are enhanced with technology. This course will explore a wide range of mind-machine interactions. Are search engines changing the structure of human memory? Is your laptop or smartphone part of your mind? Are human brains flexible enough to update motor and sensory systems, expanding the self to include artificial limbs, exoskeletons, remote-control devices, night vision, wearable computing, etc.? How do experiences in virtual reality impact psychology? As technology advances we are all becoming cyborgs. Now is an exciting time to study the interactive interface of technology and mind.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 14, PSY 15, PSY 18, MCB 80, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60efd2c34b333ace86316838855faaaf">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>Anthony</middle>
+<last>Junge</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1800" end_time="2000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

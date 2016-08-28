@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47732" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SBIO">
+<dept_long_name>Committee on Higher Degrees in Systems Biology</dept_long_name>
+<dept_short_name>Systems Biology</dept_short_name>
+</department>
+<course_group code="SYSTBIO">Systems Biology</course_group>
+<course_number>
+<num_int>212</num_int>
+</course_number>
+<title>Communication of Science</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 2-5</meeting_text>
+<faculty_text>Angela Depace (Medical School), Allon Moshe Klein (Medical School), and Galit Lahav (Medical School)</faculty_text>
+<description>Students will work collaboratively with faculty and one another on critical science communication skills including crafting graphics, writing fellowships, and giving oral presentations.</description>
+<prerequisites/>
+<notes>This is a required course for first year Systems Biology students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc626fa18eef05363250aa474527ec2b8">
+<name>
+<prefix>Dr</prefix>
+<first>Angela</first>
+<middle/>
+<last>Depace</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0e3e9589452e3a8a1c5b94b56fc2f56d">
+<name>
+<prefix>Dr</prefix>
+<first>Allon</first>
+<middle>Moshe</middle>
+<last>Klein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa02d986fe6a03300618ed5f5faa38ff1">
+<name>
+<prefix/>
+<first>Galit</first>
+<middle/>
+<last>Lahav</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="HMS - Warren Alpert Building" room="436" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

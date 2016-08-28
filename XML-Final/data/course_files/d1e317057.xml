@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7905" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MICROBI">Microbiology</course_group>
+<course_number>
+<num_int>213</num_int>
+</course_number>
+<title>Social Issues in Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Jonathan R. Beckwith (Medical School), and Louis Guenin (Medical School)</faculty_text>
+<description>Discussion course on topics selected from the following: history, philosophy of science; evolution vs. creationism; genetics and race; women and science; genetic testing; science journalism; genetics and criminality; science in wartime; scientists and social responsibility; theater and the public presentation of science.</description>
+<prerequisites>Some background in genetics.</prerequisites>
+<notes>Offered jointly with the Medical School as MG 722.0. Alternates yearly between the Longwood and the Cambridge Campuses.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73edfabe4293aa75a076f52c359c1cc9">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle/>
+<last>Beckwith</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

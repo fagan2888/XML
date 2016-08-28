@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="713" offered="N" next_year_offered="2015">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORHIST">Korean History</course_group>
+<course_number>
+<num_int>255</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Modern Korean History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Carter J. Eckert</faculty_text>
+<description>Readings and research in modern Korean history. Students are required to write a seminar paper based largely on primary materials</description>
+<prerequisites>Korean History 253 or equivalent, and reading proficiency in Korean.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

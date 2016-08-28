@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61125" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1558</num_int>
+</course_number>
+<title>The Psychology of Left and Right</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Sasha Y. Kimel</faculty_text>
+<description>What are the origins of the culture war between the political Left and Right? How do psychobiology, upbringing, temperament and moral values shape this difference in political orientations? In this course, we will explore the psychological factors underlying political divisions as well as the role of our social networks and desire for group identity in maintaining and widening the divide. The goal of this course is to develop your empirical, theoretical and methodological understandings of psychological research underlying the Left-Right conflict while providing you with tools to detect partisanship and to promote the cooperation and connection necessary for a well-functioning democracy.</description>
+<prerequisites>SLS 20 and at least one course from Psy 13, Psy 14, Psy 15, Psy 18, or SLS 15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcfdffe431af2455f1067db73a331725a">
+<name>
+<prefix/>
+<first>Sasha</first>
+<middle>Y.</middle>
+<last>Kimel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

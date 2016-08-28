@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18817" offered="N" next_year_offered="2015">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>320</num_int>
+</course_number>
+<title>Workshop on Sociology of Education</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>A forum for students and faculty across the university interested in the sociology of education, primarily for the discussion of research in progress. Domestic and comparative topics welcome. Meets bi-weekly, Fall and Spring.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F6f83189e6b4d213d907c463ed315c39c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>C.</middle>
+<last>Brinton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6f83189e6b4d213d907c463ed315c39c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>C.</middle>
+<last>Brinton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

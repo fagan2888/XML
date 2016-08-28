@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4775" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>Stellar Understanding of the Cosmos</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>M., W., 1&amp;#8211;2:30, and one evening telescope laboratory session to be arranged.</meeting_text>
+<faculty_text>Jonathan E. Grindlay (Astronomy)</faculty_text>
+<description>Direct measurements of the stars and Sun with telescopes at the Science Center to learn how we can understand our solar system, Galaxy and the distant Universe from stars, the basic building blocks and markers of cosmic evolution. In small sections, students conduct both visual and computer-assisted telescope observations to measure key properties of stars and formulate their own cosmic understanding from simple physical laws. Solar observations are done in class on clear days; stellar observations use the 16in computer-controlled Clay Telescope on the Science Center rooftop in weekly 1hour evening sections, which include data analysis and discussion of lecture and readings.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F45ad6f6a956c1c052f6f9f6732f7a1af">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>E.</middle>
+<last>Grindlay</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="804" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

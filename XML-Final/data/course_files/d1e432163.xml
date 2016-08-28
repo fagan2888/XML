@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35812" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>cu</num_char>
+</course_number>
+<title>Circus and Utopia in Brazilian Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Stephen Bocskay</faculty_text>
+<description>Analyzes the circus as an image of Brazil and explores how this image allows for an interpretation of Brazilian history and culture from the perspective of utopian discourses found, for example, in literature, popular music, dance, and cinema. Authors, songwriters, film directors, and critics include Jorge de Lima, Murilo Rubiao, Adriana Lisboa, Jose Miguel Wisnik, Edu Lobo, Chico Buarque, Elis Regina, Arnaldo Jabor, and Caca Diegues.</description>
+<prerequisites/>
+<notes>Conducted in Portuguese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1b868dfdfa79a1dc4d7237bd0c7a8416">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Bocskay</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2517" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>The Science of Happiness</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Nancy Lee Etcoff (Medical School)</faculty_text>
+<description>Focuses on the science of happiness, integrating findings from positive psychology, psychiatry, behavioral genetics, neuroscience, and behavioral economics. Begins with a brief history of ideas on happiness from Aristotle to Kahneman. Considers the genetics of happiness including the notion of a biologically determined hedonic set point, the brain's pleasure circuitry, and the mind's power to frame events positively, a tool used in cognitive therapies. Questions whether pleasure and happiness are our purpose.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2d7447ca459cf055f39810e51aba6f27">
+<name>
+<prefix>Dr</prefix>
+<first>Nancy</first>
+<middle>Lee</middle>
+<last>Etcoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

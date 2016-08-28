@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7202" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>245</num_int>
+</course_number>
+<title>Petrological Approaches to Understanding the Earth's System</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Charles H. Langmuir</faculty_text>
+<description>The course studies the igneous processes at spreading centers, convergent margins and hot spots, and explores their influences on mantle, crust, ocean and atmosphere and the constraints they provide for the plate tectonic geochemical cycle.</description>
+<prerequisites>EPS 145 or permission of instructor.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fc0b628b1643d26413bf5c600c7a80c">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Langmuir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94147" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>147</num_int>
+</course_number>
+<title>The Shareholder Value Management Revolution</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Frank Dobbin</faculty_text>
+<description>Since the late 1970s, the American style of management has been revolutionized. This course reviews the history of American management strategies, focusing on the origins and effects of the shareholder value approach that now prevails among leading firms. Shareholder value traces its roots to America's lackluster performance in the global economy during the 1970s, and the prescriptions offered by agency theorists in the field of financial economics. We explore how the shareholder value approach was promoted in American firms. We look at how the approach has changed core corporate strategy, how it has affected corporate performance, and how it has shaped labor markets, income inequality, and global trade.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0e9e46ff4a61f17223e476d66890ab66">
+<name>
+<prefix/>
+<first>Frank</first>
+<middle/>
+<last>Dobbin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

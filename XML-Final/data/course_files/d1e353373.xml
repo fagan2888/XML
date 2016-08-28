@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41913" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>193</num_int>
+<num_char>rvo</num_char>
+</course_number>
+<title>Topics in Music from 1800 to the Present: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Kate van Orden</faculty_text>
+<description>California in the 60s. This seminar examines American youth culture in the "long" 1960s through the lens of music in California. Both "popular" and "art" music will be considered, including the early minimalists, L.A. and the Laurel Canyon crowd, and San Francisco psychedelia. In addition to understanding musical forms, performance styles, and the effects of technology (radio, recording, electric instruments), the class will delve into the politics of race, gender, and the draft.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F54788d10e00a364988e0b1db01061510">
+<name>
+<prefix/>
+<first>Kate</first>
+<middle/>
+<last>van Orden</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

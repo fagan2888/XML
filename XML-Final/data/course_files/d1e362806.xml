@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5476" offered="N" next_year_offered="2015">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARMEN">Armenian</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Classical Armenian</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>James R. Russell</faculty_text>
+<description>Introduction to classical Armenian grammar and reading of selected texts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

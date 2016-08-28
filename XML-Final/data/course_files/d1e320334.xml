@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5603" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>204</num_int>
+</course_number>
+<title>Neurophysiology of Central Circuits</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-12</meeting_text>
+<faculty_text>Rachel I. Wilson (Medical School), John A. Assad (Medical School), Richard T. Born (Medical School), Michael Tri Hoang Do (Medical School), Christopher D. Harvey (Medical School), Gabriel Kreiman (Medical School), and Margaret S. Livingstone (Medical School)</faculty_text>
+<description>This course introduces major themes and fundamental concepts underlying current research in systems neuroscience. Each week covers a different theme, and draws on research from different sensorimotor modalities and model organisms.</description>
+<prerequisites>Neurobiology 200 or with permission of instructor.</prerequisites>
+<notes>Offered jointly with the Medical School as NB 721.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F85a71ffa38f5f4583589bf370c1e0549">
+<name>
+<prefix/>
+<first>Rachel</first>
+<middle/>
+<last>Wilson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

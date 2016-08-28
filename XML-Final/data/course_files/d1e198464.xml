@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6974" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>15</num_int>
+</course_number>
+<title>The Cuban Revolution, 1956-1971: A Self-Debate</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jorge I. Dominguez (Government)</faculty_text>
+<description>Focus on the insurrectionary war, the consolidation of power, Fidel Castro's role, the role of organized labor and the peasantry, the US-Cuban conflict, the alliance with the Soviet Union, the choice of economic strategy, the "remaking of human beings," the role of intellectuals, and the support for revolutions in Africa and Latin America. The instructor debates himself, presenting two or more views on each topic. Readings include original documents in translation.</description>
+<prerequisites/>
+<notes>Sections offered in English or Spanish. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5ac5a6747d812595f815e299e5c9ea3a">
+<name>
+<prefix/>
+<first>Jorge</first>
+<middle>I.</middle>
+<last>Dominguez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

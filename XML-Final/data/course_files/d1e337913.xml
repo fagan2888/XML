@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5468" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>Constitutional and Legal History of Medieval England</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Charles Donahue, Jr. (Law School)</faculty_text>
+<description>A survey of the ideas and events that shaped the structure of English law and governance from the Anglo-Saxon invasions to the Reformation Parliament. Topics include the formation of the kingdom of England, the emergence of institutions of royal governance, the relations between church and state, the development of Parliament, and the various institutional reactions to political conflict and social change.</description>
+<prerequisites/>
+<notes>Offered concurrently, but with a separate section, at the Law School as Law 42200A-1.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F737c0c74637cdd5a9ca985d8c022bc2d">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Donahue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

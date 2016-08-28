@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2497" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SPCN">
+<dept_long_name>Committee on Special Concentrations</dept_long_name>
+<dept_short_name>Special Concentrations</dept_short_name>
+</department>
+<course_group code="SPC-CONC">Special Concentrations</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Tutorial - Junior Year</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Deborah D. Foster and members of the Committee</faculty_text>
+<description/>
+<prerequisites/>
+<notes>Successful completion two terms of *Special Concentrations 98r are ordinarily required of all honors concentrators in their junior year. Exceptions to this can only be granted with the consent of the Faculty Adviser and the Director of Undergraduate Studies of Special Concentrations.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F83d1a11d2876209fab0af5af3824d31e">
+<name>
+<prefix/>
+<first>Deborah</first>
+<middle/>
+<last>Foster</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F83d1a11d2876209fab0af5af3824d31e">
+<name>
+<prefix/>
+<first>Deborah</first>
+<middle/>
+<last>Foster</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

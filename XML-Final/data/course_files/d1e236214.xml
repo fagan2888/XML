@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10733" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2284</num_int>
+</course_number>
+<title>Digital History Seminar: from 101 to 3.0</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Kelly A. O'Neill-Uzgiris</faculty_text>
+<description>Exploration of the landscape of digital history from the perspectives of both theory and practice. Students will examine major debates in the field, assess groundbreaking projects, and apply digital history methods to their own research.</description>
+<prerequisites/>
+<notes>Open to undergraduates with consent of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9ac7035fefcd39b20b126d7e628d39aa">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle>A.</middle>
+<last>O'Neill</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

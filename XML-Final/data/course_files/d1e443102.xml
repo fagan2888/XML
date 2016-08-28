@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9278" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Justin Weir and others</faculty_text>
+<description>For senior concentrators in Slavic Literature and Culture. Students work with a faculty advisor on a senior thesis or capstone project.</description>
+<prerequisites/>
+<notes>Required for senior concentrators in Slavic Literature and Culture. Students who wish to enroll must obtain the signature of the Director of Undergraduate Studies. Honors students must also complete Slavic 99b.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb95f496c0add7449a50df6c8dc7b7450">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>M.</middle>
+<last>Weir</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb95f496c0add7449a50df6c8dc7b7450">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>M.</middle>
+<last>Weir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

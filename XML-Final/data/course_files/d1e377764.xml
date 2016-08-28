@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7873" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>51</num_int>
+</course_number>
+<title>Biology and Evolution of Invertebrate Animals</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Lectures Tu., Th., 10-11:30; laboratory on Wednesdays with hours to be arranged.</meeting_text>
+<faculty_text>Gonzalo Giribet</faculty_text>
+<description>Introduction to invertebrate diversity, will cover the development, adult anatomy, biology and evolutionary relationships of the main animal phyla including sponges, mollusks, annelids and arthropods among others. Special emphasis is placed on understanding the broad diversity of animal forms and their adaptations to different ecosystems and how these phenomena shape animal evolution. Lectures will be complemented with a mandatory weekly lab and a field trip to different areas of outstanding marine diversity in the Caribbean.</description>
+<prerequisites>LS1b, OEB 10, OEB 53 or permission of instructor required.</prerequisites>
+<notes>Field trip to the Caribbean for research during spring break.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6f5a1979a8f408aa6a46ef45510cd60e">
+<name>
+<prefix/>
+<first>Gonzalo</first>
+<middle/>
+<last>Giribet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

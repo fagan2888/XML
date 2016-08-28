@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7668" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1732</num_int>
+</course_number>
+<title>The Origins of Modern Wars</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1; sections TBA</meeting_text>
+<faculty_text>Stephen Martin Walt (Kennedy School)</faculty_text>
+<description>This course explores the causes of war. It examines the different theories that have been devised to explain organized violence between states (or groups seeking to control a state), and evaluates these competing theories by exploring several major conflicts of the past 100 years: World War I, World War II, the Cold War, the Arab-Israeli conflict, and the recent wars in the Persian Gulf. The course also considers the phenomenon of ethnic conflict, the implications of nuclear weapons and the question of whether large-scale war is becoming "obsolescent."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F43b10afd384e38bf5aeab67bcd24a411">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>M.</middle>
+<last>Walt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

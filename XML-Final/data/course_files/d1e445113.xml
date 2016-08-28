@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85412" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>185</num_int>
+</course_number>
+<title>18th-Century Russian Literature: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Daria Khitrova</faculty_text>
+<description>A survey of major authors and key questions in 18th-century Russian literature: (r)evolutions in literary language; syllabo-tonic reform; style and genre systems; the status of literature in the Imperial state, etc. Studies Prokopovich, Trediakovsky, Lomonosov, Sumarokov, Fonvizin, Derzhavin, Bogdanovich, Karamzin.</description>
+<prerequisites>Good reading knowledge of Russian.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6814e2abff5cdb80ea97a92ca71fb9b2">
+<name>
+<prefix/>
+<first>Daria</first>
+<middle/>
+<last>Khitrova</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="373" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

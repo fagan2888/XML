@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3934" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>150</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Kinochemical Reactions: Studio Course</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., Th., 1-4</meeting_text>
+<faculty_text>Athina Rachel Tsangari</faculty_text>
+<description>This course is essentially the continuation of 150ar. Students will re-write, produce, and direct the scripts that were developed during the fall term. Emphasis will be given to directing actors, spatial reconnaissance of shooting locations, production design, sound design, and re-making/re-mapping through editing. Completed films (edited, mixed, color graded) are required by the end of the term. Collaboration between students, and crew rotation is a must. Occasional in-class workshops by film professionals and artists.</description>
+<prerequisites>VES 150ar or two courses in video production, one of which must be VES 60x or VES 59.</prerequisites>
+<notes>Students seeking to enroll should come to the first class meeting with a developed short narrative screenplay.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffe309d12b89dc97864ab33e23b5e3df8">
+<name>
+<prefix/>
+<first>Athina</first>
+<middle>Rachel</middle>
+<last>Tsangari</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

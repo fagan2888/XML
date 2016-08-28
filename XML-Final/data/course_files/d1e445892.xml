@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11189" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>270</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Mapping Cultural Space: Sites, Systems &amp; Practices across Eurasia</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Julie A. Buckler, Eve Marion Blau (Design School), and Kelly A. O'Neill-Uzgiris</faculty_text>
+<description>Year-long bi-weekly interdisciplinary seminar on the production of social, cultural, and political space in Russia, Eastern Europe, and Central Asia. Physical and urban space will receive particular attention. Includes individual and collaborative work with digital tools for research, analysis, and presentation. Key questions: How can diverse mapping practices (geographical, scholarly and disciplinary, discursive, artistic) illuminate Eurasian cultural politics? How can we analyze cultural space as a dynamic product of cultural activity, as well as a framework for the evolution and transmission of beliefs, behaviors, memories, and values?</description>
+<prerequisites/>
+<notes>Open to qualified undergraduates with permission of the instructors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8efd05685bfa1d406fd1f642cc58510e">
+<name>
+<prefix/>
+<first>Julie</first>
+<middle/>
+<last>Buckler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F69b1030d3c5fd657df99f875d35463a2">
+<name>
+<prefix/>
+<first>Eve</first>
+<middle/>
+<last>Blau</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F9ac7035fefcd39b20b126d7e628d39aa">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle>A.</middle>
+<last>O'Neill</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8efd05685bfa1d406fd1f642cc58510e">
+<name>
+<prefix/>
+<first>Julie</first>
+<middle/>
+<last>Buckler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F69b1030d3c5fd657df99f875d35463a2">
+<name>
+<prefix/>
+<first>Eve</first>
+<middle/>
+<last>Blau</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9ac7035fefcd39b20b126d7e628d39aa">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle>A.</middle>
+<last>O'Neill</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="354" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

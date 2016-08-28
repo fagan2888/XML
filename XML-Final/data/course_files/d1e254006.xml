@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20399" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>185</num_int>
+</course_number>
+<title>Communicating Science: From Print Culture to Cybersocieties</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Alex Csiszar</faculty_text>
+<description>Science doesn't just happen in the lab. Scientific results have to be communicated among scientists, and to the public. This course investigates the ways in which scientific knowledge circulates, and pays special attention to how new communications media have shaped knowledge-in-the-making. Topics will include the history of scientific genres (letters, encyclopedias, periodicals), popular science, peer review, intellectual property, and new information technologies. Selected classes will take place in Houghton Library.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd103d0cf747f3d7dbdfded2e6bcaa894">
+<name>
+<prefix/>
+<first>Alex</first>
+<middle/>
+<last>Csiszar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85633" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>147</num_int>
+</course_number>
+<title>"Why the Jews?": The Modern Jewish Experience in Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Dara Horn Schulman</faculty_text>
+<description>By the numbers, the Jews should be no better known than the Quecha people of Peru. Yet their outsize role in the Western imagination has made the Jewish experience, and its literary expression, into a fascinating case study of the intersection of language, culture and identity. This course will provide background on literary genres rooted in the Jewish religious tradition, and examine 19th, 20th and 21st century works that refine, reject, and reinvent them, introducing students to the tumultuous history of modern Jewish culture. Authors include Sholem Aleichem, Franz Kafka, S.Y. Agnon, Isaac Bashevis Singer, Amos Oz, Saul Bellow, Etgar Keret and others.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3e867decfbf8ad5b7db44b11778fde9d">
+<name>
+<prefix/>
+<first>Dara</first>
+<middle/>
+<last>Horn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

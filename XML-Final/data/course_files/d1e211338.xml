@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89299" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>es</num_char>
+</course_number>
+<title>Spain 40 Years Later: From Franco Dictatorship to the Indignados Movement</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This seminar aims to develop an in-depth understanding of modern Democracy's discontent through the Spanish case study. In 40 years Spain has turned from being an exemplary model of the transition to democracy to a leading example of disaffection with political and economic elites. The Indignados/Podemos movement cam seemingly out of nowhere to capture 1.2 million votes, becoming the third political force in many regions of Spain. It is an appropriate time for us to consider how to breathe new life into a decadent democracy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

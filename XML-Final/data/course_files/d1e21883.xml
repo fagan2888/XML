@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95848" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2682</num_int>
+</course_number>
+<title>Anthropology of Urbanism: Japan in Comparative Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1 and section to be arranged</meeting_text>
+<faculty_text>Theodore C. Bestor</faculty_text>
+<description>This course examines patterns of Japanese urbanism -- social, cultural, historical, and built-environmental -- through interdisciplinary discussion. It is open to graduate students in any department or programs. Students are required to attend lectures of SW 33 Tokyo; students in Anthro 2682 will participate in specialized discussion sections and will frame term projects tailored to their future research plans in close consultation with the professor. The seminar is equally open to graduate students with strong interests in urban anthropology, in urban design and planning, and in Japanese/Asian Studies in history, the social sciences, and the humanities.</description>
+<prerequisites/>
+<notes>Students must also attend all lectures of Societies of the World 33 "Tokyo" MW(F) 1 pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F77ffed0ff6ba63862f7a3bd6b3205e91">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle>C</middle>
+<last>Bestor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

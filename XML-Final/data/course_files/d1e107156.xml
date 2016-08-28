@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1227" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3680</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research in Environmental Economics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Participants discuss recent research in environmental and natural resource economics and present their own work in progress.</description>
+<prerequisites/>
+<notes>Open to doctoral students only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F572b5f0ac1c20198b6ab3e74138c4a93">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Stavins</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F572b5f0ac1c20198b6ab3e74138c4a93">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Stavins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

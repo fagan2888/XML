@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1583" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>7</num_int>
+</course_number>
+<title>Introduction to Ancient Philosophy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Russell Edward Jones</faculty_text>
+<description>A survey of ancient Greek philosophy, with an emphasis on Socrates, Plato, and Aristotle. Topics include: the nature of reality, and how we come to know it; the nature and value of wisdom and virtue, and how we might come to attain them; and the good life for human beings, with special attention to the place of justice and friendship in it.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fac78e49932a94b4b4ac4422d4e70a2da">
+<name>
+<prefix/>
+<first>Russell</first>
+<middle>Edward</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

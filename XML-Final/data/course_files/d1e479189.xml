@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95856" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>300</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Current Research in Stem Cell and Regenerative Biology</title>
+<course_type>Reading Course</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This survey course provides contemporary approaches to the study of stem cell and regenerative biology.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa771e8ae46afb8bc82db510244e58374">
+<name>
+<prefix/>
+<first>Lee</first>
+<middle/>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

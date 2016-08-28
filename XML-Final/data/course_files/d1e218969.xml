@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4675" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2148</num_int>
+</course_number>
+<title>Civil Society, West and East</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Susan J. Pharr and Grzegorz Ekiert</faculty_text>
+<description>Focusing in particular on European and Asian settings, the seminar examines debates over what civil society is, notions of public space and social capital, and the role of civil society in political transitions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb7c908c9b223c29781fa11bdc50abb91">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle>J.</middle>
+<last>Pharr</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1260381ab8f1370a05d0aad607c56ac9">
+<name>
+<prefix/>
+<first>Grzegorz</first>
+<middle/>
+<last>Ekiert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

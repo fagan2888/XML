@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43545" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>320</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Secrecy, Security, Surveillance</title>
+<course_type>Reading Seminar</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Over the course of the last hundred years-from World War I to the present-the world has assembled a massive system of state secrecy, censorship, security and surveillance. This course introduces the problem, tracking not only how the national and now global system of watching and archiving came into place, but exploring the consequences of this apparatus for identity, deliberation, and democracy. Enrollment limited to 12, by permission of the instructor.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F9528cb55a07148d5cbe39df4d3355578">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Galison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

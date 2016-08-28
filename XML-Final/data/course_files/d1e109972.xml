@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89788" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>126</num_int>
+</course_number>
+<title>Statistics and Inference in Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Michael Manish Desai</faculty_text>
+<description>We often deal with incomplete information when going about our lives: recognizing a friend's face covered by a shadow, having a phone conversation where the reception is poor, reading a document with lots of spelling and grammatical errors. In such circumstances, we make good guesses to process and understand the data. How do we do this? What kind of mathematical framework do we need to interpret noisy and incomplete data? This course will develop a set of statistical tools that will help us solve such poorly posed problems. We will draw on examples from primary literature in biology to study optical illusions, text recognition, sequence alignment, decoding cryptographs, processing of chemo-attractive signals to find food, and survival strategies of bacteria in unpredictable environments to motivate the underlying mathematical framework.</description>
+<prerequisites>Mathematics 19a/b or Mathematics 21a/b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fed7488796700d446724211885228f8a4">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>M</middle>
+<last>Desai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

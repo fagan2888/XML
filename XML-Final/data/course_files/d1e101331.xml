@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52787" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2395</num_int>
+</course_number>
+<title>Health and Social Justice: Reshaping the Delivery of Health</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Amartya Sen and Paul Farmer (Medical School)</faculty_text>
+<description>Across the world, remarkable improvements in life expectancy have occurred over the past few decades. But global and regional disparities of health outcomes have also surged, and this widening "outcome gap" does not always move in parallel with economic progress, or even with the commonly identified social determinants. The causal influences on the differences are subject to critical examination, including the role that recent innovations in prevention and therapeutics, health-care systems and social safety nets, play or might play in promoting or retarding health and wellbeing. The seminar will explore case studies from India, China, Rwanda, Haiti, Thailand and elsewhere, including comparative perspectives on health systems across North America and Europe.</description>
+<prerequisites/>
+<notes>Offered jointly with the Medical School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0f5053872674cf9048b8b9db27217ef">
+<name>
+<prefix/>
+<first>Amartya</first>
+<middle/>
+<last>Sen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F3cfe8215e70c5c9cb5a64309444126d0">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Farmer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="305" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

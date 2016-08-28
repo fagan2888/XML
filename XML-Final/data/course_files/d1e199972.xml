@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9058" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>36</num_int>
+</course_number>
+<title>Modern India and South Asia</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Sugata Bose (History)</faculty_text>
+<description>This course provides the historical depth and the comparative context in which to understand contemporary South Asia through an historical inquiry into the making and multiple meanings of modernity. It explores the history, culture, and political economy of the subcontinent which provides a fascinating laboratory to study such themes as colonialism, nationalism, partition, the modern state, economic development, refashioning of religious identities, center-region problems and relations between Asia and the West. Significant use of primary written sources (in English) and multi-media presentations.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fffc7531b7a25885e95a9f2d7bdac7873">
+<name>
+<prefix/>
+<first>Sugata</first>
+<middle/>
+<last>Bose</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

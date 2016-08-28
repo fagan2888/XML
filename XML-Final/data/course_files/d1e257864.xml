@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2265" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1310</num_int>
+</course_number>
+<title>Hormones and Behavior</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Carole K. Hooven</faculty_text>
+<description>An introduction to the interaction between hormones and behavior, emphasizing research in humans. General principles of endocrine physiology are presented. The course then focuses on how hormones affect the brain and body in early development and later in adulthood, and the relationship of hormones to sex and gender. We will explore human reproduction, energy metabolism, mating and sexuality, parental behavior, stress, and dominance interactions.</description>
+<prerequisites/>
+<notes>This course is a prerequisite for Human Evolutionary Biology 1418.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F277c25da9d7a85274e92e028d948cecd">
+<name>
+<prefix/>
+<first>Carole</first>
+<middle>Kennedy</middle>
+<last>Hooven</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

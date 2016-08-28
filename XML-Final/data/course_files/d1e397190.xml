@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2978" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>195</num_int>
+</course_number>
+<title>Introduction to Solid State Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 1-2:30</meeting_text>
+<faculty_text>Jennifer E. Hoffman</faculty_text>
+<description>This course gives a grounding in condensed matter physics, with an emphasis on solid state materials of practical utility. We give a physical &amp; quantitative introduction to crystal structure, band structure, electrons, phonons, thermal properties, optical properties, and magnetic properties. We cover materials including metals, insulators, semiconductors, and superconductors. We include discussion of experimental techniques employed to measure material properties.</description>
+<prerequisites>Physics 143a is highly recommended.</prerequisites>
+<notes>Designed as a first course in solid state physics for students with knowledge of elementary quantum mechanics. Students who intend to take Applied Physics 295, and who have not previously taken a formal course in solid state physics, are strongly advised to take this course first.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe5582dfba74351825b4f28b62f9f177e">
+<name>
+<prefix/>
+<first>Jenny</first>
+<middle/>
+<last>Hoffman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="453" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

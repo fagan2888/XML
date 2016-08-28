@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1322" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1059</num_int>
+</course_number>
+<title>Decision Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Tomasz Strzalecki</faculty_text>
+<description>An introduction to formal models of decision making in economics, including both classical and psychologically-motivated approaches. Topics include risk, uncertainty, ambiguity, and temptation.</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a and Mathematics 21a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

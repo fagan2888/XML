@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63756" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1211</num_int>
+</course_number>
+<title>Queer Practice</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Tey Meadow</faculty_text>
+<description>Is there a particularly "queer" way to live? Does a queer perspective mitigate for certain forms of social, interpersonal or political action? Are there sets of vocations, engagements or relationship formations that are, in and of themselves, distinctly queer? Or is queerness something that can infuse or transform pre-existing modes of personal or relational action? Is a university education or academic queer theory necessary, or even useful, for these endeavors? Students will examine the connections and disconnects between academic work in gender and sexuality studies and the ways feminist and LGBTQ politics are imagined and lived within contemporary activist communities.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff2a537edba2c479b238873a8dec0f843">
+<name>
+<prefix/>
+<first>Tey</first>
+<middle/>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

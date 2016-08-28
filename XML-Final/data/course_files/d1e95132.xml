@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77458" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1760</num_int>
+</course_number>
+<title>Behavioral Finance</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Owen A. Lamont</faculty_text>
+<description>Theory and evidence on mispricing in financial markets due to investor psychology or institutional constraints. Broad themes are the practical limits of arbitrage, models of psychological behavior, and predictability of security returns. Specific topics may include market bubbles and crashes, closed end funds, value vs. growth, momentum, the money management industry, and short sale constraints.</description>
+<prerequisites>Econ 1723</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa6b232475da9c661b84a41eafb5a6f20">
+<name>
+<prefix/>
+<first>Owen</first>
+<middle>A.</middle>
+<last>Lamont</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

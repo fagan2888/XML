@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9819" offered="N" next_year_offered="2015">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2665</num_int>
+</course_number>
+<title>The Economics of Organizations Workshop</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Oliver S. Hart</faculty_text>
+<description>Speakers present current research in the field in a seminar setting.</description>
+<prerequisites/>
+<notes>Offered jointly with the Business School as 4230.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb6f1fb42ca0b8dd33b2198b76a010e9">
+<name>
+<prefix/>
+<first>Oliver</first>
+<middle/>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbb6f1fb42ca0b8dd33b2198b76a010e9">
+<name>
+<prefix/>
+<first>Oliver</first>
+<middle/>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

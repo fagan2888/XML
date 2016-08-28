@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4206" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>201</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Interstellar Medium and Star Formation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-3:30</meeting_text>
+<faculty_text>Karin Oberg</faculty_text>
+<description>The interstellar medium (ISM) is the reservoir of gas and dust between stars. It is the nursery of new stars and planets, and the depository of energy and material from stellar winds and supernovae. This course will treat the often extreme physics and chemistry of the interstellar medium under its observed range of temperatures, densities, and radiation fields. It will cover the processes that govern the interactions between the ISM, stars and their host galaxies, including star and planet formation, and feedback from stellar deaths. The observational and laboratory methods and results that underpin the theories of interstellar environments will be highlighted.</description>
+<prerequisites/>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4970d3c52acb2ec1adeee6a0c78f9dc7">
+<name>
+<prefix/>
+<first>Karin</first>
+<middle/>
+<last>Oberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

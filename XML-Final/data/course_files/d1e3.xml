@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="802" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>10</num_int>
+</course_number>
+<title>Introduction to African American Studies</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Henry Louis Gates, Jr. and Lawrence D. Bobo</faculty_text>
+<description>An exploration of some of the key texts and issues in African American Studies from a range of disciplinary perspectives. Members of the faculty deliver guest lectures in their own areas of specialization.</description>
+<prerequisites/>
+<notes>Required of concentrators in the African American Studies track. Students who transfer into the concentration after their sophomore year may substitute another African and African American Studies course already taken if they satisfy the Director of Undergraduate Studies that it establishes a basic familiarity with the materials covered in African and African American Studies 10. This course, when taken for a letter grade, meets the General Education requirement for United States in the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fce6c33453887abb2e5fc47ce879c2b4b">
+<name>
+<prefix/>
+<first>Henry</first>
+<middle>Louis</middle>
+<last>Gates</last>
+<suffix>Jr.</suffix>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F537e1cde9ce5bb81345dd4d64f62ed58">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle/>
+<last>Bobo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8927" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2550</num_int>
+</course_number>
+<title>Piety and Protest: Women and Religion in Contemporary America</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ann D. Braude (Divinity School)</faculty_text>
+<description>Practices of piety that are also acts of protest provide access to contemporary developments relating religion, gender and sexuality. This course historicizes current women's cultures of protest within, against and on behalf of their religious faiths. Case studies drawn primarily from Judaism, Christianity and Islam include ecological critiques; the resurgence of the veil in Islam; the ordination of women; the return to orthodoxy in Judaism; as well as consolidations of heterosexuality. The course concludes by interrogating international iconoclastic political protests in light of earlier feminist art work in which the female body is a site of piety and protest, such as Judy Chicago's The Dinner Party.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 2328.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F879e152c02a8e7c5235363c6f3b44ad0">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Braude</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91486" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1007</num_int>
+</course_number>
+<title>Psychology of Peak Performance in Athletics and its Consequences</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Allison Elizabeth Seitchik</faculty_text>
+<description>This course seeks to understand the physical and psychological behaviors as well as the mental training components necessary to achieve peak sport performance. Students will also gain an understanding of the physical, affective, and cognitive consequences of competitive sport participation. This includes the psychological factors that influence sport performance (e.g., self-confidence, arousal), methods for enhancing sport performance (e.g., goal-setting, imagery), and the negative consequences of becoming an elite athlete (e.g., burnout, concussions).</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4ed65f15f44ef43f044c37d0b84cda35">
+<name>
+<prefix/>
+<first>Allison</first>
+<middle>Elizabeth</middle>
+<last>Seitchik</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

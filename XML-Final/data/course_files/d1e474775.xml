@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3545" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>303</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>The Art and Practice of Teaching Statistics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Required of all first-year doctoral students in Statistics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F065d459a25b5cec46636aa60fae1773d">
+<name>
+<prefix/>
+<first>Xiao-Li</first>
+<middle/>
+<last>Meng</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc0fba82f809c81eb1638c04a5054a84c">
+<name>
+<prefix/>
+<first>Viktoriia</first>
+<middle/>
+<last>Liublinska</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F065d459a25b5cec46636aa60fae1773d">
+<name>
+<prefix/>
+<first>Xiao-Li</first>
+<middle/>
+<last>Meng</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc0fba82f809c81eb1638c04a5054a84c">
+<name>
+<prefix/>
+<first>Viktoriia</first>
+<middle/>
+<last>Liublinska</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1020" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>910</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Rebecca Toseland</faculty_text>
+<description>Supervised reading--by an economics faculty member--leading to a long term paper on a topic or topics not covered by regular courses.</description>
+<prerequisites/>
+<notes>Does not count for concentration credit and may not be taken Pass/Fail. Requires signatures of the faculty adviser and an Economics Department Lecturer/Advisor. Application available at the Economics Undergraduate Office at Littauer Center, North Yard.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F807212da7d87a599335786ed90be70d5">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Miron</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F807212da7d87a599335786ed90be70d5">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Miron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

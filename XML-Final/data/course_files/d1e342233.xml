@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6972" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>145</num_int>
+</course_number>
+<title>Neurobiology of Perception and Decision Making</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Naoshige Uchida</faculty_text>
+<description>One of the current goals of neuroscience is to understand neuronal circuits underlying perception and behavior. Recent advances in neuroscience have allowed us to glimpse neuronal processes that link perception and decision making. How is sensory information processed in the brain? How does an animal choose its action? How does an animal learn from ever-changing environments and adjust their behavior? The course will examine neurophysiological studies in perception and decision-making.</description>
+<prerequisites>MCB 80 and permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1700d0310648162e7056c289132844c1">
+<name>
+<prefix/>
+<first>Naoshige</first>
+<middle/>
+<last>Uchida</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

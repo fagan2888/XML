@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51829" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1508</num_int>
+</course_number>
+<title>How to Nudge: Using Social Psychology and Decision Science to Change Behavior and Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>Fall: M., W., 1-2:30; Spring: M., W., 2:30-4</meeting_text>
+<faculty_text>Martin V. Day</faculty_text>
+<description>How do you get people to waste less energy, save more money, and eat healthier? How do you encourage people to vote, stay in school, and drive safer? In this course you will learn relevant social psychology and decision science, as well as a promising new methodology useful for motivating and nudging people's behaviors to reduce or solve specific problems in organizations and society. By succeeding in this class you will gain identifiable skills that are applicable beyond the classroom (e.g., to improve programs, policies, organizational practices), in a variety of settings (e.g., health, education, law, public policy, business, and the environment).</description>
+<prerequisites>SLS-20 and one from Psy 14, 15, 18 or SLS 15</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb7246f2ce96c56b820d64a49579991ef">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>V.</middle>
+<last>Day</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb7246f2ce96c56b820d64a49579991ef">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>V.</middle>
+<last>Day</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

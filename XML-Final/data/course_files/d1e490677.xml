@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8187" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="MODGRK">Modern Greek</course_group>
+<course_number>
+<num_char>B</num_char>
+</course_number>
+<title>Intermediate Modern Greek: Language and Civilization</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 11, and a weekly hour for conversation to be arranged.</meeting_text>
+<faculty_text>Vassiliki Rapti and assistant</faculty_text>
+<description>Aims at further development of skills in speaking, comprehension, reading, and writing. Selected readings in prose (literary and journalistic), poetry, folksongs, modern music, and theater serve as an introduction to aspects of modern Greek literature and culture. The course is conducted in Greek and focuses on topics selected by the instructor and the students in the first term. Grammar is reviewed in the context of readings. Instruction is supplemented by online instruction.</description>
+<prerequisites>An elementary knowledge of modern Greek (equivalent to that of Modern Greek A).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe61384e15adba80d1e9b2be12f614d30">
+<name>
+<prefix/>
+<first>Vassiliki</first>
+<middle/>
+<last>Rapti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe61384e15adba80d1e9b2be12f614d30">
+<name>
+<prefix/>
+<first>Vassiliki</first>
+<middle/>
+<last>Rapti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

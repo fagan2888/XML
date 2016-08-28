@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21567" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>168</num_int>
+</course_number>
+<title>The Quest for Epic: From Ariosto to Spenser and Milton</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Christine S. Lee</faculty_text>
+<description>This course introduces the rich tradition of Renaissance epic. Just as Renaissance artists pursued the beauty of classical forms, so too did Renaissance poets strive to create the perfect epic poem, a modern revival of a lost ancient genre. We will explore the creative tension between epic poets and their predecessors, and investigate the larger ethical questions the poems raise. What forms of heroism does epic envisage for men-- and for women? How does epic imagine our cultural enemies? What sacrifices must be made for the sake of a civilization? Authors include Virgil, Ariosto, Tasso, Camoes, Spenser, and Milton.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6e244a48614a6c8b155a42c9895e0852">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle>Sang-Ah</middle>
+<last>Lee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

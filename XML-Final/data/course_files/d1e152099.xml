@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88481" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>tb</num_char>
+</course_number>
+<title>Literature and the Rise of Public Science: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Stephen G. Osadetz</faculty_text>
+<description>This seminar explores the relationship between literary and scientific experiment during the Restoration and the eighteenth century. Our readings, by authors such as Milton, Fontenelle, Pope, Hume, Diderot, and Mary Shelley, will be paired with hands-on activities: while reading Swift's Gulliver's Travels, for example, students will have the opportunity to use microscopes and telescopes from the period. Throughout, we will seek to understand how writers of various sorts - scientists, philosophers, poets, novelists, and essayists - were inspired by new accounts of nature, from the simplest experimental observations to the grandest visions of the cosmos.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1916a7701def44fb26ab1e869d985973">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Osadetz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="018" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9661" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1021</num_int>
+</course_number>
+<title>International Financial History, 1700 to the Present</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Niall Ferguson</faculty_text>
+<description>An introduction to modern financial history from the first stock market bubbles to the most recent. Topics include money and banking, public debt and bond markets, corporations and stock markets, investment banking, cross-border capital flows, private insurance and welfare systems, mortgages, consumer credit, privatization, emerging markets, derivatives and hedge funds. Special attention will be paid to the role of financial institutions and financial crises in economic and political development.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

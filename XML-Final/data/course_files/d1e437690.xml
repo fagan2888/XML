@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75089" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>122</num_int>
+</course_number>
+<title>Figures and Fictions of Venture Capital and the Law in the Spanish Conquest</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Nicole Delia Legnani</faculty_text>
+<description>What is a conquest? How does enterprise (empresa) relate to chivalry, conquest and business? We explore the Spanish tropes of profitable violence in the West Indies and contextualize the development of the "laws of peoples" (jus gentium) by Spanish jurists within the corpus of commercial law employed by the empresarios of the 15th and 16th centuries. Topics include carried interest, the state of exception, sovereignty, friendship and enmity, profitable violence, orthodoxy and heterodoxy. In addition to examining laws, contracts, and chronicles of conquest, we read selections of an Inquisition trial and a bid made by indigenous elites of the Andes to purchase limited sovereignty from Philip II.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc7cf7cca8aef5949419c7c5c4785926a">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle>Delia</middle>
+<last>Legnani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

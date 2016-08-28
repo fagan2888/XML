@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2071" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Pre-advanced Korean</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1 and Drill T., Th., 9, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Heeyeong Jung</faculty_text>
+<description>Continuation of intermediate Korean, to consolidate the student's knowledge of the grammatical structures of Korean with an aim to increase their abilities to communicate using Korean in a wide range of familiar and everyday topics, current societal events, and factual and concrete topics relating to personal interests. After successful completion of third-year Korean, students are expected to be able to describe and narrate about concrete and factual topics of personal and general interest.</description>
+<prerequisites>Korean 120b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5dc30a2157d395a64cc93d767b0b8fa1">
+<name>
+<prefix/>
+<first>Heeyeong</first>
+<middle/>
+<last>Jung</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="302" type="Speaking Section"/>
+<location term="1" building="Sever Hall" room="204" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

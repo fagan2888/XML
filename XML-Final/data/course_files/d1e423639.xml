@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2153" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CATALAN">Catalan</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Introduction to Catalan</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3-5</meeting_text>
+<faculty_text>Stacey Katz Bourns and members of the Department</faculty_text>
+<description>An introductory course in spoken and written Catalan, the language of approximately ten million people in Spain, France, Italy, and Andorra, and the most widely used of minoritized languages in Europe today. Native Catalan speakers include Antonio Gaudi, Salvador Dali, Joan Miro, Antoni Tapies, Merce Rodoreda, and Pau Casals. Emphasizing oral communication, reading, and writing, offers students contact with contemporary Catalan culture.</description>
+<prerequisites/>
+<notes>Conducted in Catalan. Knowledge of another Romance language is useful but not essential. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F63a58fb328b41f96935bb9760bfd6027">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>Katz</middle>
+<last>Bourns</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

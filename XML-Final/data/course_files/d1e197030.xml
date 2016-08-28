@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84519" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>What is Life? From Quarks to Consciousness</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>M., W., F., at 9:30-11. All discussion and hands-on laboratory sessions take place during these regular meeting times.</meeting_text>
+<faculty_text>Logan S. McCarty (Chemistry and Chemical Biology) and Andrew J. Berry (Organismic and Evolutionary Biology)</faculty_text>
+<description>This course views life through multiple lenses. Quantum physics involves uncertainty and randomness, and yet paradoxically it explains the stability of molecules, such as DNA, that encode information and are critical to life. Thermodynamics is about the universe's ever increasing disorder, and yet living systems remain ordered and intact. This course will examine how these physical laws underpin life and how life itself has diversified since originating 3.5 billion years ago.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Science of Living Systems, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbbbf6f776aa5ba1563ef88b52d03e8d6">
+<name>
+<prefix/>
+<first>Logan</first>
+<middle>Stewart</middle>
+<last>McCarty</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb48ab2d02f4ca683e31f1dc7e6c8b7b5">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Berry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="930" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="930" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="930" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="301" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

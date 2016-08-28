@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8965" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>jl</num_char>
+</course_number>
+<title>Global Social Movements</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 2:30-4:30</meeting_text>
+<faculty_text>Alison Denton Jones</faculty_text>
+<description>Social movements are often considered a driving force behind political, social, and cultural change. This course explores the major theoretical and empirical approaches used in the social sciences to understand the emergence, endurance, and outcomes of social movement activism. The course will examine a range of case studies including movements dealing with environmental justice, health, citizenship, and racial inclusion taken from a range of national (including the U.S.) and transnational contexts.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F23a6f3edbac26b6d267fcb33ba01aec2">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Denton</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1430" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Quincy House" room="N001 Rothenberg Conference Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

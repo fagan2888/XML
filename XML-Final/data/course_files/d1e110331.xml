@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3241" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Physical Mathematics I</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Mauricio Santillana and Avi M. Shapiro</faculty_text>
+<description>Introduction to methods for developing accurate approximate solutions for problems in the sciences that cannot be solved exactly, and integration with numerical methods and solutions. Topics include: approximate solution of integrals, algebraic equations, nonlinear ordinary differential equations and their stochastic counterparts, and partial differential equations. Introduction to "sophisticated" uses of MATLAB.</description>
+<prerequisites>Applied Mathematics 104 (formerly Applied Mathematics 105a), Applied Mathematics 105 (formerly Applied Mathematics 105b) or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa4786bc84105be1d45f190cff03ac766">
+<name>
+<prefix/>
+<first>Mauricio</first>
+<middle/>
+<last>Santillana</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2add28de1f08ae4b2d4f2d0bb3187122">
+<name>
+<prefix/>
+<first>Avi</first>
+<middle/>
+<last>Shapiro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

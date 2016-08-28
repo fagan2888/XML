@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96219" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>bg</num_char>
+</course_number>
+<title>Colonialism, Globalization, and Culture in Asian Diaspora(s)</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Genevieve A. Clutario</faculty_text>
+<description>This course takes a cultural approach to historical developments of Asian diaspora, colonialism, and globalization through the lenses of appearance and performance. We examine performative and cultural arenas including literary fiction, spectacles, and visual texts to examine efforts to strategically use discourses of race, gender, class, ethnicity, sexuality, and (trans)nationalism to structure and maintain colonial forces. This class pushes us to consider how marginalized individuals and communities also used the same arenas to resist and critique colonial subjugation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8ee411fb76a38f77cd284d8fc022dafc">
+<name>
+<prefix/>
+<first>Genevieve</first>
+<middle>A</middle>
+<last>Clutario</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

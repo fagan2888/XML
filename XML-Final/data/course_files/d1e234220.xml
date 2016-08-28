@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25348" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1991</num_int>
+</course_number>
+<title>Asian America in the World</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Allan Edward Lumba</faculty_text>
+<description>This course asks us to rethink the time and place of Asian America, especially in relation to the United States and the broader world. By beginning in the late eighteenth century and looking beyond the official national borders of the United States, we will trouble the traditional American immigrant narrative and the model minority myth. Through reading primary sources and historical scholarship we will explore how Asian America constituted, and was constituted by, histories of global capitalism and labor, imperial rivalries, U.S. foreign policy, struggles over decolonization and self-determination, transnational social movements, and cross-racial politics. Finally, this course draws from interdisciplinary approaches, especially critical ethnic studies, postcolonial studies, and queer theory, to seek subaltern and non-normative histories of Asian America in the world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fab31b3b60028a70001594a93a31fe071">
+<name>
+<prefix/>
+<first>Allan</first>
+<middle>Edward</middle>
+<last>Lumba</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

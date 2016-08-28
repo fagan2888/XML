@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36649" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>mf</num_char>
+</course_number>
+<title>Liberalism</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Carla Yumatle</faculty_text>
+<description>Liberalism is a political theory about the limitation of state power based on constitutional rights that guarantee freedom of speech, freedom of religion, freedom to elect our representatives, private property and due process and equal protection. These institutional mechanisms have been justified on a liberal philosophical outlook. This course examines the central values of the liberal worldview including freedom, equality, toleration, individualism, secularism, pluralism, constitutionalism and the public and private divide. The purpose of this conceptual analysis is to understand the justificatory basis of liberalism and eventually assess its achievements and limitations.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F77fd3650b0856f2a4e98e49680ef5077">
+<name>
+<prefix/>
+<first>Carla</first>
+<middle/>
+<last>Yumatle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

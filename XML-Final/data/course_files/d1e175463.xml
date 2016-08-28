@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95524" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>23</num_int>
+<num_char>y</num_char>
+</course_number>
+<title>All Physics in 13 Days</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>13</enrollment_limit>
+<meeting_text>Friday, Hours to be arranged</meeting_text>
+<faculty_text>John M. Doyle</faculty_text>
+<description>This seminar will introduce 13 key pieces of knowledge about our physical world: 1) Boltzmann factor and thermal equilibrium, 2) Turbulence, 3) Reaction rates, 4) Indistinguishable particles, 5) Quantum waves, 6) Linearity, 7) Entropy and information, 8) Discharges, ionization, 9) Relativity, 10) Nuclear binding energies, 11) Photon modes, 12) Diffraction, 13) Resonance. Each week we will discuss one of these principles and see how we might gain an understanding of our physical and technological world.</description>
+<prerequisites>Professor Doyle has made a change to the prerequisites. Since this is a fall term course, applicants will not be required to have taken Mechanics 11a, 15a, or 16. Please know, though, that this seminar will be geared to students likely to go on in physics or related areas, such as chem/phys or engineering. The introduction to certain principles is done with the expectation that students will return to a more formal course on the subject in the future.</prerequisites>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffadcb0fefc50c9a03c46127de8da2261">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Doyle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

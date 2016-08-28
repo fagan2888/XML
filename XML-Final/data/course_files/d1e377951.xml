@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3342" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>53</num_int>
+</course_number>
+<title>Evolutionary Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Andrew J. Berry and James Mallet</faculty_text>
+<description>The course covers micro- and macro-evolution, ranging in its focus from population genetics through molecular evolution to the grand patterns of the fossil record. Topics emphasized include both natural and sexual selection, the ecological context of adaptation, genomic and developmental mechanisms of evolutionary innovation, speciation, phylogenetics, and evolutionary approaches to human problems.</description>
+<prerequisites>Life Sciences 1b or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb48ab2d02f4ca683e31f1dc7e6c8b7b5">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Berry</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6ceba15e7c8a343a2f4da9b140aca915">
+<name>
+<prefix/>
+<first>Jim</first>
+<middle/>
+<last>Mallet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

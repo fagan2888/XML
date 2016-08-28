@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7468" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>283</num_int>
+</course_number>
+<title>Language Differences</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Marc Shell</faculty_text>
+<description>Considers language difference both as a literary theme and as a potent cause of war in the political arena. Historical foci include Europe, the Middle East, North America, and Africa. Literary issues include translation, heteroglossia, cinematography, and multilingualism. Works of literature include Sophocles, Shakespeare, Goethe, and Dove.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe23d103e4569abae053b4255d84f6b4c">
+<name>
+<prefix/>
+<first>Marc</first>
+<middle/>
+<last>Shell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

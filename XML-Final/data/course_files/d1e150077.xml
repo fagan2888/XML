@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62547" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Arrivals</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>27</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Daniel G. Donoghue</faculty_text>
+<description>An introduction to major works in English literature from Beowulf through the seventeenth century, the course will explore various ways that new literatures are created in response to cultural forces that shape poets, genres, and group identity. We will hone close reading skills, introduce rhetorical tropes, and develop techniques of critical writing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F307f0d7f3dc57c87ae2a6fd35de718f1">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>G.</middle>
+<last>Donoghue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="306" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

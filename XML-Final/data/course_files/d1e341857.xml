@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33733" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Introductory Systems Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 2:30</meeting_text>
+<faculty_text>Mary Elizabeth Wahl</faculty_text>
+<description>How are biological patterns like spots and stripes generated? How do cells keep time? How do viral capsids self-assemble? In this course, these questions and many others are addressed through the lens of systems biology, an interdisciplinary field which explores general principles underlying complex biological phenomena. Key scientific skills like primary literature review, experimental design, and data interpretation will be introduced through weekly discussion sections and problem sets. Students from other disciplines are welcome.</description>
+<prerequisites>Ma 19a or equivalent (may be taken concurrently); LS 1a or LPS A.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1c05cc35416e08e088cccdeef7f87d71">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>Elizabeth</middle>
+<last>Wahl</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1430" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

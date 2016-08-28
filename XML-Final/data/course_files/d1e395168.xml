@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2460" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David J. Morin and members of the Department</faculty_text>
+<description>Primarily for selected concentrators in Physics, or in Chemistry and Physics, who have obtained honor grades in Physics 15 and a number of intermediate-level courses. The student must be accepted by some member of the faculty doing research in the student's field of interest. The form of the research depends on the student's interest and experience, the nature of the particular field of physics, and facilities and support available. Students wishing to write a senior thesis can do so by arranging for a sponsor and enrolling in this course.</description>
+<prerequisites/>
+<notes>A list of possible faculty sponsors and their fields is available in Lyman 238 and on the Physics Department Web page. Course enrollment forms may be obtained from Lyman 238.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

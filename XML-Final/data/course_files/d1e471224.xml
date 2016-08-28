@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76433" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>107</num_int>
+</course_number>
+<title>Introduction to Business and Financial Statistics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Michael Isaac Parzen</faculty_text>
+<description>Introduces the technical skills required for data-driven analysis of business and financial data. Emphasis on applying statistical methods to summarize and make inferences from complex data and to develop quantitative models to assist business decision making. Topics include: how to collect and summarize financial data, understanding the concept of risk, portfolio construction and analysis, testing trading systems, and simulation techniques.</description>
+<prerequisites>Statistics 100, 101, 104 or equivalent.</prerequisites>
+<notes>The software packages Excel and R will be used to obtain quantitative solutions to financial problems.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff6122e1edc391a695d1e3068df7a3a91">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>Isaac</middle>
+<last>Parzen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

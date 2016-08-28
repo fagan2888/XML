@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7753" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>255</num_int>
+</course_number>
+<title>Nature and Regulation of Marine Ecosystems</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 1-3</meeting_text>
+<faculty_text>James J. McCarthy and guest lecturers</faculty_text>
+<description>A presentation of topics that are of current interest in marine ecosystems. Emphasis on identification and quantification of biological and environmental factors important in the regulation of community structure.</description>
+<prerequisites>OEB 118 or OEB 157.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc551df6869bdd7d4f1a95381fad5279d">
+<name>
+<prefix/>
+<first>James</first>
+<middle>J.</middle>
+<last>McCarthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

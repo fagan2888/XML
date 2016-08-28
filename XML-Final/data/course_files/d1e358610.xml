@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17184" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Introduction to the Hebrew Scriptures</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Michael D. Coogan (Divinity School)</faculty_text>
+<description>A survey of the Hebrew Scriptures as viewed in their historical and cultural setting in the ancient Near East and as interpreted by modern scholarship, with attention to this literature as an expression of the religious thought of Israel and one of the formative influences on Western civilization.</description>
+<prerequisites/>
+<notes>May not be taken for credit if the student has taken ANE 120a or ANE 120b for credit. Offered jointly with the Divinity School as 1101.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb2535cf7eb8999689773d4b2878127be">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>David</middle>
+<last>Coogan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

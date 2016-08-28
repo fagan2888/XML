@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8230" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>270</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Structural Interpretation Methods</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John H. Shaw</faculty_text>
+<description>Methods of interpreting complex geologic structures imaged in 2- and 3-dimensional seismic reflection data. Methods of integrated geologic and remote sensing data will be described. Students will complete independent projects analyzing seismic data on workstations.</description>
+<prerequisites>EPS 171 or equivalent.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F214e668f2dc2c1e7a2471b80031e9feb">
+<name>
+<prefix/>
+<first>John</first>
+<middle>H.</middle>
+<last>Shaw</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

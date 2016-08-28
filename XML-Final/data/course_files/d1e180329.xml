@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21542" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>The Art and Craft of Acting</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Remo Francisco Airaldi</faculty_text>
+<description>Provides an introduction to acting by combining elements of a discussion seminar with exercises, improvisations and performance activities. Uses improvisation to improve group/ensemble dynamics, minimize habitual behaviors and to develop characters. Explores a range of acting techniques designed to give students greater access to their creativity, imagination and emotional life. In the later part of the term we will work on monologues. Students also attend and critique productions at the Loeb Drama Center and other theaters in the Boston area.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Students will be required to attend theater performances (dates TBD) during the course of the term. There will be no charge to the student.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd23c0126be12d04e2aeeb75fa57ce097">
+<name>
+<prefix>Mr</prefix>
+<first>Remo</first>
+<middle>Francisco</middle>
+<last>Airaldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Garden St., 29" room="103" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

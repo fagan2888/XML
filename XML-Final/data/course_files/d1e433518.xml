@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8713" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>79</num_int>
+</course_number>
+<title>Romance Languages and Cultures in Comparative Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Elvira G. DiFabio and members of the Department</faculty_text>
+<description>Highlights of the similarities and differences among the Romance languages, beginning with an overview of the historical development of the Romance languages from Latin, and moving on to the comparison of linguistic identifiers of French, Italian, Portuguese, and Spanish; may also include a discussion of Catalan. Topics will cover comparative phonology, morphology, and syntax, as well as some cross-cultural experiences such as immigration and translation.</description>
+<prerequisites>Advanced proficiency in one of the Romance Languages, or permission of the course head.</prerequisites>
+<notes>Conducted in English; texts in original and in translation. May not be taken by RLL graduate students to fulfill the history of the language requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

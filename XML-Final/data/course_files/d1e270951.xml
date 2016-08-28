@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5253" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>116</num_int>
+</course_number>
+<title>Real Analysis, Convexity, and Optimization</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Paul G. Bamberg</faculty_text>
+<description>Develops the theory of convex sets, normed infinite-dimensional vector spaces, and convex functionals and applies it as a unifying principle to a variety of optimization problems such as resource allocation, production planning, and optimal control. Topics include Hilbert space, dual spaces, the Hahn-Banach theorem, the Riesz representation theorem, calculus of variations, and Fenchel duality. Students will be expected to understand and invent proofs of theorems in real and functional analysis.</description>
+<prerequisites>Mathematics 23ab, 25ab, or 55ab, or Mathematics 21ab plus at least one other more advanced course in mathematics.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe748b4af19b4ea7d9f029fbcc71d84c2">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Bamberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

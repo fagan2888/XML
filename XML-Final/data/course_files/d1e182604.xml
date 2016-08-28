@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52063" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>41</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>The Problem of Economic Development</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Michael R. Kremer</faculty_text>
+<description>Understanding the determinants of the wealth of nations has long motivated the study of economics and it is arguably the most important problem in the field for human welfare. This seminar will examine the problem of economic development, looking both at historical experience and at contemporary issues in developing countries. It will focus on approaches from economics, but will also draw on other disciplines, including history, political science, and sociology.</description>
+<prerequisites>Students are expected to have had some background in economics, such as an AP economics course in high school, Ec 10a, or simultaneous enrollment in Social Analysis 10.</prerequisites>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

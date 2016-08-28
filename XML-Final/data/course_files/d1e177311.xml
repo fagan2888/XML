@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7529" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>26</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>The Universe's Hidden Dimensions</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Lisa Randall (Department of Physics)</faculty_text>
+<description>Based loosely on book, Warped Passages, considers revolutionary developments in Physics in early 20th century: quantum mechanics and general relativity; investigates key concepts which separated these developments from the physical theories which previously existed. Topics: particle physics, supersymmetry, string theory, and theories of extra dimensions of space. We will consider the motivations underlying these theories, their current status, and how we might hope to test some of the underlying ideas in the near future.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0480f9b4524e6d7fd30275e60d5a8676">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle/>
+<last>Randall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

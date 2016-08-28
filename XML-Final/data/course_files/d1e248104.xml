@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94163" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>272</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Cubism and its Others: Art in Paris, 1907-1937</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Maria Elizabeth Gough</faculty_text>
+<description>Emergence, development, reception, and legacy of Cubism in Paris between 1907 and 1937, focusing on Picasso, Braque, Leger, and Gris, the four major artists of the pioneering Galerie Kahnweiler. Having analyzed the fundamental role of primitivism, tradition, mass culture, and the commodity form in Cubism's genesis, our major endeavor is to unpack its ever-shifting relation to its aesthetic Others, namely, abstraction, decoration, the ready-made, realism, and monumentalism. Crucial to this endeavor is a thorough examination of the problem of medium in Cubism, considering not only drawing, easel painting, collage, and constructed sculpture, but also mural painting, architecture, photography, and film.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa45f47877bea4d9429e8087e3b6f9508">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Elizabeth</middle>
+<last>Gough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

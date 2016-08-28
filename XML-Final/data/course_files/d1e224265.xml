@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74178" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>76</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Building the Modern Chinese Nation</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Elisabeth Koll (Business School)</faculty_text>
+<description>This seminar will explore China's transition from the last decades of the Qing empire to the republic founded in 1911 to the PRC after the 1949 revolution. We will focus on important social, political, economic, and cultural aspects of "building" a nation and creating "modern" citizens, including the introduction of modern educational and economic institutions, legal reforms, public health and infrastructure, dress codes and new gender roles. The course will address the role of nationalism in the Chinese, East Asian and international context and its continuing relevance for our understanding of contemporary China.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbab9c74992edba058465a84406e25a82">
+<name>
+<prefix/>
+<first>Elisabeth</first>
+<middle/>
+<last>Koll</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

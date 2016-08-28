@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1370" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Advanced Scientific Computing: Numerical Methods</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Christopher Rycroft</faculty_text>
+<description>An examination of the mathematical foundations of a range of well-established numerical algorithms, exploring their use through practical examples drawn from a range of scientific and engineering disciplines. Emphasizes theory and numerical analysis to elucidate the concepts that underpin each algorithm. There will be a significant programming component. Students will be expected to implement in Matlab a range of numerical methods through individual and group-based project work to get hands-on experience with modern scientific computing.</description>
+<prerequisites>Familiarity with linear algebra and calculus; basic programming knowledge at the Computer Science 50 level.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F72f56f5fa5293bd91a51a1b6290e94bd">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle/>
+<last>Rycroft</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="60 Oxford Street" room="330" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

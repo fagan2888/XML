@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84323" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Advanced Optimization</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>To be determined</faculty_text>
+<description>This is a graduate level course on optimization which provides a foundation for applications such as statistical machine learning, signal processing, finance, and approximation algorithms. The course will cover fundamental concepts in optimization theory, modeling, and algorithmic techniques for solving large-scale optimization problems. Topics include elements of convex analysis, linear programming, Lagrangian duality, optimality conditions, and discrete and combinatorial optimization. Exercises and the class project will involve developing and implementing optimization algorithms.</description>
+<prerequisites>Applied Mathematics 21b or Mathematics 21b (linear algebra) and Applied Mathematics 121 or equivalent or permission of instructor. Comfort with programming.</prerequisites>
+<notes>Offered jointly with the Business School as 4460.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7a10f30a355e2b5af732a540f1c62336">
+<name>
+<prefix/>
+<first>Yaron</first>
+<middle/>
+<last>Singer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

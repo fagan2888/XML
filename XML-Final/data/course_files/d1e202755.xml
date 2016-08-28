@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6661" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>31</num_int>
+</course_number>
+<title>American Society and Public Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged</meeting_text>
+<faculty_text>Theda Skocpol (Government) and Mary C. Waters (Sociology)</faculty_text>
+<description>In the U.S., compared to other major nations, how have social problems been defined and redefined in recent decades; why do they appear differently to various groups; and how are public policies about problematic social conditions debated, devised, and changed? This course synthesizes various kinds of evidence-demographic, attitudinal, ethnographic, and institutional-to probe the creation and impact of major public policies about social support for families and workers; immigration and citizenship; and access to higher education.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62b9f8bb02cc1342740662892fcede11">
+<name>
+<prefix/>
+<first>Theda</first>
+<middle>R</middle>
+<last>Skocpol</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F8654db23f652f8ddd0548ef88e289f04">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>C.</middle>
+<last>Waters</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-020 Case Study Room" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

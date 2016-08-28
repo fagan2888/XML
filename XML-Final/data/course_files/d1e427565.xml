@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92736" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>226</num_int>
+</course_number>
+<title>Tragic Bodies. French Classicism Revisited</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Sylvaine Guyot</faculty_text>
+<description>French neoclassical tragedies are typically known for their de-emphasis of the body's presence. This seminar seeks to address this neglected topic by considering the incarnation on stage of heroism, the (re)presentation of loss and violence, and the emerging ideal of tenderness and gallantry in the drama of Corneille and Racine, as well as of few other playwrights. Special emphasis paid to the political, philosophical and aesthetic contexts. Intersection of drama, dance, and painting will be explored. Theoretical readings include Agamben, Barthes, Certeau, Didi-Huberman, Foucault, Marin, Ranciere.</description>
+<prerequisites/>
+<notes>Conducted in French. Open to qualified undergraduates with permission of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe70f020198b6610cdb0e6db2a0c1d24c">
+<name>
+<prefix/>
+<first>Sylvaine</first>
+<middle/>
+<last>Guyot</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

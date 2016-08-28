@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66881" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2390</num_int>
+</course_number>
+<title>Development Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Nathan J. Nunn and Michael R. Kremer</faculty_text>
+<description>This course will cover macro-economic topics including aggregate and non-aggregate growth models, models of technology diffusion and choice; topics in finance including financial development and economic growth, consumer finance; small and medium enterprise finance; debt and equity markets; the role of management and corporate governance; the political economy of finance, and corruption; and a range of topics on the role of population, culture, ethnicity, leaders, corruption in economic development, and the efficacy of industrial policy and foreign aid.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

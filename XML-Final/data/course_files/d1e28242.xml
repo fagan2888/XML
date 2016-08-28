@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64783" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>Plasma Astrophysics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 3:30-5</meeting_text>
+<faculty_text>Steven Robert Cranmer and Nicholas Murphy</faculty_text>
+<description>This course provides an introduction to plasma physics and plasma processes in an astrophysical context. Topics include charged particle motions, kinetic theory, magnetohydrodynamics, waves, instabilities, dynamos, shocks, particle acceleration, and magnetic reconnection. Specific applications may include solar and stellar coronae (including flares), interplanetary space plasmas, magnetized accretion disks, cosmic rays, galactic dynamos, and interstellar turbulence.</description>
+<prerequisites>Knowledge of intermediate electromagnetism, partial differential equations, and fluid dynamics. Ay151 (Fluid Dynamics) is recommended but not required.</prerequisites>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9a34a951114d5b5a00ec9b89bd56783b">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>Robert</middle>
+<last>Cranmer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

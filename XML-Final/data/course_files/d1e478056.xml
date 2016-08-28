@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9605" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>Directed Differentiation of Stem Cells</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>24</enrollment_limit>
+<meeting_text>Tu., 2:30&amp;#8211;4, and a weekly lab Th., 1-4</meeting_text>
+<faculty_text>Chad A. Cowan</faculty_text>
+<description>This practical laboratory course will investigate the fundamental biology of human embryonic stem cells and their remarkable capacity to differentiate into all cells of the body. The underlying developmental pathways that guide embryonic stem cell development into these differentiated cell types will be explored. A chemical biology approach will also be used to probe properties of normal and disease model cells derived from embryonic stem cells.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F36abe09934bfa5b37385207ddb1acfc0">
+<name>
+<prefix/>
+<first>Chad</first>
+<middle/>
+<last>Cowan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

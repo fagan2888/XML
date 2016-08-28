@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9856" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2850</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Practicum in Foreign-Language Ethnography</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael Herzfeld</faculty_text>
+<description>Readings in ethnographic and related theoretical works written in a selected foreign language; discussion, class presentations, and final papers will be in that language also.</description>
+<prerequisites/>
+<notes>Offered when demand and availability permit. Primarily for doctoral students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4da516f68fb02c445e7bb66990f2b686">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Herzfeld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

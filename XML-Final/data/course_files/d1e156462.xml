@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6235" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>310</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>American Literature and Culture: Doctoral Conference</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Colloquium open to all graduate students working in the area of American literature and culture. Papers delivered by students writing seminar papers or dissertations, faculty members, and visiting scholars.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F2bb91eafdc78f5206edf79204a6615e5">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J</middle>
+<last>Alworth</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb1effcd0137c87e90720c4f1ce188b60">
+<name>
+<prefix/>
+<first>Amanda</first>
+<middle/>
+<last>Claybaugh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2bb91eafdc78f5206edf79204a6615e5">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J</middle>
+<last>Alworth</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb1effcd0137c87e90720c4f1ce188b60">
+<name>
+<prefix/>
+<first>Amanda</first>
+<middle/>
+<last>Claybaugh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

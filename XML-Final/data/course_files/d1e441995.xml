@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3280" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>102</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Russian: Introduction to the Language of Social Sciences and the Media</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4; F., at 9</meeting_text>
+<faculty_text>Oksana Willis</faculty_text>
+<description>Introduction to the language of Russian newspapers, journals, and historical writing. Basic vocabulary for such areas as current events, including politics, history, economics, military issues, society, and the environment. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Intended for students who desire a professional level of reading proficiency in the social sciences. Intensive work on morphology and supplementary work on oral comprehension.</description>
+<prerequisites>Russian 101, placement, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ea06a2b33580f565bedfdaf5f9c3b76">
+<name>
+<prefix/>
+<first>Oksana</first>
+<middle/>
+<last>Willis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="316" type="Lecture"/>
+<location term="1" building="Barker Center" room="316" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

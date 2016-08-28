@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30373" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1400</num_int>
+</course_number>
+<title>Introduction to American Studies</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>36</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jill M. Lepore and Louis Menand</faculty_text>
+<description>The course is designed primarily for students interested in further study in the field, but all students are welcome. We cover topics, from the seventeenth- to the twenty-first century, in political, social, intellectual, and cultural history. Students read both primary and secondary materials, and receive intensive guidance for their writing.</description>
+<prerequisites/>
+<notes>Ninety-minute lecture-discussion, plus one-hour section led by the instructors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5911e61286dfa51da2c01faa19323498">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Lepore</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F07fdfb60a7fb21efbf1410eddec9cad3">
+<name>
+<prefix/>
+<first>Louis</first>
+<middle/>
+<last>Menand</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

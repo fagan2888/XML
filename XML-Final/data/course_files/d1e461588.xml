@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5963" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>105</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Hindi-Urdu Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard S. Delacy, Ali S. Asani, and Amy Bard</faculty_text>
+<description>Individual reading course. A course for students with native or near-native proficiency with readings in a variety of genres from Hindi and/or Urdu literature based on student interest.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F37954953ac0282d9fb7f598d265dbc44">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Somers</middle>
+<last>Delacy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F896d9c98bb849a3a2ffaa734db4fc68f">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Bard</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F37954953ac0282d9fb7f598d265dbc44">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Somers</middle>
+<last>Delacy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F896d9c98bb849a3a2ffaa734db4fc68f">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Bard</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

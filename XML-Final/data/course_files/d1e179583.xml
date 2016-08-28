@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50081" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>33</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Temples and Museums: Politics of Display and the Arts of South and Southeast Asia</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Jinah Kim</faculty_text>
+<description>How different is an image in a museum from a religious image installed in a temple? This seminar will explore the politics of display and the history of appropriation and reappropriation of the arts of South and Southeast Asia with select historical examples and contemporary cases, including the Hollywood films such as Indiana Jones and the Temple of Doom (1984) and Lara Croft: Tomb Raider (2001). Local museums displaying the arts of South and Southeast Asia and diasporic community temples, such as the Thai Temple in Raynham, MA and Shri Lakshmi Temple in Ashland, MA, will provide a laboratory to experience and analyze the politics of display going beyond a binary interpretation.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. The seminar includes required field trips, dates TBD. Transportation and entrance fees are provided free of charge.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbfffbf40c7b8592dc9d31f4483255e31">
+<name>
+<prefix/>
+<first>Jinah</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="119" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40641" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>Making Italians: Poetry and Novel in the 19th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Francesco Erspamer</faculty_text>
+<description>The course discusses the two masterpieces of modern Italian literature, Giacomo Leopardi's Canti (Poems) and Alessandro Manzoni's I promessi sposi (The Betrothed), against the background of Risorgimento, the unification of Italy, and the affirmation of modernity.</description>
+<prerequisites/>
+<notes>Conducted in English with sections in English and Italian (students can choose among the two sections).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1ccecedec3ba08bc6d016e4307228857">
+<name>
+<prefix/>
+<first>Francesco</first>
+<middle/>
+<last>Erspamer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

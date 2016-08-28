@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42658" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1574</num_int>
+</course_number>
+<title>Life in Theology and Philosophy</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 12-2</meeting_text>
+<faculty_text>Mayra Rivera Rivera (Divinity School)</faculty_text>
+<description>This course analyzes the resurgence of vitalisms in contemporary philosophy and theology, in its relationship with the developments in science and technology that motivate it.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6041f2a472ba07e5cd97b44d54176b51">
+<name>
+<prefix>Prof</prefix>
+<first>Mayra</first>
+<middle/>
+<last>Rivera Rivera</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

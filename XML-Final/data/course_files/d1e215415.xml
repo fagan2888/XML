@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47232" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1096</num_int>
+</course_number>
+<title>Legal Thought Now: Law and the Structure of Society</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>11</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Roberto Mangabeira Unger (Law School)</faculty_text>
+<description>Law is the institutional form of the life of a people. This course studies law as an embodiment of the formative institutions and assumptions of society. It views legal thought as an instrument for reproducing or reforming this regime. We begin with a discussion of what is distinctive about contemporary law and of how its most original ideas might be enlisted in the service of attempts to democratize the market and to deepen democracy. We relate the problems and prospects of legal thought to the task of imagining structural alternatives for society -- an attempt that classical social theory both embraced and restrained and that contemporary social science and political discourse have largely abandoned.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2389. Meets at Law School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F364131a5f409e74f89a4ac6f8b2547e3">
+<name>
+<prefix/>
+<first>Roberto</first>
+<middle/>
+<last>Unger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

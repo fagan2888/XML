@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54461" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>63</num_int>
+</course_number>
+<title>Masterworks of East Asian Cinema</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W. 1 -3; film screenings M. 6-9; and an additional weekly section to be arranged</meeting_text>
+<faculty_text>Jie Li</faculty_text>
+<description>This course introduces major works, genres, and waves of East Asian cinema from the silent era to the present, including films from Mainland China, Japan, Korea, Taiwan, and Hong Kong. We will discuss issues ranging from formal aesthetics to historical representation, from local film industries to transnational audience reception. This course does not assume prior knowledge of East Asian culture or of film studies, but rather seeks to provide students with a basic understanding of modern East Asian cultural history through cinema, and with an essential toolkit for analyzing film and media, including narrative, cinematography, editing and sound. In addition to critical approaches, students are strongly encouraged to creatively respond to course materials by collaborating on their own short films, beginning with the illustration of film terms in the first two weeks and culminating in the Oscar-like "Golden Monkey Awards."</description>
+<prerequisites/>
+<notes>All films subtitled in English. No prior knowledge of East Asian history or film studies necessary.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc06e4746ec56a05dc3384b7ffa9356ef">
+<name>
+<prefix/>
+<first>Jie</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

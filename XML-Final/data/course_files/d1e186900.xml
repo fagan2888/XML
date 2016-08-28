@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7952" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>41</num_int>
+</course_number>
+<title>How and What Russia Learned to Read: The Rise of Russian Literary Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>William Mills Todd III (Slavic Languages and Literatures; Comparative Literature)</faculty_text>
+<description>A study of the emergence of a secular literary tradition in the Russian imperial period. Focus on cultural institutions (religion, art, literature), issues of the aesthetic and social critique, and problems of interpretation for contemporary and modern readers. Analysis of novels by Pushkin, Lermontov, Gogol, Turgenev, Dostoevsky, and Tolstoy.</description>
+<prerequisites/>
+<notes>No knowledge of Russian required. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff9c1e173800d1dc8c3a65df81868849e">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Mills</middle>
+<last>Todd</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

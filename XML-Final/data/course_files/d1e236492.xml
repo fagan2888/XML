@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16747" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2320</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Foundations of Modern European Intellectual History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Peter E. Gordon</faculty_text>
+<description>This graduate seminar provides a survey of major themes and controversies in modern European intellectual history from the Enlightenment to the post-war era. The seminar is intended primarily for graduate students who are preparing for the qualifying examination. The course is offered on a yearly basis, and it meets every other week throughout the academic year. Please consult with the instructor for further details.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Adolphus Busch Hall" room="Cabot Seminar Rm (105)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3321" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Beginning Acting</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Thomas Derrah</faculty_text>
+<description>An exploration of the basic techniques of acting, beginning with exercises that flex the imagination and heighten observation; the course will then move towards work on rhythm, an actor's instincts, focus, concentration, and character with an ongoing emphasis in improvisation. The texts of Anton Chekhov will be used as a point of reference for the work. The latter part of the course will concentrate on selected scene study from Chekhov's major plays.</description>
+<prerequisites/>
+<notes>Enrollment determined by audition. Students will audition for the course with a short improvisation described by the professor at the first class meeting.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb956b1e7ac42f3b9242080c587326c49">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Derrah</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

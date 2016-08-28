@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9483" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>232</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Missing Data</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2:30-5</meeting_text>
+<faculty_text>Donald B. Rubin and Natesh S. Pillai</faculty_text>
+<description>The modern era of work on missing data problems began in the 1970s and has seen an explosion of developments since then. Seminar will focus on an updated version of a classic text, supplemented with classic articles.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feb4afb2e8ccd873f1187bb462dc2125e">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle>B.</middle>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc328699631bbf19de8197afa5b09e73b">
+<name>
+<prefix/>
+<first>Natesh</first>
+<middle>S</middle>
+<last>Pillai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

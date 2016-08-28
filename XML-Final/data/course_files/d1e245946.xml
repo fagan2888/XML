@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30908" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>179</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Construction Lab : Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., at 10, F., 2-5</meeting_text>
+<faculty_text>Mark Mulligan (Design School)</faculty_text>
+<description>An introduction to fundamental properties and behaviors of buildings and structures through a combination of lectures, workshops, and design-build assignments.</description>
+<prerequisites>HAA 96a</prerequisites>
+<notes>Limited to concentrators in the Architecture Studies Track; permission of the Director of Undergraduate Studies required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe721af13ee649f4596d37ae3f3db19ac">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Mulligan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

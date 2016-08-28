@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61673" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1265</num_int>
+</course_number>
+<title>German Empires, 1848-1948</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alison Frank Johnson</faculty_text>
+<description>This course examines the history of Germans in Europe and elsewhere, starting with the revolutions of 1848 and ending with the separation of Austria, West Germany, and East Germany following the Second World War. We will consider multiple different visions of what "Germany" should be, what borders it should have, and who should be considered "German."</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbce33fc85d702fa036f8fc9938d701eb">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Frank</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

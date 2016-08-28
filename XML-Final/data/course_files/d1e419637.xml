@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26673" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2550</num_int>
+</course_number>
+<title>The Psychology of Learning and Teaching</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>As the pedagogical paradigms and practices of higher education are innovated at Harvard and beyond, what claims or assumptions about cognitive and social psychology are being tested? How can concepts, principles, and evidence from the psychological sciences inform university-level learning and teaching, and how can applied educational research inform our basic understanding of mental and social processes? In this seminar, the varied phenomena of higher education today&amp;#8211;from MOOCs and flipped classrooms to grading and procrastination&amp;#8211;will be used as a proving ground for understanding and evaluating major ideas and evidence from psychology.</description>
+<prerequisites/>
+<notes>This course is intended for graduate students from any discipline who are interested in understanding the science behind teaching and learning.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa3d8476cc870ed461d039d71d50cdb5e">
+<name>
+<prefix/>
+<first>Samuel</first>
+<middle>Taylor</middle>
+<last>Moulton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb681ff3b4d9ee494bf69582369315943">
+<name>
+<prefix/>
+<first>Erin</first>
+<middle/>
+<last>Driver-Linn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

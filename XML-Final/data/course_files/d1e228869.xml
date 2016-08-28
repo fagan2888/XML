@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89935" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1092</num_int>
+</course_number>
+<title>Japan and the Atomic Bomb in Historical Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 12</meeting_text>
+<faculty_text>William Johnston</faculty_text>
+<description>The atomic bombings of Hiroshima and Nagasaki in August 1945 marked the intersection of warfare and science that was more than a century in the making. What motivated scientists to participate in the creation of the bombs? How did civilian populations become justifiable targets in modern warfare? What was it like to experience nuclear attack? Does the historical evidence confirm the popular conception that these bombings ended World War Two in the Pacific? This course examines these and related questions using a broad range of sources, including poetry and fiction, de-classified government documents, and readings in the history of science.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F475d74dbcb67978701f0d36f02bd7e79">
+<name>
+<prefix/>
+<first>William</first>
+<middle>D</middle>
+<last>Johnston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

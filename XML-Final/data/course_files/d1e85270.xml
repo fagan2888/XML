@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10716" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORLIT">Korean Literature</course_group>
+<course_number>
+<num_int>211</num_int>
+</course_number>
+<title>Korea through Ideologies of Languages and Writing: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Si Nae Park</faculty_text>
+<description>Koreans before the 20th century used literary Chinese and Chinese characters as the primary means of written expression. Present-day Koreans find this a vexing fact. What ideas of language and writing underpin such collective discomfort? This course examines how discourses on language and writing in Korea have shaped the ways in which Koreans imagined literary practices, cultural identity, power, gender, and literature. Our focus is Korea's long-time participation in and modern abandonment of the Sinographic Cosmopolis, but some of the readings will illustrate parallel cases of language ideologies in Japan, Vietnam, and China.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa2fd5a04cdc0e2ee32583ed7536dbb97">
+<name>
+<prefix/>
+<first>Si Nae</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

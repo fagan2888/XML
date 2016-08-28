@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84132" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Integrated Science (Graduate Seminar in Undergraduate Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 10-11:30</meeting_text>
+<faculty_text>Andrew W. Murray, Michael Manish Desai, Erel Levine, and Mary Elizabeth Wahl</faculty_text>
+<description>Graduate students who take this class will help to shape the structure of a course to be offered the following year and will be encouraged to serve as its teaching fellows. That course is a year-long integrated double course that will introduce a group of motivated freshman to the concepts that they will need to do interdisciplinary scientific research. Problems in the life sciences will be used to illustrate and integrate critical concepts from mathematics, physics, chemistry, computer science, and biology.</description>
+<prerequisites>Students must be in their second year of graduate study or above, and permission of the instructor.</prerequisites>
+<notes>The seminar will design and develop a course on these themes for undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffcf09e7eafcd69479a3fce0556b11e5e">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Murray</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F18954c5c1be95e993faea05126a04579">
+<name>
+<prefix/>
+<first>Erel</first>
+<middle/>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1c05cc35416e08e088cccdeef7f87d71">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>Elizabeth</middle>
+<last>Wahl</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fed7488796700d446724211885228f8a4">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>M</middle>
+<last>Desai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B108" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

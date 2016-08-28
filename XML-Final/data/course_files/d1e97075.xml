@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15203" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2050</num_int>
+</course_number>
+<title>Behavioral Economics, Law and Public Policy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Cass Robert Sunstein (Law School)</faculty_text>
+<description>This seminar will explore a series of issues at the intersection of behavioral economics and public policy. Potential questions will involve climate change; energy efficiency; health care; and basic rights. There will be some discussion of paternalism and the implications of neuroscience as well.</description>
+<prerequisites>Instructor permission is required.</prerequisites>
+<notes>Offered jointly with the Kennedy School as API-305 and with the Law School at 2589.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6ea8d47e85bb242328ef504baad2cecf">
+<name>
+<prefix/>
+<first>Cass</first>
+<middle>Robert</middle>
+<last>Sunstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

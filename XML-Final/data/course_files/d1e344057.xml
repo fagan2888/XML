@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3605" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>208</num_int>
+</course_number>
+<title>Talking about Science</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>W., 5-7:30 p.m.</meeting_text>
+<faculty_text>Jeff W. Lichtman and Michael E. Greenberg (Medical School)</faculty_text>
+<description>Teaches advanced students how to give a good research talk while exposing them to seminal scientific discoveries. Emphasis will be on speaking style, lecture organization, and use of video projection tools.</description>
+<prerequisites/>
+<notes>In addition to lecture material from the instructor, students will present experiments from Nobel Prize-winning work. The presentations will be critiqued in class by the participants. Open to second year graduate students or with permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fce255e76c5fb7a7d33987961856bc325">
+<name>
+<prefix/>
+<first>Jeff</first>
+<middle/>
+<last>Lichtman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe9acb65454116b74bd25e12cf22a63a9">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>E.</middle>
+<last>Greenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1700" end_time="1930"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="HMS - Goldenson Bldg" room="422" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

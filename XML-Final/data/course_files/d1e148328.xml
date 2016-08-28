@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1240" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Calr</num_char>
+</course_number>
+<title>Dramatic Screenwriting II: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-6</meeting_text>
+<faculty_text>Mark Jude Poirier</faculty_text>
+<description>We'll examine films and screenplays in order to develop the skills necessary to write the first draft of a feature-length script. We'll begin by honing our treatments and outlines, and move on to critiquing specific scenes in our own work and in produced screenplays, with a rigorous focus on character, dialogue, tone, structure, plot, and voice.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F731c870cf1aab9c26ee7aac9637963ec">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>Jude</middle>
+<last>Poirier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

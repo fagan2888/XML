@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3965" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Greek Culture and Civilization</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10; weekly section F., at 10</meeting_text>
+<faculty_text>Paul Joseph Kosmin and assistants</faculty_text>
+<description>This course will cover the history of ancient Greece from the Bronze Age Minoan and Mycenaean palace civilizations to the Roman conquest of the East Mediterranean. Attention will be paid to the major political, social, economic, and cultural transformations. Students will explore the wide variety of textual sources (in translation) and archaeological evidence out of which historians seek to understand ancient Greece.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffeb19b6732c1f1ad37e7a6c586caab72">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>J.</middle>
+<last>Kosmin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="103" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

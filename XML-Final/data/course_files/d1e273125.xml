@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7294" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>212</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Advanced Real Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Shlomo Z. Sternberg</faculty_text>
+<description>This class will be an introduction to harmonic analysis and singular integral. The textbook is Classical and Multilinear Harmonic Analysis, Volume 1, by Muscalu and Schlag. The topics covered in the course include maximum functions, interpolation of operators, Calderon-Zygmund theory and Littlewood-Paley theory. Some elementary probability theory will also be included. Good references of this course are Stein's book on singular integrals and Fourier analysis.</description>
+<prerequisites>Mathematics 212ar and 213a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0ca8d4791f20268e405ca275b8b5872c">
+<name>
+<prefix/>
+<first>Shlomo</first>
+<middle>Z.</middle>
+<last>Sternberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

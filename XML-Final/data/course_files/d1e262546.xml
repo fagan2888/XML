@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26495" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HUM">
+<dept_long_name>Division of Humanities</dept_long_name>
+<dept_short_name>Humanities</dept_short_name>
+</department>
+<course_group code="HUMAN">Humanities</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>The Humanities Colloquium: Essential Works 2</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>75</enrollment_limit>
+<meeting_text>Tu., 10-11:30, and a weekly section to be arranged</meeting_text>
+<faculty_text>Louis Menand (English), Stephen J. Greenblatt (English), Emma Dench (The Classics; History), Ned Hall (Philosophy), and Katharina Piechocki (Comparative Literature)</faculty_text>
+<description>Five professors. 2,500 years. Thirteen essential works. Beckett, Woolf, Dostoevsky, Marx, Wagner, Mary Shelley, Hume, Shakespeare, Augustine, Tacitus, Herodotus, Sophocles, Homer. Join the conversation.</description>
+<prerequisites/>
+<notes>Sections in this course are led by the professors. The course is designed for freshmen and sophomores interested in further work in the Humanities, but all students are welcome. Humanities 10a, which meets in the fall, includes works from the Odyssey to the twentieth century. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course, when taken for a letter grade together with Humanities 10a, meets the General Education requirements for both Aesthetic and Interpretive Understanding and Culture and Belief. Students may take either course, or both courses in either order. The courses also count for concentration credit in English, Philosophy, and Comparative Literature. The course may not be taken Pass/Fail, and auditors are not permitted.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F07fdfb60a7fb21efbf1410eddec9cad3">
+<name>
+<prefix/>
+<first>Louis</first>
+<middle/>
+<last>Menand</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F249339f6d9c871d31004e8dfa6ff16d7">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>J</middle>
+<last>Hall</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3267c80c65c067539f9206835d376078">
+<name>
+<prefix/>
+<first>Emma</first>
+<middle/>
+<last>Dench</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F38e62e85577826f3973356e1e3a002a8">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Greenblatt</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F8b9f3118d75e6ba332177e2d231fd59b">
+<name>
+<prefix/>
+<first>Katharina</first>
+<middle>Natalia</middle>
+<last>Piechocki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

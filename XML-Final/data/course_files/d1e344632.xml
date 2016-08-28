@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2706" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>293</num_int>
+</course_number>
+<title>Biochemistry, Chemical and Structural Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., at 2, M., W., 2&amp;#8211;4</meeting_text>
+<faculty_text>Andres Leschziner and Rachelle Gaudet</faculty_text>
+<description>This course will introduce basic principles in general, organic and physical chemistry, including kinetics and thermodynamics, as well as macromolecular structure. Concepts will be illustrated with examples taken from the visual system.</description>
+<prerequisites/>
+<notes>Required for first year graduate students in the Molecules, Cells and Organisms (MCO) Training Program.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffdb4a66a12b052321a6c121d74fe5f0d">
+<name>
+<prefix/>
+<first>Andres</first>
+<middle/>
+<last>Leschziner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F165edb8d123232254f2eb19b107308ff">
+<name>
+<prefix/>
+<first>Rachelle</first>
+<middle/>
+<last>Gaudet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="425" type="Lecture"/>
+<location term="1" building="Northwest Building" room="425" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

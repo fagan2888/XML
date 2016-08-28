@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5918" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MODMIDEAST">The Modern Middle East</course_group>
+<course_number>
+<num_int>200</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Approaches to Middle Eastern Studies</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Susan M. Kahn and members of the Faculty</faculty_text>
+<description>Interdisciplinary seminar serves as an introduction to the major disciplines constituting Middle Eastern Studies, including history, political science, anthropology, literature and Islamic Studies. Faculty affiliated with Center for Middle Eastern Studies serve as guest lecturers.</description>
+<prerequisites/>
+<notes>Required for students pursuing the AM in Middle Eastern Studies. Primarily for first-term students in the AM in Middle Eastern Studies program, although open to Graduate students in related fields.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6818373fb70763d8bf0e77c8ad5d3970">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland St., 38 (CMES)" room="208" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

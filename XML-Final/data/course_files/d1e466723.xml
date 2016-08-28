@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17308" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>290</num_int>
+</course_number>
+<title>Buddhism in Three Languages</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Shenghai Li</faculty_text>
+<description>This course is designed to help students develop their skills in reading Buddhist texts in Sanskrit, Tibetan, and Chinese. Parallel texts that exist in Sanskrit as well as in Tibetan and Chinese translations will be chosen. The course package will include selection from at least one Yog&amp;#257c&amp;#257ra text, while other Buddhist text traditions will also be represented in the reading materials.</description>
+<prerequisites>The minimum prerequisite for the course is reading knowledge of at least one of the three languages, although students who know more than one language will also profit from the study of translation equivalents and strategies.</prerequisites>
+<notes>Offered jointly with the Divinity School as 3542.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F651915e8b3ca866de8efa016bd46bd19">
+<name>
+<prefix/>
+<first>Shenghai</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

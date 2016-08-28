@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4638" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2464</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Research Methods in Child &amp; Adolescent Clinical Psychology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1:30-3</meeting_text>
+<faculty_text>John R. Weisz</faculty_text>
+<description>Advanced laboratory methods seminar on designing and conducting research related to child and adolescent mental health problems and interventions, especially in school and mental health care settings. Problem areas include depression, anxiety, and disruptive conduct.</description>
+<prerequisites/>
+<notes>Organizational meeting Tues., Sept. 3 at 4 p.m. in the Wm. James 10th floor conference room.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F161aa99573729feb329880bdd8b7a00d">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>R</middle>
+<last>Weisz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="4" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

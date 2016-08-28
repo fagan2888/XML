@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5577" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_char>Acd</num_char>
+</course_number>
+<title>Intensive Beginning Spanish: Special Course</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M. through F., at 9 and Tu., Th., at 10</meeting_text>
+<faculty_text>Johanna Damgaard Liander and members of the Department</faculty_text>
+<description>A beginning class for students with no previous formal training in Spanish but with competence in at least one foreign language. Emphasis on communication skills. Language instruction supplemented by cultural and literary readings and film.</description>
+<prerequisites/>
+<notes>Not open to auditors. May not be used to fulfill the language requirement. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Interested students should contact Dr. Liander by e-mail no later than August 25, 2014 for fall term enrollment and no later than December 9, 2014 for spring term enrollment. Upon the recommendation of the course head, students who have performed at a superior level in this course may enroll in any course for which they are linguistically prepared.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd2383f6ba7b9db746de41ba42e71f079">
+<name>
+<prefix/>
+<first>Johanna</first>
+<middle>D.</middle>
+<last>Liander</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd2383f6ba7b9db746de41ba42e71f079">
+<name>
+<prefix/>
+<first>Johanna</first>
+<middle>D.</middle>
+<last>Liander</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="201" type="Speaking Section"/>
+<location term="1" building="Sever Hall" room="201" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

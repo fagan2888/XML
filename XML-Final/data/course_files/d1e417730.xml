@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46791" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2353</num_int>
+</course_number>
+<title>Case Studies of Cognitive and Neural Models</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George Angelo Alvarez</faculty_text>
+<description>What makes a successful cognitive or neural model? In this seminar, we will do a series of in depth case studies to address this question, exploring several of the more successful cognitive and neural models. While many examples will be drawn from the literature on human vision, the course will also draw on examples from language, development, and higher-level reasoning.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors plus Psychology 13 or Psychology 14 or MCB 80, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

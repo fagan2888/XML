@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36111" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Making the Grade? Middle and High School Math Education in the U.S.</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Robin Gottlieb</faculty_text>
+<description>What are the goals of mathematics education at the middle and high school level, and how do these goals impact our evaluation of the success or failure of math education in America? Why does math education at these levels matter? What societal structures (historic, economic, political, cultural) impact mathematics education? How does math education in turn impact societal structures? As the world changes, how do the goals of mathematics education change, and in what ways? We will explore these issues to become more educated participants in this ongoing discussion.</description>
+<prerequisites>This is not a mathematics course and has no prerequisites.</prerequisites>
+<notes>Open to Freshmen only. A special invitation to students not planning to concentrate in math is extended.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F46b7050df937dbcacc42b96dd2908508">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Gottlieb</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

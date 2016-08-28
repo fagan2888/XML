@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44411" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>The Epistemic Authority of Science (Graduate Seminar in General Education)</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Edward J. Hall and Scott Brewer (Law School)</faculty_text>
+<description>A systematic examination of the nature and significance of the epistemic authority that our culture currently bequeaths upon science, with emphasis on issues in both the public and private spheres. How, in a democratic society, should scientific expertise be adjudicated, and deployed in decision-making in political and legal settings? To what extent are science and religion in conflict? What is it to adopt a "scientific worldview" - and what difference should this make, if any, to how an individual perceives and conducts her own life?</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F249339f6d9c871d31004e8dfa6ff16d7">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>J</middle>
+<last>Hall</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F74db4749ca3e758013658ffd7104f0b0">
+<name>
+<prefix/>
+<first>Scott</first>
+<middle/>
+<last>Brewer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

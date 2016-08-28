@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5262" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSCI">
+<dept_long_name>Committee on Concentration in Physical Sciences</dept_long_name>
+<dept_short_name>Physical Sciences</dept_short_name>
+</department>
+<course_group code="PHYSCI">Physical Sciences</course_group>
+<course_number>
+<num_int>3</num_int>
+</course_number>
+<title>Electromagnetism, Circuits, Waves, Optics, and Imaging</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 9:30-11, and a weekly section and lab to be arranged.</meeting_text>
+<faculty_text>Logan S. McCarty</faculty_text>
+<description>This course is an introduction to electromagnetism, digital information, waves, optics and sound. Topics covered include: electric and magnetic fields, electrical potential, circuits, simple digital circuits, wave propagation in various media, microscopy, sound and hearing. The course will draw upon a variety of applications to the biological sciences and will use real-world examples to illustrate many of the physical principles described. There are six laboratories.</description>
+<prerequisites>Physical Sciences 2 (or Physics 1a or 11a), Mathematics 1b, or equivalent.</prerequisites>
+<notes>This course is part of an integrated introduction to the physical sciences intended for students who plan to pursue a concentration in the life sciences and/or satisfy pre-medical requirements in Physics. May not ordinarily be taken for credit in addition to Physics 1b, 11b, or 15b. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbbbf6f776aa5ba1563ef88b52d03e8d6">
+<name>
+<prefix/>
+<first>Logan</first>
+<middle>Stewart</middle>
+<last>McCarty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="930" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="930" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

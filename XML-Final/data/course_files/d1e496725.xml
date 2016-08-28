@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96883" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1518</num_int>
+</course_number>
+<title>American Religious History to 1865</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Catherine Brekus (Divinity School)</faculty_text>
+<description>Beginning with the religious cultures of Native Americans, and concluding with the religious implications of the American Civil War, this course will survey four centuries of religious history. It will focus on the evolutions of religious thought, the interplay of religious practice with secular culture, religious lives in both mainstream and marginalized groups, and the relationship of church and state. It will also consider the denominational development of numerous movements (e.g., Congregationalists, Friends, Baptists, Shakers, Disciples of Christ, Seventh-day Adventists).</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2367.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

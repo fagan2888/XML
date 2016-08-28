@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6559" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Physical Mathematics II</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Eli Tziperman</faculty_text>
+<description>Theory and techniques for finding exact and approximate analytical solutions of partial differential equations: eigenfunction expansions, Green functions, variational calculus, transform techniques, perturbation methods, characteristics, integral equations, selected nonlinear PDEs including pattern formation and solitons, introduction to numerical methods.</description>
+<prerequisites>Applied Mathematics 105 or equivalent. Also useful: Applied Mathematics 104 or equivalent.</prerequisites>
+<notes>Applied Mathematics 201 and Applied Mathematics 202 are independent of each other and may be taken at any order.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe1ffe9c112c1c708a96de4cf369b4eea">
+<name>
+<prefix/>
+<first>Eli</first>
+<middle/>
+<last>Tziperman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7055" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>157</num_int>
+</course_number>
+<title>Global Change Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Paul R. Moorcroft and James J. McCarthy</faculty_text>
+<description>This course examines how natural and anthropogenic changes in the earth system are affecting the composition and the functioning of the world's land and ocean ecosystems. Topics include: the ecological impacts of natural and anthropogenic changes in the earth's physical environment, and the effects of introduced species, species extinctions, land-use change, agriculture, and fishing.</description>
+<prerequisites>OEB 10 or OEB 53 and Mathematics 1a required. OEB 55 (formerly BS 55) recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbdbc0c21a7f80a53156b8fcff074ebe3">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>R</middle>
+<last>Moorcroft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc551df6869bdd7d4f1a95381fad5279d">
+<name>
+<prefix/>
+<first>James</first>
+<middle>J.</middle>
+<last>McCarthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

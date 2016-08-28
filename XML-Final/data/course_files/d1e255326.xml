@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19559" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>246</num_int>
+</course_number>
+<title>History and Anthropology of Medicine and Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>David Shumway Jones</faculty_text>
+<description>Explores recent historical and anthropological approaches to the study of life in both medicine and biology. Topics include: natural history and medicine before the emergence of biology; the history of heredity and molecular biology; race and medicine in the colonies and the metropole; bioeconomic exchange; old and new forms of biopower at molecular, organismic, and global scales. The seminar trains students to engage in scholarly debates in the humanities, social sciences, and natural sciences about the nature of life, the body, and biomedicine. Co-taught with Professor Stefan Helmreich (MIT Anthropology); the class will meet at Harvard.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fffdef953c00697b7354e6be8ec7db8c4">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Shumway</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

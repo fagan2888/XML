@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9407" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>296</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Proseminar on Inequality and Social Policy II</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Jason Beckfield and Amitabh Chandra (Kennedy School)</faculty_text>
+<description>Deals with causes and possible cures for economic inequality, including skill differences, discrimination, immigration, household composition, residential segregation, and the welfare state.</description>
+<prerequisites>SUP-921</prerequisites>
+<notes>Offered jointly with the Kennedy School as SUP 922. For 2014-15, FAS offers this course as Government 2340b.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbb8d1dacfb63e84f5b88bffeca61e0a7">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle/>
+<last>Beckfield</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1cb6ee68200e5e3e90a4bdb968ffe6de">
+<name>
+<prefix/>
+<first>Amitabh</first>
+<middle/>
+<last>Chandra</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

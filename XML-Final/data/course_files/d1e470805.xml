@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3808" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>Introduction to Quantitative Methods for the Social Sciences and Humanities</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30&amp;#8211;4; sections to be arranged</meeting_text>
+<faculty_text>Luke Weisman Miratrix</faculty_text>
+<description>Introduces the basic concepts of statistical inference and statistical computing, both increasingly used in the social sciences and humanities. The emphasis of this course is on statistical reasoning, visualization, data analysis, and use of statistical software instead of theory. The goal is to provide pragmatic tools for assessing statistical claims and conducting basic statistical analyses. The main areas covered are classic one- and two-sample statistics, regression with one or more predictors, and bootstrap and randomization based inference. Explores applications in a wide range of fields, including the social and political sciences, medical research, and psychology.</description>
+<prerequisites/>
+<notes>Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. Expected to be omitted spring term.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" A" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

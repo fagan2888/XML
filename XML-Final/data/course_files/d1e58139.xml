@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58149" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>148</num_int>
+</course_number>
+<title>Crisis: Twentieth-Century European Novels</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Christina Lynne Svendsen</faculty_text>
+<description>Examines major twentieth-century novels through the lens of "crisis" understood traditionally as a decisive moment, but experienced catastrophically in the twentieth century as a state of being. Authors include Rilke, Conrad, Joyce, Musil, Breton, Barnes, Valle-Inclan, Schulz, Levi.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5504ecbb51a15fe8f191f3f18c801140">
+<name>
+<prefix/>
+<first>Christina</first>
+<middle>Lynne</middle>
+<last>Svendsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

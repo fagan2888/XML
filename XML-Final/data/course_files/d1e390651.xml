@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5465" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>151</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>Philosophy of Quantum Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 9</meeting_text>
+<faculty_text>Edward J. Hall</faculty_text>
+<description>A crowning achievement of 20th century science, quantum mechanics has raised deeply perplexing questions for physicists and philosophers alike: Does quantum mechanics show that the conscious mind has the power to make the physical world "jump"? That reality itself is constantly "splitting" into alternative versions? That the universe as a whole is in some deep sense "holistic"? And so on. In this course, we will attempt to separate the wheat of genuine mystery from the chaff of philosophical confusion, and along the way use quantum mechanics as an excuse to explore several fascinating and fundamental philosophical questions about science. No prior knowledge of quantum mechanics required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F249339f6d9c871d31004e8dfa6ff16d7">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>J</middle>
+<last>Hall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

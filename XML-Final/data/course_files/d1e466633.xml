@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44296" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>250</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Topics in Buddhist Philosophy - Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>35</enrollment_limit>
+<meeting_text>Th., 3-6</meeting_text>
+<faculty_text>Parimal G. Patil</faculty_text>
+<description>A detailed treatment of specific topics in Indian Buddhist Philosophy. This term our focus will be the Buddhist theory of momentariness.</description>
+<prerequisites/>
+<notes>Jointly offered with the Divinity School as 3568.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

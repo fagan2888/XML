@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7036" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>290</num_int>
+</course_number>
+<title>Experience and Remembrance in W. G. Sebald: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Judith Ryan</faculty_text>
+<description>Close study of Sebald's narrative and poetic works, as well as a selection of his scholarly essays, against the backdrop of recent literary theory.</description>
+<prerequisites/>
+<notes>Readings in German or English; discussions in English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F54f3b25241b12492545ef7c0432b9081">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>L.</middle>
+<last>Ryan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="359 (Nebel Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

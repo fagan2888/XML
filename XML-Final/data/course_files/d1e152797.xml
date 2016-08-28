@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2945" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>115</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Chaucer: The Canterbury Tales</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12</meeting_text>
+<faculty_text>Nicholas Watson</faculty_text>
+<description>One of the most astonishing, vibrant, multivalent texts in the English language, Chaucer's The Canterbury Tales contains characters high and low telling stories of edification and pleasure, in poetry and prose, on topics bawdy and pious. We will read this work in its entirety, while also looking at some of Chaucer's shorter poems and the historical and cultural milieu in which he wrote.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Holden Chapel" room="Main Room" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

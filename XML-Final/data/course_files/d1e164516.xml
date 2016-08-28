@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16903" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.142</num_char>
+</course_number>
+<title>Jane Austen, Then and Now</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Tess O'Toole</faculty_text>
+<description>This course considers Austen in her own historical context and ours, and as an author whose importance lies both inside and outside the university. In our first unit, we'll undertake a close reading of Persuasion in order to assess Austen's analysis of British society at a transitional moment in its history; in unit 2 we'll consider how film and television adaptations have reinvented her best known novel, Pride and Prejudice, for a different historical moment, and in unit 3 students will engage with Austen scholarship by writing a research paper on an Austen novel or film adaption of their choice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f6fe0ae0a1c2c8f02a3df0d9f9c025e">
+<name>
+<prefix/>
+<first>Tess</first>
+<middle/>
+<last>O'Toole</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

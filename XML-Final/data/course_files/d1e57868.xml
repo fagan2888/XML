@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63943" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>142</num_int>
+</course_number>
+<title>Narrative Theories of Prose and Film</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Justin Weir</faculty_text>
+<description>An introduction to foundational narrative theories of fiction and cinema focuses on how those theories evolved from the 20th to the 21st century. Topics include the boundary between narrative and non-narrative, film adaptation, and the rise and fall of semiotics in narrative theory.</description>
+<prerequisites/>
+<notes>All texts will be available in English translation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb95f496c0add7449a50df6c8dc7b7450">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>M.</middle>
+<last>Weir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

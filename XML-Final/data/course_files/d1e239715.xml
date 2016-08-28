@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6430" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2911</num_int>
+</course_number>
+<title>Theories of International Relations: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David R. Armitage</faculty_text>
+<description>An historical introduction to theories of war and peace, sovereignty, diplomacy, colonialism, international law, and international relations since the fifteenth century. Readings include primary and secondary sources.</description>
+<prerequisites/>
+<notes>Open to undergraduates with the permission of the Instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe774867882d55040c69d786eeec30111">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Armitage</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

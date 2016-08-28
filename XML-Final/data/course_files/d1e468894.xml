@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7094" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>106</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Advanced Colloquial Tibetan</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp and members of the Department</faculty_text>
+<description/>
+<prerequisites>Tibetan 101 and 102, or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2201" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>62</num_int>
+</course_number>
+<title>Advanced Conversation and Composition</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Lisa Parkes</faculty_text>
+<description>This course is designed to further students' spoken and written German at the advanced level. Students will analyze and practice the stylistic and rhetorical features of various written and spoken genres. By focusing on aspects of contemporary society in the German-speaking countries, students will broaden and refine their vocabulary and idiom, become sensitized to different registers, as well as hone points of grammar.</description>
+<prerequisites>German 61, equivalent preparation, or permission of the instructor.</prerequisites>
+<notes>Conducted in German.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

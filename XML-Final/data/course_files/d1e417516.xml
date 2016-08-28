@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3512" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2351</num_int>
+</course_number>
+<title>Construction and Function of Memory: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Daniel L. Schacter and Randy L. Buckner</faculty_text>
+<description>What is memory for? We examine issues of memory structure in light of questions concerning memory function, including errors and distortions and the ways memory informs decisions about future reactions.</description>
+<prerequisites>For psychology concentrators: Science of Living Systems 20 and one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS 15; or permission of instructors.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7986ba287692e8cf83870453979684dc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Schacter</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F207298b163309b4b990e598c877cbd0a">
+<name>
+<prefix/>
+<first>Randy</first>
+<middle>Lee</middle>
+<last>Buckner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

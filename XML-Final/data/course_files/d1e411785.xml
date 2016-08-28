@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91794" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1052</num_int>
+</course_number>
+<title>The application of fMRI in cognitive neuroscience research</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>M., 10-12</meeting_text>
+<faculty_text>Yaoda Xu</faculty_text>
+<description>Functional magnetic resonance imaging (fMRI) is one of the most widely used methods in cognitive neuroscience research. In this course, students will learn the basics of fMRI research and gain hands-on experience in conducting fMRI experiments. In the first part of the course, students will have an overview of the fMRI methods, including how fMRI works, basic designs of fMRI experiments, fMRI data collection, analysis and interpretation, and current applications of fMRI in cognitive neuroscience research. In the second part of the course, students will design and conduct fMRI experiments and analyze fMRI data.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors and one foundational course.</prerequisites>
+<notes>Open to graduate students and advanced undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fac2f707e355b94ad61f59d49e175b913">
+<name>
+<prefix/>
+<first>Yaoda</first>
+<middle/>
+<last>Xu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

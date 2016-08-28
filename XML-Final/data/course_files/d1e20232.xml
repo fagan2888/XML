@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3586" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2210</num_int>
+</course_number>
+<title>Archaeology and the Ancient Economy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>C. C. Lamberg-Karlovsky and Rowan K. Flad</faculty_text>
+<description>Numerous theories are advanced for the structure of the ancient economy. Different perspectives on the nature of trade, the market, reciprocity-redistribution, etc. will be reviewed. An evolutionary and global perspective will be pursued from the Neolithic to the Iron Age.</description>
+<prerequisites/>
+<notes>Open to undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5a16a2de6b6120f4f3adb5a1e7d35dc0">
+<name>
+<prefix/>
+<first>Rowan</first>
+<middle>K.</middle>
+<last>Flad</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

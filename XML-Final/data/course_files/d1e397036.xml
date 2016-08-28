@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7711" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>191</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Laboratory</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-5</meeting_text>
+<faculty_text>Isaac F. Silvera and Ronald L. Walsworth (fall term), Peter S. Pershan and Jennifer E. Hoffman (spring term)</faculty_text>
+<description>Students carry out three experimental projects selected from those available representing condensed matter, atomic, nuclear, and particle physics. Included are pulsed nuclear magnetic resonance (with MRI), microwave spectroscopy, optical pumping, Raman scattering, scattering of laser light, nitrogen vacancies in diamond, neutron activation of radioactive isotopes, Compton scattering, relativistic mass of the electron, recoil free gamma-ray resonance, lifetime of the muon, studies of superfluid helium, positron annihilation, superconductivity, the quantum Hall effect, properties of semiconductors. The facilities of the laboratory include several computer controlled experiments as well as computers for analysis.</description>
+<prerequisites>Physics 15a or 16, 15b, 15c. Physics 143a is highly recommended.</prerequisites>
+<notes>A substantial amount of outside reading is expected.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa124830cd86469d56187ba0b696f4d7">
+<name>
+<prefix/>
+<first>Isaac</first>
+<middle>F.</middle>
+<last>Silvera</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F9aafdd9f39792362bd0c96d66052b2d0">
+<name>
+<prefix/>
+<first>Ronald</first>
+<middle>Lee</middle>
+<last>Walsworth</last>
+<suffix>Jr</suffix>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8c264a957c75f9d200ddbaa48104433a">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>S.</middle>
+<last>Pershan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe5582dfba74351825b4f28b62f9f177e">
+<name>
+<prefix/>
+<first>Jenny</first>
+<middle/>
+<last>Hoffman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

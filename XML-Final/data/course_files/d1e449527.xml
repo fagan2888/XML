@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25731" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>nd</num_char>
+</course_number>
+<title>Mass Violence, Memory, and Reconciliation</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Jonathan M. Hansen</faculty_text>
+<description>This tutorial examines the problem of national reconciliation after mass violence. How does a nation sundered by genocide, civil war, or political repression reestablish the social trust and civic consciousness required of individual and collective healing? What makes some reconciliations successful, others less so? The course will engage these and other questions from historical and contemporary perspectives, exploring the legacy of mass violence going back centuries, while comparing reconciliation projects across cultures, countries, and continents.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0c77724d216841f9f21dbfc5bfc2b3e2">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>M.</middle>
+<last>Hansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Hilles" room="P13" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

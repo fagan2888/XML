@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5004" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>275</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Phylogenomics, Comparative Genomics and Adaptation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4, and occasional computer labs</meeting_text>
+<faculty_text>Scott V. Edwards</faculty_text>
+<description>This semester we will explore through readings of the recent literature the ways in which comparative genomics can inform phylogeny and genomic adaptation. In addition to surveying recent methods for harnessing thousands of loci for phylogenetic reconstruction, we will also study how comparing genomes of higher clades can reveal signatures of adaptation, particularly in the noncoding portion of the genome.</description>
+<prerequisites>OEB 53, OEB 181, OEB 125 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa1aba19be4012c2aa8e80f1cbad101c6">
+<name>
+<prefix/>
+<first>Scott</first>
+<middle>V.</middle>
+<last>Edwards</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

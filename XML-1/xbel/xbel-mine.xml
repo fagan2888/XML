@@ -1,0 +1,64 @@
+<xbel version="1.0">
+  <title>Bookmarks from Marnie Scully</title>
+  <folder>
+    <title>News</title>
+    <bookmark href="http://www.cnn.com">
+      <title>CNN</title>
+      <desc>Breaking News, U.S., World, Weather , and Entertainment News</desc>
+    </bookmark>
+    <bookmark href="http://www.foxnews.com/">
+      <title>Fox News</title>
+      <desc>Fair and Balanced News</desc>
+    </bookmark>
+    <bookmark href="http://www.msnbc.com/">
+      <title>MSNBC</title>
+      <desc>MSNBC is an American basic cable and satellite channel that provides news coverage and political opinion on current events. It is owned by the NBCUniversal News Group, a unit of the NBCUniversal Television Group division of NBCUniversal.</desc>
+    </bookmark>
+      <bookmark href="http://america.aljazeera.com">
+        <title>Al Jazeera America</title>
+        <desc>Al Jazeera America offers unbiased, fact-based, in-depth stories of U.S. and international news, including sports, business, lifestyle and investigative journalism.</desc>
+      </bookmark>
+  </folder>
+  <folder>
+    <title>Recipes</title>
+    <bookmark href="http://www.foodnetwork.com/recipes/emeril-lagasse/hot-jalapeno-crab-dip-recipe.html">
+      <title>Hot Jalapeno Crab Dip</title>
+      <desc>Recipe from Everyday Is A Party Cookbook, by Emeril Lagasse, with Marcelle Bienvenu and Felicia Willett, published by William Morrow, 1999</desc>
+  </bookmark>
+    <bookmark href="http://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe.html">
+      <title>Pan-Seared Rib Eye</title>
+      <desc>Rib Eye Recipe Courtesy of Alton Brown</desc>
+    </bookmark>
+    <bookmark href="http://www.foodnetwork.com/recipes/quinoa-salad-recipe0.html">
+      <title>Quinoa Salad</title>
+      <desc>Quinoa, a "new" ingredient that has been around for thousands of years, is a tiny, high-protein grain from South America. It's nicknamed the "wonder grain" because it cooks more quickly than rice, is virtually foolproof, and is lighter and more nutritious than other grains.</desc>
+    </bookmark>
+    <bookmark href="http://www.foodnetwork.com/recipes/mario-batali/eggplant-parmigiana-recipe.html">
+      <title>Eggplant Parmigiana</title>
+      <desc>Eggplant Recipe courtest of Mario Batali</desc>
+    </bookmark>
+  </folder>
+  <folder>
+    <title>Programming Resources</title>
+    <bookmark href="http://validator.w3.org">
+      <title>HTML Validator</title>
+      <desc>Always remember to visit the W3C website to validate your markup</desc>
+    </bookmark>
+    <bookmark href="http://jigsaw.w3.org/css-validator/">
+      <title>CSS Validator</title>
+      <desc>Always remember to visit the W3C website to validate your CSS</desc>
+    </bookmark>
+    <folder><title>jQuery</title>
+    <bookmark href="http://jqueryui.com">
+      <title>jQueryUI</title>
+      <desc>jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.</desc>
+    </bookmark>
+    <bookmark href="http://jquery.com">
+      <title>jQuery</title>
+      <desc>jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.</desc>
+    </bookmark>
+    </folder>
+  </folder>
+    
+   
+</xbel>

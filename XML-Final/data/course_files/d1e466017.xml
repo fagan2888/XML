@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84316" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>195</num_int>
+</course_number>
+<title>Thinking Critically About Emptiness: History of Madhyamaka Philosophy in South Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-5</meeting_text>
+<faculty_text>Shenghai Li</faculty_text>
+<description>This course is an advanced introduction to the literature of the Madhyamaka school of Buddhist thought in South Asia. Our initial goal is to trace the emergence and development of the Madhyamaka philosophical system as articulated by the school's founders and classical interpreters. The second part of the course will focus on the critical encounters of Madhyamaka writers with other South Asian philosophical traditions. Previous coursework in Buddhist studies or South Asian religions will be helpful, but not necessary.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3528.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F651915e8b3ca866de8efa016bd46bd19">
+<name>
+<prefix/>
+<first>Shenghai</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

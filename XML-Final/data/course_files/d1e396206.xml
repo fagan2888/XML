@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1050" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>143</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Quantum Mechanics I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Matthew Reece (fall term) and Subir Sachdev (spring term)</faculty_text>
+<description>Introduction to nonrelativistic quantum mechanics: uncertainty relations; Schrodinger equation; Dirac notation; matrix mechanics; one-dimensional problems including particle in box, tunneling, and harmonic oscillator; angular momentum, hydrogen atom, spin, Pauli principle; time-independent perturbation theory; scattering.</description>
+<prerequisites>Linear algebra including matrix diagonalization; Physics 15c or written permission of the Head Tutor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F39c882f574a2e29392ec0d07d65a215b">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Reece</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3d7840b2c66c1db65769db1d46a11744">
+<name>
+<prefix/>
+<first>Subir</first>
+<middle/>
+<last>Sachdev</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="356" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

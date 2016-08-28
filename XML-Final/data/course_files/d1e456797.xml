@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4117" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Intermediate Quantitative Research Methods</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Jason Beckfield</faculty_text>
+<description>Descriptive and inferential techniques used in quantitative sociological research. Emphasis is on the fundamentals of the linear regression model for continuous response variables, focusing on assumptions and interpretation. Motivation, application, and presentation are stressed; topics include categorical covariates, interactions, and diagnostics. Because the linear regression model is the foundation for more specialized models that are often applied in sociological research, the aim of this course is to develop the skills necessary to (a) understand quantitative sociological research, (b) produce convincing analysis, (c) evaluate quantitative analysis, and (d) learn more specialized techniques as needed.</description>
+<prerequisites>Familiarity with basic statistics.</prerequisites>
+<notes>Required of, and limited to, first-year graduate students in Sociology</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb8d1dacfb63e84f5b88bffeca61e0a7">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle/>
+<last>Beckfield</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="601" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

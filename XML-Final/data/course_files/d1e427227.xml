@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42841" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>189</num_int>
+</course_number>
+<title>"Re: History" Memory and Imagination from Camus to Annie Ernaux</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Emmanuel Bouju</faculty_text>
+<description>We will consider the specific link between memory and imagination in the French novel dealing with History during the second half of the 20th century til today. Readings include major authors (Camus, Antelme, Duras, Perec, Simon, Semprun, Modiano, Ernaux) as well as historical and theoretical texts (Ginzburg, Sontag, Certeau, Rothberg, Agamben...). We'll thus explore the way of "transcribing History, by recording it (Rec:), rewinding it (Rew:), reviewing it and replying to it (Re: History).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faebac914456c57a120a9b2fc8833017f">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Bouju</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="335" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

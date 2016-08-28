@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96956" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>260</num_int>
+</course_number>
+<title>Water and Economic Development</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 4:30-6</meeting_text>
+<faculty_text>John Briscoe</faculty_text>
+<description>The course focuses on the engineering, infrastructure and institutions needed to manage water on a basin and city scale. The course does this using the case study method. All cases are presented by practitioners who have had deep engagement with the cases.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as IGA 435 and with Public Health as EH524.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6ec3459ad22241c85f27f50656227bb6">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Briscoe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

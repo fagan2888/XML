@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9112" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>195</num_int>
+</course_number>
+<title>Foundations of Systems Biology and Biological Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Philippe Cluzel</faculty_text>
+<description>This course builds an understanding of design principles in biology. We will ask why biological circuits are built the way they are and answer using mathematical models. Topics: elementary circuits in biological networks, robustness, pattern-formation in embryos, error-correction, and evolutionary optimization.</description>
+<prerequisites>LPS A or LS 1a, LS 1b and Mathematics 1a/1b, and molecular cell biology at the level of MCB 60 or MCB 52 and MCB 54. Familiarity with mathematics at the level of 19/20 is strongly recommended.</prerequisites>
+<notes>Students from physics, engineering and other disciplines are also welcome.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F077fd9a70e7acb6b60a8ec686e81f3a4">
+<name>
+<prefix/>
+<first>Philippe</first>
+<middle/>
+<last>Cluzel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

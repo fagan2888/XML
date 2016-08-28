@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29174" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1636</num_int>
+</course_number>
+<title>Latin American Cities: urban images, landscapes, and citizens</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Federico Perez</faculty_text>
+<description>This course examines urbanization and urban culture in Latin America. Drawing on an interdisciplinary set of works from anthropology, urban studies, and contemporary film, we will explore themes such as planning, space, violence, inequality, informality, citizenship, and consumption, among others. The course studies Latin American cities as developing at the intersection of projects that seek to impose order and everyday practices of contestation. In looking at the tensions between these visions of urban life, we will consider what Latin America reveals about the future of contemporary urbanism and its utopian and dystopian imaginaries.</description>
+<prerequisites/>
+<notes>Course will include film screenings.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0656bd4f7be01df707488d786cc0280">
+<name>
+<prefix/>
+<first>Federico</first>
+<middle/>
+<last>Perez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

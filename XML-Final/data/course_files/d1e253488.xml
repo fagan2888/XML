@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3222" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>171</num_int>
+</course_number>
+<title>Narrative and Neurology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anne Harrington</faculty_text>
+<description>An exploration of the complex relationship between the making of brain science and the human stories/experiences of brain damaged people. We will look at iconic cases of brain damage including Phineas Gage and H.M. (and who speaks for them), the emergence and historical function of neurological case histories, the study of brain-damaged soldiers in WWI, the "neurological novels" of Alexander Luria, the popularization of neuroscience via authors like Oliver Sacks and V.S. Ramachandran, the brain-injured patient as author, including how nowadays patients may use social media to narrate their own experiences with neurological impairment, and the notion of "neurodiversity."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4d6e50667ca8bb209a61035ba6b0f210">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle/>
+<last>Harrington</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

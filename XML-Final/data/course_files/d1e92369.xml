@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7554" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1357</num_int>
+</course_number>
+<title>Historical Perspectives on Economic Ascendancy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Richard A. Hornbeck</faculty_text>
+<description>An exploration of research in economic history, focusing on economic growth and development. Topics include: institutions and property rights; technological change and industrialization; migration and labor markets; local economic stimulus; and adaptation to the environment. The course emphasizes students learning to generate and implement ideas for new research.</description>
+<prerequisites>Ec 10a and Ec 10b or permission of the instructor.</prerequisites>
+<notes>Concentrators may not take pass/fail. This course satisfies the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F28a91cb5bbe2487547a7907500048214">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>A.</middle>
+<last>Hornbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

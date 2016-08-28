@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48309" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1032</num_int>
+</course_number>
+<title>The Packing Problem: The Behavioral Economics of Scarcity</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sendhil Mullainathan</faculty_text>
+<description>Why do highly successful people have a rush of energy and get things done at the last minute? Why didn't they have that rush earlier? Why does poverty persist around the world? Why is obesity rampant? This course argues that all these questions can be understood by understanding the behavioral economics of scarcity. The lectures will span concepts from mathematics of computation, psychology, evolutionary biology to numerous economic applications.</description>
+<prerequisites>Ec 10a and Ec 10b, an introductory course in Psychology, and Statistics 100, 101 or 104.</prerequisites>
+<notes>A research paper is required. This course meets the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f0d679c0b35b05a12f4c718a8dba9c9">
+<name>
+<prefix/>
+<first>Sendhil</first>
+<middle/>
+<last>Mullainathan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

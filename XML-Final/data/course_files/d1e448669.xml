@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80579" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>lc</num_char>
+</course_number>
+<title>Global Climate Change</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Lauren Nicole Coyle</faculty_text>
+<description>Global scientific communities now widely regard climate change as one of the most pressing challenges to our present and future. This course draws upon interdisciplinary debates to examine the ways in which global climate change generates complications for notions of environmental governance, political community, sovereignty, economic development, demographic stability, eco-sociality, cultural vitality, and sustainability. The course also examines broader legal, political, and policy discussions, along with signal agreements that have surfaced on the global stage. Throughout our discussions, we will attend to geopolitical stakes, strategic economic interests, and various visions for alternative political and environmental futures for global society.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4f7bb03d571e83b95f12d522d36ac142">
+<name>
+<prefix/>
+<first>Lauren</first>
+<middle>Nicole</middle>
+<last>Coyle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61228" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>305</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Intracellular transport</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will provide a practical guide to understanding the role of intracellular transport in physiology and disease settings. Basic mechanisms and also interdisciplinary areas that involve this fundamental cellular process will be selected for discussion.</description>
+<prerequisites/>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F269ae4e4e0b7b3f69fd60e2b8c9ebb28">
+<name>
+<prefix/>
+<first>Victor</first>
+<middle/>
+<last>Hsu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

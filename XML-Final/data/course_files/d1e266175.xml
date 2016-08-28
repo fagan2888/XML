@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4346" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>171</num_int>
+</course_number>
+<title>Structure of Chinese</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Chi-Ming (Louis) Liu</faculty_text>
+<description>Introduction to the syntactic structure of Mandarin Chinese: the basic structure of clauses and nominal constituents; words, compounds, and phrases; word order and variations; selected special topics (passives, resultatives, ba-construction, topic and relativized structures, questions, anaphora, pro drop); syntactic structure and semantic interpretation.</description>
+<prerequisites>Linguistics 102 in previous or current term or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc5d92f7572caa9f3dc2c4f2a4aa12787">
+<name>
+<prefix/>
+<first>Chi-Ming</first>
+<middle>Louis</middle>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

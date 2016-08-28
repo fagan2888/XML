@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76462" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Psycholinguistics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>To be determined.</faculty_text>
+<description>A survey of current psycholinguistics research for students in linguistics and related fields. Provides an overview of models of language comprehension and production from word to sentence level. Aims to expose students to models and methods used in the study of language acquisition, processing, disorders, and brain imaging.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffc33fb29a8029a4dce510f312600015e">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle/>
+<last>Polinsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

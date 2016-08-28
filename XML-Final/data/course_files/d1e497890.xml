@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54285" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1562</num_int>
+</course_number>
+<title>Alternative Spiritualities in the United States</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Daniel P. McKanan (Divinity School)</faculty_text>
+<description>This course surveys spiritual practices and movements that have been labeled as "metaphysical," "esoteric," "occult," "harmonial," or "New Age." Beginning with colonial practices of astrology, alchemy, and spirit possession, we will consider Swedenborgianism, Spiritualism, Theosophy, New Thought, and their myriad descendants in the twentieth and twenty-first centuries.</description>
+<prerequisites/>
+<notes>The course will also feature field trips to two or three spiritual communities. Offered jointly with the Divinity School as 2360.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

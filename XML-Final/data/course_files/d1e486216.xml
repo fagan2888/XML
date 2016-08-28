@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33456" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>225</num_int>
+</course_number>
+<title>Pindar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Gregory Nagy</faculty_text>
+<description>The research projects of this seminar will center on the poetics (e.g. meter, diction, style) and historical contexts (e.g. local traditions, patronage, transmission) of surviving texts attributed to Pindar.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff552cbf0b260660113faf02a826fa73c">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Nagy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

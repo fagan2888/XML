@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38202" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>252</num_int>
+</course_number>
+<title>The Literatures of Medieval Iberia</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Luis M. Giron Negron</faculty_text>
+<description>The cultural interactions in premodern Spain between Muslims, Christians and Jews shaped the literary history of Arabic, Hebrew and the Ibero-Romance vernaculars. Our seminar examines selected scholarly debates on the comparative study of these literatures.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3726.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3004" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>Mathematical Biology-Evolutionary Dynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Martin A. Nowak</faculty_text>
+<description>Introduces basic concepts of mathematical biology and evolutionary dynamics: evolution of genomes, quasi-species, finite and infinite population dynamics, chaos, game dynamics, evolution of cooperation and language, spatial models, evolutionary graph theory, infection dynamics, somatic evolution of cancer.</description>
+<prerequisites>Mathematics 21a,b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9b0b28898868136746c9bc713d51339a">
+<name>
+<prefix>Prof</prefix>
+<first>Martin</first>
+<middle>A.</middle>
+<last>Nowak</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

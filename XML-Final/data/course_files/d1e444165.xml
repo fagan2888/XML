@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30568" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>158</num_int>
+</course_number>
+<title>Gogol's Short Fiction</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>William Mills Todd III</faculty_text>
+<description>Close reading of Gogol's short fiction, read in the original, with special attention to humor and narrative structure. We will also explore contextual issues and possible critical approaches.</description>
+<prerequisites>Good reading knowledge of Russian.</prerequisites>
+<notes>Alternative to Slavic 98. Tutorial - Junior Year.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff9c1e173800d1dc8c3a65df81868849e">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Mills</middle>
+<last>Todd</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

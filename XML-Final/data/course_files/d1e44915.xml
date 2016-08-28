@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1846" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SCOTGAELIC">Scottish Gaelic</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Introduction to Scottish Gaelic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through W., F., at 9</meeting_text>
+<faculty_text>Instructor to be determined.</faculty_text>
+<description>An introduction to Gaidhlig (Scottish Gaelic) as it is spoken and written today. This course surveys the grammar while also emphasizing practice in speaking the language. This class is highly participatory; students are encouraged to take part in a range of communicative activities which enhance oral/aural ability. Translation exercises develop skills in the written language. A range of audio/ audiovisual materials and online resources is used to support student learning.</description>
+<prerequisites/>
+<notes>The combination of Scottish Gaelic 130 followed by Scottish Gaelic 131r satisfies the language requirement. It is recommended in any case that this course be followed by Scottish Gaelic 131r. May not be taken Pass/Fail. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="301" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>218</num_int>
+<num_char>rs</num_char>
+</course_number>
+<title>20th-Century Music: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>----------</faculty_text>
+<description>Film Sound/Film Music: Aesthetics and Technology. This seminar explores film music and film sound in American and European cinema, from the transition to sound in the late 1920s, to a period in the 1960s when film music reached its first developmental endpoint. Topics include sound technology, differing approaches to the relation between music and image, the affinity between operatic aesthetics and film music aesthetics. Readings cover a range: from contemporary source documents, to modern film theory (Chion, Elsaesser, etc.).</description>
+<prerequisites/>
+<notes>Graduate students only.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

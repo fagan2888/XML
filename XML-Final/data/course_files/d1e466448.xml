@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92712" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>220</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Brahmanas: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael Witzel</faculty_text>
+<description>Reading and discussion of the oldest Indian prose texts. Long despised and derided for alleged illogical contents they constitute instead the beginning of sustained and trenchant discussions. Their underlying method, their narrative and their ritual contents will be discussed, along with an introduction to the language and grammar of Vedic prose, as far as it is different from Classical Sanskrit.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5ba259e923ae9ecd6970409a8d33897d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Witzel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5ba259e923ae9ecd6970409a8d33897d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Witzel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

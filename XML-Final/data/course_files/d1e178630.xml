@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38906" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>30</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>Engaging the New Atheism: Why Religion Remains</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>Beliefs about the supernatural (God, heaven) are traditionally taken to be the central feature of religion. Recently scientists and critics have attacked religious belief, reviving anti-supernatural arguments against religion and suggesting that it be overcome by rational, scientific thinking. And yet religion remains. Not only does it remain, but it continues to exert tenacious influence personally, culturally, and politically. Why is this? This seminar considers the status of religious belief and looks at alternate understandings of what religion involves and does. Readings range from "new atheists" to philosophers and theorists of religion, modernity and ritual, to evolutionary biology and neuroscience.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Hoffman Lab" room="129 (Geophysics Seminar Rm)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

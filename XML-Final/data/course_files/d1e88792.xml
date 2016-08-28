@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53797" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>The Historical Origins of Middle Eastern Development</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Eric Chaney</faculty_text>
+<description>Middle Eastern countries enjoyed world economic leadership during the Middle Ages, and continue to play an important role in the world economy. This course will explore the historical development of Middle Eastern economies. Topics include the effects of colonialism, natural resource endowments and religion on economic growth. The course will emphasize how these and other historical factors continue to influence development prospects in the region today.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F747a26a06b41d7b20f9b1898152fe10c">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Chaney</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

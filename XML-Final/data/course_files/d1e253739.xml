@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29007" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>178</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>History of the Psychotherapies</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Elizabeth Lunbeck</faculty_text>
+<description>Examines the history of the current psychotherapeutic landscape, looking at the development, methods, aims, efficacy, and limitations of a range of psychotherapeutic modalities from Freud's time to our own, among them psychoanalytic, psychodynamic, cognitive, behavioral, manualized, and evidence-based treatments; individual, play, family, and group therapies. Explores tensions between therapy as a quest for self-improvement and a means of relieving symptoms, between focusing on cognition and on behavior, and between mind and brain. Looks at providers and patients, at the testimonies of writers and poets, and at office-based, hospital, and computer therapies. The question of the relationship between professional practices and the rise of a popular therapeutic sensibility is central to the course.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F51e471ac3648a9754d6863c512ead552">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Lunbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

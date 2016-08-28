@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77527" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>19</num_int>
+</course_number>
+<title>Western Ascendancy: The Mainsprings of Global Power from 1400 to the Present</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Niall Ferguson (History)</faculty_text>
+<description>From the scientific revolution to the industrial revolution, from representative government to the consumer society, from capitalism to nationalism and socialism, the ideas and institutions of "the West" (meaning Europe and its colonies of settlement) came to dominate the world in the five centuries after around 1500. But what were the mainsprings of Western power? Taking a comparative historical approach, this course seeks to identify the key economic, cultural, social, political and military differences between the West and "the Rest."</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

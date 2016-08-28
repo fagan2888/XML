@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54304" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>191</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>Image of the Black in Western Art</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Suzanne P. Blier and David Bindman</faculty_text>
+<description>This seminar will critically examine the depiction and contextualization of individuals of African descent in European and American art. Among the various issues raised are historic changes in the idea of and construction of race, the impact of early internationalism, notions of difference in the age of exploration, slavery and notions of selfhood, and representation as part of the larger colonial project.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F06a9222f00d2211d1cb5348e45374ba6">
+<name>
+<prefix/>
+<first>Suzanne</first>
+<middle/>
+<last>Blier</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F04cb94630fa41d59ee697b06b2efcd74">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Bindman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="318" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

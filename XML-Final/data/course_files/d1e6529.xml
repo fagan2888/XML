@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88142" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Christianity, Identity, and Civil Society in Africa</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Jacob Olupona</faculty_text>
+<description>This course is a historical survey of the centuries-old Christian traditions in Africa. It begins with an outline of the trajectory of Christianity's origins and presence in Africa from its beginning in ancient Mediterranean lands through the early period of European missionaries to the contemporary period. The course provides the ethnography of the old mission churches, indigenous independent African churches, and contemporary evangelical and Pentecostal Charismatic movements. The course explores the role of Christianity in relation to historical, cultural, social, and material realities of the African continent. It examines a broad range of topical issues related to conversion, missionization, and the development and growth of Christian agencies in Africa in relation to the construction of social, theological, and religious identities, as well as Christianity's response to cultural pluralism, nationhood, citizenship, and civil society.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2337.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F67ada1528672ca0b575f45e4f43615ff">
+<name>
+<prefix/>
+<first>Jacob</first>
+<middle/>
+<last>Olupona</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

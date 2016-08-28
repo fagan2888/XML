@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71288" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>23</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Physics, Math and Puzzles</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Section I: W., 4:30&amp;#8211;6:30; Section II: F., 4-6</meeting_text>
+<faculty_text>Cumrun Vafa</faculty_text>
+<description>Principles of modern physics are based on simple but at the same time deep concepts. Many of these concepts are naturally encountered when solving mathematical puzzles. The aim of this seminar is to illustrate the connection between physics and mathematics and use simple ideas and puzzles to shed light on this relation. We will also draw upon ideas encountered in the context of string theory and higher dimensional realizations of our universe. Recommended for students deeply interested in both physics and mathematics.</description>
+<prerequisites>This seminar is recommended for students with a strong background in both math and physics and with keen interest in the relation between the two subjects.</prerequisites>
+<notes>Open to Freshmen only. Friday class will be added if needed, TBD.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fca8d4e3d2bbc1845e3d152cd08e4eac2">
+<name>
+<prefix/>
+<first>C.</first>
+<middle/>
+<last>Vafa</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="453" type="Section"/>
+<location term="1" building="Cruft Memorial Lab" room="309" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

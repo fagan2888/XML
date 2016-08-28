@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39051" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>178</num_int>
+</course_number>
+<title>Health, Society, and Subjectivity in the American Context</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Laurence A. Ralph</faculty_text>
+<description>While diseases are often imagined to be scientific, medical conditions, they are also social constructs. In the nineteenth century, for example, the condition of Dysaesthesia Aethiopis (an ailment that made its sufferers "mischievous") was considered nearly universal among free blacks. Today, diseases like AIDS and tuberculosis are often associated with personal attributes, while the social forces at work to structure risk for acquiring these illnesses are glossed over. This course examines the ways people reproduce and challenge contemporary visions of society through the lens of social injury, and in the process cultivate subjectivities that are marked by race, gender, class.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F19d9cdd40b32d9fde520ebafc0fd3968">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>A</middle>
+<last>Ralph</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

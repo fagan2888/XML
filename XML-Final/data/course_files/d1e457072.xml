@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6189" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>204</num_int>
+</course_number>
+<title>Classical Social Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>----------</faculty_text>
+<description>Introduction to the formative ideas and socio-intellectual contexts of 19th and early 20th century sociological theory. Course will explore social thought from the perspective provided by the problem of social order - and the roles different thinkers attributed to such factors as solidarity, power, and meaning as solutions to this problem. Consideration of the continuing significance of these ideas for contemporary social thought.</description>
+<prerequisites/>
+<notes>Required of and limited to first-year graduate students in Sociology.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

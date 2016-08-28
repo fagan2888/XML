@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55395" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Statistical Communication and Graphics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Andrew Gelman</faculty_text>
+<description/>
+<prerequisites/>
+<notes>For more information, see the Statistical Modeling, Causal Inference, and Social Science website, http://andrewgelman.com/2014/10/15/description-course-statistical-communication-graphics/. The statistical communication and graphics manifesto is located here: http://andrewgelman.com/2014/10/15/statistical-communication-graphics-manifesto/.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2992c4258a2edd193b1a94b55c9f0ea9">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Gelman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

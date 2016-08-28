@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35838" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>262</num_int>
+</course_number>
+<title>Theoretical Seismology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Miaki Ishii</faculty_text>
+<description>Theoretical aspects of seismology with strong emphasis on global free-oscillation seismology. Topics include continuum mechanics, equations of motion, linearization, perturbation theory, elasticity &amp; anelasticity, rotation &amp; ellipticity, spheroidal &amp; toroidal modes of the Earth, mode splitting, and multiplet coupling.</description>
+<prerequisites>Applied Mathematics 202 or equivalent, or permission of instructor; EPS 204.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7edba0f5ca8a767c3b3e7ecaff527ecb">
+<name>
+<prefix/>
+<first>Miaki</first>
+<middle/>
+<last>Ishii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

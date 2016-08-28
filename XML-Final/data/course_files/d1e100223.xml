@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6800" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2333</num_int>
+</course_number>
+<title>Historical Perspectives on Current Economic Issues</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Comparative economic history emphasizing sources of economic growth and development. Topics include technological change and industrialization, institutions, the Great Depression and financial regulation, migration and adjustment to economic shocks, public infrastructure, labor markets and wage inequality, and health. Each topic is motivated by a current concern and develops methods for historical analysis to inform modern economic questions.</description>
+<prerequisites/>
+<notes>Satisfies the graduate distribution requirement. Open to undergraduates on a limited basis with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4bf3b66fb54d20a14977cceeb0f39184">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>Andrew</middle>
+<last>Margo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

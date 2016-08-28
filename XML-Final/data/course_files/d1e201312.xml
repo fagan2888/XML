@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49677" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>The Phoenix and the Firebird: Russia in Global Perspective</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Julie A. Buckler (Slavic Languages and Literatures) and Kelly A. O'Neill-Uzgiris (History)</faculty_text>
+<description>From the Middle East to the Pacific rim, Russia is re-emerging as a major player on the world stage. Russia has transitioned in significant ways since the 1991 break-up of the Soviet Union ("the evil empire"), just as it did during the tumultuous aftermath of the 1917 Bolshevik Revolution that ended a 300-year imperial dynasty. Through in-depth, interdisciplinary examination of six key themes with contemporary as well as historical resonance (conquest, political terror, the environment, commerce, imaginative representations, and mobility), we will investigate the evolving concept of "Russianness" in a global context. Assignments include curation of a "Russia in the World" digital exhibit.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8efd05685bfa1d406fd1f642cc58510e">
+<name>
+<prefix/>
+<first>Julie</first>
+<middle/>
+<last>Buckler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9ac7035fefcd39b20b126d7e628d39aa">
+<name>
+<prefix/>
+<first>Kelly</first>
+<middle>A.</middle>
+<last>O'Neill</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

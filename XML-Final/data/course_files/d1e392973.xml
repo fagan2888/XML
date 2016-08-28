@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8076" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>299</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Individual Supervision</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mark Richard and members of the Department</faculty_text>
+<description/>
+<prerequisites/>
+<notes>Required of candidates for the AM or PhD in Philosophy. Consult the Department's Supplement to the General Announcement for details.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0c2e83773ef0366a5e734cb1994ce917">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Richard</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0c2e83773ef0366a5e734cb1994ce917">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Richard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

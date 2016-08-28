@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32473" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1922</num_int>
+</course_number>
+<title>Habermas: Social Theory in Postwar Germany</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Peter E. Gordon</faculty_text>
+<description>This conference course explores the thought of Jurgen Habermas, the foremost social theorist of Germany in the post-1945 era. The course combines philosophical methods of rational reconstruction with an historical sensitivity to context. While devoting primary attention to his major contributions to philosophy and social theory, we will also consider Habermas' role as a public intellectual, in, e.g., the `historians' controversy' and the debates surrounding German unification. Major readings include: Knowledge and Human Interests, The Structural Transformation of the Bourgeois Public Sphere, The Theory of Communicative Action (Volumes I and II), and Between Facts and Norms.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

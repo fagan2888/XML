@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5733" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>292</num_int>
+</course_number>
+<title>20th-Century Ukrainian Prose</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George G. Grabowicz</faculty_text>
+<description>A survey of Ukrainian prose focusing on the avant-garde of the 1920s-1940s (Khvyl'ovyj, Johansen, Domontovych, Kosach) and the most recent period (Andijevs'ka, Andrukhovych, Izdryk and others).</description>
+<prerequisites>Reading knowledge of Ukrainian.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73bf491f95e0ac10058e5224877659ba">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Grabowicz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

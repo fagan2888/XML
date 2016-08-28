@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44568" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>242</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Arabic Five</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Sami Alkyam</faculty_text>
+<description>The Arabic short story: traditions and subversions.</description>
+<prerequisites>Four years of Modern Arabic or equivalent.</prerequisites>
+<notes>Course conducted solely in Arabic; all readings in Arabic.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F281371cf7cfe3bd52b6b010d9fe19ee3">
+<name>
+<prefix/>
+<first>Sami</first>
+<middle>Mahmoud</middle>
+<last>Alkyam</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8110" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1420</num_int>
+</course_number>
+<title>American Economic Policy</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Martin Feldstein, Jeffrey B. Liebman (Kennedy School), and Lawrence H. Summers</faculty_text>
+<description>Analyzes major issues in American economic policy including taxation, Social Security, health care reform, budget policy, monetary and fiscal policy, and exchange rate management. Current economic issues and policy options discussed</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a, or permission of instructor.</prerequisites>
+<notes>Offered jointly with the Kennedy School as API-126. This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcbdbd4fb4281b19b89852fbc0d4c7025">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>S.</middle>
+<last>Feldstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F020bdb00b65eac0a29b5330cde1c3440">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>H.</middle>
+<last>Summers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd8fa780887eff460de55a41b0d864c0f">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>B.</middle>
+<last>Liebman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

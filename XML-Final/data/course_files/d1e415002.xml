@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7235" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1750</num_int>
+</course_number>
+<title>Free Will, Responsibility, and Law</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Joshua D. Greene</faculty_text>
+<description>Examines the issues of free will and responsibility from philosophical, psychological, and neuroscientific perspectives, with special attention paid to potential legal applications.</description>
+<prerequisites>For undergraduates: Science of Living Systems 20 or its predecessors; plus Psychology 13, 14, 15, 16, 18, or Science of Living Systems 15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3dfcab5d419fc1858c90c94c8c296f55">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>D.</middle>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1408" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

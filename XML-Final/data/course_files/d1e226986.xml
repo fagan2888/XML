@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31936" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>"What is Imperial History?"</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Though empires have recently disappeared from the map, for historians these sprawling multi-ethnic, multi-confessional states remain crucial laboratories for the study of violence, power, ideology, aesthetics, and identity. This section will introduce students to the many ways historians define empires and interpret the experiences of those who inhabited them. How does one write the history of such diverse, expansive entities? How does imperial history incorporate the perspectives of disenfranchised, enslaved, and colonized peoples? What is its scale? How does the work of historians relate to images of empire generated through public commemoration and popular memory?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="470" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Human Evolution and Human Health</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a 90-minute weekly section to be arranged.</meeting_text>
+<faculty_text>Daniel E. Lieberman (Human Evolutionary Biology)</faculty_text>
+<description>How and why did humans evolve to be the way we are, and what are the implications of our evolved anatomy and physiology for human health in a post-industrial world? Why do we get sick, and how can we use principles of evolution to improve health and wellbeing? To address these questions, this course reviews the major transitions that occurred in human evolution, from the divergence of the ape and human lineages to the origins of modern humans. Also considered are the many effects of recent cultural and technological shifts such as agriculture and industrialization on human health.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe601975271ed3c7237ec7c934fdf7882">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>E.</middle>
+<last>Lieberman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

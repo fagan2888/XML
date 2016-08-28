@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82781" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>148</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Performing in French: A Production of a Modern Tragedy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., at 11; Th., 1-3</meeting_text>
+<faculty_text>Sylvaine Guyot</faculty_text>
+<description>This course focuses on the preparation of a student-led production of a contemporary French play, and concludes with a performance in French at the end of the semester. To react to the challenges we will face in staging a "modern tragedy", we will examine the diversity of tragic forms and motifs since the 17th century up to our days through the close readings of a given set of plays, as well as the main trends in the contemporary staging, through the viewing and discussion of video versions of recent productions.</description>
+<prerequisites>A 60-level course in French, French 71a, or permission of instructor. Interested students must apply in writing to Professor Guyot no later than January 28, 2014.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe70f020198b6610cdb0e6db2a0c1d24c">
+<name>
+<prefix/>
+<first>Sylvaine</first>
+<middle/>
+<last>Guyot</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83688" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APCOMP">Applied Computation</course_group>
+<course_number>
+<num_int>263</num_int>
+</course_number>
+<title>Data and Computation on the Internet</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 4-5:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course explores the Internet as a central component of modern scientific data processing and computation. We will examine the architecture of the Internet and the models of computation and data with which it is compatible. Through readings and exercises, students will explore the trade-offs of these various models and gain an appreciation for successful Internet-oriented system design for modern, federated, data- and compute-intensive scientific research. Students will complete a team project to develop an Internet-based system for scientific data processing. Python will be used for examples.</description>
+<prerequisites>A course in object-oriented programming (e.g. Computer Science 51) and familiarity with the Unix operating system or variants.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4247c913d93a55ec58e390fc94486f5a">
+<name>
+<prefix>Dr</prefix>
+<first>Ian</first>
+<middle/>
+<last>Stokes-Rees</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

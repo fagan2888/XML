@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27841" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNLIT">Japanese Literature</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>Girl Culture, Media, and Japan</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Tomiko Yoda</faculty_text>
+<description>The course examines the ways in which girlhood and girl culture have figured in the construction of gender, nation, and popular medias in modern to contemporary Japan. We will study visual and textual mediums, including novels, magazines, films, manga, and animation, paying attention to principal transformations that have marked the history of modern girl culture in Japan. No prior knowledge of Japanese language or history is expected.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F43666c2a2074cd809a0dc8115f868898">
+<name>
+<prefix/>
+<first>Tomiko</first>
+<middle/>
+<last>Yoda</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

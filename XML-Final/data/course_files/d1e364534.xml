@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53182" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="HEBREW">Hebrew</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Scriptural Interpretation in Ancient Israel: Inner-Biblical Exegesis</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>D. Andrew Teeter (Divinity School)</faculty_text>
+<description>An examination of the forms, methods, and aims of scriptural interpretation within the Hebrew Bible itself. Sessions will combine consideration of recent scholarship on "inner-biblical exegesis" with close readings of biblical texts (narrative, legal, prophetic, apocalyptic, hymnic) in Hebrew.</description>
+<prerequisites/>
+<notes>Two years of Biblical Hebrew strongly recommended. Offered jointly with the Divinity School as 1308.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F37aba7954c6560225e7044e3eb7287cb">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Teeter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

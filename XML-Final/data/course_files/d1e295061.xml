@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91159" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="GENETIC">Genetics</course_group>
+<course_number>
+<num_int>302</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Teaching 101: Bringing Effective Teaching Practices to your Classroom</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Survey basics of effective teaching practices, focusing on practical application and real-life examples. Topics include effective lecturing techniques, using goals and learning styles to inform lesson planning and design, assessing student understanding, and facilitating discussions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F50b94d8368fd5323c02a164fc249ed35">
+<name>
+<prefix/>
+<first>Fred</first>
+<middle/>
+<last>Winston</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa4581f4fa743be495294f44933fa3944">
+<name>
+<prefix>Dr</prefix>
+<first>Johanna</first>
+<middle/>
+<last>Gutlerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

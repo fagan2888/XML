@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8937" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>12</num_int>
+</course_number>
+<title>American Encounters: Art, Contact, and Conflict, 1560-1860</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jennifer L. Roberts (History of Art and Architecture)</faculty_text>
+<description>An introduction to early American art from a transnational, cross-cultural perspective. We begin with the global struggle for control of the North American continent, tracing the colliding artistic traditions of multiple European colonial powers, Native American groups, and slave cultures. We then examine the cultural constitution of U.S. nationhood as it developed through (and against) the visual and material cultures of Europe and the Atlantic and Pacific worlds. Icons of a seemingly familiar national heritage-such as Washington's portrait on the dollar bill-are revealed as complex formal negotiations emerging from international dynamics of commerce, politics, religion, science, and migration.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffa82738bf1de4870e9ca6290c40bafa4">
+<name>
+<prefix/>
+<first>Jennifer L.</first>
+<middle/>
+<last>Roberts</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

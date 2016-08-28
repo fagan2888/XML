@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8451" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>261</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Developmental Mechanisms of Evolutionary Change</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 2-4</meeting_text>
+<faculty_text>Arkhat Abzhanov</faculty_text>
+<description>This lecture-seminar course will consider how mechanisms of animal developmental genetics help to explain the scope and patterns of animal diversity. Particular emphasis is placed on major evolutionary transitions and the origin of innovations.</description>
+<prerequisites>LS 1A and LS 1B or by permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff67d9e69c1224ad4d3c19dbe9017ba85">
+<name>
+<prefix/>
+<first>Arkhat</first>
+<middle/>
+<last>Abzhanov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

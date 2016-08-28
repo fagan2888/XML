@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4324" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2690</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Environmental Economics and Policy Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-5:30</meeting_text>
+<faculty_text>Robert N. Stavins (Kennedy School) and Martin L. Weitzman</faculty_text>
+<description>Selected topics in environmental and resource economics. Emphasizes theoretical models, quantitative empirical analysis, and public policy applications. Includes invited outside speakers.</description>
+<prerequisites>Graduate-level course in microeconomic theory.</prerequisites>
+<notes>Primarily for graduate students in economics or related fields with environmental interests. Offered jointly with the Kennedy School as API-905Y.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F572b5f0ac1c20198b6ab3e74138c4a93">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Stavins</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F3edbf25b7ea5de3df3943417e74af0d5">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>L.</middle>
+<last>Weitzman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F572b5f0ac1c20198b6ab3e74138c4a93">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Stavins</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3edbf25b7ea5de3df3943417e74af0d5">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>L.</middle>
+<last>Weitzman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="382" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

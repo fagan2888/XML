@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95839" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>175</num_int>
+<num_char>f</num_char>
+</course_number>
+<title>Justice and the Family: Proseminar</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Tommie Shelby</faculty_text>
+<description>Under what conditions is it morally permissible to procreate, and when (if ever) may the state intervene in the lives of citizens to limit procreation? What are the rights and responsibilities of parents, and how does a person come to have these rights and responsibilities? What (if any) legitimate stake does a liberal-democratic state have in the internal structure and dynamics of families? Who has a duty to pay child support, and is this an enforceable duty? What kinds of support (if any) should the state provide for families with children? Should parents and non-parents in a society share the costs of rearing children? What are the limits of family autonomy and parental partiality? We will take up these and related questions through contemporary writings in moral and political philosophy. Feminist perspectives will be considered. We will also read some empirical research on "fragile families," i.e., those that are marked by instability and socioeconomic disadvantage.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab311be3659dbd44828e4a4892a586e1">
+<name>
+<prefix/>
+<first>Tommie</first>
+<middle/>
+<last>Shelby</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="307" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6042" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>277</num_int>
+</course_number>
+<title>Literature and Diaspora</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Karen Thornber</faculty_text>
+<description>Examines creative and critical discourse from and about the African, Chinese, Indian, Japanese, Jewish, and Korean diasporas. Explores the relationship between diaspora and constructions of artistic and cultural identities, transculturation, translation, and multilingualism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfbb1f4e749c96d35ea6bc00bf4f2311">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>Laura</middle>
+<last>Thornber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

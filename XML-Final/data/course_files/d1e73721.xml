@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90241" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>225</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Song History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Peter K. Bol</faculty_text>
+<description>Examines various topics in the political, institutional and intellectual history of Song China. Brief introductions on the Song bureaucratic institutions. Close reading of the texts selected from Xu Weili documents. The students will be evaluated by an open-book test and a final essay.</description>
+<prerequisites>Communicating ability in modern Chinese and knowledge of literary Chinese.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F33c73f03f0b4a8d66da1c28f47cbd9ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>K.</middle>
+<last>Bol</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland Pl., 9" room="Seminar Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

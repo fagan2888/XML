@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7121" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Readings in Advanced Russian</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Steven Clancy and others</faculty_text>
+<description>Intended for students who have already taken other department offerings. Reading, discussion, and writing on special topics not addressed in other courses. Conducted as a tutorial. Requires a course proposal to apply; acceptance is not automatic. Applications may be found on the department website under Resources.</description>
+<prerequisites/>
+<notes>Course offered only by application and upon approval by the Director of the Language Program. Application information is available at the Slavic Department website. Interested students should submit on-line applications to staff assistant, Jolanta Davis, slavic@fas.harvard.edu, preferably by the second day of classes. No applications accepted after Friday of the first week of classes.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

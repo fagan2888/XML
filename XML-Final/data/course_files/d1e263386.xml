@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98532" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Global Health Threats</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Richard M. Losick and Barry R. Bloom (Public Health)</faculty_text>
+<description>The multidisciplinary application of epidemiology, molecular biology and genetics, pathogenesis, drug discovery, immunology and vaccine development, and economic analysis to understanding and combating major threats to human health in developing countries. Emphasis will be on critical readings and scientific writing. Grades will be based on papers in which students will propose the application of multidisciplinary approaches to global health threats not covered in lecture.</description>
+<prerequisites>LS 1a and LS 1b, or LPS A and one additional course from the following: Chemistry 27, Engineering 53, Life Sciences 2, MCB 60, MCB 52, MCB 54, OEB 10, OEB 53, or SCRB 10, or permission of the instructors.</prerequisites>
+<notes>This course cannot be taken if MCB 120 has already been taken. LS 120 cannot be taken concurrently with MCB 120.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb178b99c04ad33114dfd40290eea0560">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>M.</middle>
+<last>Losick</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1b28138546e57d824d8b0cf81c25c2a6">
+<name>
+<prefix/>
+<first>Barry</first>
+<middle>R.</middle>
+<last>Bloom</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

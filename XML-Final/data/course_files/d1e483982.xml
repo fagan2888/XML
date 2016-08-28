@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78044" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SBIO">
+<dept_long_name>Committee on Higher Degrees in Systems Biology</dept_long_name>
+<dept_short_name>Systems Biology</dept_short_name>
+</department>
+<course_group code="SYSTBIO">Systems Biology</course_group>
+<course_number>
+<num_int>303</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Dynamic and Stochastic Processes in Cells 1</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>We will examine how the some of the key requirements of living systems are implemented at the molecular level and how quantitative experimental methods and mathematical analysis can help us understand them.</description>
+<prerequisites>College-level calculus.</prerequisites>
+<notes>Tuesday September 3, 2013-Thursday, October 10, 2013. Students enrolled in SystBio303qc can never enroll in SystBio304qc.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F3eeb2b0834a965110887483bace19308">
+<name>
+<prefix/>
+<first>Jeremy</first>
+<middle/>
+<last>Gunawardena</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9164" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1419</num_int>
+</course_number>
+<title>Jesus of Nazareth and the Gospels</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4, and hour to be arranged.</meeting_text>
+<faculty_text>Helmut H. Koester (Divinity School)</faculty_text>
+<description>An investigation of the Gospels of the New Testament (Matthew, Mark, Luke, John) and other ancient Christian Gospel literature (Gospel of Thomas, Dialogue of the Savior); discussion of the developments from the oral traditions about Jesus to their written fixation and of the theological and communal concerns that influenced this process. Discussion of the question of the "historical Jesus."</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1500.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4c92828f59e0283f701b571a7a683efd">
+<name>
+<prefix/>
+<first>Helmut</first>
+<middle/>
+<last>Koester</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

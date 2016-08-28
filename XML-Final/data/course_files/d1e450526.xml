@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28428" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>pv</num_char>
+</course_number>
+<title>The Critical Theory of the Frankfurt School</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Peter Verovsek</faculty_text>
+<description>This tutorial examines the major thinkers and themes associated with the Frankfurt School of critical theory. From its origins in the interwar crisis, critical theory has sought to diagnose the pathologies of the present in order to chart paths for future emancipation. The readings trace the development of the Frankfurt School through four generations of theorists, including Horkheimer, Adorno, Habermas, Honneth, Benhabib, Fraser, and Forst. The tutorial will conclude with a workshop examining the writings of contemporary critical theorists on the current crisis of democratic capitalism, as we will attempt to determine the continued relevance of the Frankfurt School.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa87e04c0b0e07a508d7432b2e946f195">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Verovsek</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

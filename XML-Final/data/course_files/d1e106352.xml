@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2532" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3390</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Economic Development Workshop</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Fall speakers cover issues in growth and development. Spring speakers alternate between "growth and institutions," focusing on the macro aspects of growth and development, and "labor and development," focusing on the micro aspects.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

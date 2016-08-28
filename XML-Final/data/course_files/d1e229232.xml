@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41522" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1206</num_int>
+</course_number>
+<title>Empire, Nation, and Immigration in France since 1870</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Mary D. Lewis</faculty_text>
+<description>This course explores the history of France from the foundation of the Third Republic to the beginning of the 21st century. Topics include the advent of modern left-wing, right-wing, and anti-Semitic politics; imperial expansion and its consequences; the devastating impact of the First World War; the tumultuous interwar era; the Second World War and the politics of resistance, collaboration, and memory; decolonization; the May 1968 movement; immigration and identity politics since the 1970s.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe73bb627243d65bf7cb295f3e556ea3c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>D.</middle>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

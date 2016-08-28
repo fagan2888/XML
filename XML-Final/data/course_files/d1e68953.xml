@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7979" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>345</num_int>
+</course_number>
+<title>Solid Earth Geochemistry</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8fc0b628b1643d26413bf5c600c7a80c">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Langmuir</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8fc0b628b1643d26413bf5c600c7a80c">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Langmuir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

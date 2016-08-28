@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13053" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>190</num_int>
+</course_number>
+<title>Religious Nationalism and Ethnic Conflict in Modern South Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Harpreet Singh</faculty_text>
+<description>What prompts a person with a family to pick up a gun and join a militia? What drives a democratic state to engage in indiscriminate violence against its own citizens? Why do people frequently see George Washington as a "freedom fighter" but insurgents in Kashmir as "terrorists"? This course will consider such questions in the context of religious and ethnic conflict in modern South Asia. Using case studies on Gujarat, Kashmir, Panjab, and Nagaland, we will discuss the historical trajectory and dialectical interplay between different forms of nationalism led by Hindus, Muslims, Sikhs and Nagas in the colonial and post-colonial periods. Materials to be examined will be drawn from a wide range of sources, from theoretical texts and human rights reports to ethnographic accounts and films.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3414. This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2c3c2cf7826f266ecedff8523f9f0284">
+<name>
+<prefix/>
+<first>Harpreet</first>
+<middle/>
+<last>Singh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

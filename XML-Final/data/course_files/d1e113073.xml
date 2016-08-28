@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5298" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>225</num_int>
+</course_number>
+<title>Introduction to Soft Matter</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Shmuel Rubinstein and Jennifer Lewis</faculty_text>
+<description>Introduction to the physics of soft matter, also called complex fluids or squishy physics, includes the study of capillarity, thin films, polymers, polymer solutions, surfactants, and colloids,. Emphasis is on physical principles which scale bulk behavior. Students will understand the concepts, experimental techniques, and, especially, the open questions. Lecture notes are supplied in place of a textbook.</description>
+<prerequisites>Knowledge of basic thermodynamics, statistical mechanics and differential equations.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F028bf8dffff6a9a51303525b903f648b">
+<name>
+<prefix/>
+<first>Shmuel</first>
+<middle/>
+<last>Rubinstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F743bb8e65fa07a2fbcaeed650126346d">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle/>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Cruft Memorial Lab" room="309" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

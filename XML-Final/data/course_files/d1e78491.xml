@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="384" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>James Robson and members of the Department</faculty_text>
+<description>Thesis guidance under faculty direction.</description>
+<prerequisites/>
+<notes>All students writing an EAS or joint EAS thesis will attend a research and writing workshop that meets twice each term.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

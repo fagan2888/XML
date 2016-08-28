@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34804" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>105</num_int>
+</course_number>
+<title>Marie de France and Chretien de Troyes or the Beginning of Modern Fiction</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11:30-1</meeting_text>
+<faculty_text>Virginie Greene</faculty_text>
+<description>We will read the complete works of the most famous French authors of the twelfth century: Marie de France's Lais, Fables, and Purgatory of St. Patrick; Chretien de Troyes's five Arthurian romances, two love songs, and adaptation of Ovid's story of Philomela. We will also read other contemporary narrative works, helping us to reflect on the role of fiction in medieval culture and in our own culture.</description>
+<prerequisites/>
+<notes>Course in French. Reading in Modern French.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5e22ca5afef8d915594ff1a96af7cdcd">
+<name>
+<prefix/>
+<first>Virginie</first>
+<middle/>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

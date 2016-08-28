@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3343" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>107</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Literary Chinese</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and an additional hour to be arranged.</meeting_text>
+<faculty_text>Chen Zhang</faculty_text>
+<description>A second-year course designed to prepare students for reading and research using materials written in Literary Chinese. The focus in the fall semester will be prose from the Tang and Song dynasties.</description>
+<prerequisites>One year of literary Chinese (Chinese 106 or equivalent).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F734163b3f47d3ed15be79bbdc9a74df5">
+<name>
+<prefix/>
+<first>Chen</first>
+<middle/>
+<last>Zhang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland Pl., 9" room="Seminar Rm" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

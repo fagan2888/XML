@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53142" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1400</num_int>
+</course_number>
+<title>Quests for Wisdom: Religious, Moral and Aesthetic Experiences in the Art of Living</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Arthur Kleinman, David L. Carrasco (Divinity School and FAS), and Michael J. Puett</faculty_text>
+<description>New interdisciplinary curriculum centered on 5 kinds of quests for wisdom that involve moral, religious and aesthetic pursuits and that focus on practices of mentoring and caregiving. Students will engage in short lectures, interactive discussions, student led seminars, and music and film. Students' required projects include a personal story that narrates an experience in the art of living and writing assignments that focus on assisting and accompanying experiences of others.</description>
+<prerequisites/>
+<notes>Limited to undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3c83ccd0120f2715a22ecff5ee871f82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Carrasco</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc5f5889e1d28d688d9d261ff25b6edbe">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Puett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

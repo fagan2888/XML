@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>18</num_int>
+</course_number>
+<title>Time</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 12:30-2, and a 90-minute weekly section to be arranged.</meeting_text>
+<faculty_text>Gary J. Feldman (Physics)</faculty_text>
+<description>We study how our understanding of time and of related issues, such as the predictability of the future, have evolved over the past three centuries. We start with Newtonian mechanics, which envisions a universal time, symmetric between past and future. This leads to the concept of a clockwork universe. We then see how developments in the 19th and 20th centuries destroy this view of time. In the 19th century, the distinction between past and future emerges from considerations of statistical processes. In the 20th century, the theory of relativity forces fundamental changes in the concept of time. Time ceases to be universal and becomes entangled with space and gravity. Quantum mechanics limits the predictability of the future and introduces verified effects so weird that Einstein wrote of them, "No reasonable definition of reality could be expected to permit this."</description>
+<prerequisites/>
+<notes>Some knowledge of secondary school physics useful, but not required. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbd066bebcf41d99eaf537fc0eb64d0f1">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Feldman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

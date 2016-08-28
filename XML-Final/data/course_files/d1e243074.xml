@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88688" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>65</num_int>
+</course_number>
+<title>Baroque Art</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Joseph Connors</faculty_text>
+<description>Art of the seventeenth century in Europe, including genial works by Caravaggio (and his followers), Annibale Carracci, Bernini, Cortona, Poussin, Claude Lorrain, Ribera, Velazquez, Rubens, Van Dyck, Le Brun, Rembrandt, and Vermeer, as well as the global diffusion of the Baroque Style.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf826a81f657486507d7163597b3d539">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Connors</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

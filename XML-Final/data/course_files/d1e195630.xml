@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8280" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>15</num_int>
+</course_number>
+<title>Developmental Psychology: Origins of Knowledge</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Susan E. Carey (Psychology)</faculty_text>
+<description>Developmental Psychology explores, first, how universal human capacities arise in ontogenesis and, second, how people come to have their unique suite of skills and personalities. First, the origins and development of space perception, mathematical capacity, moral judgments, and concepts of objects, agents, and social relations are studied in relation to two larger time scales: biological evolution and historical/cultural change. Second, the course looks at individual differences in IQ, executive functioning, and social relationships. The interplay between psychological and biological levels of analysis in accounting both for universal development and for individual differences is discussed throughout.</description>
+<prerequisites/>
+<notes>Students who have taken Psychology 16 may not take this course for credit. For Psychology concentrations, this course meets a Foundation Course requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F03a201163c0204b1e6f8b73fd376e943">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Carey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

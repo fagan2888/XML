@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15907" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>220</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Writing fellowship and grant proposals for the biological sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11:30-1:30</meeting_text>
+<faculty_text>Stacey A. Combes</faculty_text>
+<description>This course will prepare graduate students to write NSF-style proposals through in-class exercises, group analysis of writing samples, talks by former NSF panel members, and writing assignments geared towards meeting November proposal deadlines.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F48ef78e52215b4eb444897ac7a8ca1cc">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>A.</middle>
+<last>Combes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1330"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="4 (Oceanography Seminar Rm)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

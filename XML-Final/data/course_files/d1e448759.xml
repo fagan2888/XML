@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68748" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>lf</num_char>
+</course_number>
+<title>Globalization and the Nation State</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Nikolas Prevelakis</faculty_text>
+<description>Despite globalization, the nation is still a major actor in today's world. This course tries to understand why this is so by examining the role that nationalism plays in peoples' identities and the effects of globalization on nations and nationalism. Examples from the United States, Western Europe, Latin America, India, and the Middle East.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd0c1558692e2f2ef7211a44d08712fff">
+<name>
+<prefix/>
+<first>Nicolas</first>
+<middle/>
+<last>Prevelakis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="330" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

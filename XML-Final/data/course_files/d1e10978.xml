@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="TWI">Twi</course_group>
+<course_number>
+<num_char>B</num_char>
+</course_number>
+<title>Intermediate Twi</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>John M. Mugane and assistant</faculty_text>
+<description>Continuation of Twi A. Twi is one of the regional languages of the Akan speaking peoples of Ghana constituting the largest ethnic group in Ghana. Twi is fast becoming the lingua franca of the country. The Akan people are well known for their art and culture, especially the traditional colorful Kente cloth.</description>
+<prerequisites>Twi A or the equivalent of one year's study of Twi.</prerequisites>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8991604883a4ca2601298f8ea013b389">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Mugane</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8991604883a4ca2601298f8ea013b389">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Mugane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

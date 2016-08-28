@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3759" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>The Auxiliary Disciplines of Medieval History: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Michael McCormick</faculty_text>
+<description>Familiarizes scholars in all areas of medieval studies with the research tools and techniques for advanced study of late antique and medieval evidence: Latin palaeography, codicology, hagiography, late Latin philology, late antique studies, numismatics, diplomatic.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6b064b2df8489d2df57fdea2678e497d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

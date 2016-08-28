@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64786" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2442</num_int>
+</course_number>
+<title>Dante and his World: Poetry, Politics and Piety</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 9</meeting_text>
+<faculty_text>Kevin J. Madigan (Divinity School)</faculty_text>
+<description>This seminar is designed to provide a historical overview of the ecclesiastical and political society in which Dante was nourished and from which he was exiled in order better to understand this great fourteenth century Christian epic, known originally simply as the Commedia, the poem in three large parts we will spend our time reading critically against that background. We will be using some of Dante's minor works and his own biography to appreciate the poem more deeply. Among the medieval ecclesiastical and political themes we will be studying include the medieval mystical and neoplatonic tradition of journeys (itineraria) to God; the influence of scholastic, especially Thomistic theology; the four-fold sense of scriptural interpretation; the late-medieval papacy; the strife between Guelfs and Ghibellines; the influence of Roman epic; the inspiration of St. Francis and the Franciscans; the rise of the city; numerological patterns, especially threes, in pre-modern Christian thought; the medieval cosmos; and the literary afterlife of the poem.</description>
+<prerequisites>An introductory course in the medieval period ca. 1100-1500 (such as HDS 2250) is required.We will read the poem in English translation; but some Italian and some Latin are highly desirable.</prerequisites>
+<notes>Offered jointly with the Divinity School as 2468.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F13548845a4d25d8736fd01d1e9976142">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>J.</middle>
+<last>Madigan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

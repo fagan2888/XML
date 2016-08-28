@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23944" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>143</num_int>
+</course_number>
+<title>Vision and Violence in 17th Century France</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sylvaine Guyot</faculty_text>
+<description>Explores early modern ways of depicting and showing violence (physical, political, domestic, supernatural). The spectacle of violence represents a site of cultural conflict during the 17th century, since it implies both the pleasure taken by the viewer and the risk of imitation. Readings include plays, tragic histories, utopian and travel literature, historical and theoretical texts (Foucault, Ranciere, Marin, Elias, Lyotard), and the analysis of images (paintings, frontispieces).</description>
+<prerequisites/>
+<notes>Conducted entirely in French. //</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe70f020198b6610cdb0e6db2a0c1d24c">
+<name>
+<prefix/>
+<first>Sylvaine</first>
+<middle/>
+<last>Guyot</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2578" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CATALAN">Catalan</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Stacey Katz Bourns and members of the Department</faculty_text>
+<description>Tutorial supervision of research on subjects not treated in regular courses. May be used for further language study after Catalan Ba or 20.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F63a58fb328b41f96935bb9760bfd6027">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>Katz</middle>
+<last>Bourns</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F63a58fb328b41f96935bb9760bfd6027">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>Katz</middle>
+<last>Bourns</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31902" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Neuroethology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Lab I: TBD 2 - 5 pm, Lab II: TBD 2-5 pm. Each lab will have a weekly one hour section to be arranged</meeting_text>
+<faculty_text>Benjamin Lovegren de Bivort</faculty_text>
+<description>The evolutionary success of animals depends on how effectively they respond to external events with useful behaviors. Neuroethology is the study of the neurobiological mechanisms underlying adaptive behaviors. In this laboratory class we will examine the adaptive behaviors of three organisms: fruit flies, flatworms and cockroaches. By following published experimental protocols, and testing novel student-developed hypotheses, we will explore the transformation of external stimuli to behavioral output, the role of neurotransmitter systems and neuromodulatory states, the effect of genetic mutation and genomic background, and the physiology of locomotion. In culmination, students will develop their own multi-week experimental project.</description>
+<prerequisites>MCB 80 or OEB 57 or instructor's permission</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F38d33fceda0604727f4c584bdb8ab400">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle>Lovegren</middle>
+<last>de Bivort</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

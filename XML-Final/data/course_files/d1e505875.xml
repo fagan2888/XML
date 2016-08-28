@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6997" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>72</num_int>
+</course_number>
+<title>Sound Cinema</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Thu., at 10, a weekly film screening M. 4-6, and a weekly section to be arranged</meeting_text>
+<faculty_text>Laura A. Frahm</faculty_text>
+<description>This course explores film history through the question of sound and considers the interplay between music, dialogue, and noise as a vital concept through which we can understand film. We will put special emphasis on the question of how filmmakers, composers, and sound designers have envisioned and discussed the way we think about film sound. Weekly topics will include early sound experiments, the transition to sound, post-war cinematic soundscapes, and sound design in contemporary cinema.</description>
+<prerequisites/>
+<notes>No background in film history or theory necessary. Required for all students concentrating in Film Studies. This course has an additional weekly film screening Monday, 4-6 pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7ee315cd84690f3848f0513bb2565bb9">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>A.</middle>
+<last>Frahm</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

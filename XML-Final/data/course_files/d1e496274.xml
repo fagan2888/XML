@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46072" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1496</num_int>
+</course_number>
+<title>Histories, Theologies and Practices of Christianity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 9 and an hour to be arranged.</meeting_text>
+<faculty_text>Daniel P. McKanan (Divinity School) and Emily Ann Click (Divinity School)</faculty_text>
+<description>This course offers a historical, theological, and practice-based introduction to Christianity. We will explore key episodes in Christian history and central themes of Christian theology, highlighting the diversities of culture, ideology, gender, and practice that have characterized Christianity throughout its history. We will use integrative case studies as well as readings from the disciplines of church history, systematic theology, and practical theology to discover the many insights that emerge at the intersections of these disciplines.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2600.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F3bbf05f9ffd5435dcf60468b42f35487">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle/>
+<last>Click</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

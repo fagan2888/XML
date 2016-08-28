@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20517" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1410</num_int>
+</course_number>
+<title>American Families, 1600-1900</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Laurel Thatcher Ulrich</faculty_text>
+<description>Family forms in the United States have varied widely over the centuries. This course will consider the radical innovations of 17th century Puritans, eighteenth-century Moravians, and nineteenth-century Mormons; the role of the family in debates over slavery, immigration, and the status of American Indians; and the impact of legal, economic, and social changes on mainstream ideals and practices. Students will work with a wide variety of family records as well as public documents and will have the option of writing about their own family history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdf8358613c6a42ea6ac703720db85ca0">
+<name>
+<prefix/>
+<first>Laurel</first>
+<middle/>
+<last>Ulrich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

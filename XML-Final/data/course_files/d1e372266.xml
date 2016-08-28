@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6962" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="PERSIAN">Persian</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Persian Language and Literature</title>
+<course_type>Reading Course</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F31e6f9722c321486ab4018a1624d3aea">
+<name>
+<prefix/>
+<first>Roy</first>
+<middle>Parviz</middle>
+<last>Mottahedeh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F31e6f9722c321486ab4018a1624d3aea">
+<name>
+<prefix/>
+<first>Roy</first>
+<middle>Parviz</middle>
+<last>Mottahedeh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

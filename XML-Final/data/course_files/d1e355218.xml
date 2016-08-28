@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4055" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>222</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Schenkerian Analysis I</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 1-3</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Introduction to the theories and graphing techniques of Heinrich Schenker and his followers through the analysis of selected works.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

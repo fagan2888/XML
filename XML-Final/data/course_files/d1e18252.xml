@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15985" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1882</num_int>
+</course_number>
+<title>The Woman and the Body</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Susan Greenhalgh</faculty_text>
+<description>This course probes the culture and politics of the body in America today, stressing America's role as a center of bodily ideals that now dominate global imaginations. Emphasizing the intersections of gender with race/ethnicity, class, and sexuality, the course examines the diverse notions of beauty, bodily practices, and body politics embraced by American women (and, to a lesser extent, men) of different classes, ethnicities, and sexualities. It deals with critical issues facing our society in the early 21st century -- the growing prevalence of eating disorders, the normalization of cosmetic surgery, rising levels of childhood and adult obesity using contemporary theory to tease out their complex sources and effects. Lying at the intersection of the anthropology of the body, medical anthropology, and women's/gender studies, the course outlines an important new arena for critical inquiry.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd0d95d44b56d32375f3b9d9ddf38ccc0">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Greenhalgh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

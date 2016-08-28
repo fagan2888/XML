@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7862" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>33</num_int>
+</course_number>
+<title>Ancient Fictions: The Ancient Novel in Context</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David F. Elmer (The Classics)</faculty_text>
+<description>The novel is often thought of as a distinctively modern form, but Greco-Roman antiquity had its own version. Fictional prose narratives about adventure and romance in exotic lands were immensely popular in antiquity. We will explore this tradition by reading the five surviving Greek novels, the Golden Ass of the Roman Apuleius, and selected other texts, along with works by contemporary theorists and critics. Topics include: definitions of the "novel"; ancient representations of desire; gender and class politics; relationships between secular and religious narratives.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0725b3721b1a291a45d32cee7e162b99">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Franklin</middle>
+<last>Elmer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

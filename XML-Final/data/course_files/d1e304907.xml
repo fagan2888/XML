@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37417" offered="Y" next_year_offered="2012">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>365</num_int>
+</course_number>
+<title>Biology and Genetics of Human Cancers</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F22fe2f2a42c69781e935258fb0e48ba8">
+<name>
+<prefix>Dr</prefix>
+<first>Matthew</first>
+<middle>Langer</middle>
+<last>Meyerson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F22fe2f2a42c69781e935258fb0e48ba8">
+<name>
+<prefix>Dr</prefix>
+<first>Matthew</first>
+<middle>Langer</middle>
+<last>Meyerson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

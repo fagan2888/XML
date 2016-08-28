@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98935" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3450</num_int>
+</course_number>
+<title>Statistical Learning</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This course focuses on modern methods from the areas of Statistical Learning and Machine Learning (and Data Science). The first series of lectures covers basic regression techniques for ordinal data (ordinal/multinomial logit models) as well as advanced techniques such as generalized additive models, shrinkage methods, and friends. The next series covers advanced techniques of principal component analysis (PCA) such as independent component analysis (ICA), sparse PCA, and nonlinear (categorical) PCA. Another lecture series deals with clustering techniques such as simple hierarchical clustering, k-means, BIRCH, affinity propagation, and mixture models. The mixture model approach will then be embedded into a regression context in order to estimate regression models with unobserved heterogeneity. Finally, there will be a couple units on functional data analysis (FDA). All topics covered will be supported by corresponding computations in R. Lab units will focus R programming (R infrastructure, object oriented principles, package building) and on special topics such as fMRI data analysis in R.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fc9dd0c4d5eb1ad776e18b793690ef577">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle/>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="930" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

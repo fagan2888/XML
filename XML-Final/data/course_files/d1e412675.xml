@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87888" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1357</num_int>
+</course_number>
+<title>Puzzles of the Mind: Humans, Animals, Robots: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Guven Guzeldere</faculty_text>
+<description>An interdisciplinary comparative study of human, animal, and robot minds. Particular emphasis on philosophical questions that frame the problems, and recent work in psychology, cognitive science, and neuroscience that attempt to tackle them empirically. Relation between consciousness and cognition, language and thought, conscious versus unconscious information processing, Manifestations of mental capacities in different underlying substrates: the human brain, nervous systems of non-human animals, and silicon-based computational systems. Additional readings from cognitive ethology and artificial intelligence.</description>
+<prerequisites>Science of Living Systems 20 and one from Psychology 13, 14, 15, 16, or 18, or MCB 80, or Science of Living Systems 15, or coursework in philosophy.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4a922861f4a830f7b94377ed5a1da0cd">
+<name>
+<prefix/>
+<first>Guven</first>
+<middle/>
+<last>Guzeldere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

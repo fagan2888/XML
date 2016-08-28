@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4375" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Elementary Modern Chinese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Sections Tu., Th., 10, 11, 1, or 2, and three additional hours to be arranged.</meeting_text>
+<faculty_text>Kang Zhou</faculty_text>
+<description>Non-intensive introduction to modern Chinese pronunciation, grammar, conversation, reading, and writing.</description>
+<prerequisites/>
+<notes>No auditors. May not be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F325c54bd62662a51b72de3d17e6c171c">
+<name>
+<prefix/>
+<first>Kang</first>
+<middle/>
+<last>Zhou</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="29" type="Lecture"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="29" type="Lecture"/>
+<location term="1" building="Vanserg" room="29" type="Lecture"/>
+<location term="1" building="Vanserg" room="26a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="26b" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="29" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

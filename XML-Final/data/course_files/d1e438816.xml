@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3129" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>243</num_int>
+</course_number>
+<title>Foundational Fiction and Film</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Doris Sommer</faculty_text>
+<description>Through novels that helped to consolidate nation-states in Latin America, explores modernity as personal and public lessons in laissez-faire. Sequels in film, telenovelas, performances show tenacity of genre. Links between creativity and citizenship. Theorists include Anderson, Foucault, Arendt, Lukacs, Flaubert.</description>
+<prerequisites/>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F43880627106323a37fd8ba24568bbd62">
+<name>
+<prefix/>
+<first>Doris</first>
+<middle/>
+<last>Sommer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

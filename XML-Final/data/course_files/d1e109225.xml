@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7732" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>104</num_int>
+</course_number>
+<title>Series Expansions and Complex Analysis</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1</meeting_text>
+<faculty_text>Nitin Upadhyaya</faculty_text>
+<description>Introduces fundamental concepts for solving real-world problems and emphasizes their applications through examples from the physical and social sciences. Topics: series expansions and their convergence; complex functions, mappings, differentiation, integration, residues, Taylor and McLaurin expansions; wave (Fourier) and wavelet expansions and transformations, and their uses in signal and image analysis and solving differential equations.</description>
+<prerequisites>Applied Mathematics 21a and 21b, or Mathematics 21a and 21b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6ae5198c5c3cdf8da9d40270eb3755c2">
+<name>
+<prefix/>
+<first>Nitin</first>
+<middle/>
+<last>Upadhyaya</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="221" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

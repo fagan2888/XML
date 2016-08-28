@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33659" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>199</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Social Revolutions in Latin America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>This course seeks to explain why social revolutions have taken place in Latin America and analyzes their impact on the region. The objective is for students to gain a critical understanding of the origins, development, and impact of revolutionary movements in Latin America during the twentieth century. We will try to identify: (1) the historical factors that led to revolutions in the region (the so-called revolutionary situations); (2) the strategies followed by different movements and how successful they were; (3) the programs and policies instituted by the different revolutionary governments; (4) the social and political forces opposed to those policies, including international forces; and (5) the ability of these revolutionary movements to hold on to power for extended periods of time. The course examines several case studies, which may include Mexico, Cuba, Chile, Nicaragua, the Zapatista uprising in Chiapas, and the so-called "Bolivarian revolution" of Venezuela. Our goal is to identify similarities and differences among these cases.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

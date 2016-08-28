@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4472" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>203</num_int>
+</course_number>
+<title>Earthquakes and Faulting</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., F., 2:30-4</meeting_text>
+<faculty_text>Brendan J. Meade, James R. Rice, and John H. Shaw</faculty_text>
+<description>Earthquake phenomenology in the context of plate tectonics. Continuum mechanics and elastic deformation; seismic wave radiation. Earthquake cycle models and constraints from tectonic geodesy. Earthquake geology and paleoseismology. Source physics, fault friction, rupture dynamics. Deformation rates and fault system structure. Quantitative seismic hazard analysis.</description>
+<prerequisites>Applied Mathematics 21a, b.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7afa5de27211f04bca48192511605398">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle>J.</middle>
+<last>Meade</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F214e668f2dc2c1e7a2471b80031e9feb">
+<name>
+<prefix/>
+<first>John</first>
+<middle>H.</middle>
+<last>Shaw</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff96d4ee1144efb88d762f2b538386cf4">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Rice</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

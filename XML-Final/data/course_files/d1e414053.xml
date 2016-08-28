@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92211" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1559</num_int>
+</course_number>
+<title>The Social Brain</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Katherine E. Powers</faculty_text>
+<description>Many believe that the human brain evolved to support the complex demands of interacting with other people. In this class, we will explore how our brains are wired to allow us to know ourselves, to know what other people are thinking, and predict what they might do, and to regulate our actions to most effectively interact with others. We will combine theories and findings from social psychology, evolutionary psychology, and neuroscience to work towards an understanding of the brainin a social context.</description>
+<prerequisites>SLS-20 and one from MCB 80, MCB 90, or PSY 14, or with permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3249b34decf98e3ac6f165bf48c16d0e">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>E</middle>
+<last>Powers</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6864" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>182</num_int>
+</course_number>
+<title>Film Architectures: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-4, and weekly film screenings Tu., 7-9pm</meeting_text>
+<faculty_text>Giuliana Bruno</faculty_text>
+<description>What is our experience of architecture in cinema? Considering the relation of these two arts of space, we look at how film and architecture are linked in history on the "screen" of the modern age. Highlighting the interaction of modernity, urban culture and cinema, we explore the architecture of film in relation to the architectures of transit and the culture of travel. Emphasis on readings and case study analysis to pursue research projects and conduct presentations.</description>
+<prerequisites>A course in film studies or the equivalent course in cultural studies.</prerequisites>
+<notes>Expected to be given in 2014-15. Offered jointly with the Graduate School of Design as 4351. This course has an additional weekly film screening, Tuesday, 7 pm-9pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

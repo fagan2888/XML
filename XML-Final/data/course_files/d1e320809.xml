@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="443" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Molecular Neurobiology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-12</meeting_text>
+<faculty_text>Sandeep Robert Datta (Medical School), Jonathan B. Cohen (Medical School), Pascal Kaeser (Medical School), and Joshua M. Kaplan (Medical School)</faculty_text>
+<description>Molecular biology and genetics of the nervous system. Emphasis on importance of ligand-receptor interactions and receptor regulation for the function of the nervous system and on the mechanisms of storage and release of neurotransmitters.</description>
+<prerequisites>Introductory neurobiology and molecular biology. Permission of the instructor required for undergraduates.</prerequisites>
+<notes>Offered jointly with the Medical School as NB 715.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff1547a0ad54fcbe3a3a47ba358acea34">
+<name>
+<prefix/>
+<first>Sandeep</first>
+<middle>Robert</middle>
+<last>Datta</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0bee0b6b38363187e7e4885e62cdefe6">
+<name>
+<prefix>Dr</prefix>
+<first>Joshua</first>
+<middle>M.</middle>
+<last>Kaplan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9b3eaa5504531debf5f271b1428ee615">
+<name>
+<prefix/>
+<first>Pascal</first>
+<middle/>
+<last>Kaeser</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff9d7391aee94f284679ef3d28f453485">
+<name>
+<prefix>Dr.</prefix>
+<first>Jonathan</first>
+<middle>B.</middle>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

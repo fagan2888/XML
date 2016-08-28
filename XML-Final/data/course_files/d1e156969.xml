@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11172" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>77</num_int>
+</course_number>
+<title>Technology, Environment, and Society</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 10; and a weekly section to be arranged.</meeting_text>
+<faculty_text>Sheila Jasanoff (Kennedy School)</faculty_text>
+<description>Our interactions with the natural world are increasingly mediated through changes in technology. Technologies create risks, generate solutions, reshape the environment, and alter our perception of the boundaries between nature and artifice. This course draws on major theories of technology and society to inform and deepen our understanding of environmental problems and policy options.</description>
+<prerequisites/>
+<notes>//Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F921a0da39765c5df9f0fd85a2cf9e236">
+<name>
+<prefix/>
+<first>Sheila</first>
+<middle/>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

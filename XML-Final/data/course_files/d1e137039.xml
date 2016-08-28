@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5993" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>207</num_int>
+</course_number>
+<title>Communicating Science</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Climate change, health insurance reform, space exploration, the teaching of science and a host of other issues - today Americans confront more and more important public debates in which the argument hangs on technical issues. On the whole, however, they have difficulty dealing with these issues, in large part because the scientists and engineers who could help them are missing from the debate. This course is designed for graduate students in engineering and the biological and physical sciences who are interested in learning how to engage with the public on these and other issues. It also offers useful guidance on how to explain their own work - writing, speaking and online - intelligently and intelligibly.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F22886fccb7ddc58995fa9eddac1103ca">
+<name>
+<prefix/>
+<first>Cornelia</first>
+<middle/>
+<last>Dean</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

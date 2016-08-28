@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4049" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>121</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Research in Comparative Biomechanics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Andrew A. Biewener, Stacey A. Combes, George V. Lauder, and Anna G. Warrener</faculty_text>
+<description>Introduces students to experimental techniques used to investigate the structure and physiology of animals. Each instructor offers research projects that are undertaken in their laboratory (limit 5 students per instructor). Students meet to introduce their project, discuss their work and progress, and to present their final results. An extensive commitment of time in the laboratory is required. Grades are based on the work completed, the oral presentation, and a short research paper.</description>
+<prerequisites/>
+<notes>Laboratory safety session required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F588b00606ca7b0a41b749289ae53dc96">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>A</middle>
+<last>Biewener</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F48ef78e52215b4eb444897ac7a8ca1cc">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>A.</middle>
+<last>Combes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6897f84a5f5a6fc53738843fdfd08a98">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle>G.</middle>
+<last>Warrener</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7f49c5d86d2acd7c6159cce4c23e889f">
+<name>
+<prefix/>
+<first>George</first>
+<middle>V.</middle>
+<last>Lauder</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

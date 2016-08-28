@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7778" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>Moral Reasoning about Social Protest</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Susanna C. Siegel (Philosophy)</faculty_text>
+<description>An examination of moral questions that arise in the context of social protest in the US during the 20th century, including the central question of political philosophy: How can political authority be justified? After studying the Attica prison revolt of 1971, we will consider the following questions: Is there an obligation to obey the law? What, if any, are the moral limits to this obligation? Can civil disobedience be justified, and does it always need to be? Texts include classic excerpts from Plato, Hobbes, Rawls, and Marx.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb902d1e8f2962864337d464efee3b6a9">
+<name>
+<prefix/>
+<first>Susanna</first>
+<middle/>
+<last>Siegel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

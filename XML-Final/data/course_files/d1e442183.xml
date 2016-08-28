@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1594" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Advanced Russian: Readings in Russian/Post-Soviet Studies</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Natalia Pokrovsky</faculty_text>
+<description>Reading and discussion of topics in the areas of history, economics, politics, and current events. Continued work on grammar and vocabulary with written exercises and compositions. TV viewing for comprehension development.</description>
+<prerequisites>Russian 101 and 103, Russian 102r, or placement at the level of Russian 111/113.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fee613ed315f0a049e5c36c23f1e0ffca">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle/>
+<last>Pokrovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="373" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

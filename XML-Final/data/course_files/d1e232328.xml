@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3834" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1704</num_int>
+</course_number>
+<title>Slavery and Slave Trade in Africa and the Americas</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Emmanuel K. Akyeampong</faculty_text>
+<description>This course begins with the question of terminological precision and the definition of slavery and other forms of servile labor-especially in Africa. The course then examines the institution of slavery in Africa and the Americas within this wider historical context, analyzing the political economies and ideologies that underpin slavery and the crucial role of slave trade in reproducing slave communities that were barely able to reproduce themselves naturally. The course explores the impact of slavery on political, economic, social, and cultural life in Africa and the Americas and ends with a discussion of the legacy of slavery and the global nature of the African diaspora.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc74e458dae84037d2bf03fdcec7462e6">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Akyeampong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

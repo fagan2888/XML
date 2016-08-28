@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79206" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>ab</num_char>
+</course_number>
+<title>Hindi-Urdu for Reading Knowledge</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard S. Delacy</faculty_text>
+<description>A complete first year introduction, in one term, to the lingua franca of the subcontinent in its "Hindustani" form. Students are introduced to both the Perso-Arabic and the Devanagari script systems, encompassing all four skills: speaking, listening, reading and writing.</description>
+<prerequisites/>
+<notes>Not open to auditors; cannot be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F37954953ac0282d9fb7f598d265dbc44">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Somers</middle>
+<last>Delacy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

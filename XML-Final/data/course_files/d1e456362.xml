@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38367" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>Law, Science, and Society in America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Sheila Jasanoff (Kennedy School)</faculty_text>
+<description>This course explores the tensions, contradictions, and mutual appropriations that characterize the relationship between law, science, and technology in America. It examines how ideas of evidence, expertise, and public reason have changed over the past half-century in response to such phenomena as the rise of the risk society, environmentalism, patient advocacy, and the information revolution. Law is broadly construed to include the activities of legislatures, regulatory agencies, and courts. The course seeks to contextualize the interactions of law, science, and technology in relation to wider transformations in US culture and society.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as IGA-516.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F921a0da39765c5df9f0fd85a2cf9e236">
+<name>
+<prefix/>
+<first>Sheila</first>
+<middle/>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

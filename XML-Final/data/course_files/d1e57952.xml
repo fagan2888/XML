@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8228" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>146</num_int>
+</course_number>
+<title>Space and Place: The Environment in Film</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 11-12:30</meeting_text>
+<faculty_text>Verena A. Conley</faculty_text>
+<description>Focuses on the effect of the environment in film. Reads films grouped according to environmental themes (humans, nature and animals, water, consumption, pollution, climate change) side by side with critical articles. Pays special attention to the relation between space, place and the planet, ecology and technology, globalization and urbanization, postcolonialism, race, gender and class.</description>
+<prerequisites/>
+<notes>Section and film sreening to be arranged.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F652b6249711e644ae28ee0b05e649062">
+<name>
+<prefix/>
+<first>Verena</first>
+<middle/>
+<last>Conley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

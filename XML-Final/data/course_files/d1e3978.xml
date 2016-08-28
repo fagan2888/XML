@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8654" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Senior Thesis Workshop</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ingrid Monson and members of the Department</faculty_text>
+<description>Thesis supervision under the direction of a member of the Department.</description>
+<prerequisites/>
+<notes>Enrollment limited to honors candidates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F05a9c5641b1007f2f1216e13bab67182">
+<name>
+<prefix/>
+<first>Ingrid</first>
+<middle/>
+<last>Monson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F05a9c5641b1007f2f1216e13bab67182">
+<name>
+<prefix/>
+<first>Ingrid</first>
+<middle/>
+<last>Monson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

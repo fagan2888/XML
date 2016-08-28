@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8213" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>au</num_char>
+</course_number>
+<title>Political Economy</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Torben Iversen</faculty_text>
+<description>Examines modern theories of political economy and their applications to macro problems in advanced democracies. Why do some governments and countries generate better economic performance than others? Why are some economies more egalitarian than others? How do politicians manipulate the economy for partisan gain, and how are politicians constrained by institutions and the global economy? We seek to answer these questions using the most promising theories in political science and economics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9ce0802d23f209d19133416b15195319">
+<name>
+<prefix/>
+<first>Torben</first>
+<middle/>
+<last>Iversen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-108" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43676" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>269</num_int>
+</course_number>
+<title>Topics in Kinetic Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Laure Saint-Raymond</faculty_text>
+<description>An introduction to PDE's for statistical physics out of thermodynamic equilibrium. 1. Mathematical tools for the study of kinetic transport equations. 2. Mean field approximation: the case of the Vlasov-Poisson system. 3. Collisional kinetic theory: an introduction to the Boltzmann equation.</description>
+<prerequisites>A knowledge of basic functional analysis and Fourier analysis.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9b00c65f7fd0ff6f363105002144c5f3">
+<name>
+<prefix/>
+<first>Laure</first>
+<middle/>
+<last>Saint-Raymond</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="109" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

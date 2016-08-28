@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5065" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1543</num_int>
+</course_number>
+<title>19th-Century Religious Thought: Theology and the Critique of Religion</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30 and an hour to be arranged.</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>The nineteenth century formulated many of the questions and frameworks that continue to dominate theology and religious reflection in the West. This course considers the developing interplay between modern Christian theology (primarily continental) and the principal philosophical and social critiques of religion in the nineteenth century. Topics include human nature, religion, the divine-human relationship, religious knowledge, the social, and historicity. Readings from Lessing, Kant, Schleiermacher, Hegel, Marx, Feuerbach, Kierkegaard, Nietzsche, Harnack, and Troeltsch.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2431.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

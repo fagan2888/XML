@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4036" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>Matched Sampling and Study Design</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1:30-4</meeting_text>
+<faculty_text>Donald B. Rubin and Luke Weisman Miratrix</faculty_text>
+<description>This course provides an accessible introduction to the study of matched sampling and other design techniques in any field (e.g., economics, education, epidemiology, medicine, political science, etc.) conducting empirical research to evaluate the causal effects of interventions.</description>
+<prerequisites>Statistics 110, Statistics 111, and Statistics 139.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feb4afb2e8ccd873f1187bb462dc2125e">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle>B.</middle>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

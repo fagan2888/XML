@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4335" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2480</num_int>
+</course_number>
+<title>Human Neuropsychology/Neuroanatomy: Seminar</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Christine Hooker</faculty_text>
+<description>Introduction to the anatomical structure of the human brain. Emphasis on neuropsychological correlates and cortical representation of higher cognitive functions. Gross brain dissection laboratory and discussions of descriptive and theoretical aspects of clinical neuropsychological phenomena.</description>
+<prerequisites>For undergraduates: Science of Living Systems 20 and at least one course from Psy 13, Psy 14, Psy 15, Psy 18, or SLS 15. MCB 80 is recommended but not required.</prerequisites>
+<notes>Preference given to graduate students who have completed Psychology 2010; if space is available, qualified undergraduates may enroll with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F78e62e40d42631038863656814d044de">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Hooker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

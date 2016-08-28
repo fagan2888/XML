@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3082" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Maria Polinsky</faculty_text>
+<description>Group tutorial led by the Head Tutor with the participation of students' thesis advisors for research and writing of the Linguistics honors thesis. Graded Satisfactory or Unsatisfactory. An honors student who expects not to complete the thesis should consult with the Head Tutor about completing other substantial work to receive credit for the course.</description>
+<prerequisites/>
+<notes>Both Linguistics 99a and 99b are required of all senior honors concentrators. Students who wish to enroll must obtain the signature of the Head Tutor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffc33fb29a8029a4dce510f312600015e">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle/>
+<last>Polinsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

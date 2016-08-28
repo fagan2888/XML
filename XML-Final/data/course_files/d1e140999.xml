@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72531" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>291</num_int>
+</course_number>
+<title>Nano|Micro|Macro: Adaptive Materials Laboratory--from Technologies to Products through Design</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joanna Aizenberg</faculty_text>
+<description>This course explores research methods and techniques through the analyses of emerging energy-efficient materials and systems and their applications in buildings. It serves as an interdisciplinary platform for engineers, materials and computer scientists to interact with the design students and develop new products. The course introduces ideas-to-innovation processes in a hands-on, project/product focused manner that balance engineering concepts with promising, real-world opportunities. Switching back and forth between guided discovery and focused development, between bottom-up and top-down thinking, and market analyses, the course helps students establish generalizable frameworks as researchers and innovators with a focus on new and emerging technologies.</description>
+<prerequisites/>
+<notes>Offered jointly with the Design School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbc763ac3c0d81d4b840c334549c7d71d">
+<name>
+<prefix/>
+<first>Joanna</first>
+<middle/>
+<last>Aizenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

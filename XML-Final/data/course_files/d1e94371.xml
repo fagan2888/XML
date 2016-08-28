@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5166" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1545</num_int>
+</course_number>
+<title>International Financial and Macroeconomic Policy</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1&amp;#8211;2:30</meeting_text>
+<faculty_text>Kenneth Rogoff</faculty_text>
+<description>Advanced theoretical and empirical analysis of contemporary international macroeconomic policy issues in both industrialized and developing economies. Topics include exchange rates, international capital flows, debt crises, growth, and policy coordination.</description>
+<prerequisites>Economics 1010b or 1011b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F15ba8a8c3472013724c48291bf9367cd">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>S.</middle>
+<last>Rogoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

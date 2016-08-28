@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7376" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1490</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Primate Evolution</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30 and a weekly section, W., 1:30-3:30</meeting_text>
+<faculty_text>David Pilbeam and John C. Barry</faculty_text>
+<description>A lecture/discussion course on primate evolution from a paleontological perspective. Following a survey of major primate groups as adaptive radiations, the hominoid fossil record will be reviewed within the context of the mammalian record, a particular focus being the relationship between adaptive, faunal, and climate change. Systems that can be inferred from the fossil record (for example, positional and foraging behaviors) will be discussed comparatively.</description>
+<prerequisites/>
+<notes>No final exam; research paper required. Can be taken by Human Evolutionary Biology concentrators as a Junior Research Seminar. Introductory courses in paleoanthropology, evolution, genetics, or anatomy helpful.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F517763dd0fd2e6fd9a2fb9995263409a">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Pilbeam</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1a4ab5ce28c732fcbf77c0e2e90e2cbc">
+<name>
+<prefix/>
+<first>John</first>
+<middle>C.</middle>
+<last>Barry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="501" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

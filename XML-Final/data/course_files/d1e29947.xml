@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89577" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>306</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Tuberculosis</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This is a comprehensive survey course on tuberculosis featuring lectures by some of the leading authorities in the field. The first half of the course focuses on population issues (TB epidemiology in the US and the world), transmission, modeling, and programmatic issues (the essentials of good TB control both here and in high burden countries). The second month deals more with the biomedical aspects of TB, immunology, genetics, diagnosis, decision analysis, and treatment, again, both here and abroad. There is a field trip to the Massachusetts State Laboratory. Because of involvement of several of the faculty, special attention is paid to the global problem of multidrug resistant TB, and the work of Partners in Health, an NGO associated with the medical school. During the second month, medical students join the SPH students for an elective course involving patient interviews at the state TB hospital. They present these cases and related topics in class during the second month. SPH students are evaluated on the basis of class participation and one or more presentations on relevant TB topics of interest. The course ends on or near World TB Day, with optional TB-related activities in the Boston area.</description>
+<prerequisites/>
+<notes>Offered jointly with School of Public Health as IID 202.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa2359494ab71b4d117cf79dba2b4dab2">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle/>
+<last>Fortune</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5d59f03afbff2fa130dc6d40db931768">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6bbb5ff9b4d74866b8ee4af71d7264f9">
+<name>
+<prefix>Dr</prefix>
+<first>Edward</first>
+<middle>Anthony</middle>
+<last>Nardell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1520"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1520"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

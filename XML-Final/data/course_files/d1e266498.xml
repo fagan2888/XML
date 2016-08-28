@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4861" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>176</num_int>
+</course_number>
+<title>History and Prehistory of the Japanese Language</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Wesley M. Jacobsen</faculty_text>
+<description>An examination of evidence from the comparative method, internal reconstruction, and written documents for reconstructing prehistoric stages of the Japanese language and an overview of major developments in Japanese phonology and grammar from the Nara period through the present day</description>
+<prerequisites>Knowledge of Japanese equivalent to Japanese 120b, or familiarity with historical linguistics, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4dc76df908fbaf5657883c375107881b">
+<name>
+<prefix/>
+<first>Wesley</first>
+<middle>Mark</middle>
+<last>Jacobsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84866" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>44</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>The Masquerade of Common Scents: An Exploration of Ephemeral Knowledge</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Sean Tath O'Donnell</faculty_text>
+<description>Intimate, subjective and transitory, the sense of smell has the power to evoke memory and emotions, to mark places and persons, and give rise to both desire and disgust. Lacking a well-defined vocabulary, smell can be elusive. Yet, as evidence of disease, crime, gender, race, sexuality, the sacred and profane, scent lingers on in judgment. How does this verdict coalesce - in medicine, public health and law? We will sample various scents and use them as the occasion for writing and reflection -- shared and yet privately known, these olfactory forays will serve as our experience of an impossibly common sense.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdb438f9079410676dc807fadf1520884">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle>Tath</middle>
+<last>O'Donnell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="201" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

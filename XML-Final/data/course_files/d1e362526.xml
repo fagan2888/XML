@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89499" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARAMAIC">Aramaic</course_group>
+<course_number>
+<num_char>B</num_char>
+</course_number>
+<title>Targumic and Related Aramaic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: F., 2-4</meeting_text>
+<faculty_text>Peter Machinist</faculty_text>
+<description>Readings in Egyptian, Palestinian and targumic Aramaic, with special focus on the grammar, literary form and function of the Targumim.</description>
+<prerequisites>Aramaic A or the equivalent.</prerequisites>
+<notes>Jointly offered with the Divinity School as 4060.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46148" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>107</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Introduction to Poetry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11-12:30</meeting_text>
+<faculty_text>Stephen Owen</faculty_text>
+<description>An introduction to reading poetry of the ancient period, the middle period, and in early modern vernacular, considering the forms and the particular features of "poetic Chinese."</description>
+<prerequisites>Chinese 107a or the equivalent. This course may be taken concurrently with Chinese 107a but may not be taken in place of Chinese 107a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb17423a1592e50ee9d1707f125fa14bd">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Owen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1230"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="213" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

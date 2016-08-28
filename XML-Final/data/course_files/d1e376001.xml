@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86442" offered="N" next_year_offered="2015">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NEURO">
+<dept_long_name>Committee on Degrees in Neurobiology</dept_long_name>
+<dept_short_name>Neurobiology</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>hfc</num_char>
+</course_number>
+<title>Designer Neurons: How Cell Types are Generated in the Nervous System and the Lab</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 7-8:30 p.m.</meeting_text>
+<faculty_text>Laura M. Magnotti</faculty_text>
+<description>The derivation of stem cells from a human embryo ten years ago ignited an explosion of scientific and public interest. This seminar will explore the current understanding of neural stem cells as it relates to their role in physiological and pathological states in developing and adult animals. We will also explore the generation, characterization, and manipulation of neural stem cells in current research.</description>
+<prerequisites>LPS A or LS 1a, MCB 80, and permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

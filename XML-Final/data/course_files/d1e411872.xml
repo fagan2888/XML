@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6717" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1201</num_int>
+</course_number>
+<title>Your Brain on Drugs: Psychopharmacology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1</meeting_text>
+<faculty_text>Scott E. Lukas (Medical School)</faculty_text>
+<description>An introduction to how drugs affect mood, sensation, consciousness, and other psychological and behavioral functions in both healthy and disease states. Introduces concepts in neuroscience and pharmacology to understand how drugs are used to treat drug abuse, psychiatric disorders and why individuals use recreational drugs. Covers all CNS drugs, including antidepressants, antipsychotics, alcohol, and both licit and illicit drugs of abuse. Debates controversial topics such as research with psychiatric populations, diagnosing ADHD, teenage suicide, marijuana legalization, and needle exchange programs.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors and at least one from Psych 13, Psych 14, Psych 18, or MCB 80.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F292c8251f4a6d99c216cb284ac7a316c">
+<name>
+<prefix>Dr</prefix>
+<first>Scott</first>
+<middle>E.</middle>
+<last>Lukas</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

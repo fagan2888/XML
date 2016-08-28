@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79416" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1936</num_int>
+</course_number>
+<title>Anthropology of Religion</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Anya Bernstein</faculty_text>
+<description>What happened to religion in the modern world? We start off by exploring traditional anthropological themes, such as animism, magic, and ritual, while paying particular attention to the classic secularization thesis advanced by social scientists. We will then focus on the crucial contemporary issues, such as debates on secularism, political theologies, globalization and commodification of religion, body and sexuality, and the emergence of "new age" spirituality. This course is not a survey of specific religions, but a theoretical introduction to the main themes in the anthropological study of religion.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc54758ba6ad38f9e1dc0e675df7d9112">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bernstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

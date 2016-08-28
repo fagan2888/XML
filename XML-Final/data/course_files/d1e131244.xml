@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9676" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>How to Create Things and Have Them Matter</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>M., W., 1-3</meeting_text>
+<faculty_text>David A. Edwards</faculty_text>
+<description>Students in this year's "How to Create Things &amp; Have Them Matter" class will form groups around art, design and engineering ideas that help address biodiversity and manage the incredible jellyfish blooms that have begun to accelerate the demise of our oceans. Students will learn to generate, develop and realize breakthrough ideas while learning basic skills of engineering design, brainstorming, prototyping, and public presentations. These ideas will be brainstormed with artist Mark Dion, whose 2014/2015 exhibition at Le Laboratoire Paris--and the new Laboratoire Cambridge--will give students the chance to participate in, and contribute to, a major art installation. The class will include opportunities for a jellyfish expedition in the Boston Harbor, a working trip to Cape Town, South Africa, an innovation workshop at Le Laboratoire, Paris, and funding for continued project development following the course.</description>
+<prerequisites/>
+<notes>Open to all students by permission of instructor. All completely passionate students (any concentration) welcomed - no prior experience necessary.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1da11c7235e102b8132ad9f29d828f94">
+<name>
+<prefix/>
+<first>David</first>
+<middle>A.</middle>
+<last>Edwards</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

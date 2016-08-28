@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21793" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>oc</num_char>
+</course_number>
+<title>Religion and Secularism in a Global World</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 5-7 p.m.</meeting_text>
+<faculty_text>Anya Bernstein</faculty_text>
+<description>What constitutes the political and how does it relate to the religious? This course explores the relationship between recent religious resurgences and secular politics while paying particular attention to the mutually constitutive categories of the "secular" and the "religious." We start by exploring the classic secularization thesis and continue to examine its recent revisions. We will move beyond the assumption that secularism should be conceived in the singular to reflect on its global varieties, considering not only the Euro-American formations, but also debates around the place of religion in public life in China, India, Russia, Turkey and others.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc54758ba6ad38f9e1dc0e675df7d9112">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bernstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 416" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

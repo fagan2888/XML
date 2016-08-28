@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78454" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Visual Object Recognition</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3:30-5:30</meeting_text>
+<faculty_text>Gabriel Kreiman (Medical School)</faculty_text>
+<description>Examines how neuronal circuits represent information and how those circuits are implemented in artificial intelligence algorithms. Topics: architecture of visual cortex, neurophysiology, visual consciousness, computational neuroscience, models of pattern recognition and computer vision.</description>
+<prerequisites>Life Sciences 1a (or Life and Physical Sciences A) and Life Sciences 1b (or equivalent). Recommended: Math (Maa/Mab, Math 1A,1B, Math 19 a or equivalent). Physical Sciences 1. MCB 80.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2dce3bae5544ee094af4ccb4eaa6087f">
+<name>
+<prefix>Dr</prefix>
+<first>Gabriel</first>
+<middle/>
+<last>Kreiman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1530" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

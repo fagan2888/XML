@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87233" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>52</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Introduction to Non Fiction Videomaking</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., W. 1-4</meeting_text>
+<faculty_text>Alfred F. Guzzetti</faculty_text>
+<description>Following an introductory exercise, each student will spend the term making a single nonfiction video on a subject of his or her choosing.</description>
+<prerequisites/>
+<notes>Students seeking to enroll are encouraged to bring a paragraph describing a proposed subject to the first class meeting.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb4c276b771a145716843af02b495d78c">
+<name>
+<prefix/>
+<first>Alfred</first>
+<middle/>
+<last>Guzzetti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="B-10" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

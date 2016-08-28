@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46941" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Avian Cognition: Why Being Called a Bird Brain Is a Compliment</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Irene Pepperberg</faculty_text>
+<description>Humans have a long, conflicting history judging nonhuman cognitive abilities, particularly for nonprimate species. We anticipate and accept communicative and cognitive capacities resembling our own in great apes and cetaceans, but not in birds. Controlled experimental studies have, however, documented impressive avian cognitive traits. This course explores classic and new findings in avian cognition to demonstrate that birds, despite brain architectures lacking much human-like cortical structure and evolutionary histories differing so greatly from ours, equal and sometimes surpass us on various cognitive tasks.</description>
+<prerequisites/>
+<notes>Not open to students who have taken Psychology 980f.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60ff6714daedb602e4bbcf8dfcab2f6c">
+<name>
+<prefix/>
+<first>Irene</first>
+<middle>M</middle>
+<last>Pepperberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

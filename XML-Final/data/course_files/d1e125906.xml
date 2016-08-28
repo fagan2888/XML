@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1435" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>279</num_int>
+</course_number>
+<title>Research Topics in Human-Computer Interaction</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Krzysztof Z. Gajos</faculty_text>
+<description>The course covers major areas of inquiry and core research methods in Human-Computer Interaction including experimental design, statistical data analysis, and qualitative methods. Activities will include discussion of primary literature, a small number of lectures, assignments (design, execution and analysis of both lab-based and on-line experiments), and a research project. Special focus this year is on social computing and crowd-powered systems. Specifically, we will look at the design and analysis of systems, in which crowds of intrinsically motivated volunteers contribute to meaningful and non-trivial human computation tasks as a byproduct of doing something that they are motivated to do anyway.</description>
+<prerequisites>None for graduate students; for undergrads CS 179 or CS 171 is strongly recommended and permission of the instructor is required. Basic web hacking is required to implement and deploy web-based experiments.</prerequisites>
+<notes>Designed for first year grads from all areas. Advanced undergraduates welcome, particularly those who wish to do research (or write a thesis) in an area related to Human-Computer Interaction.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc1f06adf0423e998132e85b26c01c824">
+<name>
+<prefix/>
+<first>Krzysztof</first>
+<middle>Z</middle>
+<last>Gajos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="319" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8667" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Tutorial-Junior Year</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Josiah Blackmore and members of the Department</faculty_text>
+<description>Weekly individual instruction for juniors pursuing a thesis honors track in Portuguese and Brazilian Studies, culminating in the writing of a 20-25 page research paper in Portuguese.</description>
+<prerequisites/>
+<notes>Successful completion of Portuguese 98 (or equivalent) is required of all thesis-track honors concentrators in Portuguese-Brazilian Studies. To enroll see course head.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6632425ea99f117bd5ef1e09574b2437">
+<name>
+<prefix/>
+<first>Josiah</first>
+<middle/>
+<last>Blackmore</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6632425ea99f117bd5ef1e09574b2437">
+<name>
+<prefix/>
+<first>Josiah</first>
+<middle/>
+<last>Blackmore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73923" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>26</num_int>
+</course_number>
+<title>The Toll of Infection: Understanding Disease in Scientific, Social, and Cultural Contexts</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>M., W., 1&amp;#8211;2:30 and a weekly one-hour section to be arranged</meeting_text>
+<faculty_text>Donald A. Goldmann (Harvard School of Public Health)</faculty_text>
+<description>This course will review the devastating impact of representative infectious diseases on wars, politics, economics, religion, public health, and society as reflected in history, literature, and the arts. We will study how infections spawned revolutionary epidemiologic and scientific advances in detection, treatment, and prevention. We will address the gaps between discovery and implementation, including ethical, social, economic, and health systems barriers to progress. We will confront challenges posed by microbial mutation (e.g., antibiotic resistance, evasion of immunity, and adaptation of animal viruses to humans). By weaving together knowledge from science and the humanities, students will understand the historical and contemporary impact of infections and potential solutions to the challenges they pose.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfc1aa0dbb747160ad556f401b50c6ab">
+<name>
+<prefix>Dr</prefix>
+<first>Donald</first>
+<middle>Alan</middle>
+<last>Goldmann</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Holden Chapel" room="Main Room" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

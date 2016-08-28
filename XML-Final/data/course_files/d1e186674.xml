@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7777" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>39</num_int>
+</course_number>
+<title>Reinventing Literary China: Old Tales Retold in Modern Times</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Der-Wei Wang (East Asian Languages and Civilizations) and Wai-yee Li (East Asian Languages and Civilizations)</faculty_text>
+<description>What makes a story prevail through time? We will visit the most beloved, enduring works in the Chinese tradition and discover cultural icons from the Handsome Monkey King to the Nobel prize-winning novel Soul Mountain. We will explore the cultural trends and themes that have been the stuff of popular Chinese novels, TV, cinema, and thought. This course offers a comprehensive, yet unique and unconventional window into Chinese tradition and modernity, past and present.</description>
+<prerequisites/>
+<notes>No previous knowledge of Chinese required. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe790a2b8396e12fed32ad26201143f8e">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Der-Wei</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd59d3c22a5cc0e9fdbc4f4cdfbabde65">
+<name>
+<prefix/>
+<first>Wai-Yee</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

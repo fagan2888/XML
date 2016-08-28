@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3080" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>49</num_int>
+</course_number>
+<title>The Medieval Imagination: Visions, Dreams, and Prophecies</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Nicholas Watson (English)</faculty_text>
+<description>The medieval imagination was the ambiguous mediator between the world and the mind: a mental space in which either prophetic truths or dreams and diabolic deceptions might be experienced, in which material and spiritual realities were reflected as in a mirror, and in which those complex constructs we call "fictions" found their source. This course investigates dream poetry and visionary writing in the context of medieval psychological theory. Texts to be read include Boethius's Consolation of Philosophy, The Romance of the Rose, Dante's Divine Comedy, John of Morigny's Book of Flowers, and works by Augustine, Julian of Norwich, and others.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

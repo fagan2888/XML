@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7918" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="CHPB">
+<dept_long_name>Committee on Undergraduate Degrees in Chemical and Physical Biology</dept_long_name>
+<dept_short_name>Chemical and Physical Biology</dept_short_name>
+</department>
+<course_group code="CPB">Chemical and Physical Biology</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Laboratory Research for Honors Thesis</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>A. Thomas Torello</faculty_text>
+<description>For honors candidates writing a thesis in CPB. Indivisible for students enrolling in the fall term. Students intending to enroll in the fall are required to submit a written proposal to the Course Director. Students may enter the course at midyear only with the permission of the Course Director. The thesis proposal must be approved by the Course Director and Head Tutors prior to enrolling in CPB 99. Ordinarily may not be taken as a fifth course.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb95b92e491d145fc60a4f095e31423b">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Torello</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fcb95b92e491d145fc60a4f095e31423b">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Torello</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8158" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PLSH">Polish</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Polish</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 9, with an additional hour of speaking practice to be arranged.</meeting_text>
+<faculty_text>Anna Baranczak</faculty_text>
+<description>An introductory course in modern Polish language and culture, designed for students without previous knowledge who would like to speak Polish or use the language for reading and research. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Students are exposed to Polish culture through reading of prose and poetry as they learn to use the language both as a means of communication and as a tool for reading and research. This year-long full course satisfies the foreign language requirement and prepares students for continued study of Polish in intermediate-level courses and for study or travel abroad in Poland.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F71a16ddea4fd71a8adf0b9e4d938cae6">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle/>
+<last>Baranczak</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F71a16ddea4fd71a8adf0b9e4d938cae6">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle/>
+<last>Baranczak</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Lecture"/>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

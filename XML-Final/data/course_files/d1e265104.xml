@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1549" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Phonological Theory I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Patrick J. Jones</faculty_text>
+<description>This graduate level class is an intensive introduction to phonological theory and experimental work in phonology. This includes rule-based and constraint-based approaches, the typology of phonological processes (vowel and consonant harmony, assimilation and dissimilation, lenition and fortition, etc.), and phonological acquisition. Experimental approaches will deal with gradience, exceptionality, and productivity with an introduction to the quantitative methodologies that these phenomena require.</description>
+<prerequisites>Linguistics 105, equivalent, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb4e9c4abaec2212b32f4e0029ebc9c7e">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>Jackson</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

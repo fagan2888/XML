@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55044" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>1</num_int>
+</course_number>
+<title>1000 Years of Listening</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Emily Dolan</faculty_text>
+<description>This course aims to introduce you to a variety of music, and a range of ways of thinking, talking and writing about music. The majority of music dealt with will be drawn from the so-called "Classical" repertory, from the medieval period to the present day, including Monteverdi, Bach, Handel, Mozart, Beethoven, Schumann, and Schoenberg. Class will explore the technical workings of music and together we will build a vocabulary for analyzing music and articulating a response to it; we will explore music as a cultural phenomenon. By the end of class, students will be equipped to embark on a lifetime of informed listening.</description>
+<prerequisites/>
+<notes>May not be taken for concentration credit. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9930eb6ef3ab729b31213ad855ffadee">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle/>
+<last>Dolan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

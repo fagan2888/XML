@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51301" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Proseminar: Afro-Americas I: Comparative Slavery and the Law in the Americas</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>This seminar introduces students to the booming historiography of slavery and the law in Latin America and the United States. Earlier generations of scholars of race and slavery (Frank Tannenbaum, Stanley Elkins) relied heavily on the law to draw sharp contrasts between U.S. and Latin American slavery. Although the social historians of the 1970s and 1980s were highly critical of this approach, due to its lack of attention to economic and social factors, in the last twenty years scholars have turned again to the study of slave legal regimes. The most recent scholarship, however, does not approach the legal history of slavery through the study of legal codes, as previous scholars used to do, but through slaves' own legal initiatives and actions. In short, these scholars analyze how slaves themselves participated in the creation of legal institutions, understandings, and "rights." How do slave regimes in the United States and Latin America compare in light of this recent scholarship? New works of comparative synthesis are just beginning to appear.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

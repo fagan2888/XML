@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65212" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>209</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Africa Rising? New African Economies/Cultures and Their Global Implications</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 12&amp;#8211;1:30, M., 6&amp;#8211;7:30 p.m.</meeting_text>
+<faculty_text>George Paul Meiu</faculty_text>
+<description>In a story titled Africa Rising (2011), The Economist argued that the continent epitomizes both the "transformative promise of [capitalist] growth" and its bleakest dimensions. This workshop will explore Africa's changing place in the world - and the new economies, legalities, socialities, and cultural forms that have arisen there. It will also interrogate the claim that the African present is a foreshadowing of processes beginning to occur elsewhere; that, therefore, it is a productive source of theory about current conditions world-wide. The workshop, open to faculty and students, will meet Mondays, 6:00-7:30. 15 students will be permitted to take it as a course; they will also meet on Mondays, 12:00-1:30. Grades will be based on participation and a term essay.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2cf43a9aef6646796191931c33e16cba">
+<name>
+<prefix/>
+<first>George Paul</first>
+<middle/>
+<last>Meiu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1800" end_time="1930"/>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

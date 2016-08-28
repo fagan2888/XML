@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3755" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2057</num_int>
+</course_number>
+<title>Rationality and Choice</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Amartya Sen</faculty_text>
+<description>The course involves critical examination of alternative approaches to rationality, which is a central concept in economics, politics and the other social sciences, moral and political philosophy, and legal theory, including law and economics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc0f5053872674cf9048b8b9db27217ef">
+<name>
+<prefix/>
+<first>Amartya</first>
+<middle/>
+<last>Sen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

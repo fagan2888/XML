@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73179" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>Nutrition and Health: Myths, Paradigms, and Science</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Karin Michels (Harvard Medical School; Harvard School of Public Health)</faculty_text>
+<description>What we eat determines our well-being every day, our mental and physical performance, and our long-term health and disease prospects. Understanding how to optimize our diet requires in-depth knowledge of the impact of foods and nutrients on our body. In this course we will evaluate scientific research on nutrition and health. We will discuss diet recommendations in the U.S. and abroad, how nutrition policies are created and how food policies can generate controversies. Learn how to evaluate nutrition paradigms and how to separate myths from science. Acquire skills to assess your own diet and make relevant nutrition choices to maintain long-term health.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffc7ab7bde087f3972832115ec0b96a34">
+<name>
+<prefix/>
+<first>Karin</first>
+<middle/>
+<last>Michels</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

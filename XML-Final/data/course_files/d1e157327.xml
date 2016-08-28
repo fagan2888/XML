@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9841" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Environmental Crises, Climate Change, and Population Flight</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4:30</meeting_text>
+<faculty_text>Jennifer Leaning (Public Health) and James J. McCarthy</faculty_text>
+<description>War, disaster, drought, or famine force people to flee their land. Climate change is contributing to many of these factors. The humanitarian consequences of population flight, including loss of place and livelihood, are filled with complexity, relating to the extent and permanence of environmental destruction wrought by these crises, people's attachment to their homes and ecosystems, the circumstances of departure, the destinations of refuge, and the possibilities for return. These issues will be examined through case studies and review of literature on forced migration and calamity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff6878316b95a6f9d9b77bd1d9c4d7e1f">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle/>
+<last>Leaning</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc551df6869bdd7d4f1a95381fad5279d">
+<name>
+<prefix/>
+<first>James</first>
+<middle>J.</middle>
+<last>McCarthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="310 (Geological Museum 310)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

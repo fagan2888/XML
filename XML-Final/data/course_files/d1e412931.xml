@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11513" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1452</num_int>
+</course_number>
+<title>The Human Face</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ken Nakayama</faculty_text>
+<description>Your face contains a hidden code that instantly communicates who you are, how you're feeling, and what your intentions may be. Whether accurate or inaccurate, human brains extract information in a fraction of a second from faces and use it to make simple and complex judgments about people. Perceived facial attractiveness can be hugely consequential in real world encounters. The media surrounds us with images of faces and hidden cameras record our own faces many times a day. We will explore "decoding" the human face from computational, psychological and biological perspectives, providing comprehensive review of this highly interdisciplinary field</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0de948ca917d4930fb40a4748ac83c5a">
+<name>
+<prefix/>
+<first>Ken</first>
+<middle/>
+<last>Nakayama</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

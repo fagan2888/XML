@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19355" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>30</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Death and Immortality</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Cheryl K. Chen</faculty_text>
+<description>In this course, we will discuss philosophical questions about death and immortality. What is death? Is there a moral difference between "brain death" and the irreversible loss of consciousness? Is the classification of a person as dead a moral judgment, or is it an entirely scientific matter? Is death a misfortune to the person who dies? How can death be a misfortune if you are no longer around to experience that misfortune? Is it possible to survive after death? What does it mean for you to survive after your death? Is there such a thing as an immaterial soul distinct from your body? Is immortality something you should want in the first place? Even if you do not live forever, is it nevertheless important that humanity continues to exist after your death? By discussing these questions about death, we will hopefully gain insight about the importance and meaning of life.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbae62b5b727c2ca2e10f3e5354162add">
+<name>
+<prefix/>
+<first>Cheryl</first>
+<middle/>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="307" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

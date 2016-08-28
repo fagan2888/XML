@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6668" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Modernization in the Visual United States Environment, 1890-2035</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>John R. Stilgoe</faculty_text>
+<description>Modernization of the US visual environment as directed by a nobility creating new images and perceptions of such themes as wilderness, flight, privacy, clothing, photography, feminism, status symbolism, and futurist manipulation as illustrated in print-media and other advertising enterprise.</description>
+<prerequisites>VES 107 or permission of the instructor.</prerequisites>
+<notes>Offered jointly with the Graduate School of Design as 4303.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe17bd586eff7e3872d83b0ed16244218">
+<name>
+<prefix/>
+<first>John</first>
+<middle>R.</middle>
+<last>Stilgoe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

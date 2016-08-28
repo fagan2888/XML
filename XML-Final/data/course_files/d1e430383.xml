@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44372" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>Gadda Goes to War: Provocations around the State-Stage</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Federica G. Pedriali (University of Edinburgh)</faculty_text>
+<description>This course explores Fabrizio Gifuni's recent stage adaptation of the WWI diaries and anti-Mussolini writings by Italy's greatest modernist writier, Carlo Emilio Gadda (1893-1973). The play, which took Italy by storm at the time of the 2011 political elections, will allow us to focus on the subject at war with the state from the perspective of the global negatives resulting from the management of the country as spectacle. As part of a close reading of this powerful intersemiotic critique of Italy as today's Denmark, for today's Hamlets, we will look into what, in the context of present day media regimes, continues to give stage performance the edge over other forms of creative critical citizenship. Extensive selected passages from Gadda's major works will inform plenary seminars and student presentations encouraging intersections with other Catalogue courses via theory (from Agamben to Zizek), context (Italy in the 20thc, during the WWs, under facism and today) and content (individual resistence to imagined, coming and present communities).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9c344e8fee138325a51eb096d9141866">
+<name>
+<prefix/>
+<first>Federica</first>
+<middle>G</middle>
+<last>Pedriali</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="335" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

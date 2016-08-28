@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8955" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>275</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>The Thing</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Jennifer L. Roberts</faculty_text>
+<description>Investigates the conundrum of "thingness" in art history, introducing theoretical frameworks for interpreting everything from teapots to minimal sculpture. Interrogates forms of exchange - economic, libidinal, aesthetic, historical- that objects invite (or refuse).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa82738bf1de4870e9ca6290c40bafa4">
+<name>
+<prefix/>
+<first>Jennifer L.</first>
+<middle/>
+<last>Roberts</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="305" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

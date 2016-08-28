@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51217" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>bk</num_char>
+</course_number>
+<title>Lyric, Revolution: Blake &amp; Ginsberg: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Andrew Warren</faculty_text>
+<description>This seminar looks at poets from two turbulent eras: England in the Age of Revolution (1789-1824) and America in the 1950's and '60s. During those times poetry was seen as a vital medium for change-but how? And why? Our case studies will be William Blake and Allen Ginsberg, though we'll also read widely in the work of their contemporaries: Romantics, particularly Keats and Shelley; and Americans, such as O'Hara, Bishop, Lowell, and Plath. We'll also look at a few important texts in between, like Rimbaud's Season in Hell.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2d0644ecfce7ddc1bef643a6b6780cc2">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Warren</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

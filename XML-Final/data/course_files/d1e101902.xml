@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5946" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2420</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research in Macroeconomics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 11:30-1</meeting_text>
+<faculty_text>Philippe Aghion, Alberto F. Alesina, Robert J. Barro, Emmanuel Farhi, Benjamin M. Friedman, David I. Laibson, and N. Gregory Mankiw</faculty_text>
+<description>Participants discuss recent research in macroeconomics and present their own work in progress. Open to doctoral students in economics who have passed their oral examinations.</description>
+<prerequisites/>
+<notes>Popularly known as the Macro Lunch.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F84cb6b83841ed3476e42b540e3991d4b">
+<name>
+<prefix/>
+<first>Philippe</first>
+<middle/>
+<last>Aghion</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F84cb6b83841ed3476e42b540e3991d4b">
+<name>
+<prefix/>
+<first>Philippe</first>
+<middle/>
+<last>Aghion</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-15" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34481" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.021</num_char>
+</course_number>
+<title>Representations of American Democracy and Government</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Vernon Tad Davies</faculty_text>
+<description>Beyond the abstraction of American democracy as government of, by and for the people, what can we glean about our definitions of American governance from historical and artistic representations of it? This course will examine what US democracy looks like when brought to life in campaign commercials, in the architecture of government buildings, and in conspiracy films. We will ask how these works shape our understanding of the possibilities and constraints of democratic action.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbb35b75883fdb5a463017bbb572976ef">
+<name>
+<prefix/>
+<first>Vernon</first>
+<middle>Tad</middle>
+<last>Davies</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

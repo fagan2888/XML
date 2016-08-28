@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41359" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>History and Fiction in European Literature: from Late Antiquity to the Renaissance</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Florin Leonte</faculty_text>
+<description>In this course we will explore examples of historical and fictional narrative beginning with late antique compositions and extending to late medieval texts. While we will focus primarily on individual works translated from Greek or Latin, we will also address their cross-cultural nature as well as their common ancient models. In particular, the course will address issues like the development of medieval narrative genres, the treatment of key historical events taking place in both East and West (e.g. transition from the ancient world, iconoclasm, crusades), or reader response.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3a443f90a843b0a3860dbe09c25d5adb">
+<name>
+<prefix/>
+<first>Florin</first>
+<middle/>
+<last>Leonte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="205" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

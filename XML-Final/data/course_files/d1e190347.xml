@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6692" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>34</num_int>
+</course_number>
+<title>Madness and Medicine: Themes in the History of Psychiatry</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Anne Harrington (History of Science)</faculty_text>
+<description>Psychiatry is one of the most intellectually and socially complex and fraught fields of medicine today, and history offers one powerful strategy for better understanding why. Topics covered in this course include the invention of the mental asylum, early efforts to understand mental disorders as disorders of the brain or biochemistry, the rise of psychoanalysis, psychiatry and war, the rise of psychopharmacology, the making of the DSM, anti-psychiatry, and more.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4d6e50667ca8bb209a61035ba6b0f210">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle/>
+<last>Harrington</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" B" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

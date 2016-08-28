@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92097" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Readings in the Life of the Kashmirian Scholar Shakyashribhadra: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp</faculty_text>
+<description>Various Tibetan biographies of the life of this influential scholar will be examined and special problem areas will be analyzed in full detail.</description>
+<prerequisites>Reading knowledge of Tibetan.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

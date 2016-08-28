@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2964" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Upper-Level Classical Arabic II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., Tu., Th., at 9</meeting_text>
+<faculty_text>Dalia Abo Haggar</faculty_text>
+<description>Continuation of Arabic 130a or may be taken separately with permission of the instructor. Readings from corpus of "Adab" (Belles-Lettres) literature, as well as various pieces of classical Arabic poetry.</description>
+<prerequisites>Arabic 130a or equivalent, or may be taken separately with permission of the instructor.</prerequisites>
+<notes>Not open to auditors. Offered jointly with the Divinity School as 4354.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3f8b76442135998fc388362a3c7e664b">
+<name>
+<prefix/>
+<first>Dalia</first>
+<middle/>
+<last>Abo-Haggar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

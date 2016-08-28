@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12567" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1234</num_int>
+</course_number>
+<title>A Voice of One's Own: Creative Writing in Women, Gender, and Sexuality</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Linda Schlossberg</faculty_text>
+<description>Students write and analyze short stories, paying close attention to key writing concepts such as characterization, voice, point-of-view, dialogue, and setting, while also investigating thematic issues related to women, gender, and sexuality studies. Frequent writing assignments, including written evaluations of peers' stories.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

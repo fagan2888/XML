@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10445" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>142</num_int>
+</course_number>
+<title>Defining Vision: Creating a Photographic Project</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tuesday and Thursday 1pm to 4pm</meeting_text>
+<faculty_text>David Hilliard</faculty_text>
+<description>This class is designed as a transition from Introduction to Still Photography to developing an independent work practice that is an extension of your own interests. Students will investigate concepts and strategies in order to create a meaningful body of work that is technically refined, well edited and sequenced. The class will be organized around class discussions, critiques and individual meetings with the instructor, in addition to slide presentations, readings, field trips and visiting artists.</description>
+<prerequisites>At least one half-course in photography or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd451aa3fe2c354b2c4dd4bec6e8e306b">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Hilliard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="B-19" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

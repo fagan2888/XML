@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54319" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>197</num_int>
+</course_number>
+<title>Buddhist Literature in South Asia and Beyond</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-6</meeting_text>
+<faculty_text>Shenghai Li</faculty_text>
+<description>Buddhist literary texts were an innovative force in the cultures of many parts of Asia. This course explores major Buddhist themes and genres in India, ranging from biographies of the Buddha, stories of his former lives, tales of magnificent exploits, to poetry and drama, and their continuing forms in other Asian literatures. While reading Asian Buddhist texts in translation, we will examine such questions as the role of language, the different functions of prose and verse, and the extent to which these texts are to be considered Buddhist.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F651915e8b3ca866de8efa016bd46bd19">
+<name>
+<prefix/>
+<first>Shenghai</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

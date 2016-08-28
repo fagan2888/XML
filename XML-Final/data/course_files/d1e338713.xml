@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5321" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>300</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Medieval Studies Interdisciplinary Workshop</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Focuses on dissertations in progress and other research topics of mutual concern.</description>
+<prerequisites/>
+<notes>Enrollment is open to all graduate students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

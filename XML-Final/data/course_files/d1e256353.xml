@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66452" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>279</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Freud and His Legacies: Readings in the History of Psychoanalysis</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Elizabeth Lunbeck</faculty_text>
+<description>Selected topics in psychoanalysis from Freud to the present, with attention to conceptualizing and writing the discipline's history. Among topics to be covered are the conditions of theory change, historicizing the analytic self, and assembling the analytic archive; locating major figures and national schools (Klein, Lacan, Kohut; Britain, France, Argentina); case studies in thinking with psychoanalysis-understandings of people and possessions, conflict and aggression, warfare and welfare; and pathologies of everyday life, from the abused wife to the corporate titan. Throughout, the seminar will focus more generally on writing intellectual and disciplinary histories. Note: Open to advanced undergraduates with permission of the instructor.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F51e471ac3648a9754d6863c512ead552">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Lunbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

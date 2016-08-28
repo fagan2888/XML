@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49807" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>The Making of Medieval Europe: Power, Knowledge, and Beliefs in the Greek East and the Latin West</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Florin Leonte</faculty_text>
+<description>This course is a comparative investigation of political and cultural aspects of the Byzantine Empire and western medieval polities. Students will use different types of evidence (textual, visual, and material) and read across a variety of literary and historical disciplines. The course will cover key topics like the transformation of ancient societies in the Mediterranean, medieval representations of authority, or the emergence of ethnic and religious identities. Particular emphasis will be placed on the exploration of the institutional and cultural factors which contributed to the formation of medieval political or intellectual discourses and practices.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a443f90a843b0a3860dbe09c25d5adb">
+<name>
+<prefix/>
+<first>Florin</first>
+<middle/>
+<last>Leonte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59936" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>184</num_int>
+</course_number>
+<title>The Catastrophic Imagination: Russian Literature in the Age of Revolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Boris Y. Wolfson (Amherst College)</faculty_text>
+<description>Examines key works of Russian prose and drama between the turn of the twentieth century and the onset of the Second World War through the lens of the era's revolutionary upheavals. Special attention to questions of imagining and representing historical cataclysms as existential catastrophes that lay bare utopian aspirations and cultural anxieties about the possibilities of artistic innovation and esthetic tradition in times of trouble. Shorter works by Bely, Soloviev, Sologub, Gippius, Pilniak, Babel, Shklovsky, Zoshchenko, Trotsky, Platonov, Bulgakov, Olesha, Vsev. Ivanov, Erdman, Krzhizhanovsky.</description>
+<prerequisites>Reading knowledge of Russian required.</prerequisites>
+<notes>Lectures in English, primary readings in Russian, secondary readings in English. Undergraduates admitted with permission of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7adf77ddfdaccde6eb3968ae9189180">
+<name>
+<prefix/>
+<first>Boris</first>
+<middle/>
+<last>Wolfson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

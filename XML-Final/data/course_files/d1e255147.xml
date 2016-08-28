@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12481" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>240</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Classics in the History of Medicine: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Aaron Mauck</faculty_text>
+<description>This course will chart the emergence of dominant themes and methods in the history of medicine over the last thirty years. Through an examination of pivotal texts, we will seek to explain how scholars have excavated new sites of historical interrogation and introduced new perspectives on established objects of historical inquiry. Topics will include the illness experience, representations of the body, the doctor-patient relationship, medical technologies, hospitals, and race and medicine.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbdbed5d055fbefc9f13f21348d2be8d2">
+<name>
+<prefix/>
+<first>Aaron</first>
+<middle>Pascal</middle>
+<last>Mauck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="359" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

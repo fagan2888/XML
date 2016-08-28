@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4508" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Tutorial-Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Gregory C. Tucci and members of the Department</faculty_text>
+<description>Research under the direction of, or approved by, a member of the faculty of the Department of Chemistry.</description>
+<prerequisites/>
+<notes>Open to seniors accredited by the Department as honors candidates. Students enrolled in Chemistry 99r have the option of writing a thesis. Written permission of the research adviser must be filed at the office of the Associate Director of Undergraduate Studies in Chemistry. Any student enrolling in this course must register the name of his or her research mentor with the course head whose signature must appear on each student's study card.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6752a1cf1553e62728467d662882ff7e">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Tucci</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6752a1cf1553e62728467d662882ff7e">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Tucci</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

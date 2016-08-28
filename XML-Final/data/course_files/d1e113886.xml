@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6796" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>293</num_int>
+</course_number>
+<title>Dislocations and Deformation Behavior of Materials</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:30-12</meeting_text>
+<faculty_text>Frans A. Spaepen</faculty_text>
+<description>Dislocations are fundamental defects in crystalline solids affecting deformation and crystal growth. The use of dislocations to establish constitutive behavior for the deformation of materials over a wide variety of stresses and temperatures, as well as in modeling stress distributions and interfacial reactions will be included.</description>
+<prerequisites>Knowledge of thermodynamics, electromagnetism and elements of crystal structure.</prerequisites>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F93a60891ae814df3ce94a03459f3d6fa">
+<name>
+<prefix/>
+<first>Frans</first>
+<middle>A.</middle>
+<last>Spaepen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

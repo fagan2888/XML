@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1552" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Medicine and Society in America</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Shumway Jones (History of Science; Harvard Medical School)</faculty_text>
+<description>Surveys major developments in the history of American medicine since 1500. Emphasis on setting the practice of medicine and the experience of health and disease into broad social, cultural, and political contexts. Topics include the social and cultural impact of epidemic disease; the nature of demographic and epidemiological change; the development of medical therapeutics and technologies; the growth of health care institutions; the rise of the medical profession; and debates about the allocation of health care resources. Evaluates the role of medicine in addressing social needs as well as the social and economic determinants of patterns of health and disease.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fffdef953c00697b7354e6be8ec7db8c4">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Shumway</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

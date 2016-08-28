@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8878" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1450</num_int>
+</course_number>
+<title>History of Christian Thought: The Medieval West</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Amy Hollywood (Divinity School)</faculty_text>
+<description>The course will survey the main features of Christian theology from the 11th through the 15th centuries. We will focus on the particular genres, modes of argumentation, questions, and goals of theology as it emerges in multiple contexts within the medieval West.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2629.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fafbd3e99de6a166b7b2c49293643d510">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hollywood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

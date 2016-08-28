@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34366" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>25</num_int>
+</course_number>
+<title>Judaism: Text and Tradition</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>An exploration of the Jewish religious tradition, from its inception in biblical Israel through its rabbinic, medieval, and modern iterations, with a focus on central theological claims and religious practices. Readings concentrate on classical sources and their various modes of interpretation but also include modern restatements, reformulations, and critiques of tradition.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

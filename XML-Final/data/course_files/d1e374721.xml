@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4623" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="YIDDISH">Yiddish</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Yiddish</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Fall: M., W., F., at 10; Spring: M., W., (F.), at 10</meeting_text>
+<faculty_text>Eitan Lev Kensky and staff</faculty_text>
+<description>Introduction to the Yiddish language, as written and spoken in Eastern Europe, the Americas, Israel, and around the world, and to the culture of Ashkenazic Jews. Development of reading, writing, speaking, and oral comprehension skills. Course materials include rich selections from Jewish humor, Yiddish songs, and films of Jewish life past and present.</description>
+<prerequisites/>
+<notes>For students with little or no knowledge of Yiddish. Additional sections at different times may be added as needed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8f4bdc112e3931cf37907c645480be99">
+<name>
+<prefix/>
+<first>Eitan</first>
+<middle>Lev</middle>
+<last>Kensky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8f4bdc112e3931cf37907c645480be99">
+<name>
+<prefix/>
+<first>Eitan</first>
+<middle>Lev</middle>
+<last>Kensky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

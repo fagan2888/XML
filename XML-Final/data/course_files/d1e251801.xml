@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80044" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>122</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Science and the Cold War</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Melinda Baldwin</faculty_text>
+<description>The Cold War was an era of unprecedented growth in the sciences -- and unprecedented political stakes for scientific research. This course will cover the history of the physical, biological, and human sciences during the Cold War. We will look at science on both sides of the Berlin Wall, paying particular attention to intersections between science, politics, and governments. Topics will include the Manhattan Project, the development of "big science," genetics and Lysenkoism, the nuclear arms race and the space race, scientific espionage, and communication between scientists in the West and in the Soviet world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7de2c495364a972c84c9bfaa59c375f5">
+<name>
+<prefix/>
+<first>Melinda</first>
+<middle>Clare</middle>
+<last>Baldwin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

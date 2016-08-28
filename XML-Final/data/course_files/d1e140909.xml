@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19438" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>289</num_int>
+</course_number>
+<title>Innovation and National Security</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:40-1</meeting_text>
+<faculty_text>Kevin Kit Parker</faculty_text>
+<description>This course will ask if the US defense industrial complex facilitates victory by technological innovation. We define defense technologies in three categories: 1) Convenience Technologies, 2) Sustainability Technologies, and 3) Decisive Technologies. If we define Decisive Technologies as those technologies that are strategically managed and tactically deployed, the last century may have seen only two: radar and the atomic bomb. We will debate money as a weapon system and whether or not it is a valid weapon technology. We will examine technologies introduced during the Global War on Terror (GWOT) and ask which category they fall in, if they were a true technological innovation, and if they facilitated victory in a battle vs war. We will discuss barriers to innovation and technological surprise on the battlefield.</description>
+<prerequisites>National Security background or graduate level coursework in engineering, mathematics, computer science, physics, or chemistry.</prerequisites>
+<notes>Permission of instructor required. Offered jointly with the Harvard Kennedy School as IGA-216 and will meet at HKS.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a2d2f2edc89ca42aab0e874e9ee592b">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Kit</middle>
+<last>Parker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1140" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1140" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

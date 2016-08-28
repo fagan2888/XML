@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73826" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Cosmology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-3:30</meeting_text>
+<faculty_text>Douglas Finkbeiner</faculty_text>
+<description>The physical model describing the initial conditions, evolution, and ultimate fate of the Universe. Topics include cosmic dynamics; the Robertson-Walker Metric; curvature; estimating cosmological parameters; the accelerating universe; dark matter; gravitational lensing; the cosmic microwave background; nucleosynthesis; inflation and the very early universe; formation of structure. Note: Offered in alternate years.</description>
+<prerequisites>Astronomy 17 or Physics 15c.</prerequisites>
+<notes>This course offered alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8a7c63e5af9f114fddba5cf19b65e11f">
+<name>
+<prefix/>
+<first>Douglas</first>
+<middle/>
+<last>Finkbeiner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

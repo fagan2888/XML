@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4652" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2034</num_int>
+</course_number>
+<title>Ethics Economics, and Law</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 5-7 p.m.</meeting_text>
+<faculty_text>Michael J. Sandel</faculty_text>
+<description>Explores controversies about the use of markets and market reasoning in areas such as organ sales, procreation, environmental regulation, immigration policy, military service, voting, health care, education, and criminal justice. The seminar will examine arguments for and against cost-benefit analysis, the monetary valuation of life and the risk of death, and the use of economic reasoning in public policy and law.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as LAW - 2076. Meets at the Law School. Open to GSAS students with permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2ca5625089ae385f1c4107040ed74acf">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Sandel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

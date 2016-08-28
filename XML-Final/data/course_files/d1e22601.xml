@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6013" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2740</num_int>
+</course_number>
+<title>Culture, Mental Illness, and the Body</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Byron J. Good (Medical School)</faculty_text>
+<description>Briefly reviews the figure of mental illness in Western thought and the social sciences, then focuses on themes in cross-cultural studies of psychopathology: culture and diagnosis; cultural influences on depression, schizophrenia, and dissociation; madness in non-Euroamerican healing systems; and transnational aspects of psychiatry.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff34f51dacf8e4bfeed19c40719c8359c">
+<name>
+<prefix/>
+<first>Byron</first>
+<middle/>
+<last>Good</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

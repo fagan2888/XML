@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59138" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>168</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Chinese in Social Sciences</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Jennifer Li-Chia Liu</faculty_text>
+<description>Advanced language practice associated with authentic academic texts in social science disciplines (e.g., history, politics, sociology, economics).</description>
+<prerequisites>Grade of B or better in Chinese 140b or equivalent proficiency.</prerequisites>
+<notes>Students are required to attend the lectures of Chinese History 113. Most readings in Chinese. Discussions in Chinese. Counts toward Language Citation in Modern Chinese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe26ea6b8f972d9248275e674b64c5669">
+<name>
+<prefix/>
+<first>Jennifer Li-Chia</first>
+<middle/>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

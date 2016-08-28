@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4634" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2070</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Archaeological Method and Theory: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-1</meeting_text>
+<faculty_text>Matthew Joseph Liebmann</faculty_text>
+<description>The class covers archaeological method and theory emphasizing the 1950s onwards. Large-scale trends in social theory will be balanced with attention to the ideas and writings of significant anthropologists and archaeologists.</description>
+<prerequisites/>
+<notes>Required of graduate students in the Archaeology Program of Anthropology; this class is designed for graduate students but enthusiastic and energetic undergraduates are most welcome.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc30f013881ddd0f8aa72fddc5d24c277">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Liebmann</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

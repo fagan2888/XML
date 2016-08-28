@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61742" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>Molecular Genetics and Genomics in Development and Disease</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30 and a weekly three-hour lab</meeting_text>
+<faculty_text>John L. Rinn and Alexander Meissner</faculty_text>
+<description>The sequencing of the human genome has ushered in a new era of scientific investigation. In parallel, advances in molecular biology have made it possible to explore the processes underlying normal development and disease pathogenesis. We will apply principles and techniques of molecular biology - ranging from DNA structure to the Central Dogma, from PCR to cutting-edge genome-editing technology - to understand how genetics and genomics inform gene regulation and cell identity and, ultimately, the human condition.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b (or equivalent) or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2a26ee1728915af632b6e933e4d4b114">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>L</middle>
+<last>Rinn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ffcbc00c43acc3c71cd8e6a537a72c06a">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Meissner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

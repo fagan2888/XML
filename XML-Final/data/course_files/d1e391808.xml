@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77839" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>178</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Equality and Liberty</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged</meeting_text>
+<faculty_text>Thomas M. Scanlon, Jr.</faculty_text>
+<description>Arguments for equality, conceptions of liberty, and the relations between the two.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F879401727e98fc4a3a08cf4e89d80023">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Scanlon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

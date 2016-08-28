@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37108" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>162</num_int>
+</course_number>
+<title>Experimental Regenerative Biology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-6</meeting_text>
+<faculty_text>Qiao Zhou</faculty_text>
+<description>This laboratory course will allow advanced undergraduate students to explore classical and modern experimental models of regeneration, and through experimentation, understand the important concepts and key challenges of the regenerative biology field. We will focus in particular on the regeneration of complex tissues and entire organ systems using both invertebrate and vertebrate models, including the planarian worm, the salamander, and the mouse.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4b8f22ee401b9676b6379ec05063d845">
+<name>
+<prefix/>
+<first>Qiao</first>
+<middle/>
+<last>Zhou</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

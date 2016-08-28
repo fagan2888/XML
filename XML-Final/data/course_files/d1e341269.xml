@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6444" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Mathematics in Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 9-10:30</meeting_text>
+<faculty_text>Michael Manish Desai and Erel Levine</faculty_text>
+<description>Develops the mathematics needed for quantitative understanding of biological phenomena including data analysis, simple models, and framing quantitative questions. Topics include probability, transforms and linear algebra, and dynamical systems, each motivated by current biological research.</description>
+<prerequisites>Mathematics 19 or higher.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fed7488796700d446724211885228f8a4">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>M</middle>
+<last>Desai</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F18954c5c1be95e993faea05126a04579">
+<name>
+<prefix/>
+<first>Erel</first>
+<middle/>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

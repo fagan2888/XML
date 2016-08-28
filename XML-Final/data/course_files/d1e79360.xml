@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1685" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>220</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Medieval Japanese Picture Scrolls</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Melissa M. McCormick</faculty_text>
+<description>Examines the rich tradition of medieval Japanese picture scrolls (emaki). Provides training in the reading of scroll texts (kotobagaki), the analysis of paintings, and the examination of the production contexts of important scrolls from the 12th to the 16th century. Aims to make picture scrolls available as a primary source for graduate research in many different disciplines within Japanese studies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d24ba923e798e10e1696207b2b691c1">
+<name>
+<prefix/>
+<first>Melissa</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

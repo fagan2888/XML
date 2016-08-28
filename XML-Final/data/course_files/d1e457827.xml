@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89523" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>227</num_int>
+</course_number>
+<title>Cultural Sociology and Sociology of Culture: Theoretical Perspectives and Empirical Studies</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Marcel Fournier</faculty_text>
+<description>The main topics of this course are: Introduction to a debate: is there a place for creativity and performativity in the sociological study of culture?; 1) the main theoretical debates around culture, social structure and inequality through the classical and contemporary authors and sociological currents, with a focus on the study of cultural practices and styles of consumption; 2) the four dimensions or levels of cultural life in contemporary societies: the creators and their networks, the publics and the market, the local and the global, institutions (schools, museums, etc.), the state and cultural politics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcdfad3bf457c842b75a63b5065c29e8e">
+<name>
+<prefix/>
+<first>Marcel</first>
+<middle/>
+<last>Fournier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98082" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>179</num_int>
+<num_char>f</num_char>
+</course_number>
+<title>Furious Cinema: 1968-1979</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Wednesdays 6pm-9pm</meeting_text>
+<faculty_text>Athina Rachel Tsangari</faculty_text>
+<description>Between 1968 and 1979, cinema turned upside down, radicalizing itself in all possible conducts, universally. This spontaneous, synchronized rebellion set new norms, paradigms, movements, and socio-political ethics that reshaped cinema as we know, make, and watch it today. We will survey, dissect, and admire the fury of this decade's ground-breaking movies from across the world, across all genres. Students will respond with scripts or/and visual essays.</description>
+<prerequisites/>
+<notes>Attendance at occasional supplementary screenings required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffe309d12b89dc97864ab33e23b5e3df8">
+<name>
+<prefix/>
+<first>Athina</first>
+<middle>Rachel</middle>
+<last>Tsangari</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1800" end_time="2100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9556" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>167</num_int>
+</course_number>
+<title>Stem Cells and Regeneration in the Pathobiology and Treatment of Human Disease</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>George Q. Daley (Medical School) and members of the Department</faculty_text>
+<description>Stem cells are the basis for tissue maintenance and repair, thus, are essential elements of normal organ and tissue physiology. Stem cells are also targets for disease processes and through transplantation are important therapeutic agents. This course will allow advanced undergraduates to explore how stem cells and tissue regeneration impact human disease pathogenesis and how stem cells might be exploited to advance new therapies for disease.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10; MCB 52 or MCB 54.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8a3d30b4a9806bec679700ba45e1c462">
+<name>
+<prefix>Dr</prefix>
+<first>George</first>
+<middle>Quentin</middle>
+<last>Daley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

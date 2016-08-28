@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69265" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>109</num_int>
+</course_number>
+<title>The Global Game: Soccer, Politics, and Popular Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Francesco Erspamer and Mariano Siskind</faculty_text>
+<description>Soccer is not only the sport of the world, but a most socially significant practice. In Latin America and Europe it is a staple feature of popular culture, closely connected with national politics. The course will make use of filmic, visual, literary, theoretical, and historical materials to analyze the relationship of soccer to social movements, colonialism, violence, gender, architecture, music, and the star system (Pele, Maradona, Zidane, Totti, Cristiano Ronaldo, Messi).</description>
+<prerequisites>An excellent reading knowledge of at least one Romance language.</prerequisites>
+<notes>Conducted in English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1ccecedec3ba08bc6d016e4307228857">
+<name>
+<prefix/>
+<first>Francesco</first>
+<middle/>
+<last>Erspamer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb113a1c6d7fc21bf79d923c1c611f693">
+<name>
+<prefix/>
+<first>Mariano</first>
+<middle/>
+<last>Siskind</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

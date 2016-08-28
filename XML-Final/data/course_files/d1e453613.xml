@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17111" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>119</num_int>
+</course_number>
+<title>From Plantations to Prisons</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Kaia Stern</faculty_text>
+<description>From Plantations to Prisons serves as an introduction to the current crisis of mass incarceration. Specifically, it focuses on the religio-historical roots of the U.S. penal industry, suggesting a continuum between plantations and prisons that calls into question our basic notions of justice. The course draws from academic, media, and narrative sources to give particular attention to factors long associated with crime and punishment, such as sin, race, and citizenship. We will also study the unprecedented prison-population explosion (in terms of race, gender and class), and its relationship to major social problems in American cities. Questions for consideration: How do we understand punishment? What is the relationship between race and crime? How are human rights, democracy, and family at risk? An optional visit to at least one Massachusetts state jail/prison will be incorporated into the curriculum.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F17e8fe0917967a2d49451a7bbaf523cf">
+<name>
+<prefix/>
+<first>Kaia</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

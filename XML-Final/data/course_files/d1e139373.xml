@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="239" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>252</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Topics in Robotics Research</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Robert J. Wood</faculty_text>
+<description>A graduate seminar course on advanced topics in robotics research. Students read and present research papers and undertake a research project. Spring 2013 will focus on robot design and manipulation.</description>
+<prerequisites>Engineering Sciences 159/259 or equivalent, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F88eedfd7a7b7a1fdaeb94a08e4bb2be2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Wood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

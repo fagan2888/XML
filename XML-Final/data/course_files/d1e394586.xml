@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1984" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>15</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Introductory Mechanics and Relativity</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David J. Morin and Amir Yacoby (fall term), and David J. Morin and Robert M. Westervelt (spring term)</faculty_text>
+<description>Newtonian mechanics and special relativity. Topics include vectors; kinematics in three dimensions; Newton's laws; force, work, power; conservative forces, potential energy; momentum, collisions; rotational motion, angular momentum, torque; static equilibrium, oscillations, simple harmonic motions; gravitation, planetary motion; fluids; special relativity.</description>
+<prerequisites>Mathematics preparation at least at the level of Mathematics 1b concurrently is required. However, some elementary ideas from multivariable calculus may be used and students are encouraged to take Mathematics 21a concurrently.</prerequisites>
+<notes>Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 15a. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F93cd118bcbef0c1bd8a501e1ee39d014">
+<name>
+<prefix/>
+<first>Amir</first>
+<middle/>
+<last>Yacoby</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fc16e05a6bdbf048decc79763bfe2f2b7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Morin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F92a59f63f11bfa59534238bef7cd76d6">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>M.</middle>
+<last>Westervelt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

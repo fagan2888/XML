@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73396" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1435</num_int>
+</course_number>
+<title>Macroeconomic Policy in the Global Economy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30</meeting_text>
+<faculty_text>Emmanuel Farhi</faculty_text>
+<description>Examines fiscal policy, monetary policy, exchange rate policy, and financial regulation. Emphasizes both short-term stabilization goals and longer-term policy objectives. Considerable attention to recent policy.</description>
+<prerequisites>Students taking this course should have taken an intermediate macroeconomics class (1010b or 1011b). Knowledge of univariate calculus and basic statistics will be assumed.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60a897d927654bf987246576e9840e2b">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Farhi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

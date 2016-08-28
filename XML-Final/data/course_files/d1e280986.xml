@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41566" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>311</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Unmet Medical Needs and Translational Solutions</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>The central goal of modern biomedical research is to understand the cause of human disease and to use this knowledge to develop approaches that lessen human suffering. The path from identifying an unmet medical need through the development of interventions that impact disease is a complex process demanding the best of medicine and science, strong project management, significant financial support, and persistence. In this course, students will learn to evaluate how unmet medical needs can be "translated" into new clinical practices. The course will feature assessment of unmet medical needs, case studies of successes and failures in translation, seminars from translational medicine experts, and workshops that engage students in substantive and intense discussions on current topics. Lecturers will include innovators who have successfully led the development of therapeutic interventions, leaders in basic science who have helped uncover the underlying causes of disease and investigators who have led clinical trials that lead to the approval of new interventions.</description>
+<prerequisites/>
+<notes>This course will meet Mondays through Fridays, from Monday, July 7, 2014 to Friday, July 18, 2014.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F9d39639b484037ec25b8f84f91cb52a7">
+<name>
+<prefix/>
+<first>Jagesh</first>
+<middle/>
+<last>Shah</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

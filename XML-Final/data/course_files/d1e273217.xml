@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1621" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>213</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Complex Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Yum Tong Siu</faculty_text>
+<description>A second course in complex analysis: series, product and partial fraction expansions of holomorphic functions; Hadamard's theorem; conformal mapping and the Riemann mapping theorem; elliptic functions; Picard's theorem and Nevanlinna Theory.</description>
+<prerequisites>Mathematics 55b or 113.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F80d12e5368e47ce0480832555eb3f7e0">
+<name>
+<prefix/>
+<first>Yum-Tong</first>
+<middle/>
+<last>Siu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="310" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

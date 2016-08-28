@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3956" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="LPS">Life and Physical Sciences</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Foundational Chemistry and Biology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9, and a weekly one-hour of discussion section, three-hour lab, and one-hour of review session.</meeting_text>
+<faculty_text>Gregory C. Tucci and Tamara J. Brenner</faculty_text>
+<description>This course introduces fundamental concepts in chemistry and biology. Topics in chemistry include stoichiometry, acids and bases, aqueous solutions, gases, thermochemistry, electrons in atoms, and chemical bonding. The course also examines biological molecules, the transfer of information from DNA to RNA to protein, and cell structure and signaling.</description>
+<prerequisites/>
+<notes>Students should use their scores on the Chemistry and Biology Placement Tests to determine whether to enroll in Life and Physical Sciences A or Life Sciences 1a. This course assumes fluency with high school algebra. Students who have completed Life Sciences 1a, Physical Sciences 1, Physical Sciences 10, Physical Sciences 11, Chemistry 17 or Chemistry 20 may not take Life and Physical Sciences A for credit. This course, when taken for a letter grade, meets the General Education Requirement for Science of Living Systems.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6752a1cf1553e62728467d662882ff7e">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Tucci</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2d5af6ea86f76f477d0d78299aae2273">
+<name>
+<prefix/>
+<first>Tamara</first>
+<middle>Jane</middle>
+<last>Brenner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

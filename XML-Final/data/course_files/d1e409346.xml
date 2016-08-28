@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4760" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>15</num_int>
+</course_number>
+<title>Social Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., W., 2:30&amp;#8211;4; Spring: M., W., 1&amp;#8211;2:30, and a one-hour section to be arranged</meeting_text>
+<faculty_text>Fiery Cushman (fall term) and Joshua D. Greene (spring term)</faculty_text>
+<description>An introduction to social psychological research and theory regarding everyday behavior, incorporating methods from the life sciences (neuroscience, genetics, evolutionary biology). Topics include: attitudes and social influence; obedience to authority; stereotyping, prejudice, and intergroup relations; emotion; interpersonal attraction; morality and prosocial behavior; and errors of everyday human judgment</description>
+<prerequisites>Science of Living Systems 20, for all freshmen and for all students completing a concentration or secondary field in psychology.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems. This course counts toward the foundational requirement for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8e311313b08451a8375572f7dcc5506a">
+<name>
+<prefix/>
+<first>Fiery</first>
+<middle>Andrews</middle>
+<last>Cushman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3dfcab5d419fc1858c90c94c8c296f55">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>D.</middle>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="18 (Yenching Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

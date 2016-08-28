@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44432" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1687</num_int>
+</course_number>
+<title>Advanced Economics of the Environment, Natural Resources, and Climate Change</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30; and a weekly recitation F., 1-2:30</meeting_text>
+<faculty_text>Martin L. Weitzman</faculty_text>
+<description>Survey of foundations and applications of the modern theory of environmental and natural-resource economics. What are the basic models and what are they suggesting about policy? Externalities, public goods, common property, strategies for controlling pollution. Dynamics of renewable resources (fisheries, forestry) and dynamics of non-renewable resources (minerals like oil). Discounting, uncertainty, cost-benefit analysis, investment criteria for environmental projects, green accounting, sustainability. Basic economic analysis of climate change as prototype example.</description>
+<prerequisites>Economics 1010a1 or 1010a2.</prerequisites>
+<notes>Students from other concentrations are welcome to take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3edbf25b7ea5de3df3943417e74af0d5">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>L.</middle>
+<last>Weitzman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

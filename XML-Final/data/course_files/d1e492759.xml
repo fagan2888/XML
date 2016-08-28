@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99892" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1018</num_int>
+</course_number>
+<title>African American Religions: An Introduction</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jonathan Lee Walton (Divinity School)</faculty_text>
+<description>The purpose of this course is to introduce students to the religious practices, beliefs, and movements of African Americans from 17th century to present. Topics include, but not limited to, black religions in North America under slavery, black churches, black Muslims, Jews and conjuring traditions, the civil rights movement, and the relation of African American religion to literature and music. Readings will include Albert Raboteau, Michael Gomez, Evelyn Brooks-Higginbotham, Barbara Diane-Savage, Karen McCarthy Brown and others.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 3200.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F70edf2e78bf5e2fc41052dc9a6b32462">
+<name>
+<prefix>Prof</prefix>
+<first>Jonathan</first>
+<middle>Lee</middle>
+<last>Walton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

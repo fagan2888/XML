@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7148" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1965</num_int>
+</course_number>
+<title>International History: States, Markets, and the Global Economy</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Niall Ferguson and Charles S. Maier</faculty_text>
+<description>International economic history and political economy, including strategies of economic development, international trade, migration, finance and monetary relations, based on both theoretical works and specific case studies, and focusing on the period from around 1700 to the present.</description>
+<prerequisites/>
+<notes>History 1964 and 1965 are designed particularly for advanced undergraduates in the international history track of the concentration and graduate students preparing a general examination field in the history of international relations.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2f6ff94b260c5dbf633391a3ba54c2e4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>S.</middle>
+<last>Maier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

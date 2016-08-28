@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7758" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>155</num_int>
+</course_number>
+<title>Furor Poeticus: Madness, Inspiration, Genius</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John T. Hamilton</faculty_text>
+<description>Considers the classical conception of mania as a divine source of prophecy, ecstasy, poetic creation, and erotic desire; and traces how this madness unfolds in ancient tragedy and modern literature, philosophy and psychoanalysis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4bfbc0671777708c7f556a2d9ecf2d1f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>T.</middle>
+<last>Hamilton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

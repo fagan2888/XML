@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75832" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>254</num_int>
+</course_number>
+<title>Imagining Caribbean Communities: Border, Nations, and Diaspora in Contemporary Hispanic Caribbean Literatures</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Lorgia H. Garcia Pena</faculty_text>
+<description>This course explores the imagining of Caribbean communities through literary and cultural representations. Setting off from the concept of Pan-Caribbean solidarity that Jose Marti imagined at the end of the nineteenth century, we will look at the ways in which notions of Caribbean communities have been imagined, and deployed through literary and cultural representation. Focusing on questions of race, class, nation, and migration(s) our course will create a dialogue among late nineteenth and early twentieth century canonical Caribbean thinkers such as Juan Bosch, and Eugenio Maria de Hostos and lesser-known contemporary writers like Rita Indiana Hernandez and Rey Andujar. Our course will be organized thematically, proposing a trans-national and trans-historical view of Caribbean intellectual and literary history. The theoretical framework will engage current race, nation, migration, and transnational feminist theories with a focus on Caribbean criticism.</description>
+<prerequisites/>
+<notes>Readings will be in Spanish, English, Spanglish or French (with available translations to Spanish or English.) Discussion will be in Spanish. The focus will be on the Hispanic Caribbean, Haiti and the U.S. Caribbean Diasporas.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbe281ea45a33876f460ad89c85288318">
+<name>
+<prefix/>
+<first>Lorgia</first>
+<middle/>
+<last>Garcia Pena</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

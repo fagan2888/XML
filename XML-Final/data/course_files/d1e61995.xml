@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48349" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>Introduction to Global Geophysics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Jerry X. Mitrovica</faculty_text>
+<description>A comprehensive introduction to global geophysics. This course serves as a bridge between introductory Earth science courses (EPS 21, EPS 22) and higher level courses in EPS. Topics include: plate tectonics, the Earth's composition, thermal state and rheology, mantle convection, the geodynamo, the Earth's gravity field and geodesy, comparative planetology, and (modern and paleo) climate change.</description>
+<prerequisites>Applied Mathematics 21a,b (or Mathematics 1a,1b; or Mathematics 21a,b); Physics 11a,b or Physics 15a,b (prior or concurrent); or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa45a8bb7898bbab7f8b2de7eda36b1f4">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>X.</middle>
+<last>Mitrovica</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="Geological Museum 204" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

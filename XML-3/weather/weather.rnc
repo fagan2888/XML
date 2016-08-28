@@ -1,0 +1,74 @@
+default namespace = ""
+namespace geo = "http://www.w3.org/2003/01/geo/wgs84_pos"
+
+start =
+  element current_observation {
+    attribute relative_humidity { xsd:integer },
+    attribute time_display { text },
+    attribute time_rfc822 { text },
+    attribute version { xsd:decimal },
+    attribute visibility_mi { xsd:decimal },
+    attribute weather { text },
+    (element credit {
+       attribute src { xsd:anyURI },
+       attribute title { text },
+       attribute url { xsd:anyURI }
+     },
+     element suggested_pickup {
+       attribute period { xsd:integer },
+       attribute time { text }
+     },
+     element location {
+       attribute display { text },
+       attribute station_id { xsd:NCName },
+       attribute geo:lat { xsd:decimal },
+       attribute geo:long { xsd:decimal }
+     },
+     element readings {
+       attribute label { text },
+       attribute system { xsd:NCName },
+       attribute units { xsd:NCName },
+       element temperature {
+         attribute value { xsd:decimal }
+       },
+       element dewpoint {
+         attribute value { xsd:decimal }
+       },
+       element windchill {
+         attribute value { xsd:decimal }
+       }
+     }+,
+     element wind {
+       attribute degrees { xsd:integer },
+       attribute dir { xsd:NCName },
+       attribute gust_kt { xsd:integer },
+       attribute gust_mph { xsd:decimal },
+       attribute kt { xsd:integer },
+       attribute mph { xsd:decimal }
+     },
+     element pressure {
+       attribute in { xsd:decimal },
+       attribute mb { xsd:decimal }
+     },
+     element urls {
+       element icon {
+         attribute src { xsd:NCName },
+         attribute url { xsd:anyURI }
+       },
+       element two_day_history {
+         attribute url { xsd:anyURI }
+       },
+       element ob {
+         attribute url { xsd:anyURI }
+       },
+       element disclaimer {
+         attribute url { xsd:anyURI }
+       },
+       element copyright {
+         attribute url { xsd:anyURI }
+       },
+       element privacy_policy {
+         attribute url { xsd:anyURI }
+       }
+     })*
+  }

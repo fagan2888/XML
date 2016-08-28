@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4268" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>Engineering Design Projects</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-4</meeting_text>
+<faculty_text>Woodward Yang, Robert J. Wood, Sujata K. Bhatia, and Christopher Lombardo</faculty_text>
+<description>Individual engineering design projects which demonstrate mastery of engineering knowledge and techniques. During the year, each student will pursue an appropriate capstone project which involves both engineering design and quantitative analysis and culminating in a final oral presentation and final report/thesis.</description>
+<prerequisites>*Engineering Sciences 96.</prerequisites>
+<notes>Ordinarily taken in the senior year. Enrollment is conditional on the student having an approved project before May 1 in the spring semester preceding actual enrollment. Formal project approval rests with ES100 teaching staff. Weekly lectures (fall only) and one hour sections (throughout the year) are mandatory.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F460118378c2936e26df28e59c64b6103">
+<name>
+<prefix/>
+<first>Woodward</first>
+<middle/>
+<last>Yang</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7cd5baed2828cda7ee8ada0421882526">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Joseph</middle>
+<last>Lombardo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F88eedfd7a7b7a1fdaeb94a08e4bb2be2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Wood</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F953fb00bd99797c8c6cd07c6577a8282">
+<name>
+<prefix/>
+<first>Sujata</first>
+<middle>K</middle>
+<last>Bhatia</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F460118378c2936e26df28e59c64b6103">
+<name>
+<prefix/>
+<first>Woodward</first>
+<middle/>
+<last>Yang</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7cd5baed2828cda7ee8ada0421882526">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Joseph</middle>
+<last>Lombardo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F88eedfd7a7b7a1fdaeb94a08e4bb2be2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Wood</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F953fb00bd99797c8c6cd07c6577a8282">
+<name>
+<prefix/>
+<first>Sujata</first>
+<middle>K</middle>
+<last>Bhatia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="301" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

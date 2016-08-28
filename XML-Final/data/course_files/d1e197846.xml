@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79392" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>29</num_int>
+</course_number>
+<title>The Climate-Energy Challenge</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>75</enrollment_limit>
+<meeting_text>M., 1&amp;#8211;4 and a weekly section to be arranged</meeting_text>
+<faculty_text>Daniel P. Schrag (Earth and Planetary Sciences)</faculty_text>
+<description>This course will examine future climate change in the context of Earth history, and then consider various strategies for what might be done to deal with it. The likely impacts of continued greenhouse gas emissions will be explored, emphasizing the scientific uncertainties associated with various predictions, and how this can be understood in the context of risk. In the latter third of the class, the question of how to mitigate climate change will be discussed, including an examination of various options for advanced energy systems.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1578e68b0be8a33b6173f9884b4282fc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P.</middle>
+<last>Schrag</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="301" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

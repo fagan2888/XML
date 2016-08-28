@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33894" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>Introduction to Ocean Circulation Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Carl Wunsch</faculty_text>
+<description>Introduction to the physical processes governing the large-scale circulation of the ocean. Emphasis on time-changing components, observational methods used, and a survey of basic methods of analysis and theory. Topics include sea level rise, oceanic heat transport changes, and smaller-scale physics.</description>
+<prerequisites>Math or Applied Math 21a, Physics 11b, or permission of instructor. Basic knowledge of a high-level programming language such as Matlab or Mathematica.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faec5b9c72386bd389d051719115e1432">
+<name>
+<prefix/>
+<first>Carl</first>
+<middle/>
+<last>Wunsch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

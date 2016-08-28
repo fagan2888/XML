@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41941" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1056</num_int>
+</course_number>
+<title>Secularism, Pluralism, and the Category of Religion</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>(Tu.), 4-6</meeting_text>
+<faculty_text>K. Healan Gaston (Divinity School)</faculty_text>
+<description>This course will explore how secularism and pluralism have figured in recent scholarship on the construction of the category of religion. We will begin by asking how prominent theorists of secularization and pluralization have described these processes and their relation to one another, before turning to the question of how these processes relate to the -isms they inspire: secularism and pluralism. After laying these foundations, we will consider how historians of American religion have portrayed secularism, pluralism, and the relationship between the two, with an eye to the historical metanarratives their treatments imply. Does a robust defense of religious pluralism require an embrace of secularism or antagonism to it? Do secularism's claims to neutrality undermine religious pluralism or allow it to flourish? Are secularism and pluralism opposed to one another, or are they closely related concepts?</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5f169b5ac2228aff7478b9730a9d0d4c">
+<name>
+<prefix/>
+<first>K</first>
+<middle>Healan</middle>
+<last>Gaston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="Y" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

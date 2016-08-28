@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21034" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>29</num_int>
+</course_number>
+<title>Social Theory, the Humanities, and Philosophy Now</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 5-7 p.m., and a weekly section to be arranged.</meeting_text>
+<faculty_text>Michael J. Puett (East Asian Languages &amp; Civilizations; Study of Religion) and Roberto Mangabeira Unger (Harvard Law School)</faculty_text>
+<description>A sustained discussion of the obstacles and the opportunities that the established traditions of Western philosophy, social theory and the humanities present to those who see time as real, history as open, novelty as possible, and social and cultural transformation as imperative. The central theme is how thought deals with the creation of the new. Special attention to three European philosophers -- Hegel, Marx, and Bergson, as well as to those strands in contemporary philosophy and social thought that bear most closely on our concerns. No prerequisites other than willingness to consider a wide range of problems, materials, and ideas.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc5f5889e1d28d688d9d261ff25b6edbe">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Puett</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F364131a5f409e74f89a4ac6f8b2547e3">
+<name>
+<prefix/>
+<first>Roberto</first>
+<middle/>
+<last>Unger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6973" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>190</num_int>
+</course_number>
+<title>Introduction to Materials Science and Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11-12:30</meeting_text>
+<faculty_text>Frans A. Spaepen</faculty_text>
+<description>Introduction to the structure, properties, and applications of materials. Crystal structure and defects. Phase transformations: phase diagrams, diffusion, nucleation and growth. Mechanisms of deformation and fracture. Effect of microstructure on properties. Examples from a variety of engineering applications.</description>
+<prerequisites>Physical Sciences 12a,b, and Applied Mathematics 21a,b or Mathematics 21a,b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93a60891ae814df3ce94a03459f3d6fa">
+<name>
+<prefix/>
+<first>Frans</first>
+<middle>A.</middle>
+<last>Spaepen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1230"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

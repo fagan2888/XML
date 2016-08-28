@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="916" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>15</num_int>
+</course_number>
+<title>Is the American Racial Order Being Transformed?</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jennifer L. Hochschild (Government; African and African American Studies)</faculty_text>
+<description>Is a fundamental transformation occurring in the American racial order? If so, are these changes for the better or the worse? We first briefly explore the history of American racial and ethnic dynamics, then examine four potentially transformative forces: high levels of immigration, rising multiracialism, links between genomic science and "race," and the changing behaviors and beliefs of young American adults. We then consider blockages to transformation: incarceration of nonAnglo men, wealth disparities, and treatment of Muslims and undocumented immigrants. We conclude by imagining various ideal futures for race and ethnicity in the U.S.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73010804b38948a70f242a4703ccc3e2">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle>L.</middle>
+<last>Hochschild</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Farkas Hall (New College Theater)" room="203 (Meeting Room)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

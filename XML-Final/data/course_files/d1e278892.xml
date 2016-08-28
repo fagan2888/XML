@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36968" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BBS">BBS</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Analysis of the Biological Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3-6</meeting_text>
+<faculty_text>Michael Demian Blower (Medical School), Dipanjan Chowdhury (Medical School), Stephen J. Elledge (Medical School), Jonathan M. G. Higgins (Medical School), Cammie Lesser (Medical School), Adrian Salic (Medical School), Andreas Herrlich (Medical School), Laurie Jackson-Grusby (Medical School)</faculty_text>
+<description>Students participate in intensive small group discussions focused on the critical analysis of basic research papers from a wide range of fields including biochemistry, cell and developmental biology, genetics, and microbiology. Papers are discussed in terms of their background, significance, hypothesis, experimental methods, data quality, and interpretation of results. Students will be asked to propose future research directions, to generate new hypotheses and to design experiments aimed at testing them. For the midterm and final exams the students will have to submit written critiques of recent papers from the literature, with an emphasis on proposing new experimental directions to test the models proposed in the papers.</description>
+<prerequisites/>
+<notes>This course is required for first year BBS students, and is open only to BBS students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5d41ce8a85363a14708807a3f129b54e">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle>Demian</middle>
+<last>Blower</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fafef0bba13f146788fe9e37e3925d844">
+<name>
+<prefix/>
+<first>Adrian</first>
+<middle/>
+<last>Salic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1800"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

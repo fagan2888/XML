@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1836" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Introduction to Theoretical Statistics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Kevin Andrew Rader</faculty_text>
+<description>Basic concepts of statistical inference from frequentist and Bayesian perspectives. Topics include maximum likelihood methods, confidence and Bayesian interval estimation, hypothesis testing, least squares methods and categorical data analysis.</description>
+<prerequisites>Mathematics 19a and 19b or equivalent and Statistics 110.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3b265d63d871c6372275fab9779fed5e">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Andrew</middle>
+<last>Rader</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

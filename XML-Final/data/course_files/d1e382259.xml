@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1234" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Microbial Diversity</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1:30-4</meeting_text>
+<faculty_text>Colleen M. Cavanaugh</faculty_text>
+<description>Examines the remarkable diversity of the microbial world, "the unseen majority". Physiological, genetic, ecological, and evolutionary characteristics of Bacteria and Archaea are discussed, as well as the relation of phenotype to phylogeny. The course has strong links to fields ranging from geochemistry and climate change to the human microbiome, and will include discussions with experts in microbial biodiversity.</description>
+<prerequisites>Background in microbial science and/or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F30544918ff1d7a86c26b6b6c38cc6abe">
+<name>
+<prefix/>
+<first>Colleen</first>
+<middle/>
+<last>Cavanaugh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

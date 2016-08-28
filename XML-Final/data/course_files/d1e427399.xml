@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80366" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>216</num_int>
+</course_number>
+<title>The Romance of the Rose</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Virginie Greene</faculty_text>
+<description>Merging courtly love with Aristotelian quest for knowledge, the Roman de la Rose is one of the most influential medieval texts. We will read the Rose in company of related classical and medieval texts, such as Boethius' Consolation of Philosophy, troubadours poetry or the exchange of letters between Christine de Pizan and literati of her time about the Rose. We will also take into consideration manuscript illustration. .</description>
+<prerequisites/>
+<notes>Conducted in French or English, to be determined by class composition. Readings in French</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5e22ca5afef8d915594ff1a96af7cdcd">
+<name>
+<prefix/>
+<first>Virginie</first>
+<middle/>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

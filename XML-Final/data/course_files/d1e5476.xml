@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47995" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>123</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Mass Incarceration in Historical Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Elizabeth Kai Hinton</faculty_text>
+<description>Today 1 in 3 African American boys will spend part of their lives behind bars, a profound reflection of the limitations of law and democracy in the United States. By examining the connections between race and the development of legal and penal systems over time, this course investigates the historical process that eventually gave rise to the mass incarceration of black and Latino Americans in the late twentieth century. The course is structured according to the major punitive changes that often emerged after the expansion of constitutional and civil rights for African Americans. Our historical consideration will provide us the necessary background to address the ongoing consequences of racial disparities in the criminal justice system and the momentous public policy implications of this dynamic.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff47371f1a7c6cdb4a0170e97c80b67de">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>Kai</middle>
+<last>Hinton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

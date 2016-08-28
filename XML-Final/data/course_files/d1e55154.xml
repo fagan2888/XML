@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41112" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>278</num_int>
+</course_number>
+<title>Failure and Change</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Christie McDonald</faculty_text>
+<description>Analysis of the failure of models and testing of limits in reflection about change, as well as the dialogue among literary, theological, socio-political, artistic, and philosophical discourses. Topics include authority, freedom, equality, sentiment, reason, fanaticism, tolerance. Readings include works from St. Augustine, Rousseau, Diderot, Kant, Proust, Koselleck, Rorty, Beauvoir, Sartre, Kofman, Beckett. The seminar will design and develop a General Education course on these themes for undergraduates; it will also contain an arts component.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff54ed97acd33d879f602e4de491aba76">
+<name>
+<prefix/>
+<first>Christie</first>
+<middle/>
+<last>McDonald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

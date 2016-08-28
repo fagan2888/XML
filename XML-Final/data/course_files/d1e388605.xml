@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10889" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Morality and Its Critics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12 (section to be arranged)</meeting_text>
+<faculty_text>Benjamin Bagley</faculty_text>
+<description>An introduction to ethics, focusing on two major views of what it means to be moral and how morality matters. On one (utilitarianism), morality is roughly about doing what best serves the interests of everyone involved; on the other (associated with Immanuel Kant) it instead concerns relating to people on terms that respect their dignity and autonomy. We'll explore these views in the context of both practical issues like animal rights and global poverty, and more personal concerns about well-being, manipulation, and responsibility; and we'll also consider whether both views might seriously exaggerate the place of morality in our lives.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffac89f63e1f30d5bc5661ee6a8edd8c0">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle/>
+<last>Bagley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="307" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80974" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>258</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Random Matrix</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Horng-Tzer Yau</faculty_text>
+<description>The goal of this course is to give a detailed account of the recent advances concerning the local statistics of eigenvalue distributions of random matrices. Basic knowledge of probability theory and measure theory are required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb4b10bccf45d032bc58b86d3a28b916b">
+<name>
+<prefix/>
+<first>Horng-Tzer</first>
+<middle/>
+<last>Yau</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="411" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

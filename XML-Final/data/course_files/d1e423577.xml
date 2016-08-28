@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92282" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="RSEA">
+<dept_long_name>Committee on the Degree of Master of Arts in Regional Studies - East Asia</dept_long_name>
+<dept_short_name>Regional Studies - East Asia</dept_short_name>
+</department>
+<course_group code="RSEA">Regional Studies _ East Asia</course_group>
+<course_number>
+<num_int>399</num_int>
+</course_number>
+<title>Reading and Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Candidates for the A.M. degree in Regional Studies-East Asia may undertake reading and research in an approved area of their choice under the direction of a member of the Faculty.</description>
+<prerequisites>Permission of the faculty member and the Director of Graduate Studies of the RSEA program required. Only one course graded SAT/UNSAT may be used to fulfill the RSEA course requirement.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

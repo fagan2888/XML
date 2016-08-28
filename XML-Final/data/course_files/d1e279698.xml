@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2049" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Molecular Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>35</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>George Q. Daley (Medical School), David E. Cohen (Medical School), and Irving M. London (Medical School)</faculty_text>
+<description>A seminar on various human diseases and their underlying genetic or biochemical bases. Primary scientific papers discussed. Lectures by faculty and seminars conducted by students, faculty supervision.</description>
+<prerequisites>Molecular Biology and Biochemistry.</prerequisites>
+<notes>Faculty mentors will guide student-led discussions of the papers. Jointly offered with the Medical School as HT 140.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8a3d30b4a9806bec679700ba45e1c462">
+<name>
+<prefix>Dr</prefix>
+<first>George</first>
+<middle>Quentin</middle>
+<last>Daley</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F210383077e5f4eff8e167da9612668cf">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F39961fae6ee47fdb0b2dde5ff9f2eddc">
+<name>
+<prefix>Dr</prefix>
+<first>Irving</first>
+<middle>Myer</middle>
+<last>London</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

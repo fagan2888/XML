@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99294" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>215</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Ecophysiology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 11-1</meeting_text>
+<faculty_text>Stacey A. Combes</faculty_text>
+<description>A discussion based course exploring the physiological processes involved in an organism's interactions with its environment. Readings will focus on adaptation to environmental variability, with an emphasis on responses to climate change and habitat alteration.</description>
+<prerequisites>OEB 191 or permission of instructor</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F48ef78e52215b4eb444897ac7a8ca1cc">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>A.</middle>
+<last>Combes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

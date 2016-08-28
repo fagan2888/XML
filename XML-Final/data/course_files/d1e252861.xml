@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78747" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>The History and Culture of Stigma</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Allan M. Brandt</faculty_text>
+<description>This course will investigate the history of a number of stigmatized conditions and diseases including, for example, cancer, mental illness, addiction, obesity, AIDS, and disability. A central goal will be to understand the stigmatization of disease and its effects in diverse historical and cultural contexts. The course will evaluate both the impact of stigmatization on health disparities and outcomes, as well as attempts to de-stigmatize conditions that are subject to discrimination, prejudice, and isolation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2efd46cc48fdf41c5632d9b531704489">
+<name>
+<prefix/>
+<first>Allan</first>
+<middle>M.</middle>
+<last>Brandt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

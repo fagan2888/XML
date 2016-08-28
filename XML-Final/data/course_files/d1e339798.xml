@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21066" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>ir</num_char>
+</course_number>
+<title>Topics in the Mind/Brain Sciences: How the Mind/Brain Represents the World</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3:30-5:30</meeting_text>
+<faculty_text>Richard T. Born (Medical School), Alfonso Caramazza, and Guven Guzeldere</faculty_text>
+<description>Many questions in the contemporary cognitive sciences seem to benefit from a multi-disciplinary approach, and require a converging multi-layered explanation. MBB faculty in neurobiology, psychology, and philosophy explore topics that can be examined by research methods of the respective fields of study, presenting and discussing common questions from multiple perspectives. Ultimate goals are to (1) give a genuine sense of the difficult but rewarding nature of interdisciplinary work and (2) make progress on difficult questions in the mind-brain sciences through such collaboration. This year, seminar attempts to understand how the mind and brain represent the world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe569f7879a56830561b87a8fa02b882e">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>T.</middle>
+<last>Born</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2ae2216ea525af5369b50318866448f9">
+<name>
+<prefix/>
+<first>Alfonso</first>
+<middle/>
+<last>Caramazza</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F4a922861f4a830f7b94377ed5a1da0cd">
+<name>
+<prefix/>
+<first>Guven</first>
+<middle/>
+<last>Guzeldere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

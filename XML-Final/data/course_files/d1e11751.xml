@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6797" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AMER">
+<dept_long_name>Committee on Higher Degrees in American Studies</dept_long_name>
+<dept_short_name>American Studies</dept_short_name>
+</department>
+<course_group code="AMSTUDIES">American Studies</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Themes in American Studies</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>John Stauffer and Daniel P. McKanan (Divinity School)</faculty_text>
+<description>Interdisciplinary study of one or several topics.</description>
+<prerequisites/>
+<notes>Required of first and second-year graduate students in American Studies and open to others by permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5803a5a34ebf6e53757c113ac97051c0">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Stauffer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8014" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Russian</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Section I: M., W., F., at 9, Section II: M., W., F., at 11, with speaking practice Tu., Th., at 10, 11, 1, or 2. Tuesday/Thursday small group practice times are tentative and will be adjusted to accommodate student schedules.</meeting_text>
+<faculty_text>Steven Clancy, Natalia Chirkov, and others</faculty_text>
+<description>An introductory course in modern Russian language and culture, designed for students without previous knowledge of Russian who would like to speak Russian or use the language for reading and research. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Students are introduced to Russian culture and the etiquette of social exchanges, and expand their knowledge of grammar and vocabulary through readings (including stories, biography, and poetry), videos, and class discussions. This year-long full course satisfies the foreign language requirement and prepares students for continued study of Russian in intermediate (B-level) courses and for study or travel abroad in Russian-speaking countries.</description>
+<prerequisites/>
+<notes>See "Sectioning Note" above. Assumes no previous knowledge of Russian. Russian A, Russian Aab, and Russian At all prepare students to continue in Russian B, Bab, or Bt.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa6ffa0bcd38eb402c2792f25e123b620">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle>Georgievna</middle>
+<last>Chirkov</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa6ffa0bcd38eb402c2792f25e123b620">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle>Georgievna</middle>
+<last>Chirkov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="103B" type="Lecture"/>
+<location term="1" building="Science Center" room="103B" type="Lecture"/>
+<location term="1" building="Barker Center" room="103" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="103" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="012" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="012" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

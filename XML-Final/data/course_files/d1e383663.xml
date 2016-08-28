@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="732" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>278</num_int>
+</course_number>
+<title>Ecological Genetics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3:30</meeting_text>
+<faculty_text>Anne E. Pringle</faculty_text>
+<description>Ecological genetics explores the adjustments and adaptations of wild populations to their environment. We will use the primary literature to explore how diverse organisms are actually evolving in nature, and challenge the traditional divide between evolution and ecology.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F92bf392fb2c4554e75b618f46df64864">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle/>
+<last>Pringle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

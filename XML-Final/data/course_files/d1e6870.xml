@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70818" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>Anthropology of the Black Community</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Marcyliena Morgan</faculty_text>
+<description>This course examines anthropological theory, research and practice that relates to constructions of blackness as well as African-diasporic identities. African-diasporic contributions to anthropology as well as anthropological research and theory concerning Africana identities will be explored. This course introduces students to basic concepts and qualitative methods in the social sciences including ethnographic fieldwork and the analysis of face-to-face communication. It focuses on the details of everyday activities across a number of communities and interactive environments. It is meant to provide a bridge between communications, the social sciences, linguistics and socio-cultural anthropology through the introduction of concepts and analytical techniques that privilege observation, participation, video recording and transcription of spontaneous interaction (as opposed to experimental tasks or introspection).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a0c0ce8307e84e4b2dbe27a8ddce8c7">
+<name>
+<prefix/>
+<first>Marcyliena</first>
+<middle/>
+<last>Morgan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

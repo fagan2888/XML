@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73853" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>2335</num_int>
+</course_number>
+<title>Introduction to Mathematical Modeling in Human Evolutionary Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-5</meeting_text>
+<faculty_text>Peter T. Ellison</faculty_text>
+<description>This course will introduce students to the use and interpretation of the major forms of mathematical models used in contemporary evolutionary biology, including dynamical population models, game theoretic models, and agent-based models. Sophisticated mathematical training and ability are not required, but some familiarity with first year calculus is assumed. The course will include an introduction to relevant software packages for mathematical analysis and simulation. Application of mathematical models to contemporary topics and debates such as the evolution of cooperation and life history evolution will be explored. Students will develop a model of their own as a class project.</description>
+<prerequisites>Mathematics 1a,1b or equivalent strongly recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F31e24de260e2d35bbbf63b5092863309">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Ellison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

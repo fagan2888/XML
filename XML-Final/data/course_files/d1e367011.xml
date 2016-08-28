@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64447" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>172</num_int>
+</course_number>
+<title>Knowledge and Authority in Muslim Societies</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>F., 2-4</meeting_text>
+<faculty_text>Ousmane Oumar Kane</faculty_text>
+<description>This seminar will investigate the ways in which the production of knowledge affects the construction of authority in the Islamic world. It will look at how various forms of religious knowledge are acquired, legitimated, transmitted and/or contested within Muslim communities. Several types of knowledge will be: exoteric knowledge based on the Koran and other Islamic sciences, mystical knowledge as developed by the Sufis, and talismanic knowledge. Ulama trained in the exoteric sciences derived their authority from the conventional knowledge of the Koran, and religious sciences. Sufi masters derived theirs from their purported ability to explain the hidden meanings of the Koran, to provide spiritual training and guide the disciple in the path toward spiritual fulfillment. Finally, the credibility of talisman makers rested largely on their ability to use religious texts for purposes such as healing and bringing luck. Of course, the boundaries between these figures of authority are not rigid and some of them may engage in the activities of the other. The first part of the seminar will focus on pre-colonial Muslim societies and the second part on the impact of Western hegemony on the transmission of knowledge and construction of authority in the postcolonial Islamic world. Seminar participants will compare and contrast historical and contemporary experiences of transmission of knowledge and production of authority in various parts of the World of Islam and investigate the historical linkages between these regions.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3370.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F00abc6f9c5d7e8bf194316f8154b61b4">
+<name>
+<prefix>Prof</prefix>
+<first>Ousmane</first>
+<middle/>
+<last>Kane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

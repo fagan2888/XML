@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21718" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Cwfr</num_char>
+</course_number>
+<title>Introductory Fiction: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4-7 p.m.</meeting_text>
+<faculty_text>Amy Hempel</faculty_text>
+<description>An introduction to the short story with emphasis on amplifying the idea of what a story can be. We will look at a range of contemporary narrative strategies that exploit--in the best sense of the word--voice, character, place, logic, and (always) language. Readings will include Barry Hannah, Tillie Olsen, Leonard Michaels, Mark Richard, Mary Robison, Yasunari Kawabata, and selected poets. Short assignments will aim to strengthen writing at the sentence level, and suggest personal ways into the largest concerns. Students should expect to complete and revise two stories, and be prepared to discuss the work of colleagues each week.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0199a16a58dfcd529fc1d11ff71184ac">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hempel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0199a16a58dfcd529fc1d11ff71184ac">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hempel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Barker Center" room="018" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

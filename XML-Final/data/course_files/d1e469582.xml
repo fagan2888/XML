@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9500" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>219</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Tibetan Religious Literature: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Janet Gyatso (Divinity School)</faculty_text>
+<description>An intermediate to advanced reading class in Tibetan religious literature. The topic in Spring 2013 is Tibetan historiography. We will read several outstanding works that recount the past, including histories of the world, of Buddhism, of specific traditions, and of specific monasteries and places. Each present disparate notions of the past and its status vis-a-vis the present, how knowledge should be constituted and organized, how various discursive and poetic forms can effect that presentation, what kinds of things are most important to recount, and what is thereby accomplished.</description>
+<prerequisites>At least one full year of training in classical Tibetan is required.</prerequisites>
+<notes>An intermediate to advanced reading class on Tibetan religious literature. Offered jointly with the Divinity School as 3831.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb9495475596cf9db5d15efcee025f30c">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Gyatso</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

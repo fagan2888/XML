@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83909" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1544</num_int>
+</course_number>
+<title>Foundations of International Macroeconomic Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10:30-12</meeting_text>
+<faculty_text>Gita Gopinath</faculty_text>
+<description>This is an intermediate level international finance and macroeconomics course that uses a mix of theoretical, empirical, and policy frameworks to analyze topical problems in international finance. The core objective of the course is to develop simple macroeconomic models of open economies that can be usefully applied to international economic phenomena. We will examine the balance of payments, the determination of exchange rates, the effect of fiscal and monetary policies under fixed and floating exchange rate regimes, balance of payment crisis, international macroeconomic dependence, financial globalization, and the challenges facing developing economies. Recent issues such as the crisis in the Euro area and the sustainability of the Euro, the global transmission of the financial crisis, global imbalances, China's exchange rate policy, among others, will receive attention. Note: May not be taken for credit with Economics 1530 or 1435.</description>
+<prerequisites>Economics 1010b or 1011b. Students must be very comfortable with algebra and basic calculus.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb035630efb522eafd0a0e3b6faf4ca81">
+<name>
+<prefix/>
+<first>Gita</first>
+<middle/>
+<last>Gopinath</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1030" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1030" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

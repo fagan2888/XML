@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33514" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>181</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Asian American Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Ju Yon Kim</faculty_text>
+<description>This course is both a survey of Asian American literature and an introduction to ongoing debates about what constitutes Asian American literature. How do we determine that a literary work is "Asian American" when the term has been continuously revised and expanded since it came into common usage in the late 1960s? How important are considerations of a work's thematic concerns, its relationship to specific cultural forms and traditions, or its author's biography?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9be070bbc0c9ef235945d1a43c84ead9">
+<name>
+<prefix/>
+<first>Ju</first>
+<middle>Yon</middle>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

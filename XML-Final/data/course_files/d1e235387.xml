@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1428" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2133</num_int>
+</course_number>
+<title>Studies in Tudor and Stuart History: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mark A. Kishlansky</faculty_text>
+<description>A graduate colloquium designed for students preparing preliminary examinations in early modern history or interested in English historiography of the early modern period. Historiographical papers and reviews.</description>
+<prerequisites/>
+<notes>Open to undergraduates with consent of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F863cd63d49b513a1cce2f02af5bc25cf">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Kishlansky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

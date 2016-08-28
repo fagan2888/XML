@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57592" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>243</num_int>
+</course_number>
+<title>Topics in Philosophy of Mathematics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Peter Koellner and W. Hugh Woodin</faculty_text>
+<description>The topic will be the search for axioms that settle the statements left unsettled by ZFC. Topics include: The nature of justification in mathematics, axioms of infinity, definable determinacy, the continuum hypothesis, the HOD Conjecture, the search for a 'final' axiom and the candidate V = Ultimate-L.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb6a5bb857fc8a2313657081c234c4d7">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Koellner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F10daed89373b82326c891294391f7a94">
+<name>
+<prefix/>
+<first>W. Hugh</first>
+<middle/>
+<last>Woodin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="2 Arrow St." room="420" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

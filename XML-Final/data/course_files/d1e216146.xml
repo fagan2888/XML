@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4241" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1295</num_int>
+</course_number>
+<title>Comparative Politics in Latin America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Steven R. Levitsky</faculty_text>
+<description>Examines dynamics of political and economic changes in modern Latin America, focusing on Argentina, Brazil, Chile, Cuba, Mexico and Venezuela. Topics include the rise of populism and import-substituting industrialization, revolutions and revolutionary movements, the causes and consequences of military rule, the politics of economic reform, democratic transitions, and democratic consolidation. The course analyzes these phenomena from a variety of different theoretical perspectives, including cultural, dependency, institutionalist, and leadership-centered approaches.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d27de2a8fd5e5ed62cf9958612d777e">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>R.</middle>
+<last>Levitsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

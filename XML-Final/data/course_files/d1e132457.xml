@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60126" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>95</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Startup R &amp; D</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Paul Blake Bottino</faculty_text>
+<description>Students do field-based work in entrepreneurship to develop their existing startup and explore new ideas and opportunities for startup design. The course is for students seeking innovation experience as a founder of a startup. Students may work individually; teams are preferred. Requires self-directed, independent work and active outreach to mentors, customers, and partners for guidance and feedback in addition to that provided by the instructor. Students will share their work regularly and engage in a peer-to-peer feedback forum. The coursework is customized to the needs of each student and their startup role and includes development of product, technology, market, business, organization and leadership.</description>
+<prerequisites/>
+<notes>Enrollment limited; permission of instructor required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb80a2837abe1a0ac1766d2df81e4591d">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>B.</middle>
+<last>Bottino</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb80a2837abe1a0ac1766d2df81e4591d">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>B.</middle>
+<last>Bottino</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="100F" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

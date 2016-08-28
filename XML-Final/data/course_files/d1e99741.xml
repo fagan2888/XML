@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3864" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2326</num_int>
+</course_number>
+<title>Economic Development: Theory and Evidence</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:10&amp;#8211;11:30 and a Friday review session, 1:10 pm - 2:30 pm</meeting_text>
+<faculty_text>Asim I. Khwaja (Kennedy School), Rohini Pande (Kennedy School), and Lant Pritchett (Kennedy School)</faculty_text>
+<description>This course aims to study theories of economic (under)development and scrutinize empirical evidence in order to glean insights to design development policy. The course will identify key features of the development process across countries, and develop an analytical framework, grounded in economic theory, to better understand these patterns. We will then apply our frameworks combined with rigorous empirical evidence to identify when and how public policies can enable economic growth and development. Macro topics include economic growth and its proximate determinants; resource misallocation, learning and coordination and their impacts on productivity; the impact of historical forces on the evolution of (political) institutions and the development process; and the effect of external influences on development. Micro topics include the determinants of and returns to investments in (health and education) human capital; credit markets, savings behavior, and the returns to financial capital; gender; behavioral economics in development; and governance and corruption.</description>
+<prerequisites>This course requires multivariate calculus and a basic understanding of statistical methods, micro and macroeconomics. Students taking these courses concurrently should seek the instructors' permission.</prerequisites>
+<notes>Jointly offered with the Kennedy School is PED-101.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffc20f42813e15e7f1d33b756a0c2cedf">
+<name>
+<prefix/>
+<first>Asim</first>
+<middle>Ijaz</middle>
+<last>Khwaja</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6dc0a1b9b5a2bef198e39d7d39ea50ba">
+<name>
+<prefix/>
+<first>Rohini</first>
+<middle/>
+<last>Pande</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff08931e568edb2dee6e2e270dbb1f26a">
+<name>
+<prefix/>
+<first>Lant</first>
+<middle/>
+<last>Pritchett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1010" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1010" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

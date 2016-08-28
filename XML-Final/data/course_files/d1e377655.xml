@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72331" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Genetics and Genomics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Kirsten Bomblies and Daniel L. Hartl (Public Health)</faculty_text>
+<description>Fundamental concepts in genetics and genomics forming a critical foundation for biology approached from two perspectives: (1) as a body of knowledge pertaining to genetic transmission, function, mutation, and evolution in eukaryotes and prokaryotes; and (2) as an experimental approach providing a toolkit for the study of biological processes such as development and behavior. Topics include structure, function, transmission, linkage, mutation, and manipulation of genes; genetic approaches in experimental studies of biological processes; and analysis of genomes in individuals and populations. Related ethical issues also discussed include genetically modified organisms, gene therapy, genetic testing, personalized medicine, and genetic privacy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F25f26f1ca0e453ce2ed25d918455e1e3">
+<name>
+<prefix/>
+<first>Kirsten</first>
+<middle/>
+<last>Bomblies</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Feb92edece3664d6292f81f48e2ccf405">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>L.</middle>
+<last>Hartl</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LAW - Pound Hall" room="200" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

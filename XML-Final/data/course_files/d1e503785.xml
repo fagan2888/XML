@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75974" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>New Grounds: Painting Course</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Wednesday 1-4 and 6-9</meeting_text>
+<faculty_text>Matthew Saunders</faculty_text>
+<description>What role does a studio "foundation" play in a technologically and ideologically diverse moment? This will be a painting foundations course, with an emphasis on building skills and exposure to different materials and methods; yet, we also aim to question what the grounds for a painting practice could be, with consideration of conceptual and personal motivation, technical proficiency, and openness to process and experimentation.</description>
+<prerequisites/>
+<notes>Open to beginners, while also appropriate for more advanced students.The first meeting of this class will be Wednesday, Sept. 3 at 1pm to 2pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3e936c2d950dc127d7c39ea0370212d3">
+<name>
+<prefix/>
+<first>Matt</first>
+<middle/>
+<last>Saunders</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="3rd Floor Painting Studio" type="Studio"/>
+<location term="1" building="Carpenter Center" room="3rd Floor Painting Studio" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

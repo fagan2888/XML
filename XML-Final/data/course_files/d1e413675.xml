@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26285" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1515</num_int>
+</course_number>
+<title>Psychology of Groups at Work</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Allison Elizabeth Seitchik</faculty_text>
+<description>This course seeks to understand the psychological dynamics of groups in work settings. This includes understanding the cohesion and development of groups (e.g., learning, satisfaction, commitment), interpersonal processes and relationships that occur between group members as they work together (e.g., information sharing, competition and conflict, conformity) and motivational factors that influence group performance (e.g., groupthink, social facilitation). Past and present empirical research and theory will be examined.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4ed65f15f44ef43f044c37d0b84cda35">
+<name>
+<prefix/>
+<first>Allison</first>
+<middle>Elizabeth</middle>
+<last>Seitchik</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

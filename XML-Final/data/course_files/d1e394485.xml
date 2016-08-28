@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82209" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSCI">Physical Sciences</course_group>
+<course_number>
+<num_int>12</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Electromagnetism and Statistical Physics from an Analytic, Numerical and Experimental Perspective</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Efthimios Kaxiras</faculty_text>
+<description>This is the second term of a two-semester introductory sequence that uses a combination of analytic and numerical methods to understand physical systems, to analyze experimental data, and to compare data to models. Topics include electrostatics and magnetostatics, electromagnetic fields, optics [all topics illustrated with applications to current technological and societal challenges], and an introduction to the physics of many-body systems and their aggregate properties such as entropy, temperature and pressure. The course is aimed at second year students who have an interest in pursuing a concentration in the sciences and/or engineering. The course structure includes lecture, discussion and laboratory components.</description>
+<prerequisites>Physical Sciences 12a</prerequisites>
+<notes>May not be taken for credit by students who have passed Physics 15b or Physics 15c. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe593094de525dcee02a56c2cae7ac4ab">
+<name>
+<prefix/>
+<first>Efthimios</first>
+<middle/>
+<last>Kaxiras</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" B" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

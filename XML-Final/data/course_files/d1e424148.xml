@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8780" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_char>Acd</num_char>
+</course_number>
+<title>Intensive Beginning French: Parisian Identity through Visual Media</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M. through F., at 10 and Tu., Th., at 11</meeting_text>
+<faculty_text>Nicole Mills and members of the Department</faculty_text>
+<description>This intensive Beginning French course provides an accelerated introduction to Beginning French with intensive work on interpersonal communication and interpreting and producing language in written and oral forms. Students explore diverse facets of Parisian identity through the interpretation of various forms of visual media. Students learn to speak and write in the past, present, and future, make descriptions, ask questions, make comparisons, accept and refuse invitations, give advice, and express hypothetical situations, emotions, and opinions.</description>
+<prerequisites>An advanced knowledge of at least one foreign language but no previous study of French.</prerequisites>
+<notes>May not be used to fulfill the language requirement and may not be taken Pass/Fail or Sat/Unsat. Not open to auditors. Students must participate in an interview with the French Acd course head and receive permission to enroll in the course. The on-line request form is available on the French Acd iSite and must be submitted by August 26, 2014 (Fall Term) and January 15, 2015 (Spring Term).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fad9225c1e4b3620ce2e8a09c383ae23c">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle/>
+<last>Mills</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fad9225c1e4b3620ce2e8a09c383ae23c">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle/>
+<last>Mills</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="101" type="Speaking Section"/>
+<location term="1" building="Sever Hall" room="101" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

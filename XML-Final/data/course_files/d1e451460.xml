@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51741" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>94</num_int>
+</course_number>
+<title>Qualitative Research in Education</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Tiffanie Lui Ting</faculty_text>
+<description>What can qualitative approaches to research add to our understanding of education, in an era where 'data' are often equated with numbers? In this course, we will examine qualitative methods as a complement and counterpoint to mainstream paradigms in education research. Students will design and implement a small pilot study on an education topic of choice. We will investigate the process of research design, including question formulation, selecting appropriate tools for data collection, and strategies for analyses. The work will be informed by critical reading and discussion of empirical and theoretical scholarship on the intersection of culture, community, and education.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0ab9034e5bd2dcca7fbb25320ed4cf57">
+<name>
+<prefix/>
+<first>Tiffanie</first>
+<middle>Lui</middle>
+<last>Ting</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

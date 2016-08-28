@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4016" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1900</num_int>
+</course_number>
+<title>Introduction to Statistics for the Behavioral Sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M, W, at 10, and an additional lab to be arranged</meeting_text>
+<faculty_text>Patrick Mair (fall term) and Max Krasnow (spring term)</faculty_text>
+<description>Provides a conceptual and practical introduction to statistics used in psychology and other behavioral sciences. Covers basic topics in statistics including: measures of central tendency and variability; probability and distributions, correlations and regression, hypothesis testing, t-tests, analysis of variance, and chi-square tests. Includes a lab section with instruction in statistical analysis using a computer program.</description>
+<prerequisites/>
+<notes>Open to freshmen with permission of instructor. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc9dd0c4d5eb1ad776e18b793690ef577">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle/>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F01256661bd44f6545a699425f29f381f">
+<name>
+<prefix/>
+<first>Max</first>
+<middle/>
+<last>Krasnow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="108" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1691" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>Stress and Disease (Biobehavioral Aspects of Health and Disease)</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Donald B. Giddon (Dental School)</faculty_text>
+<description>This seminar on biobehavioral bases of health and disease focuses on the interaction of injurious or infectious agents and the physical and social environment in the development and maintenance of stress-related disorders. What factors are stressful for given individuals? What are the pathophysiological and/or behavioral pathways to disease? Why is a particular body organ system the target of stress? What psychological, social, and economic factors influence cognitive, affective/physiological, and behavioral responses to disease?</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Most class meetings will be at the Medical School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faefbcf1f776234e5baf6634c155706f6">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle>B.</middle>
+<last>Giddon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="190 Longwood Ave." room="502" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87128" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>211</num_int>
+</course_number>
+<title>The Jurisprudence of the Supreme Constitutional Court (SCC) of Egypt between 2011 and 2014: Aspects of Constitutional Doctrine</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Baber Johansen (Divinity School)</faculty_text>
+<description>The aim of this seminar is to study the SCC's role in the transition processes between the presidencies of Nasser and Mubarak, on the one hand, the presidencies of Mubarak to Mursi and from Mursi to the situation of 2014. Under all these regimes the SCC 's task is to guarantee the state's abidance by its constitutional obligations in the field of legal procedure and democratic principles. In a first step we will compare the tasks assigned to the highest courts of the different branches of the judiciary in Egypt and the way in which the SCC is integrated into this hierarchy of this courts. In a second step we will study the way in which the SCC in the past acted as guarantor of constitutional norms with special consideration of Human Rights, the interpretation of Islamic Law as a constitutional source of national legislation and the state's prerogative of ruling under rules of emergence. Finally, we will focus on the role of the SCC as actor in the transition from the Mubarak to the Mursi presidency and from the Mursi regime to the regime under the control of the military that came into existence between July 2013 and February 2014. For the first and the second part we will mainly rely on the texts of the constitutions of 1971 and 1980 and on secondary literature on the court's jurisprudence. The third part will mainly be based on the texts of the constitutions of 2012 and 2014, on the political calendar of the years 2011-2014 and on BJ's translations of some of the most important decisions of the SCC during the 2011-2014 period and the analysis of their function in the transition process.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3494.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fad340526f473644aeb62ddb5a4aa58a4">
+<name>
+<prefix/>
+<first>Baber</first>
+<middle/>
+<last>Johansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7865" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2640</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>The Understand Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-4:30</meeting_text>
+<faculty_text>Mahzarin R. Banaji</faculty_text>
+<description>Topic to be announced.</description>
+<prerequisites/>
+<notes>Open to graduate students involved in research in the instructor's laboratory, and to select juniors and seniors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1430" end_time="1630"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1430" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1510" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

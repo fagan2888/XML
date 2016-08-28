@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90007" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1759</num_int>
+</course_number>
+<title>The Financial System and the Central Bank</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1&amp;#8211;2:30</meeting_text>
+<faculty_text>Jeremy C. Stein</faculty_text>
+<description>This course analyzes the modern financial system. Topics include: (i) the behavior of various types of intermediaries (e.g., banks, broker-dealers, mutual funds, hedge funds); (ii) key elements of the system's plumbing and infrastructure; (iii) sources of systemic risk; and (iv) the multiple roles of the central bank as monetary policymaker, lender of last resort, and regulator.</description>
+<prerequisites>Economics 1723 or 1745, or instructor's permission.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0a57416de201ff974280b4ce2b56a0ae">
+<name>
+<prefix/>
+<first>Jeremy</first>
+<middle>C.</middle>
+<last>Stein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

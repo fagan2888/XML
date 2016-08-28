@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7425" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>96</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Community Based Research</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Matthew E. Kaliner</faculty_text>
+<description>One of the few courses at Harvard that integrates students' participation in activities outside the University with course work. Course integrates readings with hands-on research projects in the Boston area. Topics vary; refer to course website for details. Previous topics have included: immigration, marginalization, adolescents, civic activity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F610fb9d76043d30fa5f13c355af54ee5">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Erik</middle>
+<last>Kaliner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25891" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>141</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Physics of Living Systems: Organism, Populations and Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Erel Levine</faculty_text>
+<description>In this class we introduce discuss physical and quantitative aspects of multi-scale organization in biology. We will study the mechanics, dynamics and statistical physics of embryonic development, and see how physics-based approaches are used in an attempt to understand cancer. We will look at collective animal behaviors, the dynamics of population, ecology and extinction. Finally, we will study models of evolution and population genetics.</description>
+<prerequisites>Prerequisites: Physics 15a,c (required) Physics 140 and Physics 181 (recommended)</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F18954c5c1be95e993faea05126a04579">
+<name>
+<prefix/>
+<first>Erel</first>
+<middle/>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

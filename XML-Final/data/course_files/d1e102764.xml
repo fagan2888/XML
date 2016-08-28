@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46583" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2510</num_int>
+</course_number>
+<title>Inside Government: Making Public Policy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Cass Robert Sunstein (Law School) and Lawrence H. Summers</faculty_text>
+<description>This seminar will explore an assortment of issues, ranging from environmental regulation (including climate change) to financial regulation to public health, at the intersection of theory and practice. Among other things, the seminar will discuss the role of cost-benefit analysis, legal limits on regulation, and both standard and behavioral economics.</description>
+<prerequisites>Instructor permission is required.</prerequisites>
+<notes>Jointly offered with the Kennedy School as BGP-300 and the Law School as 2623.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6ea8d47e85bb242328ef504baad2cecf">
+<name>
+<prefix/>
+<first>Cass</first>
+<middle>Robert</middle>
+<last>Sunstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F020bdb00b65eac0a29b5330cde1c3440">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>H.</middle>
+<last>Summers</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

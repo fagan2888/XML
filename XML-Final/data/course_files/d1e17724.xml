@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1267" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1820</num_int>
+</course_number>
+<title>Japan in the Ethnographic Gaze: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Theodore C. Bestor</faculty_text>
+<description>We examine ethnographies of Japan from the 1930s to the present to illuminate how Japan, as a cultural and social "whole," has been ethnographically problematized and re-problematized in different eras, from different theoretical interests such as culture-and-personality, modernization, and tradition, structuralist, post-structuralist, and cultural studies.</description>
+<prerequisites/>
+<notes>No prerequisites; open to all concentrators, esp. in Anthropology, East Asian Studies, and Music.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F77ffed0ff6ba63862f7a3bd6b3205e91">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle>C</middle>
+<last>Bestor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

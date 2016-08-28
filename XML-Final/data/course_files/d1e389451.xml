@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5374" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Plato</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 12</meeting_text>
+<faculty_text>Russell Edward Jones</faculty_text>
+<description>A survey of Plato's views, with special attention to the nature of philosophical wisdom and its place in the good life. Likely readings include Apology, Gorgias, Meno, and Protagoras, with additional selections from Phaedo, Philebus, Republic, and Theaetetus. While our primary task is to understand and evaluate the theories expressed in Plato's dialogues, a secondary task is to examine issues of interpretive methodology that arise given that Plato wrote dialogues which predominantly feature a historical figure (Socrates) and which may or may not express a consistent set of views.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fac78e49932a94b4b4ac4422d4e70a2da">
+<name>
+<prefix/>
+<first>Russell</first>
+<middle>Edward</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="307" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6714" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>161</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Composition</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Chaya Czernowin</faculty_text>
+<description>Advanced course in musical composition. Focus on the string quartet, including contemporary repertoire survey, short exercises, and a final project of modest dimensions Consists of a mixture of one-on-one and group meetings.</description>
+<prerequisites>One course in theory/composition or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F06f66f7c774fad860392176f6b60cd51">
+<name>
+<prefix/>
+<first>Chaya</first>
+<middle/>
+<last>Czernowin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

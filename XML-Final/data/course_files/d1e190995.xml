@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1987" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>45</num_int>
+</course_number>
+<title>The History of the English Language</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Daniel G. Donoghue (English)</faculty_text>
+<description>Everyone who uses English has experienced its idiosyncrasies. Why is pronunciation at odds with spelling? Why so many irregular verbs? What happened to "thou"? What did Shakespeare sound like? How do we know? What about the current stature of English as a world language? This course addresses such questions as it surveys the long history of the language. While the topic is fascinating on its own, a historical knowledge of English gives critical and creative writers more command over the medium of their craft; it also sharpens reading skills. Lectures will be supplemented by exercises from the course website.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief or Aesthetic and Interpretive Understanding, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F307f0d7f3dc57c87ae2a6fd35de718f1">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>G.</middle>
+<last>Donoghue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="110 (Fong Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

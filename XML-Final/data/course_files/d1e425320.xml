@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2865" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>70</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Introduction to French Literature I: From the Middle Ages to Eighteenth Century</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and an additional weekly section hour to be arranged</meeting_text>
+<faculty_text>Tom Conley</faculty_text>
+<description>Readings and discussion of texts of various genres representative of central trends in French literature from the Middle Ages through the 18th century. Emphasis on developing analytical skills by tracing the transformations of ethical, literary, philosophical and social currents.</description>
+<prerequisites>A 50- or 60-level course in French; a score above 780 on the SAT II test or the Harvard Placement test; equivalent preparation; or permission of course head.</prerequisites>
+<notes>Conducted in French.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F569ffa4e5a2c7bee4bc3011c0802175b">
+<name>
+<prefix/>
+<first>Tom</first>
+<middle/>
+<last>Conley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="335" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

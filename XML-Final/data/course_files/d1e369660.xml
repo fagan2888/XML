@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6949" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MOD-HEB">Modern Hebrew</course_group>
+<course_number>
+<num_int>241</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Seminar in Modern Hebrew: Israeli Culture: Cinema &amp; Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-4</meeting_text>
+<faculty_text>Irit Aharony</faculty_text>
+<description>This course constitutes the final level of Modern Hebrew language studies. The course offers representative readings and screenings from contemporary Israeli literature and cinema, and it forms bases of discussion on major cultural and linguistic themes through academic readings. We will focus on the theme of the family in Israeli culture and relationships between fathers and sons in "Far away Islands"; "Book of Intimate Grammar"; the new series "Shtissel"; and more.</description>
+<prerequisites>Modern Hebrew 130b or equivalent.</prerequisites>
+<notes>Discussions, papers, movies and texts presented only in Hebrew. Not open to auditors. Offered jointly with the Divinity School as 4045.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6471fa9bc0c0201cd7ecc3d600adda03">
+<name>
+<prefix/>
+<first>Irit</first>
+<middle/>
+<last>Aharony</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="310" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

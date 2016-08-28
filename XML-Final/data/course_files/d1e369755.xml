@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88561" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MODMIDEAST">The Modern Middle East</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ali S. Asani, William E. Granara, Susan M. Kahn, Malika Zeghal and members of the Department</faculty_text>
+<description>Tutorial supervision of research in subjects not treated in regular courses.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6818373fb70763d8bf0e77c8ad5d3970">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe6948c0967ee2cd544963b4bed2aad8d">
+<name>
+<prefix/>
+<first>Malika</first>
+<middle/>
+<last>Zeghal</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6818373fb70763d8bf0e77c8ad5d3970">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe6948c0967ee2cd544963b4bed2aad8d">
+<name>
+<prefix/>
+<first>Malika</first>
+<middle/>
+<last>Zeghal</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

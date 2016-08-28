@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32665" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>154</num_int>
+</course_number>
+<title>Advanced Inorganic Chemistry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Daniel Nocera</faculty_text>
+<description>The physical inorganic chemistry of transition elements will be discussed. The course will emphasize group theoretical methods of analysis and attendant spectroscopic methods (e.g., electronic, vibrational, EPR, magnetic) derived therefrom. Connections between molecular structure and electronic structure and how that parlays into the properties of complexes and their reactivity will be illustrated throughout various modules, which will touch on advanced problems of interest in the subjects of catalytic, organometallic, coordination, solid state and bioinorganic chemistries.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1eb1f4f0a87e4ba774237178099dc311">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Nocera</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

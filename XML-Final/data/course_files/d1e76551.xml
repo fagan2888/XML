@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24345" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EABS">East Asian Buddhist Studies</course_group>
+<course_number>
+<num_int>255</num_int>
+</course_number>
+<title>Readings on Chinese Religions: Recent Scholarship on Chinese Buddhism and Daoism: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>James Robson</faculty_text>
+<description>This seminar aims to discuss significant new works in the field of Chinese Religions by focusing on the historical, doctrinal, and philosophical development of the Buddhist tradition in China.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3232.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="214" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

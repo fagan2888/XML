@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14159" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Deconstructing Rome</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Federica G. Pedriali (University of Edinburgh)</faculty_text>
+<description>The course uses Paolo Sorrentino's latest Roman films "Il divo" (2008) and "La grande bellezza" (2013) to frame a selective deconstruction of the Eternal City. Units of work include Genius of Rome (broadly based on a long view of the city's primary logistics: place and time), Grand Narratives (focussing on an evolving Roman mythology driven by polarised qualifiers and tags), Individual Trajectories (looking a tthe impact made by Rome on travellers from different periods) and The Hope of Rome: Resurrection vs Resurgence (Tackling the city's role in and since the Risorgimento and particularly under facism). An additional feature of this main menu will be ample selections from films and works of fiction inspired by Rome, involving films by Rossellini, Fellini, Germi, Antonioni, De Sica, and Pasolini and novels by Moravia, Pasolini, Gadda, and Morante. In a fitting methodological twist, the continuing centrality of Rome in the age of globalisation will emerge from the application of key theoretical raedings by contemporary thinkers and planners.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9c344e8fee138325a51eb096d9141866">
+<name>
+<prefix/>
+<first>Federica</first>
+<middle>G</middle>
+<last>Pedriali</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="403" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

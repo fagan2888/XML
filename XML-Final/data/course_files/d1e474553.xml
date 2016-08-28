@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40069" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>300</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Research in Statistics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Participants discuss recent research in statistics and present their own work in progress. Open to doctoral students in statistics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F8ba0c60082a7b78f58b864c49c97b3ae">
+<name>
+<prefix/>
+<first>Neil</first>
+<middle/>
+<last>Shephard</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F8ba0c60082a7b78f58b864c49c97b3ae">
+<name>
+<prefix/>
+<first>Neil</first>
+<middle/>
+<last>Shephard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

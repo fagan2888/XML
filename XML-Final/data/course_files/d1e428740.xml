@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44998" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Upper-Level Italian: Italian Through Art</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through Th., at 12</meeting_text>
+<faculty_text>Elvira G. DiFabio and members of the Department</faculty_text>
+<description>Revisiting structures and refining speaking and writing skills through an arts interface. Students work closely with the collection at the Harvard Art Museum for assignments that build on receptive and productive communicative skills. Course materials may include films, popular music, operatic libretti and literary texts. Consult course website for current semester topics.</description>
+<prerequisites>Italian C, Ca, Cb, or Dab; a score of 601-680 on the SAT II test or the Harvard Placement test; or permission of course head.</prerequisites>
+<notes>Conducted in Italian. May not be taken by students who have previously taken Italian 35 or 36. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96194" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.270</num_char>
+</course_number>
+<title>Breaking the Rules</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Margaret Cameron Rennix</faculty_text>
+<description>Everyone lives by rules, no matter how free they feel. This course uses literature and film to interrogate the relationship between social rules and individual freedom while considering the following questions: What does it mean to be "free"? How does social obligation impact our personal freedom? Are we even aware of the ways that society controls our behavior, or are rules of social conduct largely invisible? Course texts include short stories by Willa Cather, Flannery O'Connor and National Book Award winner Ha Jin, the films The Graduate and Mean Girls, and the television series Mad Men and Downton Abbey.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4fd74c230332691093c389b3fe660919">
+<name>
+<prefix/>
+<first>Margaret</first>
+<middle>Cameron</middle>
+<last>Rennix</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LISE" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

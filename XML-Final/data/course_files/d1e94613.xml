@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9613" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1642</num_int>
+</course_number>
+<title>Advanced Industrial Organization</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Marc Rysman</faculty_text>
+<description>Theory and modern empirical techniques in industrial organization. Topics may include static analysis and estimation of market equilibrium; dynamic models of entry and investment; price discrimination, collusion, mergers and vertical control, with applications to antitrust policy; and issues in auctions and market design.</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a; Economics 1123 or 1126.</prerequisites>
+<notes>Optional writing Requirement: This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement. This is a hands-on course, and students will be expected to use Stata or other statistical software to perform data analysis.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

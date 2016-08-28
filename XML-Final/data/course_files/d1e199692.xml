@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9691" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>33</num_int>
+</course_number>
+<title>Tokyo</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Theodore C. Bestor (Anthropology)</faculty_text>
+<description>Tokyo has been one of the world's great metropolitan centers since the 17th century, both the urban hub of Japanese society and culture, and the place where Japanese domestic society and global influences have intersected. This course examines trajectories of change in Tokyo's urban culture, lifestyles, social structure, and spatial environment across the city's history, using ethnography, history, literature, diaries, architecture, photography, art, cartography, animation, film and the Internet to explore Tokyo as an urban culture in comparative perspectives drawn from anthropology, history, and other social sciences.</description>
+<prerequisites/>
+<notes>Graduate students interested in this course should enroll in Anthropology 2682, which requires permission of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F77ffed0ff6ba63862f7a3bd6b3205e91">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle>C</middle>
+<last>Bestor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

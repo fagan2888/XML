@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17382" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>International Trade Policy</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Elhanan Helpman</faculty_text>
+<description>Provides a discussion of the economic impacts of international trade policies and the political economy of trade policy formation. The course will focus on analytical methods and therefore requires knowledge of calculus.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F90183712bbdec3def7bc00d9614d2e4c">
+<name>
+<prefix/>
+<first>Elhanan</first>
+<middle/>
+<last>Helpman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-15" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

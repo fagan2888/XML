@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2419" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1304</num_int>
+</course_number>
+<title>Brain Damage as a Window into the Mind: Cognitive Neuropsychology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1:30-4</meeting_text>
+<faculty_text>Alfonso Caramazza</faculty_text>
+<description>Examines the patterns of perceptual, motor, cognitive, and linguistic impairments resulting from brain damage. The focus is on the implications of the various types of neuropsychological deficits (such as visual neglect, dyslexia, and aphasia) for theories of the mind and the functional organization of the brain.</description>
+<prerequisites>Science of Living Systems 20 and Psych13, Psych 14, or MCB 80.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2ae2216ea525af5369b50318866448f9">
+<name>
+<prefix/>
+<first>Alfonso</first>
+<middle/>
+<last>Caramazza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="4" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

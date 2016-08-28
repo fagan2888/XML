@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23151" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>y</num_char>
+</course_number>
+<title>The Economy of China</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Richard N. Cooper</faculty_text>
+<description>This course critically examines China's remarkable economic performance since 1980 and places this performance in comparative context. Topics covered include China's economic structure, institutions, inequality, trade, population, and public policy.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7eb8efac2b529fa5cc85c4ba14fda75d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>N.</middle>
+<last>Cooper</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

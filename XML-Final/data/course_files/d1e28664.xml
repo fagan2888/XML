@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32079" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>201</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory Rotations</title>
+<course_type>Research Workshop</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Brendan D. Manning (Public Health)</faculty_text>
+<description>Members of the Division of Biological Sciences offer hands-on experimental methods of research in biological sciences. Students write a paper and give an oral presentation regarding their 10-week laboratory project.</description>
+<prerequisites/>
+<notes>Offered jointly with the School of Public Health as DBS 300.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fee89aadf6fc5b6ed34c01323ef6fb8fe">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle/>
+<last>Manning</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fee89aadf6fc5b6ed34c01323ef6fb8fe">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle/>
+<last>Manning</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

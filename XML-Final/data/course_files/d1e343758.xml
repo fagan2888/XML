@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62117" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>198</num_int>
+</course_number>
+<title>Advanced Mathematical Techniques for Modern Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30, and a one-hour section meeting weekly.</meeting_text>
+<faculty_text>Sharad Ramanathan and L. Mahadevan</faculty_text>
+<description>How do we find biologically meaningful patterns in a large amount of data? How do animals learn to use patterns in the environment to infer information despite the ignorance of the underlying laws? The course will introduce Bayesian analysis, maximum entropy principles, hidden markov models and pattern theory in order to study DNA sequence, gene expression and neural spike train data. The relevant biological background will be covered in depth.</description>
+<prerequisites>A strong background in calculus, linear algebra, fourier analysis, complex analysis at the advanced undergraduate level and an introductory knowledge of probability theory is required. Knowledge of statistical mechanics and comfort with programming will be useful.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6c7a7aec2a631c9b28d1fd9bdb5f6b8c">
+<name>
+<prefix/>
+<first>Sharad</first>
+<middle/>
+<last>Ramanathan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F63925d7ade12aca67799a2c30951e08f">
+<name>
+<prefix/>
+<first>Lakshminarayanan</first>
+<middle/>
+<last>Mahadevan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

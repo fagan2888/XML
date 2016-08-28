@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83151" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>32</num_int>
+</course_number>
+<title>Security: Carefree or Careless</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>T., 1-3, and a weekly section to be arranged</meeting_text>
+<faculty_text>John T. Hamilton (Comparative Literature)</faculty_text>
+<description>The term "security" has enjoyed a complex and ambivalent career. Broadly defined as a "removal of care," security leaves its subjects either carefree or careless. Pursuing an itinerary from the Stoics to psychoanalysis, from international relations to feminist theory, the course draws out the ethical implications of the persistent concern to be free of concern. Does "security" make us vigilant or negligent, confident or complacent? Does it promote more fear than it assuages? Is a security purchased with freedom or human rights morally viable? Such questions broach a more informed, nuanced, and critical engagement concerning our civic, professional and personal lives.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4bfbc0671777708c7f556a2d9ecf2d1f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>T.</middle>
+<last>Hamilton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="110 (Fong Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

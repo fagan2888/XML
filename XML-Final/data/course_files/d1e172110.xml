@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18681" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Hero and Trickster</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Deborah D. Foster</faculty_text>
+<description>Human imagination has conjured two enduring mythic characters that create habitable worlds for people in stories from cultures all over the world. Sometimes branded Hero, sometimes Trickster, these two share traits and antics, yet they seem to endorse fundamentally different values. This seminar examines both hero and trickster in several cultural contexts, comparing them with each other and with their correlates worldwide, primarily in oral traditions, but also where each has migrated to other media.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F83d1a11d2876209fab0af5af3824d31e">
+<name>
+<prefix/>
+<first>Deborah</first>
+<middle/>
+<last>Foster</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

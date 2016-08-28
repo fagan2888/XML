@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15582" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>28</num_int>
+</course_number>
+<title>Material Systems: Designing Composites for the Architectural Envelope</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Digital design and fabrication methods available to composite material manufacturing have been employed by the automotive, marine, and aerospace industries for some time, allowing significant advancements in performance. Not yet a material system commonly employed by the construction industry, contemporary architecture is positioned to benefit from the adoption of this material system and the highly customizable opportunities it offers. Offered as a limited enrollment seminar/workshop, this course will focus on designing and prototyping envelope systems constructed of resin-infused fiber composite parts. Particular interest will be placed on controlling the direct correlation between geometry and material performance within the design solution. Workshops addressing the related material processes and necessary digital design tools will be offered as part of the weekly course content.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as GSD-6437. Meets at GSD.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4cfd370811badb52758c9bc4c2d3fff2">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Anthony</middle>
+<last>Nastasi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

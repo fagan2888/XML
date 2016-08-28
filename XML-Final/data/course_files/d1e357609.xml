@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90343" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="AKKAD">Akkadian</course_group>
+<course_number>
+<num_int>157</num_int>
+</course_number>
+<title>Introduction to Old Assyrian Language and History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11-12:30</meeting_text>
+<faculty_text>Gojko Barjamovic</faculty_text>
+<description>Readings of texts in the Assyrian dialect of the period c. 1920-1720 BCE. Examples include loans and quittances, caravan texts, commercial records, partnership contracts, business letters, family and state law, political treaties, royal inscriptions, incantations and literature. The course will integrate the textual record with an overview of Anatolian history and material culture during the period in question.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b00dba177010d0334940507032e9f1b">
+<name>
+<prefix/>
+<first>Gojko</first>
+<middle/>
+<last>Barjamovic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

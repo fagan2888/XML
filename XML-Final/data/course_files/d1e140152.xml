@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1158" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>271</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Mixed-Signal Integrated Circuits</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Gu-Yeon Wei</faculty_text>
+<description>A seminar course that reviews research and development of various topics in integrated circuits and systems for low-power and/or high-performance computing.</description>
+<prerequisites>Computer Science 148 or equivalent, and Computer Science 146 or equivalent, or with permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F063876c2f5543019b6a04716e8381f95">
+<name>
+<prefix/>
+<first>Gu-Yeon</first>
+<middle/>
+<last>Wei</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26591" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>14</num_int>
+</course_number>
+<title>Fat Chance</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Joseph D. Harris (Mathematics) and Benedict H. Gross (Mathematics)</faculty_text>
+<description>This course has three objectives: to learn to calculate probabilities precisely, when we can; to learn how to estimate them, when we can't; and to say exactly what we can and can't infer from these calculations. The course is not mathematically demanding--we assume no mathematical background beyond high-school algebra--but the goal is serious: given that we're asked every day to make consequential decisions on the basis of incomplete knowledge, an understanding of basic probability is an essential tool for life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe6f18d4634271edac6e6dc1f6d6cffed">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>D.</middle>
+<last>Harris</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff1e7055050b99585093c11ed057ec099">
+<name>
+<prefix/>
+<first>Benedict</first>
+<middle>H.</middle>
+<last>Gross</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="250" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

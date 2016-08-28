@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19375" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_int>118</num_int>
+</course_number>
+<title>Homeric Hymns</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12</meeting_text>
+<faculty_text>Albert Henrichs</faculty_text>
+<description>Close readings of the Homeric Hymns to Aphrodite, Apollo, Demeter, Dionysos and Hermes, with particular attention to hymnic convention, mythical narratives, and Greek ways of talking about the gods.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4c6dbd72881ea2d5bbe91765f27926d">
+<name>
+<prefix/>
+<first>Albert</first>
+<middle>M.</middle>
+<last>Henrichs</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

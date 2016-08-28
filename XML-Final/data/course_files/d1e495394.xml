@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16899" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1448</num_int>
+</course_number>
+<title>Mystical Theology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Charles Stang (Divinity School) and Amy Hollywood (Divinity School)</faculty_text>
+<description>This course will examine the history of mystical theology in early and medieval traditions of Christianity. Through a close reading of primary texts in translation students will engage questions of divine mystery, transcendence, and hiddenness; the practice of affirmation (kataphasis) and negation (apophasis); mystical union; and the limits of language.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2003.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe9bc22fc6b2851dc933d5d6554ba2073">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Marshall</middle>
+<last>Stang</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fafbd3e99de6a166b7b2c49293643d510">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hollywood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

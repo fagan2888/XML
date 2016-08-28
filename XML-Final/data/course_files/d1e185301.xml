@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7613" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>14</num_int>
+</course_number>
+<title>Putting Modernism Together</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Daniel Albright (English)</faculty_text>
+<description>Just as a pine or a willow is known from the shape of its branching, so human culture can be understood as a growth-pattern, a ramifying of artistic, intellectual, and political action. This course tries to find the center of the Modernist movement (1872-1927) by studying the literature, music, and painting of the period, to see whether some congruence of effort in all these media can be found. By looking at the range of artistic production in a few key years, we come to know this age of aesthetic extremism, perhaps unparalleled in Western history.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2daea07f033d736ce13802c4a43535c5">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Albright</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="201" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

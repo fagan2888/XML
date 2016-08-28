@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48018" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1912</num_int>
+</course_number>
+<title>History Design Studio</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Vincent Brown</faculty_text>
+<description>Weekly seminar and studio for multimedia history. The course encourages students to design new modes of historical storytelling by embedding historians' core values and methods in the innovative products of artisanship and craft. Extensive use of primary sources, attention to processes of change over time, keen historiographical awareness, and an overarching respect for evidence will guide a range of multimedia historical projects.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7f33beb298dd9d02b954c82d48aa3bfd">
+<name>
+<prefix/>
+<first>Vincent</first>
+<middle/>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

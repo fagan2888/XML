@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31391" offered="Y" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.245</num_char>
+</course_number>
+<title>Democracy in the Digital Age</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Yascha Benjamin Mounk</faculty_text>
+<description>Information technology has transformed politics with breathtaking speed. But have these changes been as important, and as positive, as is widely claimed? In this course, we assess technology's alleged role in destabilizing autocratic regimes, look at technology's impact on American politics, and assess whether we should reform our political institutions to make greater use of new technologies. We consult studies by social scientists, read the Twitter feed of the Syrian opposition, watch a documentary about the protestors in Tahrir Square, analyze the rise of the Tea Party and Occupy Wall Street, study a short story by Isaac Asimov, and debate "The Dictator's Practical Internet Guide to Power Retention."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F78c4d3ebd4575dd79822d996529422df">
+<name>
+<prefix/>
+<first>Yascha</first>
+<middle>Benjamin</middle>
+<last>Mounk</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94012" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>39</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Watch Her Step: Ballet Past and Present</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Daria Khitrova</faculty_text>
+<description>Considers major ballets from The Sleeping Beauty to The Rite of Spring and beyond. Examines the art of ballet as performed today and in its historical development. Sees ballet not only as dance but as interaction between contributing arts: music, painting, and drama.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6814e2abff5cdb80ea97a92ca71fb9b2">
+<name>
+<prefix/>
+<first>Daria</first>
+<middle/>
+<last>Khitrova</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="104" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

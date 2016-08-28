@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5235" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>97</num_int>
+</course_number>
+<title>Tutorial - Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anne Harrington</faculty_text>
+<description>Sophomore tutorial is a hands-on course that introduces students to some of the most exciting and productive questions in the history of science, technology and medicine, while developing critical reading, presentation and discussion skills. Small groups of students will tackle different aspects of a larger theme each week and share discoveries in sessions led by the faculty instructor. The course will be further enhanced by a series of supervised individual projects.</description>
+<prerequisites/>
+<notes>Required for undergraduate concentration in History and Science. Students must register for one plenary class session that meets on Mondays from 12:00-1:30 or 3:00-4:30, as well as a weekly section to be arranged.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4d6e50667ca8bb209a61035ba6b0f210">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle/>
+<last>Harrington</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

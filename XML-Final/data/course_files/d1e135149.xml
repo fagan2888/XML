@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6284" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>Signals and Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and weekly one hour Matlab section and one hour problem section to be arranged.</meeting_text>
+<faculty_text>Vahid Tarokh</faculty_text>
+<description>Time and frequency domain representations and analysis of signals and systems. Convolution and linear input-output systems in continuous and discrete time. Fourier transforms and Fourier series for continuous- and discrete-time signals. Laplace and Z transforms. Analog and digital filtering. Modulation. Sampling. FFT. Applications in circuit analysis, communication, control, and computing.</description>
+<prerequisites>Applied Mathematics 21b or Mathematics 21b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7e8c124524bf17a9190aaa933bb1f154">
+<name>
+<prefix/>
+<first>Vahid</first>
+<middle/>
+<last>Tarokh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

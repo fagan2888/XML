@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42619" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.176</num_char>
+</course_number>
+<title>Social Worlds of Friendship</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Dwight Fee</faculty_text>
+<description>Most of us appreciate the importance of friendship, but do we really understand how friendships are formed and how they shape our lives? Do friendships hold a larger potential for social transformation? This course explores the meaning and significance of friendship, particularly in terms of personal identity, community building, and social change. We will explore classical ideas about friendship and delve into contemporary issues such as friendship and difference, changes in personal communities, and the challenge that friendship poses to traditional relational forms.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f568441b593c47eed67e01bc36ce846">
+<name>
+<prefix/>
+<first>Dwight</first>
+<middle/>
+<last>Fee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17685" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1356</num_int>
+</course_number>
+<title>Economics of Work and Family</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11:30&amp;#8211;1</meeting_text>
+<faculty_text>Claudia Goldin</faculty_text>
+<description>How are the most personal choices and life transitions decided? When and whom do you marry, how many children do you have, how much education should you obtain, and which careers or jobs will you pursue? Much will be explored in terms of change over time, particularly concerning the economic emergence of women and the growing role of government. Readings draw on economic theory, empirical analyses, history, and literature from the 19th century to the present.</description>
+<prerequisites>Economics 1010a1, 1010a2, or Economics 1011a or equivalent, and Economics 1123 or Economics 1126 or equivalent or permission of instructor.</prerequisites>
+<notes>Writing requirement: A research paper is required. This course meets the concentration writing requirement. This course cannot be taken Pass/Fail. This course, when taken for a letter grade, meets the General Education requirement for United States in the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F22266f1b9b2a122346a1a85a846f9868">
+<name>
+<prefix/>
+<first>Claudia</first>
+<middle/>
+<last>Goldin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

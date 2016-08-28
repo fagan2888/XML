@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89802" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2921</num_int>
+</course_number>
+<title>Western Ascendancy: Historiography and Pedagogy: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Niall Ferguson</faculty_text>
+<description>The purpose of this graduate seminar is to get Teaching Fellows and other graduates to engage with the historiographical and pedagogical challenges of the General Education course, Societies of the World 19: Western Ascendancy. Courses in Western Civilization are nowadays widely seen as outmoded and excessively Eurocentric. The aim of SW 19 is to address questions of global economic and political divergence in a fresh way, taking advantage of more recent literature on economic history, for example.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

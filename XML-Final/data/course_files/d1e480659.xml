@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48191" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1127</num_int>
+</course_number>
+<title>Beyond the Sound Bite: Women, Gender, and Sexuality in The Daily News</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>35</enrollment_limit>
+<meeting_text>Tu., Th., at 12 and a one hour section to be arranged.</meeting_text>
+<faculty_text>Alice Jardine</faculty_text>
+<description>We are bombarded by sound bites from all over the globe, moving at disorienting speeds, reorganizing our relationship to time and space with increasingly dystopic results. This course will focus on selected televisual and digital events in "real time" from February-May 2014. We will analyze the embedded bits of gender and sexuality always at work in the representations of those events. Topics include: politics, the environment, military adventures, and popular revolt in dialogue with important texts in WGS Studies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa71fd2c5965c593b69c06613fc55f773">
+<name>
+<prefix/>
+<first>Alice</first>
+<middle/>
+<last>Jardine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

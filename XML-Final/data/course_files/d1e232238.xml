@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4650" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1701</num_int>
+</course_number>
+<title>West Africa from 1800 to the Present</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Emmanuel K. Akyeampong</faculty_text>
+<description>The course explores the internal dynamics of West African states from 1800, and West Africa's relations with the wider world. Innovations in science, technology and finance made the 19th century an era of social and economic opportunity and of political experimentation; a phase curtailed by European imperialism. The course examines African perspectives on colonialism, the two world wars, nationalism, and the transfer of political power. We will review post-colonial political economies and the search for workable political and economic models.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc74e458dae84037d2bf03fdcec7462e6">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Akyeampong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

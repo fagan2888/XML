@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79418" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>The Twenty Years' Crisis, 1919-1939: Democracy, Totalitarianism, and Everything Between</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Ian N. Storey</faculty_text>
+<description>This seminar explores issues in the theory and practice of democracy through the lens of the twenty years of economic, political, and social turmoil across the globe between the two World Wars. By focusing intensively on a historical context in which no political value could be taken for granted and few dared say what the future might hold for the structure of human community, we will explore the depths of democratic polity and its limits for both the past and the present.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc23c1eabff065435e46fef8d5ddb7bf3">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>Nathaniel</middle>
+<last>Storey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

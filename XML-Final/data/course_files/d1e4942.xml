@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10829" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>117</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Of Mean Streets and Jungle Fevers: Race, Gender and Ethnicity in Martin Scorsese and Spike Lee</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1&amp;#8211;3:30</meeting_text>
+<faculty_text>Biodun Jeyifo</faculty_text>
+<description>Against the background of radical theories of racial formation and identity politics in America, this course will comparatively explore controversial images of African Americans and Italian Americans in selected films of two of the most important contemporary American filmmakers, Martin Scorsese and Spike Lee. On their road to becoming iconic figures in America's contemporary cinematic and artistic avant-garde, Scorsese and Lee radically transformed received or conventional perceptions of Italian Americans and African Americans in mainstream American film. In this course, we will explore both similar and contrastive styles and approaches by the two filmmakers. Special attention will be paid to popular and scholarly discourses that the selected films of Scorsese and Lee have generated.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff9a42e26a96ea36da5bb287fffb0044a">
+<name>
+<prefix/>
+<first>Biodun</first>
+<middle/>
+<last>Jeyifo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

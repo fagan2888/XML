@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3544" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Analyzing Politics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Kenneth A. Shepsle (Government)</faculty_text>
+<description>A commonsensical survey of rational theories of politics comprised of: (1) individual choice, (2) group choice, (3) collective action, and (4) institutions. The underlying theme is that politics may be described and understood as rational, goal-seeking behavior by citizens, politicians, bureaucrats, and interest groups in various settings. Students are encouraged to think deeply about current events, history, and public life generally, as well as to analyze the politics of private life--in families, clubs, firms, churches, universities, even Harvard Houses--since private politics, like public politics, may be understood in terms of rational behavior. Instruction is by lecture, small-group section interactions, and experiments.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe280a6be046d6fc95ac243ec311e5877">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>A.</middle>
+<last>Shepsle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

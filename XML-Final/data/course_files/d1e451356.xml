@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4449" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Rachel Meyer and members of the Department</faculty_text>
+<description>Individual work in sociology under the supervision of teaching staff in the department. A graded supervised course of reading and research on a topic not covered by regular courses of instruction.</description>
+<prerequisites/>
+<notes>Students negotiate topics on their own. A final paper must be filed in the Sociology undergraduate office.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8b75bdfb735149edc7aa667de334c1c6">
+<name>
+<prefix/>
+<first>Rachel</first>
+<middle/>
+<last>Meyer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8b75bdfb735149edc7aa667de334c1c6">
+<name>
+<prefix/>
+<first>Rachel</first>
+<middle/>
+<last>Meyer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

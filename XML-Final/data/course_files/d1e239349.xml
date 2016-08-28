@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8070" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2805</num_int>
+</course_number>
+<title>Gender and Sexuality: Comparative Historical Studies of Islamic Middle East, North Africa, South, and East Asia: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Afsaneh Najmabadi</faculty_text>
+<description>Informed by theories of gender and sexuality, this seminar investigates how historically notions of desire, body, sex, masculinity, femininity, gender and sexual subjectivities have formed and reformed in Islamicate cultures of the Middle East, North Africa, and South and East Asia.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1e2c946cabb986206571f07b9324dc48">
+<name>
+<prefix/>
+<first>Afsaneh</first>
+<middle/>
+<last>Najmabadi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

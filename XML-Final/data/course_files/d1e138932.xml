@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5379" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>242</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Solid Mechanics: Advanced Seminar</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Katia Bertoldi</faculty_text>
+<description>Finite elements for analysis and design. The key goal of this class is the application of the finite element method to classical and state-of-the-art modeling and design problems. We introduce a commercial finite element program - ABAQUS - and demonstrate how to use it in modeling and analysing design problems. Topics include the implementations of user-defined subroutines (UMAT and VUMAT), instability analyses, analysis of waves propagation, fluid-structure interactions.</description>
+<prerequisites>Engineering Sciences 240 or equivalent. To take this course, basic knowledge and general interest in finite elements, mathematics, strength of materials, structural and solid mechanics is highly recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F99591dfa744e91f4d06f22f59c650f41">
+<name>
+<prefix/>
+<first>Katia</first>
+<middle/>
+<last>Bertoldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96979" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>48</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>Health and Mental Health in Everyday Life</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Mary Ruggie (Kennedy School)</faculty_text>
+<description>This course adopts interdisciplinary perspectives toward understanding how health and mental health problems and well-being are manifest, if and how common patterns are changing, and how circumstances and contexts impact outcomes. We examine similarities and differences based on gender, race/ethnicity and other personal and social characteristics. Topics include everyday stress, body image, eating disorders, depression, substance abuse, sexual activity and gender-based violence. Throughout, we traverse the boundary between health and illness in order to explore the role of individuals, their social support networks, and health care professionals in developing and guiding positive strategies for coping and healing.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F854be3e85f880bae494cac2de3de1833">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle/>
+<last>Ruggie</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="204" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

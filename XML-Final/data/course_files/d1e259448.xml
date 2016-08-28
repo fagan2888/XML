@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83093" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1435</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Primate Ecology and Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged</meeting_text>
+<faculty_text>John C. Barry</faculty_text>
+<description>The lecture-seminar course will explore how primates have evolved and adapted. We will examine both living and fossil primates and discuss the degree to which "environmental" change is implicated in evolution. Goals include providing direct, hands-on experience with fossils and fostering an understanding of the strengths and limitations of the fossil record. Topics will include adaptations for food harvesting and processing, life history strategies, sexual dimorphism, and locomotion.</description>
+<prerequisites>None, but Life Sciences 2, Science of Living Systems 16, Human Evolutionary Biology 1420, or Human Evolutionary Biology 1330 would be helpful.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1a4ab5ce28c732fcbf77c0e2e90e2cbc">
+<name>
+<prefix/>
+<first>John</first>
+<middle>C.</middle>
+<last>Barry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,9 @@
+default namespace = ""
+
+start =
+  element counts {
+    element level {
+      attribute code { xsd:NCName },
+      xsd:integer
+    }+
+  }

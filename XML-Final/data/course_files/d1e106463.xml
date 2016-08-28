@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2126" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3410</num_int>
+</course_number>
+<title>The Monetary and Fiscal Policy Seminar</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="2">Full course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Seminar speakers present papers on macroeconomic topics, including issues relating to monetary and fiscal policies, economic growth, the role of institutions, and other research issues in the field.</description>
+<prerequisites/>
+<notes>Popularly referred to as the Macro Seminar.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5583804393098ebb191328cc14b4e4b3">
+<name>
+<prefix/>
+<first>Alberto</first>
+<middle/>
+<last>Alesina</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5583804393098ebb191328cc14b4e4b3">
+<name>
+<prefix/>
+<first>Alberto</first>
+<middle/>
+<last>Alesina</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

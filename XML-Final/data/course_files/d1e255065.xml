@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9533" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>238</num_int>
+</course_number>
+<title>Rethinking the Darwinian Revolution: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Janet Browne</faculty_text>
+<description>Taking Charles Darwin as a well-documented case study, we will explore the historiography of evolutionary ideas from 1900 onwards, covering the political , social, and scientific commitments involved in the concept of a "Darwinian Revolution." We take a special interest in tracking evolutionary ideas in Victorian literature. There will be an opportunity for graduate students to read key Darwin texts and put together their own syllabus on the history of Darwinism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0e4b62e32bb1a3424230b69b8db1c1c5">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Browne</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

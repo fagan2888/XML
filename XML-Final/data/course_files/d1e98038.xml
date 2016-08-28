@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50769" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2082</num_int>
+</course_number>
+<title>Social Choice Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Amartya Sen and Eric S. Maskin</faculty_text>
+<description>A basic course in social choice theory and its analytical foundations. The subject matter will include possibility theorems in voting and in welfare economics. Attention will be paid to implementation theory, the theory of justice, and the analysis of liberties and rights.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0f5053872674cf9048b8b9db27217ef">
+<name>
+<prefix/>
+<first>Amartya</first>
+<middle/>
+<last>Sen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe7285c3218c2ac7b3ebec64c2422f699">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Maskin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

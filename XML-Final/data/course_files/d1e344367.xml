@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2833" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>291</num_int>
+</course_number>
+<title>Genetics, Genomics and Evolutionary Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10&amp;#8211;11:30, F., 10&amp;#8211;12</meeting_text>
+<faculty_text>Elena M. Kramer, James Mallet, and John L. Rinn</faculty_text>
+<description>This course covers the fundamentals of classical genetics, molecular genetics, macro- and microevolution, phylogenetics, and developmental evolution. The emphasis is on major concepts and terminology, reading landmark primary literature, and acquainting students with research techniques.</description>
+<prerequisites/>
+<notes>Required for first year graduate students in the Molecules, Cells and Organisms (MCO) Training Program.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdf11d24b49c9337165f9e24a9f08c923">
+<name>
+<prefix/>
+<first>Elena</first>
+<middle>M.</middle>
+<last>Kramer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2a26ee1728915af632b6e933e4d4b114">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>L</middle>
+<last>Rinn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6ceba15e7c8a343a2f4da9b140aca915">
+<name>
+<prefix/>
+<first>Jim</first>
+<middle/>
+<last>Mallet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="2080/2082" type="Seminar"/>
+<location term="1" building="Biological Labs" room="2080/2082" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

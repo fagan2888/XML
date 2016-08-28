@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4171" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_char>K</num_char>
+</course_number>
+<title>Advanced Greek Prose Composition</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 2-4</meeting_text>
+<faculty_text>Albert Henrichs and assistant</faculty_text>
+<description>Composition in the prose style of various authors and genres, with selected readings representing the development of classical Greek prose and its analysis by scholars ancient and modern.</description>
+<prerequisites>Greek H or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff4c6dbd72881ea2d5bbe91765f27926d">
+<name>
+<prefix/>
+<first>Albert</first>
+<middle>M.</middle>
+<last>Henrichs</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

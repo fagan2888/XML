@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24789" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>23</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Nature, Nurture, and Mental Illness</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Jordan W. Smoller (Medical School)</faculty_text>
+<description>By the latest estimates, more than half of us will meet the criteria for a diagnosable mental illness at some point in our lives. Rates of many disorders -from autism and ADHD to eating disorders and depression-have apparently been increasing substantially in recent decades. What do we know about the causes of mental illness? This seminar will explore the role of nature, nurture, and culture in our understanding of mental illness. We will draw on a broad range of disciplines-from psychology, psychiatry and anthropology to genetics and neurobiology-to examine the roots of normal and abnormal behavior.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F44f8bac20481a1746cf86b466ba0a8d8">
+<name>
+<prefix/>
+<first>Jordan</first>
+<middle>W</middle>
+<last>Smoller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

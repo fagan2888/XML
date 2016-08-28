@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6308" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1300</num_int>
+</course_number>
+<title>Western Intellectual History: Greco-Roman Antiquity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Hankins</faculty_text>
+<description>A survey of major themes in the intellectual history of the Greek and Roman World, with special attention to metaphysics, psychology, ethics and the philosophic life. Readings in the Presocratics, Plato, Aristotle, Lucretius, Epictetus, Cicero, Seneca, Marcus Aurelius, Plotinus, Augustine, and Boethius.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa0ffc0789d9f24e4f0d1e391c53ae727">
+<name>
+<prefix>Prof</prefix>
+<first>James</first>
+<middle/>
+<last>Hankins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

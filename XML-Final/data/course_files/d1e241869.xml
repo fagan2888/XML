@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5335" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>l</num_char>
+</course_number>
+<title>Stories of Slavery and Freedom</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Timothy P. McCarthy</faculty_text>
+<description>In the last generation, scholars have revolutionized our understanding of slavery and freedom in the modern Atlantic world. This sea-change has been the result of a major methodological shift: to view this history through the eyes of slaves rather than the eyes of masters. This course will examine the history of the "black Atlantic" through a diverse range of cultural texts--poetry, pamphlets, court cases, petitions, autobiographies, novels, speeches, and sermons--produced by slaves, free blacks, and abolitionists from the Age of Revolution to emancipation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe5607765bcd9f07bdebc23d8222b10c5">
+<name>
+<prefix/>
+<first>Timothy</first>
+<middle>Patrick</middle>
+<last>McCarthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Lowell Lecture Hall" room="B15" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7895" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CLAS-HEB">Classical Hebrew</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Rapid Reading Classical Hebrew I</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>Advanced reading in selected biblical prose texts and intensive review of the grammar of Biblical Hebrew.</description>
+<prerequisites>Classical Hebrew A, 120a, and 120b, or equivalent.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1625.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Divinity Hall" room="213" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

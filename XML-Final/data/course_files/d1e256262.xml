@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17521" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>275</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Psychoanalytic Practices from Freud to the Present</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Elizabeth Lunbeck</faculty_text>
+<description>In this course we will chart the history of psychoanalysis-from its foundations in Freud to the modern relational mainstream-through the lens of clinical practice. Attention to classic texts and field-defining controversies, focusing on the ways in which analysts have conceptualized technique and the analytic setting; abstinence and gratification; therapeutic action and efficacy; reality, both inner and outer; attachment and separation; analytic paradigms, schools, and movements. The issue of how the historian can best capture, conceptualize, and write about the clinical encounter-as theorized and experienced-in psychoanalysis as well as in other clinical disciplines will be a central concern of the course. Special attention to the concept of trauma as seen by both analysts and historians: trauma both individual and societal, developmental and war-induced, in patients and refugee analysts, in culture and social policy, and from hysteria to PTSD. Note: Open to advanced undergraduates with permission of the instructor.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F51e471ac3648a9754d6863c512ead552">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Lunbeck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="359" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

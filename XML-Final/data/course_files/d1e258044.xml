@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27108" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1313</num_int>
+</course_number>
+<title>Stress: Research and Presentation Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>F., 2-4</meeting_text>
+<faculty_text>Judith Flynn</faculty_text>
+<description>An examination of stress from a scientific perspective with a focus on stress research in mammals, especially primate and humans. A writing and speaking intensive seminar that will explore the basics of the stress response, physiological effects of the stress and factors that affect stress responsiveness, such as perinatal and early life effects, social support, outlets for frustration and coping skills. The relationship between stress and disease will also be explored. Scientific studies of the effectiveness of modalities of stress reduction will also be discussed. Students will present primary scientific literature that highlights current research on a variety of topics in the field.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F503402a30ebc253cbb6a7984f56f9c5e">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>Flynn</middle>
+<last>Chapman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

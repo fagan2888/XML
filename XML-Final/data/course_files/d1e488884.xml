@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7033" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="LATIN">Latin</course_group>
+<course_number>
+<num_char>Ac</num_char>
+</course_number>
+<title>Review and Reading</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., Th., F., at 9</meeting_text>
+<faculty_text>Ivy Livingston and assistant</faculty_text>
+<description>For students with more than one year of formal training in Latin who do not place into Latin Ba. The course will combine a review of morphology and syntax with readings from prose authors. Students are prepared for Latin Ba or Bb.</description>
+<prerequisites/>
+<notes>No auditors. May be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc2da8660ca48ffbab0f0353c42055450">
+<name>
+<prefix/>
+<first>Ivy</first>
+<middle/>
+<last>Livingston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

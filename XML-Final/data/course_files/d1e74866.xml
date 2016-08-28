@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71999" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>140</num_int>
+</course_number>
+<title>The Greatest Chinese Novel</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Wai-yee Li</faculty_text>
+<description>The Story of the Stone (also known as The Dream of the Red Chamber) by Cao Xueqin (1715?-1763) is widely recognized as the masterpiece of Chinese fiction. It is also a portal to Chinese civilization. Encyclopedic in scope, this book both sums up Chinese culture and asks of it difficult questions. Its cult status also accounts for modern popular screen and television adaptations. Through a close examination of this text in conjunction with supplementary readings and visual materials, the seminar will explore a series of topics on Chinese culture, including foundational myths, philosophical and religious systems, the status of fiction, conceptions of art and the artist, ideas about love, desire and sexuality, gender roles, garden aesthetics, family and clan structure, and definitions of socio-political order.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd59d3c22a5cc0e9fdbc4f4cdfbabde65">
+<name>
+<prefix/>
+<first>Wai-Yee</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

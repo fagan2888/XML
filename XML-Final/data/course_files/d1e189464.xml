@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3915" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>The Ancient Greek Hero</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Gregory Nagy (The Classics; Comparative Literature)</faculty_text>
+<description>This course takes a close look at the human condition, as viewed through the lens of classical Greek civilization (and some modern comparanda).The readings, all in English translation, are the Homeric Iliad and Odyssey, seven tragedies (Aeschylus' Oresteia Trilogy, Sophocles' two Oedipus dramas, and Euripides' Hippolytus and The Bacchic Women), and two dialogues of Plato (the Apology and the Phaedo, both centering on the last days of Socrates); also, selections from the dialogue On Heroes by an eminent thinker in the "second sophistic" movement, Philostratus.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff552cbf0b260660113faf02a826fa73c">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Nagy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-010 Lecture Hall" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

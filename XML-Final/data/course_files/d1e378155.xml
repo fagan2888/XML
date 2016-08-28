@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3365" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>55</num_int>
+</course_number>
+<title>Ecology: Populations, Communities, and Ecosystems</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly discussion section, and two field trips on either Saturdays or Sundays during mid-April to early-May.</meeting_text>
+<faculty_text>Paul R. Moorcroft</faculty_text>
+<description>This course examines the relationships of organisms to their environment at the individual, population, and community level. The course covers topics in both pure and applied ecology including: adaptations to the physical environment, population dynamics, competition, predator-prey interactions, community ecology, ecosystem structure, stability, and function, the ecology of infectious diseases, and natural resource management.</description>
+<prerequisites>Mathematics 1a or 1b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbdbc0c21a7f80a53156b8fcff074ebe3">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>R</middle>
+<last>Moorcroft</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

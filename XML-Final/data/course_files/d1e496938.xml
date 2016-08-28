@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68875" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1533</num_int>
+</course_number>
+<title>Attention and Engagement in Contemporary American Poetry</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Amy Hollywood (Divinity School)</faculty_text>
+<description>An exploration of the interplay of aesthetics, politics, and religion in contemporary American poetry. Poets to be read will likely include Juliana Spahr, Claudia Rankine, Susan Howe, Dan Beachy-Quick, C.D. Wright, Elizabeth Robinson, Lisa Robertson, Anne Carson, Jorie Graham, Myung Mi Kim, and Harryette Mullen.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2611.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fafbd3e99de6a166b7b2c49293643d510">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hollywood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

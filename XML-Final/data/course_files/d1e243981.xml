@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9252" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Art of the Timurids in Greater Iran and Central Asia</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>David J. Roxburgh</faculty_text>
+<description>Critical examination of the arts of the book, portable arts, and architecture sponsored by the Timurids (1370-1507), a dynasty founded by Timur (Tamerlane). Emphasis will also be given to primary written sources in translation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe1ff1e585b2b311c17248381e8e9d73f">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J.</middle>
+<last>Roxburgh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

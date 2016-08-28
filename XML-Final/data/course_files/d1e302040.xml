@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13534" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>302</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Imaging and Microscopy Methods in Biology and Medicine</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Introduce modern imaging modalities with emphasis on modalities frequently employed in cellular, molecular biology and medicine. Overview of noninvasive medical imaging techniques frequently used in scientific research: X-ray CT, MRI, ultrasound, PET/SPECT and optical imaging.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F14000f224396cff93c55dd4d607fe8dd">
+<name>
+<prefix>Dr</prefix>
+<first>Vladimir</first>
+<middle/>
+<last>Turzhitsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F317ffc64c438cb69ffd68a9661cc45b6">
+<name>
+<prefix>Dr</prefix>
+<first>Lev</first>
+<middle>T.</middle>
+<last>Perelman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc15234c1906cf1b28ee099f2e26613b9">
+<name>
+<prefix/>
+<first>Le</first>
+<middle/>
+<last>Qiu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

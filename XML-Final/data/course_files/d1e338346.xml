@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7365" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>227</num_int>
+</course_number>
+<title>Hildegard of Bingen and the Gospels: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Beverly M. Kienzle (Divinity School)</faculty_text>
+<description>Reading and analysis of Hildegard of Bingen's exegetical work with attention to genre, intertextuality, and multi-mediality. Students will investigate sources and parallels to Hildegard's exegesis in the manuscripts of the Houghton collection. Research project required. All meetings held in Houghton Library.</description>
+<prerequisites>Completion of an intermediate Latin course or the equivalent.</prerequisites>
+<notes>Taught in collaboration with William Stoneman, Curator of Early Books and Manuscripts, Houghton Library. Offered jointly with the Divinity School as 2224.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdaffb44b29d202d03254ddd606502f2f">
+<name>
+<prefix/>
+<first>Beverly</first>
+<middle/>
+<last>Kienzle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

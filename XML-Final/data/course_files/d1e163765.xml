@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88737" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.133</num_char>
+</course_number>
+<title>Philosophy of the State</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Owen Chen</faculty_text>
+<description>This course inquires into the origin and political and moral nature of the state, into its forms, functions, and connections with the education and the erotic life of its citizens. Readings to be discussed and written on are taken from Plato, Aristotle, Rousseau, Tocqueville, and Marx. Throughout the course, students adjudicate between different conceptions of the state and their ends, and examine the source of power of the state.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1341ccb7bd27f47e68625b63b15281d1">
+<name>
+<prefix/>
+<first>Owen</first>
+<middle/>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

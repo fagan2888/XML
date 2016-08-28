@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97487" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Translational Pharmacology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This intensive course held during the first two full weeks of January (ten days) covers principles of pharmacology and their translation into new drug development. Students participate in project groups composed of both graduate students and post-graduate M.D.'s to propose a drug development strategy from target choice through clinical trials. There are two hours of lectures each of the first eight mornings; afternoons include case studies discussed by Harvard faculty and faculty from the pharmaceutical and biotechnology industries, or time to work on the project. Evaluation is based on the project and class participation. Enrollment may be limited.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7e9d6850f5f88182ffd7b0aa07f7d9a5">
+<name>
+<prefix/>
+<first>Donald</first>
+<middle/>
+<last>Coen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

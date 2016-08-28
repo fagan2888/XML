@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8691" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>47</num_int>
+</course_number>
+<title>The Darwinian Revolution</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.) at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Janet Browne (History of Science)</faculty_text>
+<description>Why is evolutionary theory so controversial in the public sphere? This course looks to the history of cultural changes in the West for answers. We cover the intellectual structure and social context of evolutionary ideas as they emerged in the 19th and 20th centuries, emphasizing Darwinism as a major transformation in Western thought. Topics include key aspects of Darwin's ideas; the comparative reception of Darwinism in Britain, US, Germany, Russia and France; social Darwinism, eugenics and racial theories; early genetics and the search for the gene; religious controversy then and now. The course alternates with Culture and Belief 20.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0e4b62e32bb1a3424230b69b8db1c1c5">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Browne</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74502" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>172</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>China on Stage</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Claire A. Conceison</faculty_text>
+<description>Survey of plays from 20th and 21st century China that examines text and performance through the lens of spoken drama's adoption in China and its reflection of socio-political upheavals and cultural shifts. Reading and research-based, but can culminate in public stage reading of selections from Chinese plays (no acting experience necessary.)</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F69aea30c4219a12d6f31e055014bb86b">
+<name>
+<prefix/>
+<first>Claire</first>
+<middle>A.</middle>
+<last>Conceison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

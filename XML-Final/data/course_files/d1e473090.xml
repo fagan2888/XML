@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1946" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>211</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Statistical Inference</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Tirthankar Dasgupta</faculty_text>
+<description>Inference: frequency, Bayes, decision analysis, foundations. Likelihood, sufficiency, and information measures. Models: Normal, exponential families, multilevel, and non-parametric. Point, interval and set estimation; hypothesis tests. Computational strategies, large and moderate sample approximations.</description>
+<prerequisites>Statistics 111 and 210a or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc04d8e9c0d3cf9b223c9d76ee5b15704">
+<name>
+<prefix/>
+<first>Tirthankar</first>
+<middle/>
+<last>Dasgupta</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

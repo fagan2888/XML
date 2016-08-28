@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69012" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>126</num_int>
+</course_number>
+<title>Performing Latinidad</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Lorgia H. Garcia Pena</faculty_text>
+<description>What exactly does the word "latinidad" mean? How has "the Latino" been constructed in U.S. culture? What has been the importance of "latinidad" in the social and political history of people of Latin American descent in this country? What place does "latinidad" occupy within the North American academy? Our course attempts to respond to these inquiries through an analysis of Latino performance and its representation within particular literary and cultural productions: poetry, theater, film, and stand-up comedy.</description>
+<prerequisites/>
+<notes>Class will be conducted in English. Discussions in English and Spanish according to class composition.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbe281ea45a33876f460ad89c85288318">
+<name>
+<prefix/>
+<first>Lorgia</first>
+<middle/>
+<last>Garcia Pena</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

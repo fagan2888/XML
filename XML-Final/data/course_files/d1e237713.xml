@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53894" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2426</num_int>
+</course_number>
+<title>Topics in the History of Gender and Sexuality: Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 11-1</meeting_text>
+<faculty_text>Nancy F. Cott</faculty_text>
+<description>This seminar is open to graduate students who are acquainted with using gender and/or sexuality as categories of historical analysis and are ready to undertake relevant historical research. The bulk of the term will be devoted to individual (or collaborative) research projects, with the completion of a 25- to 30-page paper required. Topics for research are open. The seminar is centered around U.S. historiography, but participants working in non-U.S. and/or comparative/international history are welcome to apply.</description>
+<prerequisites/>
+<notes>Consent of the instructor is required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1fe56879f3e8005da0ec56806f7013aa">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle>F.</middle>
+<last>Cott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1100" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="Lower Level Library" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58601" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>History of Biotechnology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>What becomes of life when researchers can materially manipulate and technically transform living things? In this course, we will historically investigate biotechnology in the twentieth and twenty-first centuries, paying attention to how efforts to engineer life are grounded in social, cultural, and political contexts. Topics include reproductive technologies, genetic engineering and cloning, genetically modified foods, genomics, stem cells, intellectual property, and biosafety and biosecurity. The course is organized around five crosscutting domains in which we will explore the ethical, legal, and social impacts of biotechnology: (1) food, (2) property and law, (3) sex and reproduction, (4) disease and drugs, and (5) genomic identities. We will read and discuss historical accounts of biotechnology, primary scientific publications, and legal cases. We will learn to evaluate the social constitution and impact of biotechnology on daily life, as well as how to place contemporary issues and debates in biotechnology in historical context.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

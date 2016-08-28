@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8192" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1620</num_int>
+</course_number>
+<title>Modern Vietnam</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Hue-Tam Ho Tai</faculty_text>
+<description>Survey of Vietnamese history from 1802 to the present. Covers the period of unified rule under the Nguyen dynasty, French colonial conquest, the struggle for independence, the Vietnam War, and the recent unification under Communism. Major topics include the relationship between the state, the village, and the individual; the transformation of Vietnamese society, culture, and politics under French rule; the rise of nationalism and Communism; the causes and consequences of the Vietnam War.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7838a4a3e347975aabd79881a919028a">
+<name>
+<prefix/>
+<first>Hue-Tam</first>
+<middle>Ho</middle>
+<last>Tai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="153" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77012" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>105</num_int>
+</course_number>
+<title>Women's Voices in German Medieval Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Racha Kirakosian</faculty_text>
+<description>This course examines female expression in literature from the German speaking area in the Middle Ages. We focus on both a thorough textual analysis and the history of textual transmission in secular and religious spheres.</description>
+<prerequisites/>
+<notes>The course is conducted in German. No previous familiarity with German medieval literature is required or presumed. Readings in Middle High German with modern German and English translations.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2420dcfab074cdfd187d641f5f9b0634">
+<name>
+<prefix/>
+<first>Racha</first>
+<middle/>
+<last>Kirakosian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

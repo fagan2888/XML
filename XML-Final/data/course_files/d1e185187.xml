@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="460" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Cultural Agents</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>126</enrollment_limit>
+<meeting_text>M., 3-5, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Doris Sommer (Romance Languages and Literatures; African and African American Studies) and Francesco Erspamer (Romance Languages and Literatures)</faculty_text>
+<description>Explore the arts as social and professional resources! Whether you pursue medicine, law, engineering, business, government, etc., the arts will enhance your work and your citizenship. Active citizens construct opportunities for positive social change. A lecture series by a range of professionals demonstrates that change in practically any field depends on art. Theoretical readings (Schiller, Kant, Dewey, Freire, Gramsci, Ranciere, Mockus, Boal, Nussbaum, Pasolini, inter alia) are grounded in concrete cases of agency. The final project will be a design for a creative social intervention, including reflections on creating the design.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F43880627106323a37fd8ba24568bbd62">
+<name>
+<prefix/>
+<first>Doris</first>
+<middle/>
+<last>Sommer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1ccecedec3ba08bc6d016e4307228857">
+<name>
+<prefix/>
+<first>Francesco</first>
+<middle/>
+<last>Erspamer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="110 (Fong Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

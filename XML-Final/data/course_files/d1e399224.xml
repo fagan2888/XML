@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4673" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>284</num_int>
+</course_number>
+<title>Strongly Correlated Systems in Atomic and Condensed Matter Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Eugene A. Demler</faculty_text>
+<description>Explores an emerging interface involving strongly correlated systems in atomic and condensed matter physics. Topics include bosonic and fermionic Hubbard models, strongly interacting systems near Feshbach resonances, magnetism of ultracold atoms, quantum spin systems, low dimenstional systems, non-equilibrium coherent dynamics.</description>
+<prerequisites>Graduate quantum mechanics or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc5924c2db168138b28af0050d67415cd">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle/>
+<last>Demler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Lyman Lab" room="425" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

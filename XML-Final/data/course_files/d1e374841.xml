@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6023" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="YIDDISH">Yiddish</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Intermediate Yiddish I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Eitan Lev Kensky and staff</faculty_text>
+<description>Further development of reading, writing, speaking, and oral comprehension skills. Introduction to features of the main Yiddish dialects: Polish/Galician, Ukrainian/Volhynian, and Lithuanian/Belorussian. Course materials include selections from modern Yiddish fiction, poetry, songs, the press, and private letters, as well as pre-WWII and contemporary Yiddish films. Occasional visits from native Yiddish speakers.</description>
+<prerequisites>Yiddish A or equivalent.</prerequisites>
+<notes>Additional sections at different times may be added as needed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8f4bdc112e3931cf37907c645480be99">
+<name>
+<prefix/>
+<first>Eitan</first>
+<middle>Lev</middle>
+<last>Kensky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="201" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90816" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>210</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Topics in Probability Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:30-12</meeting_text>
+<faculty_text>Natesh S. Pillai and Alexander Volfovsky</faculty_text>
+<description>A graduate introduction to advanced probability. Foundations of probability: exchangeability and de Finetti's type theorem. Martingales: convergence theorems, optional stopping, Polya urn schemes and applications to statistics. Poisson processes: general spaces, marked processes, applications to Bayesian nonparametrics. Gaussian processes: existence theorem, Brownian bridges, meanders and excursions. Empirical processes: inequalities, central limit theorems and the bootstrap. Markov Chains: ergodicity, convergence and MCMC algorithms. Stochastic calculus: Ito's formula.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc328699631bbf19de8197afa5b09e73b">
+<name>
+<prefix/>
+<first>Natesh</first>
+<middle>S</middle>
+<last>Pillai</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F8cb1fa48286a20bcbb6ea14f786813bf">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Volfovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1030" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1030" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

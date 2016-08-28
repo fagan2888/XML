@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7027" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>54</num_int>
+</course_number>
+<title>For the Love of God and His Prophet: Religion, Literature, and the Arts in Muslim Cultures</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Ali S. Asani (Study of Religion; Near Eastern Languages and Civilizations)</faculty_text>
+<description>The course surveys the literary and artistic dimensions of the devotional life of the world's Muslim communities, focusing on the role of literature and the arts (poetry, music, architecture, calligraphy, etc.) as expressions of piety and socio-political critique. An important aim of the course is to explore the relationships between religion, literature, and the arts in a variety of historical and cultural contexts in the Middle East, sub-Saharan Africa, South Asia, Europe, and America.</description>
+<prerequisites/>
+<notes>No prior knowledge of Islam required. You do not need to be "artistically" talented to do well in this course -- just willing to think "out of the box." Offered jointly with the Divinity School as 3627. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

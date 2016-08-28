@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79069" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>118</num_int>
+</course_number>
+<title>Instruments and the Material Culture of Science in Early Modern Europe, 1500-1800</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Jean-Francois Gauvin</faculty_text>
+<description>What is an instrument? Can there be more than one definition? What, if any, is the epistemological difference between Galileo's telescope and rolling balls? Between Newton's prisms, Hooke's microscope, and Reaumur's thermometer? This course looks at three centuries of science and particularly at its material culture. What makes an "instrument" a "scientific" instrument? Are all instruments "scientific"? How does an object become a scientific instrument? What are the relationships between theory and instruments? Readings and discussion, though at the core of the course, will be supplemented with visits in other Harvard museums and hands-on classes using the Collection of Historical Scientific Instruments.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F518cf89179ef979348716fecbd573ff7">
+<name>
+<prefix/>
+<first>Jean-Francois</first>
+<middle/>
+<last>Gauvin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

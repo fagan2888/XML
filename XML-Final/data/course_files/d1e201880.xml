@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4182" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Men and Women in Public and Private: the US in the 20th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and a weekly section to be arranged</meeting_text>
+<faculty_text>Nancy F. Cott (History)</faculty_text>
+<description>This course offers historical perspective on the social relations and relative power of the sexes, tracing changes and continuities over the past century in family lives, work, popular culture and politics. We will look at sexuality, masculinity, and femininity, centering these in US social, cultural and political history in the context of a wider world.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1fe56879f3e8005da0ec56806f7013aa">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle>F.</middle>
+<last>Cott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

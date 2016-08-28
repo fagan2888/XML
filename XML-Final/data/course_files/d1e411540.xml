@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98611" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1008</num_int>
+</course_number>
+<title>Impediments to Excelling: Social Threat, Ostracism, Anxiety, and Choking</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Allison Elizabeth Seitchik</faculty_text>
+<description>The purpose of the course is to understand the effects of social threat, ostracism, anxiety, and choking on performance, and how to overcome them. This includes understanding the different types of impediments to excelling, how these impediments influence performance, and ultimately, how understanding these impediments lead to interventions to overcome them. Past and present empirical research and theory will be examined.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4ed65f15f44ef43f044c37d0b84cda35">
+<name>
+<prefix/>
+<first>Allison</first>
+<middle>Elizabeth</middle>
+<last>Seitchik</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3459" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHBI">
+<dept_long_name>Committee on Higher Degrees in Chemical Biology</dept_long_name>
+<dept_short_name>Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEMBIO">Chemical Biology</course_group>
+<course_number>
+<num_int>2200</num_int>
+</course_number>
+<title>Introduction to Chemical Biology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., through F., 9am - 5pm (January 7-18, 2013)</meeting_text>
+<faculty_text>James Elliott Bradner (Medical School) and Ralph Mazitschek (Medical School)</faculty_text>
+<description>This course will provide a survey of major topics, technologies, and themes in Chemical Biology, with hands-on exposure to a variety of experimental approaches.</description>
+<prerequisites/>
+<notes>Intended for first-year graduate students in the Chemical Biology Program; permission of the instructor required for all others.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa936179d342bcba34f72da8d484a081b">
+<name>
+<prefix/>
+<first>James</first>
+<middle>Elliott</middle>
+<last>Bradner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fff9437ec0621917d6f86a4da85a221c4">
+<name>
+<prefix/>
+<first>Ralph</first>
+<middle/>
+<last>Mazitschek</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

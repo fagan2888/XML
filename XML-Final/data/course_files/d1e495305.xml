@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11685" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1447</num_int>
+</course_number>
+<title>From Saint to Witch: Female Spirituality in the European Middle Ages</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Racha Kirakosian</faculty_text>
+<description>This course discusses the forms of spirituality that were associated with women in the Middle Ages. It deals in particular with mysticism but also looks at other forms of religious life (for example service in the hospital). This course also covers the question of the gender of the soul and therefore considers male-dominated debates of female models of spirituality and sanctity. Primary sources (with translations) include Meister Eckhardt, Mechthild von Magdeburg, Bridget of Sweden and Jean Gerson.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2003.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2420dcfab074cdfd187d641f5f9b0634">
+<name>
+<prefix/>
+<first>Racha</first>
+<middle/>
+<last>Kirakosian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

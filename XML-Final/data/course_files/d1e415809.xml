@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1325" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1861</num_int>
+</course_number>
+<title>Developmental Psychopathology</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John R. Weisz</faculty_text>
+<description>An overview of psychological problems and mental disorders in childhood and adolescence. Topics include internalizing conditions (e.g., anxiety, depression), externalizing conditions (e.g., conduct disorder and ADHD), eating disorders, autism, and child responses to maltreatment and other forms of trauma. Theoretical perspectives, diagnostic criteria, etiology, and treatment approaches are examined.</description>
+<prerequisites>Science of Living Systems 20 and Psychology 18.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F161aa99573729feb329880bdd8b7a00d">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>R</middle>
+<last>Weisz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

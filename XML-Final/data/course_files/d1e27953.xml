@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1858" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>219</num_int>
+</course_number>
+<title>High Energy Astrophysics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2-3:30</meeting_text>
+<faculty_text>Jonathan E. Grindlay and Alexey A. Vikhlinin</faculty_text>
+<description>Discussion of relativistic and high-energy astrophysical phenomena and observational techniques. Accretion onto compact stars (white dwarfs, neutron stars, black holes); active galactic nuclei, galaxy clusters. Gamma-ray bursts and cosmic rays. X-ray and gamma-ray background.</description>
+<prerequisites/>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F45ad6f6a956c1c052f6f9f6732f7a1af">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle>E.</middle>
+<last>Grindlay</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4b7938888bedf504651c19cf8322da6e">
+<name>
+<prefix/>
+<first>Alexey</first>
+<middle>A.</middle>
+<last>Vikhlinin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

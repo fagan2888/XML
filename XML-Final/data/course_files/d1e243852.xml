@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9414" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>100</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Sophomore Excursion Course</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Ioli Kalavrezou, Gulru Necipoglu-Kafadar, and Alina A. Payne</faculty_text>
+<description>This course introduces sophomore concentrators to on-site study of art and architecture through the case study of a particular geographic and cultural area. This year: Sicily.</description>
+<prerequisites/>
+<notes>Excursion is optional; not a requirement.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0ef8e28d3c328bf7860fc8b9f873b6e7">
+<name>
+<prefix/>
+<first>Ioli</first>
+<middle/>
+<last>Kalavrezou</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7840ac4e120c14df2ab6e8b4dab5f6fd">
+<name>
+<prefix/>
+<first>Alina</first>
+<middle>A</middle>
+<last>Payne</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

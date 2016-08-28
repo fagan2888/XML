@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65449" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>303</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Vision: A System and its Assessment</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course provides an introduction to the visual system and its assessment. In general, we will consider vision as a system rather than its low-level components. Each two-hour session consists of two lectures provided by faculty with expertise in that area. Topics will include basic science and clinical topics, normal vision and abnormal vision, methods of assessment of animals and humans, clinical and laboratory measures.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F402863011b2752c74ad5bdb9a557aec0">
+<name>
+<prefix>Dr.</prefix>
+<first>Patricia</first>
+<middle/>
+<last>D'Amore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

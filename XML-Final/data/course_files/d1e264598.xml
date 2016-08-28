@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2791" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>105</num_int>
+</course_number>
+<title>Sounds of Language</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Patrick J. Jones</faculty_text>
+<description>What are the sounds of the world languages, and how are they organized to make words and sentences? Why are some sounds hard to hear or make? Is there a `universal inventory' of sounds? This class introduces students to the sounds of the world's languages, and provides tools for studying them systematically. We will study the setup to transfer thoughts from one brain to another.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb4e9c4abaec2212b32f4e0029ebc9c7e">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>Jackson</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

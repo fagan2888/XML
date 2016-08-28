@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84147" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1976</num_int>
+</course_number>
+<title>Visible and Invisible Hands in China: State and Economy since 1800</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Elisabeth Koll (Business School)</faculty_text>
+<description>How can we explain the role of the state in China's economy past and present? Why did China never experience an industrial revolution in the 19th century? What about China's encounter with capitalism? The relationship between visible and invisible hands, i.e. state and market, frames our discussion of entrepreneurs, firms, business associations, laws and practices in the evolution of China's modern economy and society, including Taiwan, Hong Kong, and Chinese overseas communities across Asia. Readings address important debates in the field of Chinese business, economic, and social history from the early 19th to the 21st century but also offer a comparative perspective on China's economic and political modernization in a global setting.</description>
+<prerequisites/>
+<notes>Offered jointly with Business School as 1671.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbab9c74992edba058465a84406e25a82">
+<name>
+<prefix/>
+<first>Elisabeth</first>
+<middle/>
+<last>Koll</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

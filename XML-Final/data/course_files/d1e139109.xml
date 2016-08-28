@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7152" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>247</num_int>
+</course_number>
+<title>Fracture Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Zhigang Suo</faculty_text>
+<description>Fundamentals of fracture with applications in materials and structural mechanics. Micromechanics of fracture in ceramics, metals, and polymers. Fracture of composite materials. Interfacial fracture mechanics. Fatigue crack propagation.</description>
+<prerequisites>Engineering Sciences 240 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1e4cdf5e2cf5bfb71f2b7b747c6974dc">
+<name>
+<prefix/>
+<first>Zhigang</first>
+<middle/>
+<last>Suo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

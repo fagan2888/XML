@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6702" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3900</num_int>
+</course_number>
+<title>Professional Ethics</title>
+<course_type>Reading Course</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Examines ethical principles and legal issues involved in the practice of psychology, with an emphasis on clinical psychology. Covers ethical principles and code of conduct; uses case examples to highlight the application of these principles.</description>
+<prerequisites/>
+<notes>Limited to graduate students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

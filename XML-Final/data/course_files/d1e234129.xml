@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23425" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1990</num_int>
+</course_number>
+<title>Work and Working in Global Perspective</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Samantha Iyer</faculty_text>
+<description>What does it mean to do work, and what is labor? This seminar considers how the answers to these questions have changed over time and varied across place. In particular, we situate the work of ordinary people in the context of the changing global institutions of empire and trade. In addition to analyzing classic texts of political economy, we examine such topics as the history of slavery, factory labor, migrant labor, call-center work, the digital distribution of work, work and debt, and labor under fossil-fuel economies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F864b55d6dfa3bca7c0be6523d47ce709">
+<name>
+<prefix/>
+<first>Samantha</first>
+<middle/>
+<last>Iyer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

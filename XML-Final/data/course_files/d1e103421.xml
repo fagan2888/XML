@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83893" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2612</num_int>
+</course_number>
+<title>Dynamic Topics in Industrial Organization</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Ariel Pakes and Ali R. Yurukoglu</faculty_text>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe22275f70ee5cf84ff2c4465cb8385cc">
+<name>
+<prefix/>
+<first>Ariel</first>
+<middle/>
+<last>Pakes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4b4b1ffe1bc5ea7af9570d719bf4001c">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle>R</middle>
+<last>Yurukoglu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

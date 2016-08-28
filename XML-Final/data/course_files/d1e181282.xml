@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1651" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>38</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Beethoven's String Quartets</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Anne C. Shreffler</faculty_text>
+<description>Beethoven's sixteen quartets span almost his entire creative output, ranging from the classical Six Quartets, Op. 18 of 1800, to the transcendent, pioneering late quartets, the last completed in the year of his death in 1827. These works contain the full range of Beethoven's musical expression and some of his best-known music. The seminar will work from scores, selected recordings, and live performances connected to the Chiara Quartet's Harvard residency in the fall. Seminar members may play in class; individual projects and some readings.</description>
+<prerequisites>Participants should be able to read music (at least treble and bass clef).</prerequisites>
+<notes>Open to Freshmen only. The seminar includes required attendance at one live performance outside of the regular class time.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7a0f37a7c6b478dcd9090e5ac57b8888">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>C.</middle>
+<last>Shreffler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

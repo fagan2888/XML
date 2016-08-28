@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18309" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>118</num_int>
+</course_number>
+<title>Acting Alone: The Monologue</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>14</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Remo Francisco Airaldi</faculty_text>
+<description>The analysis, rehearsal and performance of theatrical monologues. The ability to work on a monologue, whether in the context of a play or as an audition piece, is a foundational skill for all actors. Students will begin with work on classical monologues and then move on to contemporary material. We will study specific techniques to help students "act alone" creatively, honestly and spontaneously. In the later part of the course, students will have an opportunity to work on on-camera monologues and develop specific skills for acting and auditioning in that medium. Students will also learn how to choose, prepare and perform a monologue under the particular pressures of an audition.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd23c0126be12d04e2aeeb75fa57ce097">
+<name>
+<prefix>Mr</prefix>
+<first>Remo</first>
+<middle>Francisco</middle>
+<last>Airaldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

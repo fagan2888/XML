@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63761" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1019</num_int>
+</course_number>
+<title>Women, Gender and Religion in Colonial North America and the United States</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Catherine A. Brekus (Divinity)</faculty_text>
+<description>This course is an introduction to the history of women, gender, and religion in America. We will ask several related questions. How have religious communities shaped understandings of gender and sexuality? How have individuals used religious beliefs, texts, and practices to defend or criticize gender norms? Why has religion in America often been perceived as "feminine"? Among other topics, we will discuss conceptions of femininity and masculinity in early America, the ideology of "Republican motherhood" during the American Revolution, controversies over female preaching in the nineteenth century, Fundamentalist attitudes toward gender, and twentieth-century debates over contraception, women's ordination, and homosexuality. We will discuss a wide variety of religious communities in the United States, including Protestants, Catholics, Mormons, Spiritualists, Jews, Muslims, and Buddhists.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School 2181.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffba72e10c1581291fc561d94769d1f12">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle>A</middle>
+<last>Brekus</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

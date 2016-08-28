@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63093" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="SHBT">SHBT</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Neural Coding and Perception of Sound</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., W., 9:30&amp;#8211;11:30, Occasional lab on Friday</meeting_text>
+<faculty_text>Bertrand Delgutte (Medical School), M. Christian Brown (Medical School), John J. Guinan (Medical School), Jennifer R. Melcher (Medical School), and Daniel B. Polley (Medical School)</faculty_text>
+<description>Neural structures and mechanisms mediating the detection, localization and recognition of sounds. General principles are conveyed by theme discussions of auditory masking, sound localization, musical pitch, cochlear implants, cortical plasticity and auditory scene analysis.</description>
+<prerequisites>Neurobiology 200 or Permission of the instructor.</prerequisites>
+<notes>Offered jointly with MIT HST.723J.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F507d0f5e91593c5f4e6c8603ff4f0de4">
+<name>
+<prefix>Dr</prefix>
+<first>Bertrand</first>
+<middle/>
+<last>Delgutte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="930" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="930" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

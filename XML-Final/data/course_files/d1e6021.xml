@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16591" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>Black Religion and Economic Thought</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Marla F. Frederick</faculty_text>
+<description>Since Emancipation African American religious leaders and their congregants have employed religion not only as a means of achieving social and political mobility, but also as a means of securing economic growth and independence in light of the conditions created under American capitalism. These approaches have varied from the pragmatic strategies of Booker T. Washington, the socialist leanings of Rev. George Washington Woodbey, the "poor people's campaign" of Rev. Martin Luther King, Jr., and the increasingly popular prosperity ministries of today's neo-Pentecostal and Word of Faith communities. Such changes in strategies often coincide with changes in America's political economy over the past century. This course attempts to interrogate the development of these various strands of economic thought using texts by scholars like Max Weber (The Protestant Ethic and the Spirit of Capitalism), E. Franklin Frazier (The Black Bourgeoisie), and David Harvey (An Introduction to Neoliberalism) as anchoring texts to frame the social, economic and political contexts in which these strategies emerge. Other texts, including autobiographies, ethnographies, and histories offer details of how these religious understandings are framed and practiced.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F471675e7c254e3496514255d5e00cdcc">
+<name>
+<prefix/>
+<first>Marla</first>
+<middle/>
+<last>Frederick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

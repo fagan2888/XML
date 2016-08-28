@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60301" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>Regeneration and Repair in the Mammalian Brain</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jeffrey D. Macklis</faculty_text>
+<description>This course will discuss cellular and molecular mechanisms of regeneration and repair in the mammalian central nervous system (CNS). We will: compare and contrast aspects of neural development with adult neural plasticity; discuss limitations to neuronal regeneration in the mature mammalian CNS following degeneration or injury; examine CNS regeneration approaches directed at overcoming intrinsic limitations; and explore developmental controls and gene manipulation to promote neurogenesis, axonal regeneration, and directed differentiation in the diseased adult brain.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; MCB 80 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff74141b56d6ed240e8a6497197849d55">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Macklis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

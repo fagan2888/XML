@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5562" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>209</num_int>
+</course_number>
+<title>Neurobiology of Disease</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 6-8:30., W., 7-9:30.</meeting_text>
+<faculty_text>Edward A. Kravitz (Medical School), Susanna Mierau (Medical School) and members of various clinical departments</faculty_text>
+<description>Monday sessions involve patient presentations and "core" lectures describing clinical progression, pathology, and basic science underlying a major disease or disorder. Wednesdays, students present material from original literature sources, and there is general discussion.</description>
+<prerequisites>Introductory neurobiology, biochemistry, and genetics/molecular biology recommended.</prerequisites>
+<notes>Given in alternate years. Offered jointly with the Medical School as NB 713.0. For advanced undergraduate, graduate students, MD and MD/PhD students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6504048226d09fdf09686c7be51912e0">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>A.</middle>
+<last>Kravitz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1800" end_time="2030"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1900" end_time="2130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

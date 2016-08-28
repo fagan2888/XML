@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13886" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EGYPTIAN">Egyptian</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>The Language of the Pharaohs: Introduction to Egyptian hieroglyphs I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:30-3</meeting_text>
+<faculty_text>Peter Der Manuelian</faculty_text>
+<description>This language course explores the fundamentals of Middle Egyptian, the classical stage of Egyptian hieroglyphs used throughout much of ancient Egyptian history. Lessons in the Egyptian writing system, grammar, and culture, with weekly vocabulary and exercises, will introduce the language and verbal system in a systematic fashion. By the end of the semester, students may begin to read selections from Egyptian classic stories and historical texts. Visits to the Semitic Museum and the Museum of Fine Arts, Boston, in order to read ancient hieroglyphic inscriptions on the original monuments, may also be included.</description>
+<prerequisites/>
+<notes>Continues as Egyptian Ab. Offered jointly with the Divinity School as 4120.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F33d0218f6c7df0f0511ff24a5a7e48fc">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>Der</middle>
+<last>Manuelian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 102" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

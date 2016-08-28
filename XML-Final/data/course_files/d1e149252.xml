@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6740" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Cnfr</num_char>
+</course_number>
+<title>Introduction to Creative Nonfiction: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4-7 p.m.</meeting_text>
+<faculty_text>Darcy Frey</faculty_text>
+<description>Whether in essay, memoir or reportage, creative nonfiction employs many of the same literary techniques as fiction: narrative structure, character development, scene-setting, extended dialogue, emphasis on voice and point of view. In addition to workshopping student writing, we discuss examples of the genre by writers such as Virginia Woolf, William Maxwell, Joan Didion, and John McPhee. Assignments include two 10-15 page narratives, an extensive revision, and typed critiques of classmates' work.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F88fa6d6e6b946b42e3fa7f2d34161853">
+<name>
+<prefix/>
+<first>Darcy</first>
+<middle/>
+<last>Frey</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F88fa6d6e6b946b42e3fa7f2d34161853">
+<name>
+<prefix/>
+<first>Darcy</first>
+<middle/>
+<last>Frey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Barker Center" room="211" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

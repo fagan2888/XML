@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2257" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>284</num_int>
+</course_number>
+<title>Statistical Thermodynamics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Vinothan N. Manoharan</faculty_text>
+<description>Basic principles of statistical physics and thermodynamics, with applications including: the equilibrium properties of classical and quantum gases; phase diagrams, phase transitions and critical points, as illustrated by the gas-liquid transition and simple magnetic models; Bose-Einstein condensation.</description>
+<prerequisites>Ordinarily, Physics 143a, b, and Physics 181 or Engineering Sciences 181.</prerequisites>
+<notes>Students may wish to take Physics 262 when this course is bracketed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd5da4ad9a60144994d3e0594c41e3f09">
+<name>
+<prefix/>
+<first>Vinothan</first>
+<middle>N</middle>
+<last>Manoharan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="356" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

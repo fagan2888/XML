@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30439" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>bp</num_char>
+</course_number>
+<title>Business, Power and American Politics</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Cheryl Brown Welch and members of the Department</faculty_text>
+<description>How much power does business exercise over the decisions that are made in American politics? How similar is business from other actors in our political system? How has business's power and modes of influence changed over time? And how does that influence compare to the role that business plays in other countries? This seminar will equip students to consider and debate these questions, drawing on evidence from contemporary events, history, political science, and sociology.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F707cad502af55832db541f2f9fb46eb1">
+<name>
+<prefix/>
+<first>Cheryl</first>
+<middle>B.</middle>
+<last>Welch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

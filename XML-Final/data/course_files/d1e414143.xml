@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69335" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1560</num_int>
+</course_number>
+<title>The Psychology of Being Rich or Poor</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Sasha Y. Kimel</faculty_text>
+<description>As many strive for the American Dream, the gap between the rich and poor continues to widen. Although economic inequality affects us all, resulting in greater societal dysfunction and lower national happiness, the consequences vary greatly depending on your social class. In this course, we will examine how being rich or poor differentially impacts our sense of self, our morality, our ways of thinking, our sense of being in control, our achievements, the biases that we face, and our health and well-being. We will also consider psychological interventions for reducing the consequences of this wealth gap and for promoting mutual understanding across the divide.</description>
+<prerequisites>SLS-20 and at least one from PSY 14, PSY 15, PSY 18, or SLS-15</prerequisites>
+<notes>Preference will be given to undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcfdffe431af2455f1067db73a331725a">
+<name>
+<prefix/>
+<first>Sasha</first>
+<middle>Y.</middle>
+<last>Kimel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

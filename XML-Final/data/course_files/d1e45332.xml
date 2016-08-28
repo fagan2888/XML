@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4167" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="WELSH">Welsh</course_group>
+<course_number>
+<num_int>225</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Medieval Welsh Poetry</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 2</meeting_text>
+<faculty_text>Catherine McKenna</faculty_text>
+<description>Continued readings in medieval Welsh prose and an introduction to Welsh poetry down to 1400. Continued study of grammar and practice in translation, as well as an introduction to the manuscript sources of the poetry and their cultural contexts, and the intricacies of medieval Welsh poetics.</description>
+<prerequisites>Welsh 225a or equivalent preparation in Middle Welsh.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1500"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

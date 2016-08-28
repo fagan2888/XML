@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3889" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>181</num_int>
+</course_number>
+<title>Engineering Thermodynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Michael J. Aziz</faculty_text>
+<description>Introduction to classical engineering thermodynamics. Topics: Zeroth Law and temperature. Properties of single-component gases, liquids, and solids. Equations of state for ideal and simple nonideal substances. First Law, heat and heat transfer, work, internal energy, enthalpy. Second Law, Third Law, entropy, free energy, exergy. Heat engines and important engineering applications such as refrigerators, power cycles. Properties and simple models of solutions. Phase and chemical equilibrium in multicomponent systems; chemical potential. Electrochemistry, batteries, fuel cells. Laboratory included.</description>
+<prerequisites>One semester of calculus-based college-level physics. Chemistry at the high school Advanced Placement level.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2316c0d2994a9261a2f26f15be5e83e6">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Aziz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

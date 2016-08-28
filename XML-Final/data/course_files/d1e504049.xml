@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63786" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>31</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Prismatic Sculpture</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M. W., 2-5</meeting_text>
+<faculty_text>Halsey Clark Rodman</faculty_text>
+<description>An introductory course focused on color as a primary attribute of sculptural form. In parallel to working with a variety of sculptural materials and processes, we will consider the definitions and limits of chromatic experience ranging from virtual to ambient to autonomous. Particular emphasis will be placed on the development of sculpture "in-the-round". The course will include readings, slide lectures, and screenings in addition to technical demonstrations and workshops.</description>
+<prerequisites>Note: No previous studio experience required, open to all levels.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8ba3e72dbef48d556a841651ae0c6894">
+<name>
+<prefix/>
+<first>Halsey</first>
+<middle>Clark</middle>
+<last>Rodman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

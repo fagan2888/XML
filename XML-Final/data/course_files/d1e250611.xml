@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1120" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Tutorial - Junior Year</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., at 12</meeting_text>
+<faculty_text>Melinda Baldwin</faculty_text>
+<description>This one-semester junior tutorial is a research-oriented tutorial taken in small groups. Focuses on enhancing research and writing skills through the completion of a directed research paper on subject matter of the student's interest. Must be taken during the fall semester (except for students not in residence).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7de2c495364a972c84c9bfaa59c375f5">
+<name>
+<prefix/>
+<first>Melinda</first>
+<middle>Clare</middle>
+<last>Baldwin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F7de2c495364a972c84c9bfaa59c375f5">
+<name>
+<prefix/>
+<first>Melinda</first>
+<middle>Clare</middle>
+<last>Baldwin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

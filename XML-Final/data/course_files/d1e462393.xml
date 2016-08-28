@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19267" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="NEP">Nepali</course_group>
+<course_number>
+<num_int>103</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Nepali</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael Witzel and members of the Department</faculty_text>
+<description>A reading course in Modern Nepali Literature, suitable for students who have at least three years of Nepali learning. This course is designed to help students understand some of the complex literary materials composed in modern Nepali language. The students will have an opportunity to read a wide variety of selected texts, understand the linguistic systems operative in those writings, and come up with their own informed understanding of them.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5ba259e923ae9ecd6970409a8d33897d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Witzel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

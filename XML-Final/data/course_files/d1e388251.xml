@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1996" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>3</num_int>
+</course_number>
+<title>Introduction to the Problems of Philosophy</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Bernhard Nickel</faculty_text>
+<description>The course introduces students to philosophical argumentation and writing by investigating the following questions: Does god exist? What makes for good evidence? How ought we to act? What is the relationship between mind and body? Is there free will? Is there life after death, and if not, is death bad for us? We'll pay particular attention to how answers to one question interact with answers to the others. No previous experience with philosophy required. There will be many exercises and activities to develop your philosophical skills.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fefda42a0d0c2a7ebad48ef1d8832d6ac">
+<name>
+<prefix/>
+<first>Bernhard</first>
+<middle/>
+<last>Nickel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="210" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

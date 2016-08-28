@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86638" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>207</num_int>
+</course_number>
+<title>Advanced Organic Synthesis and Reactions</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Matthew D. Shair</faculty_text>
+<description>This course presents reactivity principles of organic molecules. Topics include frontier molecular orbital theory, stereoelectronic effects, conformational analysis, cationic, anionic, radical, and carbene intermediates. These reactivity principles are used in a presentation of target-oriented synthesis. Strategies and tactics for assembling complex organic molecules are presented.</description>
+<prerequisites>Undergraduates must take Chemistry 30 as a prerequisite.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa5ac356b0c5cb0c617ff15308b6cf533">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Shair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

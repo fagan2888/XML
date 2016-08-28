@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53514" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>92</num_int>
+</course_number>
+<title>Contemporary Art</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11. Weekly section to be arranged.</meeting_text>
+<faculty_text>Carrie Lambert-Beatty</faculty_text>
+<description>Art of the last fifty years, with an eye to issues facing artists working today. Pop, Minimalism, Conceptual Art, Installation, and New Media: in surveying these and other developments in recent art, lecture-based class will address such topics as modernism/postmodernism; changing models of artistic work and artists' identity; and globalization and the art world.</description>
+<prerequisites/>
+<notes>Recommended for VES concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F63ca24ce66f277d1a77d91ae01806c8d">
+<name>
+<prefix/>
+<first>Carrie</first>
+<middle/>
+<last>Lambert-Beatty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

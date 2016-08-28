@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71098" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>Bod, Bod chen po, and the historical geography of the Tibetan cultural area</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-4</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp</faculty_text>
+<description>This course will examine the geography of Bod and Bod chen po, the division of its territories, and a variety of key place-names from an historical perspective. This will be a seminar-cum-reading course using Tibetan (and some Chinese) sources from the ninth to the nineteenth century.</description>
+<prerequisites>Reading knowledge of Tibetan and an insatiable intellectual curiosity.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

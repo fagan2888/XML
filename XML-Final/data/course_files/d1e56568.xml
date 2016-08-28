@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="594" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>109</num_int>
+</course_number>
+<title>On Translation</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sandra Naddaff</faculty_text>
+<description>Examines theories of translation from various periods (Dryden, Schopenhauer, Schleiermacher, Benjamin, de Man, among others). Also looks closely at specific translated texts (e.g., various English translations of The Thousand and One Nights), and considers such topics as the notion of "unequal languages," the problem of cultural translation, translation post-9/11, and the possibility of untranslatability. Final project involves an original translation and commentary.</description>
+<prerequisites>Reading knowledge of one foreign language.</prerequisites>
+<notes>Preference given to Literature concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab470bf76cbcaa6c681418dd19fa719a">
+<name>
+<prefix/>
+<first>Sandra</first>
+<middle/>
+<last>Naddaff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

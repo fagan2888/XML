@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6052" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>80</num_int>
+</course_number>
+<title>Neurobiology of Behavior</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Joshua R. Sanes, David Cox, and Jeff W. Lichtman</faculty_text>
+<description>An introduction to the ways in which the brain controls mental activities. The course covers the cells and signals that process and transmit information, and the ways in which neurons form circuits that change with experience. Topics include the neurobiology of perception, learning, memory, language, emotion, and mental illness.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems. The course is open to students with little formal training in biology.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F28cd0391e4f763cd1b2962ab378d849b">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>R.</middle>
+<last>Sanes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0d0acf7c07641dede3d80a5d4ceaef3a">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Daniel</middle>
+<last>Cox</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fce255e76c5fb7a7d33987961856bc325">
+<name>
+<prefix/>
+<first>Jeff</first>
+<middle/>
+<last>Lichtman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" D" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

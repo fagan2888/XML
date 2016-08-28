@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76413" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>245</num_int>
+</course_number>
+<title>Classical, Quantum, and Semiclassical Dynamics and Scattering</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Eric J. Heller</faculty_text>
+<description>Semiclassical approaches to quantum systems provide both intuitive understanding ofquantum processes and methods for calculations that are vastly simpler than full quantummechanical simulations. Seminclassical methods are based on classical mechanics includinginterference and phases computed with classical actions. The course, based on a textbookbeing written by Prof. Heller (The Semiclassical Way to Quantum Mechanics) begins with a review of some salient features of classical physics, followed by an introduction to stationary phaseintegration and the Feynman Path Integral in the semi classical limit, including time and energydomains, and the famous Trace Formula. This is followed by a number of widely useful techniques,such as generalized tunneling, applications to classically chaotic systems, semiclassical wavepacket dynamics, WKB methods and uniformization. A number of "special topics" will then betaken up, including decoherence, certain forms of spectroscopy, and scattering theory ofnanoscale devices.</description>
+<prerequisites>Physics 151 and 143a, b or equivalent; Applied Math 201, 202 or equivalent</prerequisites>
+<notes>May not be taken concurrently with Physics 218. May not be taken for credit ifPhysics 218 has already been taken.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F02bcfbc275978b4ce4b82cd4f4dec068">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>J.</middle>
+<last>Heller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

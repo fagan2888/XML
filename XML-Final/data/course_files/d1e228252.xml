@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7743" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1055</num_int>
+</course_number>
+<title>Vengeance, Hatred, and Law in Premodern Europe</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Daniel L. Smail</faculty_text>
+<description>Will explore the great transformation in European legal habits that took place between 500 and 1600, as family-based forms of law, vengeance, and regulation gave way to royal, municipal, and ecclesiastical justice. Topics include the blood feud, the judicial ordeal, and judicial torture. The course is designed to raise ethical and substantive issues that are relevant to an understanding of the function of law and justice in the modern world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa7fdf5bc2488632fabb4290914abff77">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Lord</middle>
+<last>Smail</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

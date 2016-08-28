@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1202" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Quantitative Analysis of Capital Markets</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2:30-4; Th., 1-2:30</meeting_text>
+<faculty_text>Neil Shephard</faculty_text>
+<description>An introduction to the analysis of capital markets using quantitative methods. Concepts include risk, expected utility, discounting, binomial-tree valuation methods, martingales, continuous time stochastic calculus methods, stochastic discount factors, financial econometric models and Monte Carlo simulations. These concepts are applied to equities, risk management and derivative pricing.</description>
+<prerequisites>Good quantitative skills including calculus and linear algebra, Statistics 110 or equivalent (i.e. multivariate random variables and conditional distributions), strong interest in finance. Willingness to do some programming.</prerequisites>
+<notes>Expected to be omitted 2015-16.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ba0c60082a7b78f58b864c49c97b3ae">
+<name>
+<prefix/>
+<first>Neil</first>
+<middle/>
+<last>Shephard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="309a" type="Lecture"/>
+<location term="1" building="Science Center" room="309a" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

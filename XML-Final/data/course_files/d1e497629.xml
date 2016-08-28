@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70437" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1556</num_int>
+</course_number>
+<title>Pragmatism and Religion: Peirce, James, Royce and Dewey</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and an hour to be arranged.</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>This course considers the classical figures in the American pragmatic tradition, seeking both to understand the genesis and claims of "pragmatism" and its relation to and implications for religion. Ordered chronologically, the course begins with Charles Sanders Pierce, but give particular attention to the writings of William James and John Dewey. Topics include belief, human experience, truth, action, ethics, rationality, and the nature and role (socially and individually) of religion.</description>
+<prerequisites>Prior work in theology or philosophy recommended but not required.</prerequisites>
+<notes>This is a new version of Religion 1546. Religion and the American Pragmatic Tradition , therefore, students who have taken Religion 1546 may not repeat this course for credit. Offered jointly with the Divinity School as 2671.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

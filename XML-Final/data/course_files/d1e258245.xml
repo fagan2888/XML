@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4332" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1330</num_int>
+</course_number>
+<title>Primate Social Behavior</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1, and a weekly section to be arranged</meeting_text>
+<faculty_text>Zarin P. Machanda and Stephanie L. Meredith</faculty_text>
+<description>A review of the behavioral interactions in natural primate populations, drawing on experimental, observational, and theoretical studies. Discussion of ecological, physiological, and developmental bases of primate social behavior, with special attention to the evolution of patterns of behavioral interactions among individuals of different age, sex, relatedness, and status. Topics include sexual conflict, sexual selection, and mating systems; care of offspring and other aid-giving; manipulative and cooperative aspects of communication; competition, dominance, and territoriality; and the evolution of social relationships.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5e5f8e0c91b337ba4f1b2797daf31688">
+<name>
+<prefix/>
+<first>Zarin</first>
+<middle>Pearl</middle>
+<last>Machanda</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6854cc321e7b5abd5ebe58337573b282">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle>Lynn</middle>
+<last>Meredith</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

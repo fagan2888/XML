@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80078" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1876</num_int>
+</course_number>
+<title>Society, Culture, and Modernity in Greece</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Michael Herzfeld</faculty_text>
+<description>This course explores the socio-cultural dynamics of modern Greece through ethnographies, films, and media representations. Special attention will be paid to Greek notions of tradition, history, and heritage; resistance, anarchy, and social banditry; the impact of urbanization; and the ongoing economic crisis in relation to concepts of interpersonal and international debt.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4da516f68fb02c445e7bb66990f2b686">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Herzfeld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

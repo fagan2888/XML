@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6587" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Organic Chemistry</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Lectures M., W., F., at 11, and laboratory, four to six hours a week, to be arranged.</meeting_text>
+<faculty_text>Tobias Ritter</faculty_text>
+<description>Continuation of Chemistry 20. Fundamental principles and advanced topics in organic chemistry. Carbonyl chemistry and pericyclic reactions are covered in particular detail, using principles of stereochemistry, stereoelectronic theory, and molecular orbital theory as a foundation. Students learn about strategies in multi-step organic synthesis and are given an introduction into organometallic chemistry. Laboratory: an introduction to organic chemistry laboratory techniques and experimental organic synthesis.</description>
+<prerequisites>Chemistry 20 or equivalent.</prerequisites>
+<notes>Chemistry 27 and 30 may both be taken for degree credit. See note for Chemistry 17.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7a1193a822ac7e9dbd808eac05f80260">
+<name>
+<prefix/>
+<first>Tobias</first>
+<middle/>
+<last>Ritter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Mallinckrodt" room="Pfizer Lecture Hall (MB23)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+</requirements>
+</course></courses>

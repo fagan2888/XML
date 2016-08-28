@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73327" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>The World of Romance Language Cinemas: A Classical Age</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1&amp;#8211;3, and a weekly film screening M., 1-3</meeting_text>
+<faculty_text>Tom Conley</faculty_text>
+<description>Studies early and classical cinemas in France, Italy, and Spain through comparative and close analysis. Includes films by Renoir, Vigo, Melville; Rossellini, de Sica, Visconti; Bunuel, Garcia Berlanga, Erice.</description>
+<prerequisites>An excellent reading knowledge of at least one Romance language.</prerequisites>
+<notes>Conducted in English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F569ffa4e5a2c7bee4bc3011c0802175b">
+<name>
+<prefix/>
+<first>Tom</first>
+<middle/>
+<last>Conley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

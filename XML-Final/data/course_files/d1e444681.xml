@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2240" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>173</num_int>
+</course_number>
+<title>Polish Romanticism</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 12-2</meeting_text>
+<faculty_text>George G. Grabowicz</faculty_text>
+<description>Overview of the major artistic and intellectual trends and close reading of key works by the major writers: Malczewski, Mickiewicz, Slowacki, Krasinski, and others. Focus also on the central role of Romanticism in Polish culture.</description>
+<prerequisites>Reading knowledge of Polish.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F73bf491f95e0ac10058e5224877659ba">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Grabowicz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="373" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

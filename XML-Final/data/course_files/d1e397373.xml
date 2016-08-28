@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="469" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>211</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Black Holes from A to Z</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Andrew Strominger</faculty_text>
+<description>A survey of cosmological and black hole event horizons focusing on the deep puzzles they present concerning the relations between general relativity, quantum mechanics and thermodynamics. Topics include: causal structure, Penrose diagrams, Kerr and deSitter geometries, the thermodynamic laws of horizons, quantum field theory in curved space, Hawking radiation, the information puzzle, the Bekenstein-Hawking entropy/area law, microstate counting, holography, inflation and BICEP2. Prerequisite: General relativity at the level of Physics 210 or equivalent. Physics 253a helpful, but not required.</description>
+<prerequisites>General relativity at level of Physics 210 or equivalent. Physics 253a helpful, but not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F188f086237c7da9462568fb259aac74d">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Strominger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

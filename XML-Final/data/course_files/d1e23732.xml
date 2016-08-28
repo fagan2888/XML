@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8459" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2856</num_int>
+</course_number>
+<title>Biography, the Novel, Psychotherapy and Ethnography: Deep Ways of Knowing Persons in the Moral Context</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Arthur Kleinman</faculty_text>
+<description>Compares deep ways of knowing the person in his/her cultural, political, economic and, most especially, moral context. Reads strong examples from each field to learn about individual and collective experience under uncertainty and danger.</description>
+<prerequisites/>
+<notes>Open to graduate students and advanced undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

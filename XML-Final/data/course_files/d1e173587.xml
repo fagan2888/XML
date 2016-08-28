@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33788" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>172</num_int>
+</course_number>
+<title>Quilts and Quiltmaking</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Felicity A. Lufkin</faculty_text>
+<description>Are quilts the great American (folk) art? From intricately stitched whole-cloth quilts, to the improvisational patchworks of Gee's Bend; from the graphic simplicity of Amish quilts to the cozy pastels of depression-era quilts; from the Aids Quilt to art quilts; quilts have taken on extraordinary significance in American culture. This class surveys the evolution of quilt-making as a social practice, considering the role of quilts in articulations of gender, ethnic, class and religious identities, and their positions within discourses of domesticity, technology, consumerism, and cultural hierarchy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbabbf4a8eb023bbefc8d0a0fbdc6d751">
+<name>
+<prefix/>
+<first>Felicity</first>
+<middle/>
+<last>Lufkin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

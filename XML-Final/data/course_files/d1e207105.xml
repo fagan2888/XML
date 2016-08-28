@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17159" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>269</num_int>
+</course_number>
+<title>German Film: Analysis/History/Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eric Rentschler</faculty_text>
+<description>This course offers a comprehensive survey of German film history from its beginnings to the present. Each of our sessions will provide interactive discussions of selected sequences from exemplary films. These exercises will acquaint students with the tools, methods, and emphases of close analysis. This careful formal scrutiny will go together with an equally painstaking investigation of the discursive places assumed by individual film texts within film history and history at large. In that endeavor we will also take recourse to pertinent film theoretical paradigms.</description>
+<prerequisites/>
+<notes>The course will be conducted in English. No previous familiarity with film studies is required or presumed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

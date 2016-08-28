@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26514" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>az</num_char>
+</course_number>
+<title>The African American Great Migration</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Erin Royston Battat</faculty_text>
+<description>The "Great Migration" of millions of African Americans out of the U.S. South in the twentieth century radically transformed both migrants themselves and the broader American culture. Examining letters, novels, poetry, oral histories, music, visual culture, and scholarship, we will ask: How did migrants negotiate the promises and perils of the urban North? How did migrants shape modern culture? How did they reformulate African American identity amidst this process of urbanization?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F99000cf7c9d392903837062ec0f96a40">
+<name>
+<prefix/>
+<first>Erin</first>
+<middle>Mary Royston</middle>
+<last>Battat</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="118 (Lyman Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

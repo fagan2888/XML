@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64741" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1491</num_int>
+</course_number>
+<title>Power and Piety: Evangelicals and Politics in the Contemporary U.S.</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Jonathan Lee Walton (Divinity School) and Marla F. Frederick</faculty_text>
+<description>This course will examine the history, beliefs, practices and aesthetics of evangelical Christians in the United States, paying particular attention to the relationship between evangelical theology and national politics since the American Civil War. Topics covered will include: the development of the Social Gospel; the Niebuhr Brothers and neo-orthodox theology; women's suffrage and Civil Rights; the "Southern Strategy" and the rise of the so-called Religious Right; as well as Christian Reconstructionism.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2193.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F70edf2e78bf5e2fc41052dc9a6b32462">
+<name>
+<prefix>Prof</prefix>
+<first>Jonathan</first>
+<middle>Lee</middle>
+<last>Walton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F471675e7c254e3496514255d5e00cdcc">
+<name>
+<prefix/>
+<first>Marla</first>
+<middle/>
+<last>Frederick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

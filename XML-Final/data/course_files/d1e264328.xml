@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1498" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>The Science of Language: An Introduction</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Isabelle Carole Charnavel</faculty_text>
+<description>This course introduces components of study of language: phonology, morphology, syntax, and semantics. It presents the view that knowledge of language is best characterized as an unconsciously internalized set of abstract rules and principles. Evidence is drawn from a variety of signed and spoken languages, language universals, child language acquisition, language change, language games, and language disorders.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffb29930a9fef4d2f0d0142e07c3d8e13">
+<name>
+<prefix/>
+<first>Isabelle</first>
+<middle>Carole</middle>
+<last>Charnavel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+</requirements>
+</course></courses>

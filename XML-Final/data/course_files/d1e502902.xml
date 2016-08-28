@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6026" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>3420</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Seminar for Advanced New Testament Students</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Topic for 2014-15: Authors, Books, Religion: Ancient Christianity. The course will consider material, social, economic, and political practices with regard to Christians' production and use of books. The goals of the course are to introduce students to current work being done on these issues, to bring the results of this work to bear on early Christian literature, and to examine the implications of these shifts in understanding about the nature and inter-relationship of authors, writing(s), and religion.</description>
+<prerequisites>Intermediate competency in at least one of the following ancient languages is required: Greek, Latin, Coptic.</prerequisites>
+<notes>A course available to Th.M., Th.D., and Ph.D. candidates, and qualified MTS and M.Div. students with permission of the instructor. Required for Th.M. candidates in the field and for Th.D. and Ph.D. candidates until the term following successful completion of general exams. Offered jointly with the Divinity School as 1980.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F494383b7e235e9e97bee491399694044">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>L.</middle>
+<last>King</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F494383b7e235e9e97bee491399694044">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>L.</middle>
+<last>King</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

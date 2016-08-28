@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3560" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2840</num_int>
+</course_number>
+<title>Ethnography and Personhood</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Michael Herzfeld</faculty_text>
+<description>Intensive, critical review of major ethnographies, exploring the relationship between society and personhood, examining ethnographic writing and its relation to other genres (including biography); and tracing anthropological theory through changes in descriptive and analytic practice.</description>
+<prerequisites/>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4da516f68fb02c445e7bb66990f2b686">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Herzfeld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

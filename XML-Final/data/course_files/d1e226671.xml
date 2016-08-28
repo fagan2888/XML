@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69581" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>"What is the History of Medicine?"</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>The emergence of the science of medicine and its professionalization have been integral aspects of human history. The history of medicine allows us to trace the various traditions that have come together to create "modern medicine." In this section, students will examine the human endeavor to be healthy and to cure disease. The practice of medicine draws on changing ideas about the natural world and the body. It also demands interventions in the physical environment so as to maximize public health, and readily incorporates transformative technologies from other sectors of human society. Students will be asked to reflect on the interaction of medicine and culture through questions such as: How did western powers use biomedicine in the context of empire? How do non-western cultures appropriate and indigenize biomedicine?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

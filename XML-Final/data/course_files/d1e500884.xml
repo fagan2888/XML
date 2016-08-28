@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97093" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2450</num_int>
+</course_number>
+<title>New Testament Ethics and Theology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Elisabeth Schussler Fiorenza (Divinity School)</faculty_text>
+<description>The seminar will focus on both ethical discourses in the NT and on the ethics of interpretation Special attention will be given to the rhetoric of subordination and empire and how they have shaped the theological vision, symbolic worlds and rhetorical practices of NT writings. We also will explore how the theoethical discourses of the NT have shaped and still shape religious communities and society today. The seminar will engage in a collaborative style of learning.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1882.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F320ce00ad74fe0c428d2535c16e68d0c">
+<name>
+<prefix/>
+<first>Elisabeth</first>
+<middle/>
+<last>Schussler Fiorenza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

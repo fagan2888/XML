@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28546" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>205</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Readings in Tibetan Dunhuang Documents</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-4</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp</faculty_text>
+<description>This course will focus on a select number of Tibetan texts uncovered from the Dunhuang area at the beginning of the twentieth century, texts that do not postdate the early eleventh century. The subject matter of the selected texts will range from historiography, belles lettres, and Buddhist theory and practice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1106" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Intermediate Arabic I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through F., at 9, 10, 11, or 12</meeting_text>
+<faculty_text>Nour Barmada and staff</faculty_text>
+<description>A thorough review and continuation of literary (classic and modern) Arabic grammar with emphasis on reading, writing, speaking and listening comprehension. Course materials draw from both classical and modern Arabic literature and culture. Required textbook: Al-Kitaab fii Ta'allum al-Arabiyya, Part II with DVDs, 2nd edition.</description>
+<prerequisites>Arabic A or equivalent.</prerequisites>
+<notes>Not open to auditors. Cannot be taken pass/fail. Offered jointly with the Divinity School as 4351.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7d1b2fa85d9a966e381588014d5bb7ef">
+<name>
+<prefix/>
+<first>Nour</first>
+<middle/>
+<last>Barmada abida</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="101" type="Lecture"/>
+<location term="1" building="Robinson Hall" room="106" type="Lecture"/>
+<location term="1" building="Sever Hall" room="111" type="Lecture"/>
+<location term="1" building="Sever Hall" room="111" type="Lecture"/>
+<location term="1" building="Sever Hall" room="111" type="Lecture"/>
+<location term="1" building="Grays Hall" room="5" type="Lecture"/>
+<location term="1" building="Sever Hall" room="111" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57429" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>245</num_int>
+</course_number>
+<title>The Changing Concept of Race in Science and Medicine in the United States: From Jefferson to Genomics (Graduate Seminar in General Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Evelynn M. Hammonds</faculty_text>
+<description>This course explores the history of the concept of "race" as used by biologists, anthropologists, and physicians from the 17th century to the present and social and political responses to the concept of race in these fields.</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9b646eb3d2749ee30a6154c8b1c2b4f6">
+<name>
+<prefix/>
+<first>Evelynn</first>
+<middle>M.</middle>
+<last>Hammonds</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

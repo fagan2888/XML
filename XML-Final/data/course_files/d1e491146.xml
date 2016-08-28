@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55486" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>12</num_int>
+</course_number>
+<title>Critical Issues in the Comparative Study of Religion</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Charles Lockwood</faculty_text>
+<description>The aim of this course is to introduce students to key categories in the study of religion, both within a comparative context and with significant attention to theoretical and methodological issues in the field. The specific topic of the course will vary from year to year. Topic examples include: scripture, ethics, ritual, body and practice, art, violence, gender and sexuality.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F629a77956c91c4812dcff70ccab6efb4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Evans</middle>
+<last>Lockwood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26014" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1133</num_int>
+</course_number>
+<title>The British Revolutions</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged</meeting_text>
+<faculty_text>Mark A. Kishlansky</faculty_text>
+<description>This course will explore the causes and consequences of the political upheavals that transformed Britain during the seventeenth century. The English Revolution witnessed the first trial and execution of a lawful monarch in European history. The so-called Glorious Revolution of 1688-89 made Britain a great European power. Why was it necessary for Britons to overthrow constituted authority and how did they do it? Readings will include works from among James I, the Levellers, Milton, Hobbes, and Locke as well as writings of modern historians. No prior knowledge expected.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F863cd63d49b513a1cce2f02af5bc25cf">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Kishlansky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

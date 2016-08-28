@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4409" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1095</num_int>
+</course_number>
+<title>Urban Revolutions: Archaeology and the Investigation of Early States</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>C. C. Lamberg-Karlovsky</faculty_text>
+<description>Examines the development and structure of the earliest state-level societies in the ancient world. Archaeological approaches are used to analyze the major factors behind the processes of urbanization and state formation in Mesopotamia, Egypt, Central Asia, the Indus Valley, and Mesoamerica. The environmental background as well as the social, political, and economic characteristics of each civilization are compared to understand the varied forces that were involved in the transitions from village to urbanized life. Discussion sections utilize archaeological materials from the Peabody Museum and Semitic Museum collections to study the archaeological methods used in the class.</description>
+<prerequisites/>
+<notes>No previous knowledge of archaeology is necessary.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="Putnam Lab (59-D)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+</requirements>
+</course></courses>

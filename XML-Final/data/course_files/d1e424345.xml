@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58289" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_char>C</num_char>
+</course_number>
+<title>Intermediate French: The Culture of Food and Friendship in Francophone Countries</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M. through Th., sections at 9, 10, 11 or 12; Spring: M. through Th., sections at 9 or 11</meeting_text>
+<faculty_text>Carole Bergin and members of the Department</faculty_text>
+<description>In this intermediate level language course, students will study and discuss issues faced in contemporary France and other francophone countries. Students will interpret French and francophone culture, in particular the different customs surrounding food and friendship, through a variety of texts, films, and multimedia resources, while participating in a range of oral and written communicative activities. Students will also review and refine their knowledge of various grammatical structures.</description>
+<prerequisites>A score no lower than 451 and no higher than 600 on the SAT II test or the Harvard Placement Test; 3 years of French in high school; French A, Ab, Acd, or Bab; or permission of course head.</prerequisites>
+<notes>Conducted in French. May count toward the language requirement. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the French C website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff6c79eed4fe81d56db624f228deb2e2e">
+<name>
+<prefix/>
+<first>Carole</first>
+<middle/>
+<last>Bergin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Ff6c79eed4fe81d56db624f228deb2e2e">
+<name>
+<prefix/>
+<first>Carole</first>
+<middle/>
+<last>Bergin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="103" type="Section"/>
+<location term="1" building="Boylston Hall" room="103" type="Section"/>
+<location term="1" building="Boylston Hall" room="103" type="Section"/>
+<location term="1" building="Boylston Hall" room="103" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

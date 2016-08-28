@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6299" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3050</num_int>
+</course_number>
+<title>Clinical Practicum</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Students work in clinical settings locally and, under supervision, are directly involved in the treatment and clinical care of patients.</description>
+<prerequisites/>
+<notes>Limited to Harvard doctoral students in clinical psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F64d44107a85593ee8e1e855b795d528d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>McNally</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F64d44107a85593ee8e1e855b795d528d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>McNally</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

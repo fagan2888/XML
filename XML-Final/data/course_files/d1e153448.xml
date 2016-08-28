@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4786" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>157</num_int>
+</course_number>
+<title>The Classic Phase of the Novel</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Philip J. Fisher</faculty_text>
+<description>A set of major works of art produced at the peak of the novel's centrality as a literary form: Sense and Sensibility, Madame Bovary, Anna Karenina, Middlemarch, The Brothers Karamazov, Buddenbrooks. Society, family, generational novels and the negations of crime and adultery; consciousness and the organization of narrative experience; the novel of ideas and scientific programs; realism, naturalism, aestheticism and the interruptions of the imaginary.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7abda83716ffd8fae0b5e05341c6034e">
+<name>
+<prefix/>
+<first>Philip</first>
+<middle/>
+<last>Fisher</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

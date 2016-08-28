@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7618" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="AKKAD">Akkadian</course_group>
+<course_number>
+<num_int>141</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Akkadian Myths and Epics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Peter Machinist</faculty_text>
+<description>The Gilgamesh Epic.</description>
+<prerequisites>Akkadian grammar, basic vocabulary, knowledge of cuneiform script.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5189" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="LATIN">Latin</course_group>
+<course_number>
+<num_int>104</num_int>
+</course_number>
+<title>Ovid's Metamorphoses</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>R. J. Tarrant and assistant</faculty_text>
+<description>Ovid's witty, exuberant, and learned epic of change and mortality encompasses the history of the world from its creation to the apotheosis of Julius Caesar. This course examines the work's shaping of narrative and myth, its generic multiformity (embracing tragic, elegiac, comic, and pastoral motifs, as well as epic), and its equally complex vision of human existence.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5c349d78b85231c589c5fb2d7eb23d37">
+<name>
+<prefix/>
+<first>R.J.</first>
+<middle/>
+<last>Tarrant</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

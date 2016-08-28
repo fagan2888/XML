@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63561" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2661</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Research Seminar in Nonverbal Behavior, Social Perception, and Psychophysiology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Amy J. C. Cuddy (Business School)</faculty_text>
+<description>Students will gain human subject research skills and experience in the lab and online. We will cover a range of topics in social psychology, including but not limited to: nonverbal behavior, social perception, personal power, hormones, emotions, and performance in stressful situations. In biweekly meetings, students will have the opportunity to provide and receive feedback on the work of the lab as well as discuss relevant papers. In addition, monthly trainings will be held covering research tools such as eye-trackers, physiological measures, Qualtrics, and Mechanical Turk.</description>
+<prerequisites>Science of Living Systems 20 plus one from Psychology 13, 15, 16, 18, Science B 29 or MCB 80.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F60dcc53d0f44dd5ebc27a241cff1674e">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle>J. C.</middle>
+<last>Cuddy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F60dcc53d0f44dd5ebc27a241cff1674e">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle>J. C.</middle>
+<last>Cuddy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

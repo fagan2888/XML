@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3436" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3450</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>The Public Economics and Fiscal Policy Seminar</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Invited speakers present theoretical and empirical research on a broad range of topics related to the design of government policy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbbd786b149e2008191ae8eb37a3e82ba">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cutler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2385b7a6f221e630e40d2444a5fbbaa7">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>F.</middle>
+<last>Katz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7fe9fbd135ba8120a51f4925ddd15100">
+<name>
+<prefix/>
+<first>Nadarajan</first>
+<middle/>
+<last>Chetty</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F93f3b94977188309fb701159f26346dc">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle/>
+<last>Glaeser</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbbd786b149e2008191ae8eb37a3e82ba">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cutler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2385b7a6f221e630e40d2444a5fbbaa7">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle>F.</middle>
+<last>Katz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7fe9fbd135ba8120a51f4925ddd15100">
+<name>
+<prefix/>
+<first>Nadarajan</first>
+<middle/>
+<last>Chetty</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F93f3b94977188309fb701159f26346dc">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle/>
+<last>Glaeser</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-16" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

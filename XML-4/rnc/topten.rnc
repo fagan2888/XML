@@ -1,0 +1,19 @@
+default namespace = ""
+
+start =
+  element topten {
+    element course {
+      #  all attributes are directly from enrollments.xml
+      attribute cat_num { xsd:integer },
+      attribute course_group { text },
+      attribute course_number { text },
+      attribute emp { xsd:integer },
+      attribute grad { xsd:integer },
+      attribute prof { xsd:NCName },
+      attribute total { xsd:integer },
+      attribute ugrad { xsd:integer },
+      attribute xreg { xsd:integer },
+      # text is the title of the course, from courses.xml
+      text      
+    }+
+  }

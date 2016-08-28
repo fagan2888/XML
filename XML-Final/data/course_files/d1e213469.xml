@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67778" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>td</num_char>
+</course_number>
+<title>Tough Transition: Consolidating Democracy under Adverse Circumstances</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>George Soroka</faculty_text>
+<description>This course addresses the question of "tough transitions." Democracy has come to many different lands in the twentieth and twenty-first centuries, but its record of success once there has been remarkably variable. In this seminar we will ask two interrelated questions, drawing upon both theoretical literature and case studies: what conditions are advantageous or disadvantageous for democratic consolidation? And, in the latter instance, are there ways of overcoming less than ideal starting points?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8a2366909aa390b97ba5362ed6ff267d">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Soroka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-108" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

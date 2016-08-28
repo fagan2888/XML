@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35197" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>288</num_int>
+<num_char>y</num_char>
+</course_number>
+<title>Tohaku on Painting</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Yukio Lippit</faculty_text>
+<description>This graduate seminar explores the world of Japanese painting circa 1600 through Tohaku on Painting, the earliest text to record the words of a Japanese painter. Wherever possible surviving works will be discussed in relation to the text's 93 entries. Themes to be explored include the life and work of Hasegawa Tohaku, the culture of tea display, the reception of Chinese painting in Japan, the Ashikaga shogunal collection, East Asian artistic legend, mounting and viewing practice, the legacy of medieval Zen monk-painters, and the competition among professional painting houses in the early modern era.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F83be5e8c683ef1dd2d5b856c5a26753d">
+<name>
+<prefix/>
+<first>Yukio</first>
+<middle/>
+<last>Lippit</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

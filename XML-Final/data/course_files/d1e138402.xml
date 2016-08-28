@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59443" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>233</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Health Care Computer-Assisted Innovations</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>See HBS course schedule for course meeting day/times and location</meeting_text>
+<faculty_text>Regina E. Herzlinger (Business School) and Margo I. Seltzer</faculty_text>
+<description>This is a field study course in which students undertake significant external research in the in-depth development of a business plan for a health-care and technology business venture. Students will learn to develop such a business plan, evaluate and select appropriate technologies, define a new technology based product in the health-care space, and develop appropriate prototypes for presentation to customers and investors.</description>
+<prerequisites/>
+<notes>Must be taken concurrently with ES233a. Offered jointly with the Business School as 6180.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62cc227ec8a6edb2b65e55893b26a51d">
+<name>
+<prefix/>
+<first>Regina</first>
+<middle>E.</middle>
+<last>Herzlinger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F69e7709bfa572dad6549b62e71dde145">
+<name>
+<prefix/>
+<first>Margo</first>
+<middle>I.</middle>
+<last>Seltzer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

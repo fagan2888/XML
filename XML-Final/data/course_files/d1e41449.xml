@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9623" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIST">
+<dept_long_name>Committee on Higher Degrees in Biostatistics</dept_long_name>
+<dept_short_name>Biostatistics</dept_short_name>
+</department>
+<course_group code="BIOSTAT">Biostatistics</course_group>
+<course_number>
+<num_int>238</num_int>
+</course_number>
+<title>Principles and Advanced Topics in Clinical Trials</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:30-3:20</meeting_text>
+<faculty_text>Michael David Hughes (Public Health)</faculty_text>
+<description>This course focuses on selected advanced topics in design, analysis, and interpretation of clinical trials, including study design; choice of endpoints (including surrogate endpoints); interim analyses and group sequential methods; subgroup analyses; and meta-analyses.</description>
+<prerequisites>BIST 230, and BIST 231 (may be taken concurrently) or signature of instructor required.</prerequisites>
+<notes>Offered jointly with the School of Public Health as BIO 238.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd08cb3b01900e208960e7f9ab0561b1d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>D.</middle>
+<last>Hughes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1520"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1520"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

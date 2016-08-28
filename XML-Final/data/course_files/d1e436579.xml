@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27284" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Border Flux and Border Subjects: Cultural Practices of the US-Mexico Border</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11&amp;#8211;12:30</meeting_text>
+<faculty_text>Sergio Delgado</faculty_text>
+<description>This course is structured around a set of art and literary works that engage the US-Mexico border. It seeks to understand the fluid nature of the border region along with its recurring themes and dynamics, focusing on the complex links between literary texts, artistic practices, and the increasingly pressing social and political issues of the region. Materials include works by Monsivais, Bolano, Anzaldua, Daniel Sada, Gomez-Pena, Amy Sara Carroll, Ricardo Dominguez.</description>
+<prerequisites>: A score above 780 on the SAT II or on the Harvard Placement test; a 40-, 50-, or 60-level course in Spanish; or permission of course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7030e3dcaa372c256bf77294ef26fb95">
+<name>
+<prefix/>
+<first>Sergio</first>
+<middle/>
+<last>Delgado</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

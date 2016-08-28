@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8704" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>103</num_int>
+</course_number>
+<title>Plant Systematics and Evolution</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30, and a four hour lab on Fridays.</meeting_text>
+<faculty_text>Charles C. Davis</faculty_text>
+<description>An introduction to the diversity and evolution of vascular plants. The course focuses mainly on flowering plants because of their dominant role on the earth, but lycophytes, ferns, and gymnosperms are studied as well. A phylogeny of vascular plants provides the framework for their evolution and diversification. Related subjects, including plant habitats, biogeography, phylogenetics, herbaria, nomenclature, and pollination biology are also presented in lecture and laboratory.</description>
+<prerequisites>OEB 10 or permission of instructor.</prerequisites>
+<notes>There are two midterms, a final, and frequent lab quizzes.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F55e827dc1724c8b7d5c2a3f17c2fb816">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Davis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

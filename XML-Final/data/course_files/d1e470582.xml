@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14706" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>98</num_int>
+</course_number>
+<title>Tutorial - Junior Year</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>David P. Harrington (FAS/Public Health) and Viktoriia Liublinska</faculty_text>
+<description>Introduction to reading, writing, presenting, and research in statistics. Students will learn to formulate and approach a research question, critically review papers that make use of statistics, and clearly communicate statistical ideas and arguments orally and in writing. Limited to junior concentrators in statistics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcc725da1acbd0d09c6e62f4ee84f2aad">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Harrington</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc0fba82f809c81eb1638c04a5054a84c">
+<name>
+<prefix/>
+<first>Viktoriia</first>
+<middle/>
+<last>Liublinska</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

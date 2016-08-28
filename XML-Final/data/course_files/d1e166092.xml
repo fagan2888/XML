@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77031" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.193</num_char>
+</course_number>
+<title>The Rise of China</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sara A. Newland</faculty_text>
+<description>If the 20th century was the "American Century," will the 21st be the "Chinese Century"? As the locus of global economic growth shifts to Asia, what cultural and political changes will accompany this transformation? Does China's rise represent a threat, a competing set of values, an opportunity, or some combination of the three? In this course, we will examine the causes and consequences of China's ascendance as a global power. Relying on sources ranging from oral histories to Wikileaks cables, we will analyze how China is changing and how people across the globe understand China's relevance to their own lives.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcf5b370087713f7de2470d5d2bb0a65d">
+<name>
+<prefix/>
+<first>Sara</first>
+<middle>A</middle>
+<last>Newland</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

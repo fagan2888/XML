@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18349" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>146</num_int>
+</course_number>
+<title>Euripides' Bakkhai and the Modern Reception of Dionysos</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Albert Henrichs</faculty_text>
+<description>A study of the most Dionysiac of extant tragedies and its influence on the perception of Dionysos in literature, art and scholarship since Nietzsche's Birth of Tragedy (1872). Topics for discussion include divine and human identities; the wine and its beneficiaries; ritual ecstasy; the theater and the mask; gender roles and sexuality; suffering, sacrament and Christianizing interpretations of Dionysos; polarities and otherness; Nietzsche on Dionysos; the Victorian Dionysos; Dionysos in 1933 and 1969; and modern adaptations of the Bakkhai.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4c6dbd72881ea2d5bbe91765f27926d">
+<name>
+<prefix/>
+<first>Albert</first>
+<middle>M.</middle>
+<last>Henrichs</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="237" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

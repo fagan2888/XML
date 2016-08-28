@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81052" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>108</num_int>
+</course_number>
+<title>Bodies, Sexualities, and Medicine in the Medieval Middle East</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Ahmed Ragab (Divinity School)</faculty_text>
+<description>This course will examine the ways in which medical, religious, cultural, and political discourses and practices interacted in the medieval and early modern Middle East to create and reflect multiple understandings of human bodies and sexualities. Special attention to debates on health, sexuality, and gender and racial identities.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3587. This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

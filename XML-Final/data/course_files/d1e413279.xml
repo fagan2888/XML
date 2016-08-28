@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46453" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1502</num_int>
+</course_number>
+<title>Cultural Psychology: Exploring Social Identities in the U.S. and Beyond</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Sasha Y. Kimel</faculty_text>
+<description>How does your nationally, social class, race/ethnicity, gender, faith and politics change the way you think, feel and behave? This course explores how your cultural background shapes your sense of self, emotions, motivation, decision-making and relationships. We will talk about God, sex, politics, violence and how our culture impacts the names we give our children. The goal of this course is to help you gain a better understanding of the ways in which human culture and the human psyche interact while enhancing your ability to promote greater intercultural harmony and to thrive in our increasingly multicultural and globalized world.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcfdffe431af2455f1067db73a331725a">
+<name>
+<prefix/>
+<first>Sasha</first>
+<middle>Y.</middle>
+<last>Kimel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="214" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48904" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>31</num_int>
+</course_number>
+<title>The Philosopher and the Tyrant</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Damrosch (Comparative Literature)</faculty_text>
+<description>Philosophers and politicians alike struggle to set the terms for living a good life in a world of conflict. How do court counselors and professional philosophers speak truth to power? How do rulers - and citizens like ourselves - weigh the competing demands of liberty and order, self-fulfillment and self-restraint? Moving from Plato and the Bible to responses to Hitler's Mein Kampf, this course will examine particularly rich examples of relations between the pursuit of wisdom and the pursuit of power, from the extremes of conflict (the executions of Socrates, Jesus, Sir Thomas More) to the opposite dream of the philosopher king.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc38e4afa7c2f31744fa2622ac88fac8b">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Damrosch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="203" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67106" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>27</num_int>
+</course_number>
+<title>Introduction to Social Movements</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Jocelyn Viterna</faculty_text>
+<description>Social movements and revolution have long been driving forces behind political, social, and cultural change. From the Civil Rights movement of the 60s to the recent and unpredicted "Arab Spring," the extraordinary mobilization of ordinary people is routinely credited with fundamentally re-shaping societal institutions--the polity, the economy, religion, gender, race, and even the environment. But can we really define and study something as ephemeral as social mobilization? Do we know how social movements begin? Why might they become revolutionary? Can they make a difference in the societies they target? This course examines these questions within the sociological literature on collective action. Theories of social movements and revolutions are then applied to a series of case studies around the globe. Case studies may include the US, Iran, China, El Salvador, Chile, India, Poland, Argentina, Egypt, and Nigeria, among others. Students will also be required to apply course readings to the collective action case of their choosing throughout the semester.</description>
+<prerequisites/>
+<notes>formerly Sociology 132: Mobilizing for Change. This course, when taken for a letter grade, meets the General Education requirement for United States in the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F458908b1d1ef32de0d790fe64551ab70">
+<name>
+<prefix/>
+<first>Jocelyn</first>
+<middle/>
+<last>Viterna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

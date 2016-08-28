@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5879" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>121</num_int>
+</course_number>
+<title>From the 1001 Nights to the Arabian Nights : Adaptation, Transformation, Translation</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Sandra Naddaff</faculty_text>
+<description>Examines how the 1001 Nights, popularly known in the West as the Arabian Nights, is transformed and adapted for different media and genres. Focuses on a variety of films, (e.g., The Thief of Baghdad, Chu Chin Chow, Aladdin), illustrations/images (e.g., Dore, Chagall, Matisse), musical and balletic renditions (e.g., Rimsky-Korsakov, Fokine), translations (e.g., Galland, Lane, Burton, Haddawy), and re-tellings of stories (e.g., Poe, Barth, Mahfouz, Sebbar, Zimmerman). Also considers the role of the 1001 Nights in contemporary popular culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab470bf76cbcaa6c681418dd19fa719a">
+<name>
+<prefix/>
+<first>Sandra</first>
+<middle/>
+<last>Naddaff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

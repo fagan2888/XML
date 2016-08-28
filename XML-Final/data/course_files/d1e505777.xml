@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1971" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>71</num_int>
+</course_number>
+<title>Silent Cinema</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, a weekly film screening Tu., 4-6:30, and a weekly section to be arranged</meeting_text>
+<faculty_text>Adam Charles Hart</faculty_text>
+<description>This course will survey the development of the film medium from its beginnings in the 1890s to an astonishing artistic flowering in the 1920s in the US, France, Germany, Japan, the Soviet Union, and elsewhere. This course will focus on the shifts in cinematic language- especially camerawork and editing - and on the contemporaneous theoretical discourse about the cinema from filmmakers, critics, and philosophers attempting to define a young, constantly-expanding medium.</description>
+<prerequisites/>
+<notes>No background in film history or theory necessary. Required for all students concentrating in Film Studies. This course has an additional weekly film screening, Tuesday 4-6:30 pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F57fafdc787a4575f80d2a5e73a55f1c2">
+<name>
+<prefix/>
+<first>Adam</first>
+<middle>Charles</middle>
+<last>Hart</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="B-04" type="Lecture"/>
+<location term="1" building="Carpenter Center" room="Main Lecture Hall" type="Film Screening"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

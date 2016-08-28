@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71052" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1168</num_int>
+</course_number>
+<title>Maya Glyphs</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Alexandre Andreevich Tokovinine</faculty_text>
+<description>Learn to read and write in Maya glyphs to discover the most spectacular civilization in the Americas in its own words! This course covers the basics of Maya writing and art using the outstanding visual and material collections of the Corpus of Maya Hieroglyphic Inscriptions and Peabody Museum of Archaeology and Ethnology. It explores the indigenous Maya myths, histories, and stories of life at the ancient courts of lords and nobles.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbb4d2c7b3c8dc44735c98e45d9ba15ad">
+<name>
+<prefix/>
+<first>Alexandre</first>
+<middle>Andreevich</middle>
+<last>Tokovinine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

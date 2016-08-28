@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48982" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>Building a Living Cell One Brick at a Time</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>14</enrollment_limit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Alain Viel</faculty_text>
+<description>Synthetic biology is an emerging multi-disciplinary field of research aimed at developing solutions to problems impacting our individual lives and ultimately our long-term survival as a species. We need to find alternative and renewable sources of energy and food, new ways to process and recycle limited resources, and tools to detect and address environmental pollutants. These and other challenges can be addressed by the development of microorganisms re-engineered to perform new functions. In this "hands-on" laboratory course students will design experiments and build and then test synthetic biological systems. Additionally, students will present and discuss selected topics in synthetic biology.</description>
+<prerequisites/>
+<notes>Open to Freshmen only</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F395d5e262cea6d425331a5558e5dde1d">
+<name>
+<prefix/>
+<first>Alain</first>
+<middle/>
+<last>Viel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="152" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

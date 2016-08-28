@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76568" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2477</num_int>
+</course_number>
+<title>History of American Economic Regulation: Seminar</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>8</enrollment_limit>
+<meeting_text>M., Tu., 1:30-3</meeting_text>
+<faculty_text>Kenneth W. Mack (Law School)</faculty_text>
+<description>This course examines the history of capitalism in America, viewed through the lens of debates over regulation of economic activity. Beginning in the early days of the republic, it will examine the role of law in capitalist development, focusing on debates over the regulation of corporations, banking and the financial system, antitrust, and administrative law, continuing through the regulatory reforms of the New Deal. It will then examine movements for deregulation, the roots of the financial crisis, and recent proposals to regulate banks and other financial institutions. The course will examine the social, institutional and intellectual history of economic regulation.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School at 2167.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Faced20081d9cd8ef76b632bc22c15701">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>W.</middle>
+<last>Mack</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

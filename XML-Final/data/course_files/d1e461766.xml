@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70789" offered="N" next_year_offered="2015">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>106</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Oral Proficiency in Hindi-Urdu</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard S. Delacy</faculty_text>
+<description>A course intended to raise levels of oral proficiency for advanced students and consolidate command over complex grammatical structures. By the end of the term, students will be expected to converse in a clearly participatory fashion, initiate, sustain and bring closure to a wide variety of communicative tasks using diverse strategies.</description>
+<prerequisites>Hindi-Urdu 103 or Instructor's permission.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F37954953ac0282d9fb7f598d265dbc44">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Somers</middle>
+<last>Delacy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F37954953ac0282d9fb7f598d265dbc44">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Somers</middle>
+<last>Delacy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

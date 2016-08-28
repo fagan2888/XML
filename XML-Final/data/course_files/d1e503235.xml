@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7927" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="UKRA">
+<dept_long_name>Committee on Ukrainian Studies</dept_long_name>
+<dept_short_name>Ukrainian Studies</dept_short_name>
+</department>
+<course_group code="UKRAN">Ukrainian</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Ukrainian Studies: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Serhii Plokhii and staff</faculty_text>
+<description>Interdisciplinary seminar in Ukrainian studies with broad regional and comparative perspective. Faculty and invited scholars discuss a variety of topics in the humanities and social sciences. Background readings and follow-up discussions help students put the specific lectures in broader context. Students also conduct an individually tailored reading and research project under the guidance of a faculty advisor and in consultation with other resident specialists.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6b7356399a9eab69b4609e1ca8b3f79c">
+<name>
+<prefix/>
+<first>Serhii</first>
+<middle/>
+<last>Plokhii</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6b7356399a9eab69b4609e1ca8b3f79c">
+<name>
+<prefix/>
+<first>Serhii</first>
+<middle/>
+<last>Plokhii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

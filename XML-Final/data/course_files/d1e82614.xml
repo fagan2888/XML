@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76892" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNLIT">Japanese Literature</course_group>
+<course_number>
+<num_int>271</num_int>
+</course_number>
+<title>Topics in Gender and Culture in Japan: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4:30</meeting_text>
+<faculty_text>Tomiko Yoda</faculty_text>
+<description>A seminar course that studies the constructions of gender and gender relations in Japan through the examination of various forms of expressive culture (visual, textual, sonic) in their historical contexts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F43666c2a2074cd809a0dc8115f868898">
+<name>
+<prefix/>
+<first>Tomiko</first>
+<middle/>
+<last>Yoda</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="204" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

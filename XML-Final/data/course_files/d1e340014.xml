@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86866" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Fighting Cancer with the Mind</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>William F. Pirl (Medical School)</faculty_text>
+<description>Using contemporary mind-body practices as context, examines evidence (or lack of evidence) linking psychological practices with cancer survival. We will (1) review theoretical foundations for these links including psychoanalysis, psychoneuroimmunology, and cognitive-behavioral therapy; (2) analyze legitimation of mind-body practices for cancer in popular media; (3) interview mind-body medicine practitioners; and (4) examine published scientific data. Students will choose one mind-body practice for in-depth study, analyzing its underlying theories, scientific evidence, and appeal to patients.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F36871973ae357c0b2fce06f37f1e2234">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Francis</middle>
+<last>Pirl</last>
+<suffix>M.D.</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

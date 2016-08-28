@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30645" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>140</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Computational Geometry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Section 1: M., W., F., 1&amp;#8211;3; Section 2: M., W., F., 2&amp;#8211;4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>An inquiry based and hands on exploration in computational geometry. Topics include: projective geometry (duality between points/lines, symmetry among spheric/planar/hyperbolic geometry), linear algebra (vectors, matrices, symmetry groups) and recursion. We will draw pretty pictures (fractals, tesselations, algebraic curves, etc.). We will write computer programs in Mathematica (and possibly Java, if time permits).</description>
+<prerequisites>Applied Mathematics 21a/b or Mathematics 21a/b. You know how to multiply matrices and vectors. No previous programming experience required.</prerequisites>
+<notes>Grading based on final project, in-class assignments, in-class participation. No written exams, no written homework outside class. You will present your finished programs and pretty pictures to the class.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3c036054b5af0d3992677dc2c68a626b">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>R.</middle>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

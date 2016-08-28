@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14189" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="GENETIC">Genetics</course_group>
+<course_number>
+<num_int>219</num_int>
+</course_number>
+<title>Inheritance and Weird Stuff</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 11-2</meeting_text>
+<faculty_text>Chao-Ting Wu (Medical School) and Kami Ahmad (Medical School)</faculty_text>
+<description>Focus on patterns of inheritance, including those that were once considered extraordinary but are now recognized as paradigms spanning fungi to humans. Expectations: questions, ideas, conversation during class. No tests, problem sets, or papers.</description>
+<prerequisites>Primarily for first-year graduate students, but is open to medical students and advanced undergraduates. A basic understanding of genetics recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F489ea933953165d5e3f2554a9cd8daaf">
+<name>
+<prefix/>
+<first>Chao-Ting</first>
+<middle/>
+<last>Wu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd78cf6d461cf6a55f13442845988bb88">
+<name>
+<prefix/>
+<first>Kami</first>
+<middle/>
+<last>Ahmad</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

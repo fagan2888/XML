@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98795" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>194</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Special Topics</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Daniel Albright</faculty_text>
+<description>Shakespeare in Music. The music of Shakespeare's own patternings of text, and the Shakespearean aspects of musical composition. Codes for interpreting dramatic music, both in Shakespeare's time and in the ages of Purcell, Berlioz, Verdi and Britten. We begin by looking at the role of music in the Elizabethean and Jacobean world: then on even-numbered weeks we will study a Shakespeare play (The Tempest, Romeo and Juliet, Macbeth, Othello, The Merry Wives of Windsor, A Midsummer Night's Dream); on odd-numbered weeks we will study musical adaptations.</description>
+<prerequisites/>
+<notes>This course, when taken for letter grade, meets the Department of English Shakespeare requirement. Students from other departments are welcome.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2daea07f033d736ce13802c4a43535c5">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Albright</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

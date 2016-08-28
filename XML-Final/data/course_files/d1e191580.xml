@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79782" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>51</num_int>
+</course_number>
+<title>Making the Middle Ages</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>56</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Catherine McKenna (Celtic Languages and Literatures) and Nicholas Watson (English)</faculty_text>
+<description>This course offers a general introduction to the cultures and beliefs of medieval Europe. We focus on a variety of artifacts and cultural productions as the centerpieces of a broad and interdisciplinary exploration of medieval studies. Using specific objects and texts as points of entry into a vanished world, we encourage students to explore those areas that interest them most, teasing out the cultures and beliefs of the past while simultaneously developing their skills in research and writing. Through collaborative projects and a creative exploration of texts, images, and collections at Harvard and beyond, students will be invited to make their own Middle Ages.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

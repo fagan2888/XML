@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8561" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>188</num_int>
+</course_number>
+<title>Chromosomes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-4</meeting_text>
+<faculty_text>Nancy Kleckner</faculty_text>
+<description>Chromosome morphogenesis in prokaryotic and eukaryotic organisms. Topics will include chromosome structure, interactions between chromosomes (sisters and homologs), DNA recombination and repair, topoisomerases, transposable elements and site-specific recombination, epigenetic inheritance. Genetic, cytological, and biochemical approaches will be integrated. Lecture, reading, and discussion of classical and current literature and consideration of future experimental directions.</description>
+<prerequisites>LS 1b or equivalent, MCB 60 or MCB 52 and MCB 54.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc3e1b17bbbfd9b2e9f3e10b90deb62b0">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle/>
+<last>Kleckner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

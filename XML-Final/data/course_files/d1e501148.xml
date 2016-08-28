@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71253" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2460</num_int>
+</course_number>
+<title>Theologies and Images</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>Christian theology has long relied on notions about images to declare its central doctrines. Human beings are said to be made in the image of God, and Jesus Christ is the image of the one he called Father. But Christian theology has also both explained and regulated images in more ordinary cases, whether of experience or of art. This seminar will read a selection of theological works in order to think about the theology of images. It will begin with earlier Christian texts and their philosophical conversation-partners. It will then juxtapose recent works of Christian theology with contemporary philosophical critiques of images and their viewers.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

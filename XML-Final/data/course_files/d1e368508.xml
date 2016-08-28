@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46199" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JEWISHST">Jewish Studies</course_group>
+<course_number>
+<num_int>103</num_int>
+</course_number>
+<title>Jewish Cultures in the Middle East</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Susan M. Kahn</faculty_text>
+<description>An introduction to the cultural history of Jewish life in the Middle East. Provides an overview of the changing administrative contexts that historically governed the lives of minority populations in the Mamluk, Ottoman and Modern periods, and examines historical modes of Jewish community-building, strategies of survival, and cultural production in these settings. Finally, the course focuses on the diverse fates Middle Eastern Jewish communities in the 20th century. Readings will focus primarily on historical and anthropological accounts, though literary, cinematic and biographical sources will also be included.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6818373fb70763d8bf0e77c8ad5d3970">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83659" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="HEBREW">Hebrew</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Introduction to Rabbinic Hebrew</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Shaye J.D. Cohen</faculty_text>
+<description>Introduction to Tannaitic and Amoraic Hebrew with readings from talmudic and midrashic literature.</description>
+<prerequisites>Two semesters or the equivalent of Hebrew, preferably Biblical Hebrew.</prerequisites>
+<notes>Offered jointly with the Divinity school is 4036.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff54a769ee52d727e0cfd4c1fb2382246">
+<name>
+<prefix/>
+<first>Shaye</first>
+<middle>J.D.</middle>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

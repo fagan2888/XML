@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20809" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>157</num_int>
+</course_number>
+<title>Developmental Genetics and Genomics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 12-1:30</meeting_text>
+<faculty_text>Craig P. Hunter</faculty_text>
+<description>Our goal is for students to gain a fundamental understanding of the genetic control of development in four genetically accessible animal models; the nematode C. elegans, the fruit fly Drosophila melanogaster, the zebra fish Danio rio, and the mouse Mus musculus. A focus of the course is to compare and contrast genetic analysis of and the genetic control of developmental processes and mechanisms in these four organisms. The course consists of lectures, student presentations, and written assignments.</description>
+<prerequisites>LS 1b</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F19ad1b895c98ea92620ce1ab579a0ada">
+<name>
+<prefix/>
+<first>Craig</first>
+<middle>P.</middle>
+<last>Hunter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

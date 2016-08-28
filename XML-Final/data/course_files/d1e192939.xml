@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2508" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>17</num_int>
+</course_number>
+<title>Deductive Logic</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, with Fridays 11 - 1 reserved for weekly quizzes; additional weekly section to be arranged.</meeting_text>
+<faculty_text>Mark Richard (Philosophy)</faculty_text>
+<description>The concepts and principles of symbolic logic: valid and invalid arguments, logical relations of statements and their basis in structural features of those statements, the analysis of complex statements of ordinary discourse to uncover their structure, the use of a symbolic language to display logical structure and to facilitate methods for assessing arguments. Analysis of reasoning with truth-functions ("and", "or", "not", "if...then") and with quantifiers ("all", "some"). Attention to formal languages and axiomatics, and systems for logical deduction. Throughout, both the theory underlying the norms of valid reasoning and applications to particular problems will be investigated.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0c2e83773ef0366a5e734cb1994ce917">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Richard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

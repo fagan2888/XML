@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9193" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2626</num_int>
+</course_number>
+<title>Research Design/Proposal Writing</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 12-2</meeting_text>
+<faculty_text>Jean Comaroff and John Comaroff</faculty_text>
+<description>Seminar focuses on weekly writing assignments leading to complete dissertation research proposals; defining theoretical and ethnographic contexts of research problem; reviewing literature; explaining site selection, methodology, timetable, human subjects protection; preparing budget; identifying grant sources.</description>
+<prerequisites/>
+<notes>By permission only. Limited to doctoral candidates, with preference given to second and third year students in Anthropology and African and African American Studies.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F46effc25d8708daa8696bd184d3256ff">
+<name>
+<prefix/>
+<first>Jean</first>
+<middle/>
+<last>Comaroff</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F762ff2e7bdbe4d491e8450fc220f37a2">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Comaroff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="12" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

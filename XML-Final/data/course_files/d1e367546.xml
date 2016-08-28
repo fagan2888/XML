@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73552" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>185</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Ulama, Religious Institutions, and Islamic Education in the Middle East</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Malika Zeghal</faculty_text>
+<description>Examines the secondary literature in intellectual and social history, sociology and anthropology of Islamic education, religious scholars ('ulama) and religious authority in the Muslim world (19th-20th centuries). In the Spring of 2015, primary sources in Arabic will be examined in relation to each topic covered.</description>
+<prerequisites>Reading proficiency in Arabic required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe6948c0967ee2cd544963b4bed2aad8d">
+<name>
+<prefix/>
+<first>Malika</first>
+<middle/>
+<last>Zeghal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

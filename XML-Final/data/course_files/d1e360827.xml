@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4747" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Upper-Level Spoken Modern Standard Arabic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., 3-5</meeting_text>
+<faculty_text>William E. Granara</faculty_text>
+<description>This course emphasizes the development of advanced speaking and listening skills by exposing students to the contemporary media and academia. Some reading and writing will be required, but classes will revolve around oral presentations and directed conversations.</description>
+<prerequisites>Two years of MSA or equivalent proficiency.</prerequisites>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland St., 38 (CMES)" room="208" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

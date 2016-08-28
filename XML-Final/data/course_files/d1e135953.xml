@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51087" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Applied Quantum Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Quantum mechanics provides not only an essential tool for engineers, material scientists and biologists to study and control objects in nano and atomic scales but also radical ways to do information processing, sensing, and fabrication. Advances in nanotechnology and quantum information processing raise growing interests in engineering students to learn applied quantum mechanics that is also essential for understanding modern devices and systems in electronics photonics. Topics of this course will cover topics ranging from solution of Schrodinger equation in quantum confined nano-structures and most recent topics such as quantum circuits and entanglement. Examples, problems and numerical simulation are designed to address the applications of the course contents to real problems in semiconductor electronics, optoelectronics, photonics, quantum information processing and superconducting electronics.</description>
+<prerequisites>Applied Mathematics 21b and Applied Physics 50 a or b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F90eabab950b3082858f55b45b94fc731">
+<name>
+<prefix/>
+<first>Amirhamed</first>
+<middle/>
+<last>Majedi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

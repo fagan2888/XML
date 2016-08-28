@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89649" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1997</num_int>
+</course_number>
+<title>The Political History of the Arab States Since Independence</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>E. Roger Owen</faculty_text>
+<description>The course will examine the troubled post-independence history of the Arab World divided into three parts: North Africa, the Arab East, and the Arab Gulf. Its main focus will be on state-formation under increasingly authoritarian regimes, the challenge to those regimes by global and regional forces and the political and social repercussions of the Arab Spring. Topics to be discussed in depth will include presidential rule, the role of the military and the establishment of crony-capitalist forms of government and political Islam.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F616875680cc49d804e2a459e831cfc0b">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>Roger</middle>
+<last>Owen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-401" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

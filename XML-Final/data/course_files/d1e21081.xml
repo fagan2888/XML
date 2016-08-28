@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32957" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2628</num_int>
+</course_number>
+<title>Methodology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 12-3</meeting_text>
+<faculty_text>Byron J. Good (Medical School) and Alasdair Simon Donald (Medical School)</faculty_text>
+<description>This course will review methods used by contemporary anthropologists conducting ethnographic research. Special focus of the course will be on ethnographic interviewing. Will also consider such topics as use of visual material, mixed methods linking qualitative, quantitative and ethnographic material, and approaches to data analysis. Course will include observational and interviewing exercises.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff34f51dacf8e4bfeed19c40719c8359c">
+<name>
+<prefix/>
+<first>Byron</first>
+<middle/>
+<last>Good</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5177b65b4bee31f0c286ce0b175490ce">
+<name>
+<prefix/>
+<first>Alasdair</first>
+<middle/>
+<last>Donald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

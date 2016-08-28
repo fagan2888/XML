@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1493" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Introduction to the Mechanics of Solids</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1</meeting_text>
+<faculty_text>Zhigang Suo</faculty_text>
+<description>A first course in the mechanical sciences which introduces elements of continuum mechanics and explains how materials and structures stretch, bend, twist, shake, buckle, and break. Stress-strain behavior of materials. Statically determinate and indeterminate structures. Stress and strain, equations of motion or equilibrium, strain-displacement relations. Torsion. Beam theory with applications to beam deflections, vibrations, and buckling. Three laboratory sessions required.</description>
+<prerequisites>Physics 11a or 15a, and Applied Mathematics 21a or Mathematics 21a (previously) and Applied Mathematics 21b or Mathematics 21b (previously or concurrently).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1e4cdf5e2cf5bfb71f2b7b747c6974dc">
+<name>
+<prefix/>
+<first>Zhigang</first>
+<middle/>
+<last>Suo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

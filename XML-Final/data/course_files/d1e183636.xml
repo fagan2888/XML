@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1032" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>44</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Public Policy Approaches to Global Climate Change</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>14</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Richard N. Cooper</faculty_text>
+<description>Reviews what is known about greenhouse gas emissions' possible impact on climate. Explores possible impact of climate change on social and economic conditions over the next century. Investigates possible public policy responses to these developments, including actions both to adapt to and to mitigate climate change. What would be the costs of adaptation? Would an investment in mitigating the changes be worthwhile? Are there possibilities for international cooperation in dealing with the problem?</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7eb8efac2b529fa5cc85c4ba14fda75d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>N.</middle>
+<last>Cooper</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="112" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

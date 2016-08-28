@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95066" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>18</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Introduction to Japanese Architecture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Yukio Lippit</faculty_text>
+<description>A survey of the diverse architectural traditions of the Japanese archipelago from the prehistoric era through the twentieth century. Various building types-including the Shinto shrine, Buddhist temple, castle, teahouse, palace and farmhouse-will be studied through representative surviving examples. Issues to be explored include the basic principles of timber-frame engineering, the artisanal culture of master carpenters, and the mixed legacy of the functionalist interpretation of Japanese architecture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F83be5e8c683ef1dd2d5b856c5a26753d">
+<name>
+<prefix/>
+<first>Yukio</first>
+<middle/>
+<last>Lippit</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

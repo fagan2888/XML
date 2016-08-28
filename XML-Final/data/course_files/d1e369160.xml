@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4810" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MOD-HEB">Modern Hebrew</course_group>
+<course_number>
+<num_char>B</num_char>
+</course_number>
+<title>Elementary Modern Hebrew</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M. through F., at 10</meeting_text>
+<faculty_text>Irit Aharony</faculty_text>
+<description>The course introduces students to the phonology and script as well as the fundamentals of morphology and syntax of Modern Hebrew. Emphasis is placed on developing reading, speaking, comprehension and writing skills, while introducing students to various aspects of contemporary Israeli society and culture.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 4015. Not open to auditors. Cannot be taken pass/fail. Cannot divide for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6471fa9bc0c0201cd7ecc3d600adda03">
+<name>
+<prefix/>
+<first>Irit</first>
+<middle/>
+<last>Aharony</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6471fa9bc0c0201cd7ecc3d600adda03">
+<name>
+<prefix/>
+<first>Irit</first>
+<middle/>
+<last>Aharony</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

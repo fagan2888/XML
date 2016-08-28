@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76159" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Goethe: Seminar</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Peter J. Burgard</faculty_text>
+<description>Examines selected major works, including poetry, essays on art, literature, and science, dramas, and at least one novel.</description>
+<prerequisites/>
+<notes>Readings in German, discussions in English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd5da5e35720279c6f118465599d4e59">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>J.</middle>
+<last>Burgard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

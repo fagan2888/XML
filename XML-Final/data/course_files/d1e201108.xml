@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27813" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Political Corruption</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>James Alt (Government) and Daniel Ziblatt (Government)</faculty_text>
+<description>Political corruption exists everywhere, but which countries are most corrupt? Do highly corrupt countries share common characteristics? How much corruption is there? The social costs of political corruption, from the stealing of public funds to bribes paid to avoid basic safety and health regulations, are often extremely high. Why are so few recent attempts to fight corruption successful? The course is comparative, draws historical connections, and as far as possible requires no background knowledge.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F78a6feff959fa218a23abca8496ae164">
+<name>
+<prefix/>
+<first>James</first>
+<middle>E.</middle>
+<last>Alt</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0e4608ffbdcd899188fa9e104646dc3a">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Ziblatt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-020 Case Study Room" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

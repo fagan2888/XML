@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62097" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Geophysics: A Primer</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Jerry X. Mitrovica</faculty_text>
+<description>An introductory treatment of solid Earth geophysics for graduate students in all EPS and SEAS disciplines. The course will cover a sampling of topics that all Earth scientists should have knowledge of, whether to facilitate applications to their own research or to simply follow departmental seminars in geophysics. Topics include: the Earth's composition and internal boundaries; qualitative and quantitative plate tectonics; the Earth's energy budget, isostasy; Earth rheology, with examples from seismology, tides, glacial isostatic adjustment and mantle convection; the Earth's gravity field and geodesy; planetary rotation. Physical concepts will be emphasized over mathematical derivations. While there are no formal pre-requisites for the course, some training in calculus, ordinary and partial differential equations would be helpful. Extra class time and material will be available for students without this background.</description>
+<prerequisites/>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa45a8bb7898bbab7f8b2de7eda36b1f4">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>X.</middle>
+<last>Mitrovica</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

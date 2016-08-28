@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2521" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>273</num_int>
+</course_number>
+<title>Approaches to Modernity: The Metropolis</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym</faculty_text>
+<description>Examines the relationship between urban experience and debates on modernity/postmodernity in art, architecture and social theory. Topics: nostalgia and modernization, cultural archeology and architecture of transition, memorial, museum and public art, national identity and cosmopolitan imagination, metropolis and megapolis.</description>
+<prerequisites/>
+<notes>Students in this class will be encouraged to attend lectures and screenings for VES 184 and develop individual research and/or creative projects.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

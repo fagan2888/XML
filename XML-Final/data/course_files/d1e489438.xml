@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5018" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="LATIN">Latin</course_group>
+<course_number>
+<num_char>K</num_char>
+</course_number>
+<title>Advanced Latin Prose Composition: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>---------- and assistant</faculty_text>
+<description>Exercise in the prose style of different authors and periods, working within various subject areas and genres. As a guide to composition, we will read and analyze illustrative passages from major authors, including Cato, Cicero, Sallust, Livy, Seneca, and Tacitus, as well as some distinctive styles in lesser-known authors.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

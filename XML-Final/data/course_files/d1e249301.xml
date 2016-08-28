@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50697" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>282</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Art of Indian Esoteric Buddhism</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Jinah Kim</faculty_text>
+<description>This seminar explores the art of Indian Esoteric Buddhism from various interpretive vantage points. After a brief survey of the earliest phase of its development, the discussion will focus on unpacking the recent scholarly discourses on Esoteric or Tantric Buddhism in relation to the artistic productions in medieval South Asia (ca. 800-1200CE). The two main topics for the semester will be the Saiva-Buddhist interactions as manifested in iconographic (and artistic) articulations, and the validity of semiotic and historical interpretations of iconography and ritual of Indian Esoteric Buddhism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbfffbf40c7b8592dc9d31f4483255e31">
+<name>
+<prefix/>
+<first>Jinah</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="119" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

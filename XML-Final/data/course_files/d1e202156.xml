@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1489" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>The Theory and Practice of Republican Government</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Daniel P. Carpenter (Government)</faculty_text>
+<description>A theoretical and historical survey of the evolution of republican (representative) government, with a particular focus upon European and American institutions. We will alternate between philosophical treatments and empirical studies of republican regimes. Questions include: How did republican government evolve (in England and France) centuries before mass elections? What institutions besides elections keep the ruled attuned to the people? Did arguments for legislative supremacy prefigure the rise of parliamentary authority? If so, how? How did modern republics co-evolve with institutions of slavery? What is the role of virtue in a democratic republic? How can government ensure the "rule of the wise" without fostering autocratic power? What critique might republican theory advance of populist and libertarian arrangements, and how populist and libertarian critics respond?</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for United States in the World or Ethical Reasoning, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd813d9ad777ee1eb7ddcb38ebb6c3ff4">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Carpenter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

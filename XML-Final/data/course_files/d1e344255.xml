@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31903" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>290</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Current Topics in Molecular, Cellular and Organismal Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., at 3:30</meeting_text>
+<faculty_text>Vladimir Denic, and members of the Department</faculty_text>
+<description>This class teaches students how to publicly present scientific papers to a diverse audience with emphasis on contextualizing the scientific problem under discussion, critically presenting the essential data, and using an engaging presentation style.</description>
+<prerequisites/>
+<notes>Required for all first and second year graduate students in the Molecules, Cells and Organisms (MCO) Training Program. This course must be taken Sat/Unsat.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F07d25e9965f4e573079ec28c70f01978">
+<name>
+<prefix/>
+<first>Vladimir</first>
+<middle/>
+<last>Denic</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F07d25e9965f4e573079ec28c70f01978">
+<name>
+<prefix/>
+<first>Vladimir</first>
+<middle/>
+<last>Denic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1530" end_time="1630"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1530" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="1080 (Main Lecture Hall)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

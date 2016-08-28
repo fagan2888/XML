@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71705" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1035</num_int>
+</course_number>
+<title>Market Failure and Government Failure: The Economics of Regulation</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2-3:30</meeting_text>
+<faculty_text>Eric B. Rasmusen</faculty_text>
+<description>This lecture/discussion course builds on basic price theory to look at how and when free market fails tomaximize surplus and government regulation can help. It pay s particular attention to "governmentfailure": situations where appropriate regulation could increase surplus but actual regulation wouldreduce it because of the incentives of voters, politicians, and civil servants. The course aims to teach howto see the diagrams, game trees, and background motivations behind the lines of news clipping.Its major theme is "cui bono?"</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fce41feedc8ce72063e282036bc6eeffc">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>Bennett</middle>
+<last>Rasmusen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="102" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

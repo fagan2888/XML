@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="504" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>230</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Advanced Differential Geometry</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Shing-Tung Yau</faculty_text>
+<description>A continuation of Mathematics 230a. Topics in differential geometry: Analysis on manifolds. Laplacians. Hodge theory. Spin structures. Clifford algebras. Dirac operators. Index theorems. Applications.</description>
+<prerequisites>Mathematics 230a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc1d9a130caa837612ad066eab6d9fe73">
+<name>
+<prefix/>
+<first>Shing-Tung</first>
+<middle/>
+<last>Yau</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

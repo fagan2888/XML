@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50105" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASARCH">Classical Archaeology</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Roman Antiquity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Adrian Staehli</faculty_text>
+<description>The course provides a broad overview of the development of Roman art, architecture, and material culture from the time of the Republic through the Imperial period, to the age of Constantine. It offers basic knowledge about core categories of archaeological artifacts and remains within their topographical setting and within the context of Greek culture and society; it also includes issues of archaeological methods and problems of current research.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fda9f906e413b8a91cfae6b1baf589069">
+<name>
+<prefix/>
+<first>Adrian</first>
+<middle/>
+<last>Staehli</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

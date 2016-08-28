@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1679" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2855</num_int>
+</course_number>
+<title>Deep China: The Moral Life of the Person: What Anthropology and Psychiatry Tell Us About China today</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Arthur Kleinman</faculty_text>
+<description>What do accounts of depression, suicide, substance abuse, sexually transmitted diseases, SARS, HIV/AIDS, starvation and the personal and family trauma of political violence teach us about China and the Chinese over the last few decades?</description>
+<prerequisites/>
+<notes>Open to undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="12" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65043" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>"What is Urban History?"</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Elizabeth Kai Hinton</faculty_text>
+<description>This section will explore the methods historians have used to understand the political, economic, and social development of cities and urban life over the past four centuries. How have historians approached the study of metropolitan regions and their inhabitants? What methods have they used to examine the ways in which social and spatial forms differ by time and place? How does urban history provide a unique vantage to analyze issues of class, ethnicity, migration, race, and gender? Readings and discussions will give special attention to cities and transformations in the United States, but we will draw comparative examples from the histories of urban centers across the globe.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff47371f1a7c6cdb4a0170e97c80b67de">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>Kai</middle>
+<last>Hinton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

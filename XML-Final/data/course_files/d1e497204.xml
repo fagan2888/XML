@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33612" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1538</num_int>
+</course_number>
+<title>Liberal and Liberation Theologies in Dialogue</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Daniel P. McKanan (Divinity School)</faculty_text>
+<description>This course will explore the possibilities for fruitful interchange between classic liberal theologies and contemporary theologies of liberation. We will begin with major texts of American liberal theology (Channing, Emerson, Bushnell, Rauschenbusch), then turn to the defining liberationist texts (Gutierrez, Cone, Daly), and conclude with several attempts to integrate the traditions.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2415.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

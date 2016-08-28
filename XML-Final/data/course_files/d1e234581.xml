@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48812" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1996</num_int>
+</course_number>
+<title>An Introduction to Issues in American Indian Studies: Black Elk Speaks</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Philip Deloria</faculty_text>
+<description>First published in 1932, Black Elk Speaks is a defining text through which non-Indian people have made sense of American Indians-and through which Indian people have imagined a collective self. At once epic spiritual account, editorial curiosity, political text, war story, nineteenth century memoire, and travel narrative, the book opens a range of questions and themes critical to American Indian Studies. This course will use Black Elk Speaks to consider issues of authorship, historical consciousness, religion and spirituality, colonialism, modernity, and the complexities of cultural production, while allowing students to engage in original research in the field.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

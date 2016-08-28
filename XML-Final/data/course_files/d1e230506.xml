@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1517" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1390</num_int>
+</course_number>
+<title>Understanding Democracy through History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alexander Keyssar (Kennedy School)</faculty_text>
+<description>Examines the evolution of democracies in different nations over extended periods of time, and will focus on one fundamental issue: Under what circumstances or conditions have democracies (or political rights) expanded, and under what circumstances of conditions have they contracted? Readings will include historical studies as well as comparative theoretical works.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as DPI-703. This course may be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F481cfa3eebbe831784bd5e2299d5634c">
+<name>
+<prefix/>
+<first>Alex</first>
+<middle/>
+<last>Keyssar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93229" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1415</num_int>
+</course_number>
+<title>Analytic Frameworks for Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10:10&amp;#8211;11:30; Review Sessions F., 1:10-2:30</meeting_text>
+<faculty_text>Richard J. Zeckhauser (Kennedy School)</faculty_text>
+<description>This course develops abilities in using analytic frameworks in the formulation and assessment of public policies. It considers a variety of analytic techniques, particularly those directed toward uncertainty and interactive decision problems. It emphasizes the application of techniques to policy analysis, not formal derivations. Students encounter case studies, methodological readings, modeling of current events, the computer, a final exam, and challenging problem sets.</description>
+<prerequisites>Economics 1011a or permission of instructor.</prerequisites>
+<notes>Jointly offered with the Kennedy School as API-302.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe4a3880c82ebf6c419bd951a846fe0ac">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Zeckhauser</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1010" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1010" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="KSG - Littauer" room="140" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

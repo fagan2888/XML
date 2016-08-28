@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5311" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>The Incas: The Last Great Empire of Pre-Columbian South America</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Gary Urton (Anthropology)</faculty_text>
+<description>This course guides students on an exploration of the largest and most complex civilization of Pre-Columbian America-the Inca Empire of Andean South America. We will address such questions as how did a civilization emerge and thrive at 12,000 feet above sea level? How could a state-level society exist without markets, the wheel, or writing? In addition to lectures and discussions, students will experience the products of Inca civilization through hands-on study of artifacts in the Peabody Museum of Archaeology and Ethnology.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa512804ed79c861545ff45ddbf1564fc">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Urton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6134" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>45</num_int>
+</course_number>
+<title>Beyond the Great Wall: China and the Nomadic Frontier</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Mark C. Elliott (East Asian Languages and Civilizations)</faculty_text>
+<description>The interaction between sedentary and nomadic civilizations is one of the great themes of human history. This course focuses on the classic case of relations between China and Inner Asia from ancient times to the 21st century. Approaching the problem from historical and theoretical perspectives, the course addresses the political, economic, social, and cultural dimensions of the storied Great Wall frontier.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F62da2b4f7b89c047307df379cd365724">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>C.</middle>
+<last>Elliott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4522" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>2000</num_int>
+</course_number>
+<title>Core Course in Health Policy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Tu., Th., 4-6</meeting_text>
+<faculty_text>Joseph P. Newhouse (Kennedy School and Public Health, Medical School), Richard G. Frank (Medical School) (spring term), and Alan M. Zaslavsky (Medical School)</faculty_text>
+<description>Topics include the financing and organization of health care, public health, political analysis, medical manpower, health law and ethics, technology assessment, prevention, mental health, long-term care, and quality of care.</description>
+<prerequisites/>
+<notes>Required for doctoral candidates in Health Policy and open to others by permission of instructor. Offered jointly with the Kennedy School as SUP-957 and SUP-958 and with the School of Public Health as HPM 246.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fed4806e35289c1780a0c5ba2341794c3">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>P.</middle>
+<last>Newhouse</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fed4806e35289c1780a0c5ba2341794c3">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>P.</middle>
+<last>Newhouse</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F799899c42ba2678ebd0dbd49daa00c3f">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Frank</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

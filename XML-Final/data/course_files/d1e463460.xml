@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8140" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SANSKRIT">Sanskrit</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Elementary Sanskrit</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12; M., at 1</meeting_text>
+<faculty_text>Parimal G. Patil and members of the Department</faculty_text>
+<description>Introduction to Classical Sanskrit, the translocal language of intellectual life in South Asia for much of the last two millennia. This course provides the essential grammar and reading proficiency necessary to take up the language's many rich literary traditions: scripture (Upanisad), epic (Ramayana and Mahabharata), poetry, Hindu and Buddhist philosophy, etc. After completing the textbook, we will read a narrative (Hitopadesa) drawn from one of the most popular literary works in the pre-modern world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

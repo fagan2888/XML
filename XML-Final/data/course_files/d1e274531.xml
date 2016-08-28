@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6246" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>233</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Theory of Schemes I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1</meeting_text>
+<faculty_text>Alison Beth Miller</faculty_text>
+<description>An introduction to the theory and language of schemes. Textbooks: Algebraic Geometry by Robin Hartshorne and Geometry of Schemes by David Eisenbud and Joe Harris. Weekly homework will constitute an important part of the course.</description>
+<prerequisites>Mathematics 221 and 232a or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F250614c400ce1f50d017f59c2a4cd0b7">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Beth</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="310" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

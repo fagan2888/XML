@@ -1,0 +1,217 @@
+<results>
+  <course acad_year="2014" cat_num="30419" offered="Y">
+    <term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+    <department code="ECON">
+      <dept_long_name>Department of Economics</dept_long_name>
+      <dept_short_name>Economics</dept_short_name>
+    </department>
+    <course_group code="ECON">Economics</course_group>
+    <course_number>
+      <num_int>1776</num_int>
+    </course_number>
+    <title>Religion and the Rise of Capitalism</title>
+    <course_type>Lecture with sections</course_type>
+    <course_level code="O">For Undergraduates and Graduates</course_level>
+    <credit code="1">Half course</credit>
+    <meeting_text>M., W., F., at 10 and a review section to be arranged.</meeting_text>
+    <faculty_text>Benjamin M. Friedman</faculty_text>
+    <description>Examines the influence of religious thinking on the intellectual revolution, associated with Adam Smith and others, that created economics as we know it as an independent discipline; also examines how the lasting resonances from these early religious influences continue to shape discussion of economic issues and debates about economic policy down to our own day.</description>
+    <prerequisites>Ec 10a and Ec 10b.</prerequisites>
+    <notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+    <instructor_approval_required>N</instructor_approval_required>
+    <faculty_list>
+      <faculty term="1" role="H" id="F637b5514aa6b7ad65e075a1516fce531">
+        <name>
+          <prefix/>
+          <first>Benjamin</first>
+          <middle>M.</middle>
+          <last>Friedman</last>
+          <suffix/>
+        </name>
+      </faculty>
+    </faculty_list>
+    <schedule>
+      <meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+      <meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+      <meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+    </schedule>
+    <meeting_locations>
+      <location term="1" building="Harvard Hall" room="201" type="Lecture"/>
+    </meeting_locations>
+    <requirements>
+      <requirement type="Core Curriculum" name="Historical Study A"/>
+      <requirement type="General Education" name="Culture and Belief"/>
+      <requirement type="General Education" name="Study of the Past"/>
+    </requirements>
+  </course>
+  <course acad_year="2014" cat_num="1404" offered="Y">
+    <term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+    <department code="ECON">
+      <dept_long_name>Department of Economics</dept_long_name>
+      <dept_short_name>Economics</dept_short_name>
+    </department>
+    <course_group code="ECON">Economics</course_group>
+    <course_number>
+      <num_int>2060</num_int>
+    </course_number>
+    <title>Contract Theory</title>
+    <course_type>Lecture</course_type>
+    <course_level code="T">Primarily for Graduates</course_level>
+    <credit code="1">Half course</credit>
+    <meeting_text>M., W., 10-11:30</meeting_text>
+    <faculty_text>Philippe Aghion</faculty_text>
+    <description>Recent developments in contract theory. Includes hidden action and hidden information models, dynamic agency issues, incomplete contracts, and applications of contract theory to theories of the firm and corporate financial structure.</description>
+    <prerequisites/>
+    <notes/>
+    <instructor_approval_required>N</instructor_approval_required>
+    <faculty_list>
+      <faculty term="1" role="H" id="F84cb6b83841ed3476e42b540e3991d4b">
+        <name>
+          <prefix/>
+          <first>Philippe</first>
+          <middle/>
+          <last>Aghion</last>
+          <suffix/>
+        </name>
+      </faculty>
+    </faculty_list>
+    <schedule>
+      <meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+      <meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+    </schedule>
+    <meeting_locations>
+      <location term="1" building="Littauer Center" room="M-17" type="Lecture"/>
+    </meeting_locations>
+    <requirements/>
+  </course>
+  <course acad_year="2014" cat_num="7213" offered="Y">
+    <term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+    <department code="ECON">
+      <dept_long_name>Department of Economics</dept_long_name>
+      <dept_short_name>Economics</dept_short_name>
+    </department>
+    <course_group code="ECON">Economics</course_group>
+    <course_number>
+      <num_int>2110</num_int>
+    </course_number>
+    <title>Econometrics I</title>
+    <course_type>Lecture</course_type>
+    <course_level code="T">Primarily for Graduates</course_level>
+    <credit code="1">Half course</credit>
+    <meeting_text>M., W., 10-11:30</meeting_text>
+    <faculty_text>Maximilian Kasy</faculty_text>
+    <description>(1) Review of probability theory, (2) causality and identification, (3) statistical decision theory, and (4) asymptotic frequentist inference. Empirical applications from labor economics, economics of education, and public finance. Some assignments using Matlab.</description>
+    <prerequisites>Probability (Stat 110), Linear Algebra and Calculus (Math 21a and 21b), and Real Analysis (Math 112).</prerequisites>
+    <notes>Enrollment limited to PhD candidates in economics, business economics, health policy, public policy, and political economy and government (PEG).</notes>
+    <instructor_approval_required>N</instructor_approval_required>
+    <faculty_list>
+      <faculty term="1" role="H" id="F62cc0dc492b1593956dd015fb7b2c47e">
+        <name>
+          <prefix/>
+          <first>Maximilian</first>
+          <middle/>
+          <last>Kasy</last>
+          <suffix/>
+        </name>
+      </faculty>
+    </faculty_list>
+    <schedule>
+      <meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+      <meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+    </schedule>
+    <meeting_locations>
+      <location term="1" building="Sever Hall" room="214" type="Lecture"/>
+    </meeting_locations>
+    <requirements/>
+  </course>
+  <course acad_year="2014" cat_num="8510" offered="Y">
+    <term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+    <department code="ECON">
+      <dept_long_name>Department of Economics</dept_long_name>
+      <dept_short_name>Economics</dept_short_name>
+    </department>
+    <course_group code="ECON">Economics</course_group>
+    <course_number>
+      <num_int>2325</num_int>
+    </course_number>
+    <title>Comparative Historical Economic Development</title>
+    <course_type>Lecture</course_type>
+    <course_level code="T">Primarily for Graduates</course_level>
+    <credit code="1">Half course</credit>
+    <meeting_text>M., W., 10-11:30</meeting_text>
+    <faculty_text>Nathan J. Nunn and James Robinson</faculty_text>
+    <description>The course examines the historical origins of differences in the economic and social development of societies. Participants discuss recent research in the field and present their own work in progress.</description>
+    <prerequisites/>
+    <notes>This course is targeted to second-year Ph.D. students in economics. It is not open to undergraduate or Masters students. The course fulfills the distribution requirement.</notes>
+    <instructor_approval_required>N</instructor_approval_required>
+    <faculty_list>
+      <faculty term="1" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+        <name>
+          <prefix/>
+          <first>Nathan</first>
+          <middle/>
+          <last>Nunn</last>
+          <suffix/>
+        </name>
+      </faculty>
+      <faculty term="1" role="O" id="F629c44f6b64f514b5c2d1bc243315d33">
+        <name>
+          <prefix/>
+          <first>James</first>
+          <middle/>
+          <last>Robinson</last>
+          <suffix/>
+        </name>
+      </faculty>
+    </faculty_list>
+    <schedule>
+      <meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+      <meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+    </schedule>
+    <meeting_locations>
+      <location term="1" building="Harvard Hall" room="102" type="Lecture"/>
+    </meeting_locations>
+    <requirements/>
+  </course>
+  <course acad_year="2014" cat_num="4862" offered="Y">
+    <term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+    <department code="ECON">
+      <dept_long_name>Department of Economics</dept_long_name>
+      <dept_short_name>Economics</dept_short_name>
+    </department>
+    <course_group code="ECON">Economics</course_group>
+    <course_number>
+      <num_int>2810</num_int>
+      <num_char>a</num_char>
+    </course_number>
+    <title>Labor Market Analysis</title>
+    <course_type>Lecture</course_type>
+    <course_level code="T">Primarily for Graduates</course_level>
+    <credit code="1">Half course</credit>
+    <meeting_text>M., W., 10-11:30</meeting_text>
+    <faculty_text>Lawrence F. Katz</faculty_text>
+    <description>Theoretical and empirical research on labor markets. Wage determination covers equalizing differences, human capital, job mobility, and incentive models. Labor supply covers life-cycle models. Labor demand includes minimum wage and union models.</description>
+    <prerequisites/>
+    <notes/>
+    <instructor_approval_required>N</instructor_approval_required>
+    <faculty_list>
+      <faculty term="1" role="H" id="F2385b7a6f221e630e40d2444a5fbbaa7">
+        <name>
+          <prefix/>
+          <first>Lawrence</first>
+          <middle>F.</middle>
+          <last>Katz</last>
+          <suffix/>
+        </name>
+      </faculty>
+    </faculty_list>
+    <schedule>
+      <meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+      <meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+    </schedule>
+    <meeting_locations>
+      <location term="1" building="Littauer Center" room="M-16" type="Lecture"/>
+    </meeting_locations>
+    <requirements/>
+  </course>
+</results>

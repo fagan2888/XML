@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89285" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1185</num_int>
+</course_number>
+<title>The Talking Dead: Archaeology of Death, Burials and Commemoration</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Jessica Ines Cerezo-Roman</faculty_text>
+<description>The dead can tell us many secrets if we know how to "listen" to their stories. We will explore the social significance of death, burial and commemoration among diverse groups around the world. Using cutting edge archaeological methods and theories, we will unlock secrets of the dead and learn what they reveal about themselves and past societies. We will examine different cases to explore the creation and use of sacred landscapes, religion, ancestral veneration, funerary treatments (e.g., inhumation, cremation, and mummification), deviant burials (e.g., witches, vampires, and criminals), cannibalism, different identity intersections (e.g., gender, age and social status), memory and commemoration, and ethical and legal aspects of exhumation and reburial. We also will consider different stages of death, including the roles of different rituals, actors, and participants; the diverse purposes and places of participants within these rituals; and how these actions are likely to be materialized in the archaeological record.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe6c19a0bc88ee4c68704c7013cbc0428">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>Ines</middle>
+<last>Cerezo-Roman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="105 (Daly Seminar Rm)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

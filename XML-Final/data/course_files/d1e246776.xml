@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20595" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>222</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>Architecture in the Early Modern Mediterranean World: A Cross-Cultural Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alina A. Payne and Gulru Necipoglu-Kafadar</faculty_text>
+<description>Architecture of the eastern Mediterranean basin (at Italian, Ottoman, and Mamluk courts) with emphasis on cross-cultural encounters and transmission of the Romano-Byzantine heritage, science and technology, architectural practice, ornament, urban design, military, religious and domestic architecture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7840ac4e120c14df2ab6e8b4dab5f6fd">
+<name>
+<prefix/>
+<first>Alina</first>
+<middle>A</middle>
+<last>Payne</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

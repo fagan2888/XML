@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50033" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>170</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>Manet to Man Ray</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Maria Elizabeth Gough</faculty_text>
+<description>What was modern art? To find out, we examine the aesthetic and social underpinnings of twelve defining episodes in the history of modernism, beginning with the radical reinvention of painting led by the French artist Edouard Manet in the 1860s, and concluding with the photographic practices and object-sculpture of the Paris-based American surrealist Man Ray in the 1930s. Though Paris is the art world's cosmopolitan center through the nineteenth and early-twentieth centuries, we analyze also key modernist developments in Italy, Russia, Germany, and the Netherlands. Particular attention to pictorial invention, embrace of new media, and the refashioning of artistic identity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa45f47877bea4d9429e8087e3b6f9508">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Elizabeth</middle>
+<last>Gough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

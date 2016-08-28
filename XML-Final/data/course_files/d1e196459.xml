@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6001" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>12</num_int>
+</course_number>
+<title>Natural Disasters</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>56</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30, and a 60- to 120-minute weekly lab section to be arranged.</meeting_text>
+<faculty_text>Brendan J. Meade (Earth and Planetary Sciences)</faculty_text>
+<description>Natural disasters, such as earthquakes, hurricanes, and floods, claim thousands of lives and cause tens of billions of dollars in damage each year. Moreover, changes in Earth's climate are raising sea level, changing precipitation patterns, and likely causing an increase in the occurrence of damaging storms, putting more of our increasing exposed global population at risk. In this course we develop an understanding of these natural hazards from an earth science perspective, and examine several case studies to assess their catastrophic impacts. Given our scientific understanding of these phenomena, we examine ways to assess and forecast future natural disasters, and to mitigate the adverse impacts to our societies. Sections will emphasize the use of GIS technology to measure the impacts of natural hazards.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7afa5de27211f04bca48192511605398">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle>J.</middle>
+<last>Meade</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" D" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

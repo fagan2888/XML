@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8389" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Discrete Mathematics</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Paul G. Bamberg</faculty_text>
+<description>An introduction to sets, logic, finite groups, finite fields, finite geometry, combinatorics, discrete probability, and graph theory. A unifying theme of the course is the symmetry group of the regular icosahedron, whose elements can be realized as permutations, as linear transformations of vector spaces over finite fields, as collineations of a finite plane, or as vertices of a graph. Taught in a seminar format: students will gain experience in presenting proofs at the blackboard.</description>
+<prerequisites>Mathematics 21b or 23a (may be taken concurrently). Previous experience with proofs is not required.</prerequisites>
+<notes>Covers material used in Computer Science 121 and Computer Science 124. Students who have taken Computer Science 20, Mathematics 55, or Mathematics 122 should not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe748b4af19b4ea7d9f029fbcc71d84c2">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Bamberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

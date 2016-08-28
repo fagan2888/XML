@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75408" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Introduction to Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>William J. Anderson and members of the Department</faculty_text>
+<description>Laboratory research in topics related to the Human Developmental and Regenerative Biology Concentration under the direction of, or approved by, members of the Department of Stem Cell and Regenerative Biology, Principal Faculty of the Harvard Stem Cell Institute, or others with permission. A paper must be submitted to the laboratory sponsor and to the HDRB Concentration Office for review by the Course Director and Head Tutors.</description>
+<prerequisites/>
+<notes>Limited to Human Developmental and Regenerative Biology Concentrators; written permission of the laboratory sponsor must be submitted to the HDRB Concentration Office prior to enrolling in the course. This introductory research course is intended to prepare students for SCRB 99 and may ordinarily be repeated no more than once. Ordinarily may not be taken as a fifth course. Laboratory safety session required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe012476e22703f116fe9e23a6759b928">
+<name>
+<prefix/>
+<first>William</first>
+<middle>J.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe012476e22703f116fe9e23a6759b928">
+<name>
+<prefix/>
+<first>William</first>
+<middle>J.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

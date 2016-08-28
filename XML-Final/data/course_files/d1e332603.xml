@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17772" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="SHBT">SHBT</course_group>
+<course_number>
+<num_int>203</num_int>
+</course_number>
+<title>Anatomy of Speech and Hearing</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Lecture: M.- F., 9:30- 10:30., Lab: M.- F., 10:30-1:30.</meeting_text>
+<faculty_text>Barbara C. Fullerton (Medical School), James Tracey Heaton (Medical School), and James Bradley Kobler (Medical School)</faculty_text>
+<description>This course covers anatomy of the head and neck, with cadaver dissection, stressing structures important in speech and hearing. Lecture topics also include basic neuroanatomy, imaging, surgery, and cancer of head and neck.</description>
+<prerequisites>Introductory biology or equivalent and permission of the course director.</prerequisites>
+<notes>This an intensive January Course. Offered jointly with MIT as HST 718. Classes to be held at the Harvard Medical School campus (HMS)</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5e44509512f3ff09f65ab430e4880fe9">
+<name>
+<prefix>Dr</prefix>
+<first>Barbara</first>
+<middle>C.</middle>
+<last>Fullerton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5c7db535f71d97fd1422bde9380cd68e">
+<name>
+<prefix>Dr</prefix>
+<first>James</first>
+<middle>Tracey</middle>
+<last>Heaton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd3bd62d1257d164001f91e900098eb70">
+<name>
+<prefix>Dr</prefix>
+<first>James</first>
+<middle>Bradley</middle>
+<last>Kobler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="930" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="930" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="930" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="930" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="930" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

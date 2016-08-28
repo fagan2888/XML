@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42626" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>309</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>The molecular pathology and current therapies for retinal diseases</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Retinal diseases are major causes of irreversible blindness. A surge of progress resulting from studies in the disease mechanisms and the development of new imaging technology have led to a huge step forward in the therapies for diagnosing and treating retinal diseases and preventing blindness. This course will offer students an in-depth examination of current knowledge regarding retinal diseases, molecular pathology, and therapy, with an emphasis on recent breakthroughs and discussion of key studies in the field. The class consists of lectures and group discussions that focus on seminal papers selected from both the basic science and clinical ophthalmology, which will serve as a basis for teaching students basic concepts of ophthalmology and becoming familiar with animal models of retinal diseases. Each session will review the landmark publications on a particular topic or disease. As the retina has long served a standard model for studying the CNS, the class will foster discussion on the implications of these studies in other disease mechanisms and therapy.</description>
+<prerequisites/>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F8e5da2c1802668aa617f5e11df91df49">
+<name>
+<prefix>Dr</prefix>
+<first>Dong</first>
+<middle>Feng</middle>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

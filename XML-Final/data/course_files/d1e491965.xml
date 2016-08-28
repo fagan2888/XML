@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44656" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>57</num_int>
+</course_number>
+<title>Faith and Authenticity: Religion, Existentialism and the Human Condition</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Courtney Bickel Lamberth</faculty_text>
+<description>What is an authentic individual life? How does one find meaning in light of modern challenges to claims about the nature of God, revelation and the soul? Is religious faith compatible with an understanding of historicity and the threat of nihilism? This course introduces central questions in Western philosophy of religion through close reading of fundamental texts in existentialism with some attention to their Christian theological sources. Reading and participatory discussion of text by Plato, Paul, Luther, Kierkegaard, Nietzsche, Dostoevsky, Sartre, de Beauvoir, Camus, Heidegger, Bultmann and Tillich.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fafeeb8242ff10928d87dd4c2c4dd010d">
+<name>
+<prefix/>
+<first>Courtney</first>
+<middle>Bickel</middle>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

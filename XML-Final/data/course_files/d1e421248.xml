@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3434" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2670</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Decision Making and the Psychology of Possibility II</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ellen J. Langer</faculty_text>
+<description>A deeper exploration into the theoretical and experimental issues pertaining to decision making and the psychology of possibility, raised in Psychology 2670a.</description>
+<prerequisites>Psychology 2670a.</prerequisites>
+<notes>Open to qualified undergraduates. The course requires permission of instructor. Interested students are encouraged to e-mail the instructor in advance at langer@wjh.harvard.edu.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6706c0eda411349f18e7f303e736f8d6">
+<name>
+<prefix/>
+<first>Ellen</first>
+<middle>J.</middle>
+<last>Langer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

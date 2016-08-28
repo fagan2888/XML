@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89225" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Romance Translation: Theory and Practice</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Elvira G. DiFabio</faculty_text>
+<description>Translating for art's sake, or to form a national literature? Better yet, to foster ideological debate. And what about all those bad translations? Do you even need to know the original language? Come explore the theory and practice of translation in and from the Romance languages. Includes workshops on a variety of styles, literary devices, pragmatics, semantic and cultural distinctions.</description>
+<prerequisites>An intermediate to advanced knowledge of at least one Romance language.</prerequisites>
+<notes>Conducted in English.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

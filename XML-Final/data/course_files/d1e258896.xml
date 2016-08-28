@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1437" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1418</num_int>
+</course_number>
+<title>Endocrinology and Behavior: Research Seminar</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>8</enrollment_limit>
+<meeting_text>M., W., (F.), at 11, and a weekly laboratory either M. or W., 2-5.</meeting_text>
+<faculty_text>Susan F. Lipson</faculty_text>
+<description>An introduction to laboratory techniques and research design in behavioral endocrinology. Students conduct pilot research projects.</description>
+<prerequisites>Human Evolutionary Biology 1310 or Life Sciences 2 or with permission of instructor.</prerequisites>
+<notes>Preference given to Human Evolutionary Biology concentrators. Lab safety training required (after enrollment).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7319eb1808f711293d5b0b3b4d95da39">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Lipson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="56C" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

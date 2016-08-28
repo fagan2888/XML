@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65798" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNHIST">Japanese History</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>Japanese Folk Religion: Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Helen Hardacre</faculty_text>
+<description>This conference course is an introduction to the study of Japanese folk religion, popular religious life carried on largely outside the frameworks of Buddhism, Shinto, and other religious institutions. The course aims to interrogate the idea of folk religion and its viability as a field of study within Japanese religions and within contemporary society. In its first half, the course examines the traditional rubrics and topics in the literature on Japanese folk religion. In the second half, the course turns to changes in folk religious life brought about through tourism and the appropriation of folk religious motifs by such contemporary media forms as anime and manga.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F305d145a078c6e8fbaeb73819d960c96">
+<name>
+<prefix/>
+<first>Helen</first>
+<middle/>
+<last>Hardacre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

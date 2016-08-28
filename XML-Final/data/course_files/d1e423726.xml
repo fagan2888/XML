@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2559" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CATALAN">Catalan</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>Catalan Language and Culture: a Multimedia Approach</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3-4:30</meeting_text>
+<faculty_text>Stacey Katz Bourns and members of the Department</faculty_text>
+<description>Intermediate course introducing students to Catalan culture and boosting their oral and written skills through a wide range of resources, such as Internet, television, radio, and press. Students will get a taste of various aspects of Catalan culture: art, cinema, music, literature, traditions, cuisine, history, and more.</description>
+<prerequisites>Catalan Ba, basic knowledge of Catalan, or permission of course head.</prerequisites>
+<notes>Conducted in Catalan. Not open to auditors. May not be taken Pass/Fail by undergraduates, but may be taken Sat/Unsat by GSAS students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F63a58fb328b41f96935bb9760bfd6027">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>Katz</middle>
+<last>Bourns</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1630"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1630"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

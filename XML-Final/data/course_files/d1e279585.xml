@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4782" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>213</num_int>
+</course_number>
+<title>Behavioral Pharmacology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jack Bergman (Medical School) and Brian D. Kangas (Medical School)</faculty_text>
+<description>Introduction to behavioral pharmacology of CNS drugs (e.g., psychomotor stimulants, antischizophrenics, opioid analgesics, antianxiety agents); seminar format with emphasis on behavioral methodology (i.e., model and assay development) and pharmacological analysis (i.e., receptor selectivity and efficacy); attention to tolerance, drug dependence/addiction/treatment, and basic behavioral processes.</description>
+<prerequisites/>
+<notes>Offered jointly with the Medical School as BP 719.0.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb3591ec7aed7d7adb7b31c1aeb965989">
+<name>
+<prefix>Dr</prefix>
+<first>Jack</first>
+<middle/>
+<last>Bergman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ffa77e4e9e206ba0f2e73e1bafa790da8">
+<name>
+<prefix>Dr</prefix>
+<first>Carol</first>
+<middle>Anne</middle>
+<last>Paronis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1530" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1530" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

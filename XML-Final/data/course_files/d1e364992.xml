@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="880" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="HEBREW">Hebrew</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Joseph and Esther: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>A close critical reading of Genesis 37-50 and the Book of Esther in Hebrew. Emphasis on literary design and religious messages and on the influence of the story of Joseph upon the Book of Esther.</description>
+<prerequisites>Three years of Hebrew or the equivalent, and a good acquaintance with the historical-critical method.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1802.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

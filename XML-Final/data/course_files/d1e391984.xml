@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44625" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>191</num_int>
+</course_number>
+<title>Philosophy without Borders: India and Europe: Proseminar</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alison Simmons and Parimal G. Patil</faculty_text>
+<description>European and Indian traditions of philosophy are rarely studied together, and yet they grapple with many of the same fundamental questions: What am I? What can I know? What really exists? Is there a God (or gods)? What is the good life? Working with some classic Buddhist and Western philosophical texts we will launch a conversation between these traditions. At the same time, we will explore what is lost and gained by this sort of philosophical exchange.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe7ec2841a61e530f0b2f592511a725f7">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle/>
+<last>Simmons</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

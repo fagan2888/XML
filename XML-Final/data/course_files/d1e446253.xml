@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1286" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>282</num_int>
+</course_number>
+<title>Literature, Film, and Visual Art in Contemporary Russia</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym</faculty_text>
+<description>Examines Russian culture from the 1950s to the present socialist realism to postcommunism. Topics: Socialist realist film, literature of the Gulag, writers' trials, non-conformist art and rethinking of history, utopia and kitsch. Works by Brodsky, Shalamov, Nabokov, Sinyavsky-Tertz, Tarkovsky, Muratova, and others.</description>
+<prerequisites>Reading knowledge of Russian or a permission of the instructor.</prerequisites>
+<notes>Most materials also available in English. Open to qualified undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

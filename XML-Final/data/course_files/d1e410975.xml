@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4990" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>992</num_int>
+</course_number>
+<title>Senior Tutorial: Honors Thesis (Mind/Brain/Behavior)</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>W., at 9</meeting_text>
+<faculty_text>Danielle Truxaw and members of the Department</faculty_text>
+<description>Individual supervised thesis research supplemented with occasional group meetings to discuss major aspects of the thesis process (e.g., organizing, conducting, and presenting research). Graded Sat/Unsat. Prospectus meeting required for fall term credit, as well as a paper for students who divide course at mid-year. Submission of thesis required for full year credit.</description>
+<prerequisites>Approved thesis application and Psychology 1901.</prerequisites>
+<notes>Required of and limited to senior psychology concentrators in the Cognitive Science thesis track, who will take this course in lieu of Psychology 990.Prerequisite: Approved thesis application and Psychology 1901.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff5f8b21ae2877d49cec95a9845920b5e">
+<name>
+<prefix/>
+<first>Danielle</first>
+<middle/>
+<last>Truxaw</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Ff5f8b21ae2877d49cec95a9845920b5e">
+<name>
+<prefix/>
+<first>Danielle</first>
+<middle/>
+<last>Truxaw</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

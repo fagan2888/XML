@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4274" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>Water Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Chad D. Vecitis</faculty_text>
+<description>Introduces the fundamentals of water biology, chemistry, physics and transport processes needed to understand water quality and water purification technologies. Practical instruction in basic water analyses concluding with a final water treatment project in place of exam.</description>
+<prerequisites>Physical Sciences 1 or Physical Sciences 11 or equivalent and Engineering Sciences 6 or equivalent or with permission of instructor.</prerequisites>
+<notes>Offered jointly with the Design School as SCI-06273.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fea3915c3355582088b5d4249e4eb2318">
+<name>
+<prefix/>
+<first>Chad</first>
+<middle>D.</middle>
+<last>Vecitis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="319" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

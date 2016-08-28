@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5861" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2708</num_int>
+</course_number>
+<title>Sources, Methodology, and Themes in African History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Emmanuel K. Akyeampong</faculty_text>
+<description>Seminar to equip graduate students with the necessary tools for archival research and fieldwork, as well as to introduce them to recent approaches in the historiography.</description>
+<prerequisites>A graduate field on Africa.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc74e458dae84037d2bf03fdcec7462e6">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Akyeampong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

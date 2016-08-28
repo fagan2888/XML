@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5487" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2006</num_int>
+</course_number>
+<title>Formal Models of Domestic Politics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Horacio Alejandro Larreguy Arbesu</faculty_text>
+<description>An understanding of introductory game theory and basic mathematical tools is required. Topics covered include some combination of the following: electoral competition under certainty and uncertainty, special interest politics, veto players, coalitions, delegation, political agency, and regime change.</description>
+<prerequisites>Government 2005 or permission of instructor</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F793d4bf03ed05e5ec06fa43c63238cc8">
+<name>
+<prefix/>
+<first>Horacio</first>
+<middle/>
+<last>Larreguy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

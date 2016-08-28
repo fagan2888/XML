@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4660" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="GENETIC">Genetics</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Molecular Biology and Genetics in Modern Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 8:30-12:30, Tu., 2-5</meeting_text>
+<faculty_text>Kiran Musunuru</faculty_text>
+<description>This course will provide a firm foundation for understanding the relationship between molecular biology, developmental biology, genetics, genomics, bioinformatics, and medicine. The goal is to develop explicit connections between basic research, medical understanding, and the perspective of patients. During the course the principles of human genetics will be reviewed. Students will become familiar with the translation of clinical understanding into analysis at the level of the gene, chromosome and molecule, the concepts and techniques of molecular biology and genomics, and the strategies and methods of genetic analysis, including an introduction to bioinformatics. The course will extend beyond basic principles to current research activity in human genetics.</description>
+<prerequisites/>
+<notes>Offered jointly with the Medical School as HT 160.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4b6ab91362ed1bc6c816b0d31c8a2dfc">
+<name>
+<prefix>Dr</prefix>
+<first>Kiran</first>
+<middle/>
+<last>Musunuru</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="830" end_time="1230"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

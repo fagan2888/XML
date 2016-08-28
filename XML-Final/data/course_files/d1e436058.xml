@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7713" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>70</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Documenting Spanish Modernity: A Survey of Spanish Literature and Culture from 1700</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Daniel Aguirre Oteiza</faculty_text>
+<description>From philosophical essays to newspaper articles, from romantic tragedy to turn-of-the-century films, from early autobiography to dirty realism, from academic landscape painting to comic strips, this course will present a provocatively diverse set of documents that will help understand Spain's equivocal and frequently contested Modernity.</description>
+<prerequisites>A score above 780 on the SAT II or the Harvard Placement test; a 50- or 60-level course in Spanish; or permission of course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3f0d2617a9d9596480241185013c2acc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Aguirre-Oteiza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

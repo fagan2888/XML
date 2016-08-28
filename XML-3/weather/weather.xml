@@ -1,0 +1,31 @@
+<current_observation version="1.0" 
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos"
+    weather="Partly Cloudy" relative_humidity="45" visibility_mi="10.00"
+    time_rfc822="Mon, 20 Oct 2014 11:54:00 -0400" 
+    time_display="Last Updated on Oct 20 2014, 11:54 am EDT">
+    
+    <credit url="http://weather.gov" src="http://weather.gov/images/xml_logo.gif" title="NOAA's National Weather Service"/>
+    <suggested_pickup time="15 minutes after the hour" period="60"/>
+    <location station_id="KBOS" geo:lat="42.38" geo:long="-51.03" display="Boston, Logan International Airport, MA"/> 
+    <readings system="english" units="Farenheit" label="&#176;F">
+        <temperature value="51.0"/>
+        <dewpoint value="30.0"/>
+        <windchill value="46.0"/>
+    </readings>
+    <readings system="metric" units="Celsius" label="&#176;C">
+        <temperature value="10.6"/>
+        <dewpoint value="-1.1"/>
+        <windchill value="8"/>
+    </readings>
+    <wind dir="Southwest" degrees="240" mph="12.7" gust_mph="18.4" kt="11" gust_kt="16"/>
+    <pressure mb="1017.3" in="30.05"/>
+    <urls>
+        <icon url="http://forecast.weather.gov/images/wtf/small/" src="sct.png"/>
+        <two_day_history url="http://www.weather.gov/data/obhistory/KBOS.html"/>
+        <ob url="http://www.weather.gov/data/METAR/KBOS.1.txt"/>
+        <disclaimer url="http://weather.gov/disclaimer.html"/>
+        <copyright url="http://weather.gov/disclaimer.html" />
+        <privacy_policy url="http://weather.gov/notice.html"/>
+    </urls>
+
+</current_observation>

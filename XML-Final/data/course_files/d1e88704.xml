@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7220" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Economics Design Lab</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 5-7 p.m.</meeting_text>
+<faculty_text>Sendhil Mullainathan</faculty_text>
+<description>This class offers a chance for students to see how social science insights (economics, finance and psychology) can be used to design policies and products that solve important problems. This class offers a chance for students use insights from behavioral economics to design solutions to important and/or interesting problems. Each student will be asked to pick one concrete problem and craft a solution. Some students may focus on designing behaviorally informed policy solutions to problems such as unemployment insurance. Others may focus on designing new products for everything from personal finance to healthy eating; products might be apps, financial vehicles or something more exotic. Others may focus on problems closer to home such as devising a way to keep students (themselves) from cramming. The emphasis in all these cases will be on (i) use of behavioral insights and (ii) practical implementability of the solution. Students will take the problem as far as the implementation cycle as the class and their design will allow.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes>Students with non-economic backgrounds (such as psychology or engineering) are particularly encouraged to take the course. Some familiarity with behavioral economics (1030, 1035) is valuable but knowledge of psychology from other classes is a substitute.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f0d679c0b35b05a12f4c718a8dba9c9">
+<name>
+<prefix/>
+<first>Sendhil</first>
+<middle/>
+<last>Mullainathan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

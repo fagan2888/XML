@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53165" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>124</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Radioactive Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 12-2</meeting_text>
+<faculty_text>Melinda Baldwin</faculty_text>
+<description>Do your parents tell you stories about nuclear bomb drills in their elementary schools? Would you want to live in the same neighborhood as a nuclear power plant? Why did Stan Lee choose a radioactive spider to turn Peter Parker into Spider-Man? Our culture has strong ideas about radioactivity. How have those ideas changed over time? And how do they relate to the science of radioactivity? This seminar will explore the cultural history of radioactivity. Sample topics include newspaper coverage of nuclear science, ways people have prepared for possible nuclear catastrophes, and literature and films with nuclear themes.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7de2c495364a972c84c9bfaa59c375f5">
+<name>
+<prefix/>
+<first>Melinda</first>
+<middle>Clare</middle>
+<last>Baldwin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

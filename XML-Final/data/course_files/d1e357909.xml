@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="702" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>History of the Ancient Near East</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Gojko Barjamovic</faculty_text>
+<description>This course provides an overview of the history of the ancient Near East, with a focus on ancient Mesopotamia. It begins with the advent of writing in the late fourth millennium BCE and ends with the fall of Babylon to Cyrus the Great, in 539 BCE. The course combines archaeological, art historical, and textual data to explore the extraordinarily rich history of this region.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1115.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b00dba177010d0334940507032e9f1b">
+<name>
+<prefix/>
+<first>Gojko</first>
+<middle/>
+<last>Barjamovic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

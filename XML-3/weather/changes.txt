@@ -1,0 +1,113 @@
+Marnie Scully
+CSCI-E 18 FALL 2014 Assignment 3 Part 1 Designing and Defining XML
+
+Change 1
+I realized that the <credit> elements and the <image> element had essentially the same data so I combined the two elements into one element named <credit>. I also placed all of the data into attributes for faster processing.
+
+	Original
+		<credit>NOAA's National Weather Service</credit>
+    		<credit_URL>http://weather.gov/</credit_URL>
+   		<image>
+        		<url>http://weather.gov/images/xml_logo.gif</url>
+        		<title>NOAA's National Weather Service</title>
+        		<link>http://weather.gov</link>
+    		</image>
+
+	Improved
+		<credit url="http://weather.gov" src="http://weather.gov/images/xml_logo.gif" title="NOAA's 		National Weather Service"/>
+
+
+
+Change 2
+I combined the metadata in all of the wind elements into one element with the data as attributes for faster processing and to make it easier to read. I also chose to remove the <wind_string> because I feel that is more of a display concern that can be created with xsl.
+
+
+	Original
+		<wind_string>from the Southwest at 12.7 gusting to 18.4 MPH (11 gusting to 16 KT)</wind_string>
+    		<wind_dir>Southwest</wind_dir>
+    		<wind_degrees>240</wind_degrees>
+    		<wind_mph>12.7</wind_mph>
+    		<wind_gust_mph>18.4</wind_gust_mph>
+    		<wind_kt>11</wind_kt>
+    		<wind_gust_kt>16</wind_gust_kt>ckup>
+    		
+	Improved
+		<wind dir="Southwest" degrees="240" mph="12.7" gust_mph="18.4" kt="11" gust_kt="16"/>		
+
+
+Change 3
+I changed the <location/> elements by adding attributes that were once elements that made more sense as attributes of location since it is metadata. I added the geo namespace to add even more meaning to the data that can be utilized.
+
+
+	Original
+		<location>Boston, Logan International Airport, MA</location>
+   	 	<station_id>KBOS</station_id>
+    		<latitude>42.38</latitude>
+   		<longitude>-51.03</longitude>
+	Improved
+		<location station_id="KBOS" geo:lat="42.38" geo:long="-51.03" 
+		display="Boston, Logan International Airport, MA"/> 		
+
+
+Change 4
+I changed the elements groups that held metadata for <temperature>, <dewpoint> and <windchill> and combined them into one element named <readings> with attributes and nested elements with attributes for easier reading and faster processing. I also removed the strings which is more of a display choice that can be handled with xsl.
+
+	Original
+		<temperature_string>51.0 F (10.6 C)</temperature_string>
+    		<temp_f>51.0</temp_f>
+   		<temp_c>10.6</temp_c>
+
+		<dewpoint_string>30.0 F (-1.1 C)</dewpoint_string>
+    		<dewpoint_f>30.0</dewpoint_f>
+    		<dewpoint_c>-1.1</dewpoint_c>
+    		
+		<windchill_string>46 F (8 C)</windchill_string>
+    		<windchill_f>46</windchill_f>
+    		<windchill_c>8</windchill_c>
+	Improved
+		<readings system="english" units="Farenheit" label="&#176;F">
+        		<temperature value="51.0"/>
+        		<dewpoint value="30.0"/>
+        		<windchill value="46.0"/>
+    		</readings>
+    		
+		<readings system="metric" units="Celsius" label="&#176;C">
+        		<temperature value="10.6"/>
+        		<dewpoint value="-1.1"/>
+        		<windchill value="8"/>
+    		</readings>		
+
+
+Change 5
+I nested all of the urls into a group under the element <urls> and made their text values attributes for faster processing. 
+
+	Original
+		<icon_url_base>http://forecast.weather.gov/images/wtf/small/</icon_url_base>						<two_day_history_url>http://www.weather.gov/data/obhistory/KBOS.html</two_day_history_url>
+    		<icon_url_name>sct.png</icon_url_name>
+    		<ob_url>http://www.weather.gov/data/METAR/KBOS.1.txt</ob_url>
+    		<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+    		<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+    		<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+	Improved
+		<urls>
+        		<icon url="http://forecast.weather.gov/images/wtf/small/" src="sct.png"/>
+        		<two_day_history url="http://www.weather.gov/data/obhistory/KBOS.html"/>
+        		<ob url="http://www.weather.gov/data/METAR/KBOS.1.txt"/>
+        		<disclaimer url="http://weather.gov/disclaimer.html"/>
+        		<copyright url="http://weather.gov/disclaimer.html" />
+        		<privacy_policy url="http://weather.gov/notice.html"/>
+    		</urls>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

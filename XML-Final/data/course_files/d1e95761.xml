@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8732" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2001</num_int>
+</course_number>
+<title>Research in Behavior in Games and Markets</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>W., 11:30-1</meeting_text>
+<faculty_text>David I. Laibson, Drew Fudenberg, Jerry R. Green, and Tomasz Strzalecki</faculty_text>
+<description>Presents current research in Theory, Behavioral Economics, and Experimental Economics</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F96a8d36bc5067e1aa6b31b49e2cf8040">
+<name>
+<prefix/>
+<first>David</first>
+<middle>I.</middle>
+<last>Laibson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F96a8d36bc5067e1aa6b31b49e2cf8040">
+<name>
+<prefix/>
+<first>David</first>
+<middle>I.</middle>
+<last>Laibson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

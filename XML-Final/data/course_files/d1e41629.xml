@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3247" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIST">
+<dept_long_name>Committee on Higher Degrees in Biostatistics</dept_long_name>
+<dept_short_name>Biostatistics</dept_short_name>
+</department>
+<course_group code="BIOSTAT">Biostatistics</course_group>
+<course_number>
+<num_int>245</num_int>
+</course_number>
+<title>Analysis of Multivariate and Longitudinal Data</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:30&amp;#8211;12:20, and a weekly 90-minute lab.</meeting_text>
+<faculty_text>Xihong Lin (Public Health)</faculty_text>
+<description>The multivariate normal distribution, Hotelling's T2, MANOVA, repeated measures, the multivariate linear model, random effects and growth curve models, generalized estimating equations, multivariate categorical outcomes, missing data, computational issues for traditional and new methodologies.</description>
+<prerequisites>Biostatistics 231 and Biostatistics 235.</prerequisites>
+<notes>Offered jointly with the School of Public Health as BIO245.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F104ccbb76ea62cf6e6428d71f6a05715">
+<name>
+<prefix/>
+<first>Xihong</first>
+<middle/>
+<last>Lin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1030" end_time="1220"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1030" end_time="1220"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

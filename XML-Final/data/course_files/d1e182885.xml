@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77764" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>41</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Modernity, Society, and the Novel</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Eric A. Malczewski</faculty_text>
+<description>This seminar focuses on the experience of the social actor in modernity, using novels and sociological literature as guides; the nature of modernity will examined, with the existential experience of the modern individual as the object of focus. The novel will be studied so as to gain leverage on such questions as "What is identity, and how is it shaped?" and "What are the implications of modernity on one's creation of the self?" The novels to be considered juxtapose the experience of women to that of men and focus on 19th and early 20th century England, France, and America.</description>
+<prerequisites/>
+<notes>Open to Freshmen only</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd1c70c290d4c8a28fddcc3a0427891e6">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>A</middle>
+<last>Malczewski</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

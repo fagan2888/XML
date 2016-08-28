@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8560" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>18</num_int>
+</course_number>
+<title>Abnormal Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30 and a weekly section to be arranged</meeting_text>
+<faculty_text>Joshua William Buckholtz</faculty_text>
+<description>Introduction to the study of psychological dysfunction. Focuses on abnormal behavior as it relates to the definition, etiology, and treatment of major symptom domains. This course will emphasize critical evaluation of the causes and mechanisms of mental illness, with special attention paid to recent neuroscientific and genetic research on the neurobiology of psychopathology.</description>
+<prerequisites>Science of Living Systems 20.</prerequisites>
+<notes>This course counts toward foundational requirements for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F48a7feb18ea8ffc5b8dc7a746cec9b1d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>William</middle>
+<last>Buckholtz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="18 (Yenching Auditorium)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

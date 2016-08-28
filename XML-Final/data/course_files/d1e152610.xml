@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76893" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>103</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>Advanced Old English: Anglo-Saxons at Home</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-3:30</meeting_text>
+<faculty_text>Laura Wang</faculty_text>
+<description>This course deepens our sense of Anglo-Saxon culture through texts that bring its everyday, nitty-gritty details to life. We will encounter, for example, strange medical remedies as well as bawdy riddles; the domestic comforts of Beowulf's mead-hall as well as its epic battles. After a rapid review of skills taught in 102, we will translate progressively more challenging passages; transcribe from Old English manuscripts; and read John Gardner's Grendel, discussing the uses of engaging with an era that remains opaque in many ways. Class will culminate in the production of creative, yet linguistically faithful, translations of selected Old English poems.</description>
+<prerequisites>Honors grade in English 102 or the equivalent.</prerequisites>
+<notes>Students who complete both English 102 and 103 with honors grades will fulfill the College language requirement and the English Department's Foreign Literature requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F23344209efba74080c7dffa25683bca1">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle/>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

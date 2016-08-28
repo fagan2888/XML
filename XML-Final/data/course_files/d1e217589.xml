@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3567" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1796</num_int>
+</course_number>
+<title>Central Challenges of American National Security, Strategy, and the Press</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., 8:40-11:30</meeting_text>
+<faculty_text>Graham T. Allison, Jr. (Kennedy School) and David Sanger (Kennedy School)</faculty_text>
+<description>Using a series of case studies from the front page, and from the most urgent issues on the U.S. national security agenda, this course will engage students in grappling with the hardest American national security challenges of the decade ahead. Issues range from the Arab Awakening and intervention in civil wars to combating Iran's nuclear ambitions and dealing with the economic and military rise of China. Assignments require strategic thinking: analyzing dynamics of issues and developing strategies in a government whose deliberations are discombobulated by leaks, reports about internal differences among policymakers, and press analyses. Students will learn to devise strategies and write strategic options memos as participants in the policymaking process. Strategic options memos combine careful analysis and strategic imagination, on the one hand, with the necessity to communicate to major constituencies in order to sustain public support, on the other. A subtheme of the course explores coping with a world where a pervasive press makes secrecy more often the exception than the rule. In each case, there will be exploration of how media coverage affects decision making, with an examination of WikiLeaks, the revelations about drones and secret, American-led cyberattacks, and other examples of the publication of classified information. Because of time constraints, Mr. Sanger will be joining a limited number of class sessions, and will join some remotely.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as IGA-211.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2ba533ff42e258f9bb95751d82e74704">
+<name>
+<prefix/>
+<first>Graham</first>
+<middle>T.</middle>
+<last>Allison</last>
+<suffix>Jr.</suffix>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F4542b4b47df37ea2657fee7e6621a6c7">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Sanger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="840" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="KSG - Littauer" room="280" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62073" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>198</num_int>
+</course_number>
+<title>Controversy: Explorations at the Intersection of Science, Policy, and Politics</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Naomi Oreskes</faculty_text>
+<description>Science is supposed to give us factual knowledge, yet scientific results often become mired in political controversy. This course examines the sources of controversy around scientific matters that bear on political questions. Topics include the role of experts in a democratic society, the role of values in scientific research and reasoning, the demarcation between controversy in science v. controversy about science, and the matter of whether any question can ever be deemed to be "purely" scientific.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F061d3c7baf040f0301684cd55e33d5a0">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle/>
+<last>Oreskes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

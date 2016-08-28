@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7488" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2880</num_int>
+</course_number>
+<title>Economics of Science</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2:30-5:30</meeting_text>
+<faculty_text>Richard B. Freeman</faculty_text>
+<description>Analyzes economic issues regarding the role of science and RD in the economy and in the deployment and productivity of scientists, engineers, and highly skilled technical workers. Topics include: wage levels/employment prospects; stipend policy, education/recruitment, student unionization/post-doc organization, career choices/trajectories, with reference to women; scientific competition/collaboration.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3956ad677c785efeb9c52792efe7afff">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>B.</middle>
+<last>Freeman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

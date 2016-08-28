@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81501" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>37</num_int>
+</course_number>
+<title>Adam &amp; Eve</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Joseph Koerner (History of Art &amp; Architecture) and Stephen J. Greenblatt (English)</faculty_text>
+<description>What is the power of a story? For several thousand years Adam and Eve were the protagonists in the central origin myth of the Jewish, Christian, and Muslim worlds. That myth was the arena for ethical reasoning about transgression and innocence, sexuality, gender roles, labor, suffering, and death. Jointly taught by History of Art and Architecture and English, our course focuses on this enigmatic story and its spectacular elaborations in theology, philosophy, literature and art. Above all, looking closely at some of the greatest achievements of European art and literature- from Durer, Michelangelo and Rembrandt to Milton's Paradise Lost- we will compare the possibilities of the verbal and visual arts in portraying human being.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning or Aesthetic and Interpretive Understanding, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F08c1d573a5c2f51da2fbaace12f0d7fb">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Koerner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F38e62e85577826f3973356e1e3a002a8">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Greenblatt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

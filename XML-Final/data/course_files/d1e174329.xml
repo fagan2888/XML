@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60008" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Black Holes, String Theory and the Fundamental Laws of Nature</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 7-9 p.m.</meeting_text>
+<faculty_text>Andrew Strominger</faculty_text>
+<description>This seminar will review both our established knowledge of the fundamental laws of nature as well as our best guesses and attempts to understand what might lie beyond our current knowledge. The black hole information puzzle, the nature of space and time at short distances, string theory, the Higgs boson, unification of the forces, quantum gravity and the origin of the universe will be among the topics covered.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F188f086237c7da9462568fb259aac74d">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Strominger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Lyman Lab" room="425" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

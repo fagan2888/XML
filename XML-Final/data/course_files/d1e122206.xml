@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35335" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>125</num_int>
+</course_number>
+<title>Algorithms and Complexity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Michael D. Mitzenmacher and Salil P. Vadhan</faculty_text>
+<description>An accelerated introduction to theoretical computer science for students with strong mathematical preparation, to be taken in place of both Computer Science 121 and 124. Algorithm design methods, including graph algorithms, approximation algorithms, and randomized algorithms. Models of computation, computability theory, and computational complexity, including the P vs. NP question.</description>
+<prerequisites>Comfort with reading and writing mathematical proofs, at the level of Math 25 or 55 (which may be taken concurrently).</prerequisites>
+<notes>Students may not receive credit for both CS 125 and either CS 121 or CS 124.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdf98ae395fa9bc5f55668e19a773f4a2">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>D.</middle>
+<last>Mitzenmacher</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fba6f67cdb84f203cc4d6c531b5629fbe">
+<name>
+<prefix/>
+<first>Salil</first>
+<middle>P.</middle>
+<last>Vadhan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="G-125" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

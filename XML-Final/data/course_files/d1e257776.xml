@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85913" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1275</num_int>
+</course_number>
+<title>Walk This Way: Sex Differences in Locomotion</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>8</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Anna G. Warrener</faculty_text>
+<description>This course takes a broad look at how differences in male and female structure and physiology affect locomotion and movement. The first half of the course will include lectures and discussions introducing students to the biological determinants of sex, anatomical variation, and biomechanics. Students then participate in lab-based data collection and biomechanics analysis focusing on how men and women are different and similar in movement profiles. Grades are based on exams, discussion and lab participation, and a short paper and presentation.</description>
+<prerequisites>Science of Living Systems 16 or Life Sciences 2 or approval of instructor.</prerequisites>
+<notes>Lab safety overview and human subjects training course required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6897f84a5f5a6fc53738843fdfd08a98">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle>G.</middle>
+<last>Warrener</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

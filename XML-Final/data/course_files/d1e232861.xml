@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88893" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1913</num_int>
+</course_number>
+<title>Dirty Wars, Peace Processes, and the Politics of History in Latin America</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Kirsten A. Weld</faculty_text>
+<description>Latin America's "dirty wars" generated intense struggles over historical memory. Course focuses on Chile, Argentina, El Salvador, and Guatemala, and comparatively examines how societies reckon with bloody recent pasts that are anything but settled. Looks at both these countries' dictatorships and their fraught peace processes (including truth commissions, transitional justice, artistic representations, human rights activism, international law, foreign involvement, backlash) in order to probe the stakes and politics of historical interpretation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe1cc39070028da9249d669ac64eca7f0">
+<name>
+<prefix/>
+<first>Kirsten</first>
+<middle>A.</middle>
+<last>Weld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

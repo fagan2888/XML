@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4853" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>352</num_int>
+</course_number>
+<title>Chemical Mediators in Inflammation and Resolution</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4354c03fb232b68663da131e6df7b777">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Nicholas</middle>
+<last>Serhan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F4354c03fb232b68663da131e6df7b777">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Nicholas</middle>
+<last>Serhan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

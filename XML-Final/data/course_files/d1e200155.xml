@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36776" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>38</num_int>
+</course_number>
+<title>Pyramid Schemes: The Archaeological History of Ancient Egypt</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Peter Der Manuelian (Near Eastern Languages and Civilizations; Anthropology)</faculty_text>
+<description>Surveys ancient Egyptian pharaonic civilization. Emphasizes Egyptian material culture: pyramids, temples, tombs, settlements, and artifacts. Explores major developmental themes that defined the Egyptian state: the geographical landscape, kingship, social stratification, and religion. Follows a chronological path with excursions into Egyptian art, history, politics, religion, literature, and language (hieroglyphs). Also touches on contemporary issues of object repatriation, archaeology and cultural nationalism, and the evolution of modern Egyptology. Includes field trips to the Egyptian collections of the Peabody Museum and the Museum of Fine Arts, Boston, along with immersive 3D computer models in Harvard's Visualization Center. No prior experience in Egyptology expected.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F33d0218f6c7df0f0511ff24a5a7e48fc">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>Der</middle>
+<last>Manuelian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

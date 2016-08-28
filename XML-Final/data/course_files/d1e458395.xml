@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56792" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>246</num_int>
+</course_number>
+<title>Seminar in Crime and Justice</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 5-7 p.m.</meeting_text>
+<faculty_text>Bruce Western (Kennedy School)</faculty_text>
+<description>This multidisciplinary seminar will read and discuss research on crime, the social context in which it occurs, and criminal justice policy. We address this literature in the historic context of shifts in US crime policy to a less punitive regime, where incarceration rates may be significantly reduced. Besides studying empirical research on crime and punishment, we will also consider the future of crime policy, and how principles of justice can guide the role of police and corrections in poor communities.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd90f0d700a2fb568bb8ba0637340aa4f">
+<name>
+<prefix/>
+<first>Bruce</first>
+<middle/>
+<last>Western</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

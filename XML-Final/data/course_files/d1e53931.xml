@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12775" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>243</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Survive and Thrive - Graduate School and Beyond</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 6-8 p.m.</meeting_text>
+<faculty_text>Karen Thornber</faculty_text>
+<description>This course provides graduate students with the necessary tools to survive and thrive in graduate school and beyond, in a variety of careers. Sessions on applying for fellowships, public speaking, using the Harvard libraries, and writing and publishing, as well as making the transition from coursework to teaching.</description>
+<prerequisites/>
+<notes>Open to all Harvard graduate students interested in literature and required of all first-year students in the Comparative Literature PhD program.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfbb1f4e749c96d35ea6bc00bf4f2311">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>Laura</middle>
+<last>Thornber</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fdfbb1f4e749c96d35ea6bc00bf4f2311">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>Laura</middle>
+<last>Thornber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1800" end_time="2000"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1800" end_time="2000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

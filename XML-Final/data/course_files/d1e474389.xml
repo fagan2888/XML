@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78038" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>286</num_int>
+</course_number>
+<title>Theory and Practice of Principal Stratification Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Fabrizia Mealli</faculty_text>
+<description>Introduces the concept of Principal Stratification (PS), first formalized by Frangakis and Rubin (2002), but with roots in the Instrumental Variables literature. PS has been applied to analyze causal effects in different settings, allowing to deal with various "selection" problems or post-treatment complications, including censoring due to death, noncompliance, missing outcomes, mediation analysis, and applied in various fields including economic, social and medical studies, using different modes of inference (moment- based, likelihood-based and Bayesian). The course will blend theory and application. Recent papers will be discussed; participants will be encouraged to develop their own research problems in this active area.</description>
+<prerequisites>Statistics 186 or equivalent recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa7c54b4292aa2cfa5949336c3025df7c">
+<name>
+<prefix/>
+<first>Fabrizia</first>
+<middle/>
+<last>Mealli</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

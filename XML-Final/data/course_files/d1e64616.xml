@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9798" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Mechanics in Earth and Environmental Science</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>James R. Rice</faculty_text>
+<description>Introduction to the mechanics of fluids and solids, organized around earth and environmental phenomena. Conservation laws, stress, deformation and flow. Inviscid fluids and ocean gravity waves; Coriolis dominated large scale flows. Viscosity and groundwater seepage; convective cells; boundary layers. Turbulent stream flows; flood surges; sediment transport. Elasticity and seismic waves. Pore fluid interactions with deformation and failure of earth materials, as in poro-mechanics of consolidation, cracking, faulting, and landslides. Ice sheets and glacial flow mechanics.</description>
+<prerequisites>Calculus-based introductory physics at the level of Physics 11 or 15 and Mathematics at the level of Applied Mathematics 21 and 105.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff96d4ee1144efb88d762f2b538386cf4">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Rice</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

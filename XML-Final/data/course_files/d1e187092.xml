@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1678" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>43</num_int>
+</course_number>
+<title>Visual Culture of the Ottoman Empire Between East and West (15th - 17th Centuries)</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Gulru Necipoglu-Kafadar (History of Art and Architecture)</faculty_text>
+<description>Examines the visual culture of the Ottoman Empire straddling three continents (Asia, Europe, Africa), together with cross-cultural artistic interactions with Western and Asian Islamic courts (Safavid Iran, Mughal India). Ottoman urbanism, architecture, miniature painting and decorative arts studied in their socio-political contexts that informed their production and reception. The selective fusion of Ottoman-Islamic, Byzantine and Italian Renaissance elements in the codification of a distinctive visual tradition that helped processes of multicultural empire building and identity formation is analyzed. Earliest representations of the East by European artists working in the "Orientalist" mode are also considered.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

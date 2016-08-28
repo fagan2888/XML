@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98711" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>280</num_int>
+</course_number>
+<title>Designing Transformational Policy Proposals: The Dynamics of Success in Water, Fishery and Environmental Management</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 1:10-2:30</meeting_text>
+<faculty_text>Michael Denis Young</faculty_text>
+<description>Unpacking the dynamics of getting transformational policy reforms over the line. An examination of case studies in the design and implementation of successful reforms in water, fishery, natural resource and environmental management.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as IGA-438.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F994015cca60abb17b9a87683ba7bd73d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>Denis</middle>
+<last>Young</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

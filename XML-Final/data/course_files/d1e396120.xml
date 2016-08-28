@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1284" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>141</num_int>
+</course_number>
+<title>The Physics of Sensory Systems in Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Erel Levine</faculty_text>
+<description>Living organisms use sensory systems to inform themselves of the sights, sounds, and smells of their surrounding environments. Sensory systems are physical measuring devices, and are therefore subject to certain limits imposed by physics. Here we will consider the physics of sensory measurement and perception, and study ways that biological systems have solved their underlying physical problems. We will discuss specific cases in vision, olfaction, and hearing from a physicist's point of view.</description>
+<prerequisites>Physics 11a,b or 15 a,b, required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F18954c5c1be95e993faea05126a04579">
+<name>
+<prefix/>
+<first>Erel</first>
+<middle/>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

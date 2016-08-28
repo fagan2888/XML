@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9402" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Hispanic Literature: The Middle Ages</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Luis M. Giron Negron</faculty_text>
+<description>Introduction to Old Spanish literature from origins through 15th century. Close reading of works in historical context, including: Cantar de Mio Cid and La Celestina. Includes critical approaches and overarching themes in medieval Iberian literatures.</description>
+<prerequisites/>
+<notes>Conducted in Spanish. Additional readings and alternate requirements for graduate students seeking to fulfill their General Exam in Medieval Spanish for Non-Specialists.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

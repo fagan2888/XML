@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13358" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2060</num_int>
+</course_number>
+<title>Reward and Self Control</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joshua William Buckholtz</faculty_text>
+<description>What's stopping you from doing absolutely everything that your devious heart desires? The ability to flexibly control our behavior - particularly when it comes to rewarding things like food, sex, and drugs - has huge consequences for our long-term happiness and success. Though we are reasonably good at this as a species, dramatic individual differences in the capacity for self-control are readily apparent. In this class, we will examine the cognitive construct of self-control, its neurobiological underpinnings and sources of individual variation, and relationships to psychopathology.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F48a7feb18ea8ffc5b8dc7a746cec9b1d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>William</middle>
+<last>Buckholtz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

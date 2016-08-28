@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8477" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>China's Energy Economy: Perspectives from the Past: Challenges for the Future</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-5</meeting_text>
+<faculty_text>Michael B. McElroy and Xi Lu</faculty_text>
+<description>The seminar will provide a historical perspective on the development of the Chinese economy with emphasis on the energy sector, including analysis of related environmental problems. Energy options available for China's future will be discussed, including opportunities for clean-coal technology, nuclear, wind, hydro, and biofuels. The seminar will discuss tradeoffs implicit in these choices with respect to reconciling competing goals for environmental protection and economic development.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffb530e6d87831c18ca5db4b774d10846">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>B.</middle>
+<last>McElroy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6e12f7d4ec876e8c9673e9cb2fdb0982">
+<name>
+<prefix/>
+<first>Xi</first>
+<middle/>
+<last>Lu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83732" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>255</num_int>
+</course_number>
+<title>Dysfunctional Family as National Allegory in the Middle Eastern Novel</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>William E. Granara</faculty_text>
+<description>The radical changes following the emergence of the modern nation state in the Middle East have been most graphically illustrated in the novel. This course examines the trope of the family in flux in narrating the destabilization of traditional social structures, shifting loyalties, and conflicting articulations of identity. The course interrogates the F. Jameson and A. Ahmad debates on `thirdworld' and `national allegory' in reading selected novels of the post WWII period to the present, from Turkey, Iran, Israel, and the Arab World. Authors include Naguib Mahfuz, Mohamed Shukri, Hanan Shaykh, Sahar Khalifa, Amos Oz, Elif Shafak, and Mahmoud Dowlatabadi.</description>
+<prerequisites/>
+<notes>All readings in English translation, but students are encouraged to read in the original. Course will count for NELC concentration and citation in Modern Middle Eastern Studies. Open to Undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="973" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_char>Bb</num_char>
+</course_number>
+<title>Intermediate Arabic II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., through F., at 9, 10, 11, or 12.</meeting_text>
+<faculty_text>Nour Barmada and staff</faculty_text>
+<description>A continuation of Arabic Ba. Textbook: Al-Kitaab, volume II, 2nd edition.</description>
+<prerequisites>Arabic A or equivalent.</prerequisites>
+<notes>Not open to auditors. Cannot be taken pass/fail. Offered jointly with the Divinity School as 4361.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7d1b2fa85d9a966e381588014d5bb7ef">
+<name>
+<prefix/>
+<first>Nour</first>
+<middle/>
+<last>Barmada abida</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

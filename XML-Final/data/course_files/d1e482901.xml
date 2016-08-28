@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99186" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>2012</num_int>
+</course_number>
+<title>Sex as an Ethical Problem (Graduate Seminar in General Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>This seminar will draft and then evaluate alternate plans on ethical reasoning about sexual acts, desires, and identities. In an astonishingly short time, sex has been pushed from the center of American morality to somewhere beyond the edge of it. A hundred years ago, "immorality" without qualification usually meant sexual misconduct, especially by women. Today many Americans are unclear whether there is any morality to sex beyond counsels of hygiene or responsible reproduction. This rapid historical change makes sex a very good place to think not only about how ethical reasoning changes, but what it does and doesn't add to human lives. The seminar will consider the full range of topics pertinent to a course on sexual ethics, but also and perhaps more importantly the array of possible pedagogies.</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

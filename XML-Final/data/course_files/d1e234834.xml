@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5011" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2055</num_int>
+</course_number>
+<title>Early Medieval History, Archaeology and Archaeoscience: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael McCormick</faculty_text>
+<description>Joint philological analysis of Latin texts, archaeological and scientific evidence illuminating the fall of Rome and the origins of medieval Europe, culminating in a research paper.</description>
+<prerequisites>Latin, with either German or French, is required. Normally History 2050 and or MS 101.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6b064b2df8489d2df57fdea2678e497d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

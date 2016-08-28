@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49539" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>na</num_char>
+</course_number>
+<title>The American Ghetto</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Matthew Stephen Desmond</faculty_text>
+<description>The ghetto is among the most complex and troubling of all American institutions. This course analyzes the American ghetto in historical and contemporary perspective, exploring topics such as racial segregation, urban poverty, inner-city schools, the underground economy, and the prison boom. Along with engaging with several classic and contemporary texts, we will carry out ethnographic fieldwork in some of Boston's low-income neighborhoods.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F604799b1c7f879e23e28875987b5c210">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Stephen</middle>
+<last>Desmond</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="601" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

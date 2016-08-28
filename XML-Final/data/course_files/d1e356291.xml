@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1311" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>271</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Fromm Seminar in Composition</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Michael J. Pisaro</faculty_text>
+<description>Experimental Music: Theory and Practice. This seminar will follow a (potential) correspondence between figures in the history of American music and French philosophy since the 1950's and composers of the Wandelweiser group, as a way of mapping a part of the topography of recent experimental music. It will involve readings (and hopefully, if the space is right) some in-class performance.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fed5081f9f9b02399766a5d9bdbd60f52">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Pisaro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

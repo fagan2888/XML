@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6610" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>290</num_int>
+</course_number>
+<title>Scientific Communication</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Teaches students how to effectively, communicate scientific concepts focusing on short oral presentations based on current journal articles drawn from Earth and Planetary Sciences. Technical presentation skills (planning, delivery, managing nervousness, etc.) developed through weekly practice and detailed feedback.</description>
+<prerequisites/>
+<notes>Recommended for EPS graduate students in their 1st or 2nd year. Topics include: differences between written and oral communication; structure and organization of short vs. long and general vs. technical talks; and effective use of visualizations including poster presentations.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

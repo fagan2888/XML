@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31219" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>Policy Options in Health and Environmental Economics</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>(W.), 1-3</meeting_text>
+<faculty_text>Ariel Pakes</faculty_text>
+<description>The seminar will focus on policy issues in two areas; health economics, and environmental economics. We will read papers on an assortment of policy options and formulate frameworks for analyzing their likely impacts on outcomes of interest. Examples from health care include the analysis of mergers in hospital markets and the choice of capitation vs fee for service contracts. Examples from environmental economics include the choice between tradeable pollution permits and pollution taxes. Where possible we will use data and do the analysis quantitatively. Some knowledge of microeconomic and statistical tools, particularly those related to industrial organization, will be assumed.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe22275f70ee5cf84ff2c4465cb8385cc">
+<name>
+<prefix/>
+<first>Ariel</first>
+<middle/>
+<last>Pakes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

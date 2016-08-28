@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1472" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>910</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Research</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mahzarin R. Banaji and members of the Department</faculty_text>
+<description>Independent empirical research (laboratory or field) conducted under the supervision of a departmental faculty member. Research report or equivalent paper required. May be taken up to three times for College credit; limits on research courses for concentration credit apply.</description>
+<prerequisites/>
+<notes>An &lt;a href="http://www.wjh.harvard.edu/psych/ug/deadlines/index.html"&gt;Application&lt;/a&gt; is required for admission; due to the Psychology Undergraduate Office the day before Study Cards are due.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

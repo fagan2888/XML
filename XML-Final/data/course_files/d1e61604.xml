@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96472" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>174</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>The Creative Producer: Arts Management and Creative Production in the Theater</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Thomas A. Schmidt</faculty_text>
+<description>An introduction to theater production and arts management in theater. We will compare different models of producers and their instruments, while putting special emphasis on the role of the creative producer - a new type of producer, where the creative producer is working at the interface between classical production, development of screenplays, and artistic direction. The students will get an overview of the major phases in the history of theater, they will learn to analyze and compare existing theater systems, and they will assess the vital role of the creative producer in fostering innovation and experimentation across drama, opera, dance, concert, and (multimedia) performance as well as the role and function of the other "players" in theater (actors, directors, dramaturgs, designers, etc.). In order to gain practical experience in arts management, theater production and playing, the students will form production teams and experience in their functions and roles (producer, director, dramaturg, playwright, actor) in the production of a play, which will be rehearsed and performed during the semester.</description>
+<prerequisites/>
+<notes>No background in theater history, theory or practice necessary. Recommended for all students concentrating in Dramatic Arts, Languages, Economics, Psychology, Education, and with general interest in Arts and Theater.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdb5222ebbcefc80c9e83926d0c4f873d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>A.</middle>
+<last>Schmidt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

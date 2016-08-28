@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55368" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>350</num_int>
+</course_number>
+<title>Epithelial Stem Cells in Development, Regeneration, and Disease</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fdee773d24eecc996d4dabe3e1ead9760">
+<name>
+<prefix/>
+<first>Ya-Chieh</first>
+<middle/>
+<last>Hsu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fdee773d24eecc996d4dabe3e1ead9760">
+<name>
+<prefix/>
+<first>Ya-Chieh</first>
+<middle/>
+<last>Hsu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

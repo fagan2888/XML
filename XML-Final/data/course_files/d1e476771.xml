@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57725" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>25</num_int>
+</course_number>
+<title>Biochemistry and Human Metabolism</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Kiran Musunuru</faculty_text>
+<description>This course provides an introduction to the principles of biochemistry in the context of human physiology and disease. We will investigate biochemical pathways governing the metabolism of proteins, carbohydrates, fatty acids and lipids, and nucleic acids. Additionally, we will address basic enzymology, bioenergetics, energy storage and release, and hormonal regulation of metabolism. Special emphasis will be given to the impact of biochemical pathways on disease as well as the development of new therapies.</description>
+<prerequisites>LPS A or LS 1a or equivalent</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4b6ab91362ed1bc6c816b0d31c8a2dfc">
+<name>
+<prefix>Dr</prefix>
+<first>Kiran</first>
+<middle/>
+<last>Musunuru</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

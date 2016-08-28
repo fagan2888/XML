@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23574" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Food, Culture, and Globalization</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12</meeting_text>
+<faculty_text>Seungsook Moon</faculty_text>
+<description>Approaching food as material culture that reveals complex social relations of power, this course begins with the examination of the larger historical processes of conquests and other uneven cross-cultural encounters that shaped the making and remaking of ethnic and regional identities of food. Then it investigates the political economy of transnational production, circulation, and consumption of food in various areas of the world. It also explores the cultural politics of how tastes of food are invested with corporate interests, and images and meanings of status distinction and inequalities. Finally, it examines the role of food in shaping ethnic/racial, national, and gender identities in the midst of globalization. To complement analytical approaches in classroom, this course may incorporate experiential learning components, including a visit to a local restaurant, a local farm, or a collaborative cooking exercise.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab037c09415ba0ba3cf36cff1181b614">
+<name>
+<prefix/>
+<first>Seungsook</first>
+<middle/>
+<last>Moon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

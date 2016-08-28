@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70535" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>183</num_int>
+</course_number>
+<title>Race and Ethnic Relations</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Lawrence D. Bobo</faculty_text>
+<description>Focuses on ethno-racial distinctions as they have played out in the US, particularly in the period from post-World War II to the present. The specific topics covered include the concept of race itself, whiteness and white identity, sociological theories of racial and ethnic stratification, immigration and immigration politics, processes of assimilation, new and changing ethno-racial identities, and racial attitudes. In the process of addressing these large and cross-cutting topics we will also take up a host of related issues dealing with such matters as income and wealth differentials, schooling and its outcomes, crime and incarceration, families, interracial marriages, and racism and antiracism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F537e1cde9ce5bb81345dd4d64f62ed58">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle/>
+<last>Bobo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

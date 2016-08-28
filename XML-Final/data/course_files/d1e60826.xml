@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="50633" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Directing Lab</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 3-6</meeting_text>
+<faculty_text>Shira Milikowsky</faculty_text>
+<description>This class is designed for students interested in expanding their understanding of directing for theater. The course will focus on the work of American experimental theater artists from the 1960's to the present, examining the various ways avant-garde directors and ensembles have experimented with form to seek out radical new modes of storytelling. Students will create work inspired by the artists and productions studied, applying theory to practice in rehearsals and presentations.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb1570d230c6da458391298401fa95ac9">
+<name>
+<prefix/>
+<first>Shira</first>
+<middle/>
+<last>Milikowsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

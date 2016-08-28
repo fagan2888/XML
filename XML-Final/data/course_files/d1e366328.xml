@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8155" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="IRANIAN">Iranian</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Reading and Research in Iranian Languages and Literatures</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F234e2856ad4bc206ead4a3c25f0ff2ed">
+<name>
+<prefix/>
+<first>P.</first>
+<middle>Oktor</middle>
+<last>Skjaervo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F234e2856ad4bc206ead4a3c25f0ff2ed">
+<name>
+<prefix/>
+<first>P.</first>
+<middle>Oktor</middle>
+<last>Skjaervo</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

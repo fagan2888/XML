@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2168" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>178</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>The American Novel: Dreiser to the Present</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Philip J. Fisher</faculty_text>
+<description>A survey of the 20th-century novel, its forms, patterns of ideas, techniques, cultural context, rivalry with film and radio, short story, and fact. Wharton, Age of Innocence; Cather, My Antonia; Hemingway, A Farewell to Arms and stories; Faulkner, The Sound and the Fury and stories; Fitzgerald, Tender is the Night; Ellison, Invisible Man; Nabokov, Lolita; Bellow, Herzog; Salinger, Catcher in the Rye and stories; Ha Jin, Waiting. Stories by James, London, Anderson, Gaitskill, Wallace, Beattie, Lahiri and Ford.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7abda83716ffd8fae0b5e05341c6034e">
+<name>
+<prefix/>
+<first>Philip</first>
+<middle/>
+<last>Fisher</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

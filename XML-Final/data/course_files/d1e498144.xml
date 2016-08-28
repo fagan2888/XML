@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11707" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1582</num_int>
+</course_number>
+<title>The Niebuhr Brothers and Their World</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>K. Healan Gaston (Divinity School)</faculty_text>
+<description>This course will explore the lives and works of the Protestant theologians and ethicists Reinhold Niebuhr (1892-1971) and H. Richard Niebuhr (1894-1962). Throughout their long careers, the Niebuhr brothers carried on a remarkable intellectual dialogue in both their published and unpublished writings and their private correspondence. In addition to surveying the similarities and differences between the brothers and their intellectual projects, we will also consider how their thought was shaped by various interlocutors, including Max Weber, Ernst Troeltsch, William James, Karl Barth, Paul Tillich, Emil Brunner, John Dewey, and Will Herberg, and by the broader historical contexts in which they lived and worked. We will pay particular attention to how the Niebuhr brothers viewed God and human nature, democracy and politics, secularism and pluralism, church-state relations, and the meaning and character of history.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2318.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5f169b5ac2228aff7478b9730a9d0d4c">
+<name>
+<prefix/>
+<first>K</first>
+<middle>Healan</middle>
+<last>Gaston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

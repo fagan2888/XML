@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80674" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>280</num_int>
+</course_number>
+<title>Lightness and Energy: the 21st Century French Fiction</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Emmanuel Bouju</faculty_text>
+<description>What can French novel be/do/hope for today? We will consider the possible answers to this question, by reinterpreting notions as "lightness" and "energy" amd discussing the idea of contemporary times. Readings include a series of very recent fictional and autobiographical novels, as well as theoretical texts (Barthes, Deleuze, Calvino, Hartog, Agamben, Svetlana Boym, Hartmut Rosa...).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faebac914456c57a120a9b2fc8833017f">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Bouju</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="111" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

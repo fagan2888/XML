@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2189" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Energy, Technology, and the Environment</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Michael B. McElroy</faculty_text>
+<description>The seminar will provide an account of the technologies that shape our world with a perspective on how they evolved, the benefits that ensued and the environmental challenges that arose as a consequence. Topics include prospects for renewable energy and options to minimize damage from conventional sources of energy. Specific attention is directed to challenges faced by large developing economies emphasizing the need for a cooperative approach to ensure an equable, environmentally sustainable, global future.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffb530e6d87831c18ca5db4b774d10846">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>B.</middle>
+<last>McElroy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1938" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>Molecular Biology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>T., Th., from 1:00 - 2:30 and a 90 minute discussion session weekly.</meeting_text>
+<faculty_text>A. Thomas Torello</faculty_text>
+<description>An integrated and quantitative introduction to the principles of molecular biology with an emphasis on the experimental underpinning of key concepts. This course covers the biochemistry and structure of DNA; the Central Dogma of molecular biology (DNA replication and repair, transcription and RNA processing, and translation); and an overview of gene regulation and systems biology. The weekly section emphasizes problem solving and the scientific method. The investigative, discovery-based laboratory research project is optional.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a and permission of the instructor; Life Sciences 1b recommended.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb95b92e491d145fc60a4f095e31423b">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Torello</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B108" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

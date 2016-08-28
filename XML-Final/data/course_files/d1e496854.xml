@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6184" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1520</num_int>
+</course_number>
+<title>Introduction to Hermeneutics and Theology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., at 11</meeting_text>
+<faculty_text>Francis Fiorenza (Divinity School)</faculty_text>
+<description>General introduction to hermeneutical theory and theology. It surveys the development of theories of interpretation from classical to modern and contemporary times and shows the relation between the theory of interpretation and the understanding of theology. The course will especially attend to the influence of nineteenth and twentieth century theories of interpretation upon sacred texts, the diverse approaches to theology, and key theological categories such as revelation, experience, method, foundations, classics, community, and practice. It introduces students to some of the modern debates about the importance of interpretation for religious and theological studies.</description>
+<prerequisites/>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 2410.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2996850aad46273857ba447ccb886940">
+<name>
+<prefix/>
+<first>Francis</first>
+<middle>Schussler</middle>
+<last>Fiorenza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

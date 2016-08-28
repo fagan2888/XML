@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6011" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIPH">
+<dept_long_name>Committee on Higher Degrees in Biophysics</dept_long_name>
+<dept_short_name>Biophysics</dept_short_name>
+</department>
+<course_group code="BIOPHYS">Biophysics</course_group>
+<course_number>
+<num_int>242</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Special Topics in Biophysics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-4</meeting_text>
+<faculty_text>James M. Hogle (Medical School) and Stephen C. Harrison (Medical School)</faculty_text>
+<description>Biophysical topics emerging from special interest research not normally available in established curriculum. This year's focus to be on Structural Biology from Molecules to Cells.</description>
+<prerequisites/>
+<notes>Weekly lectures with discussion sections.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F183eb249cd42ea6ad7401fd470ba28fd">
+<name>
+<prefix/>
+<first>James</first>
+<middle>M.</middle>
+<last>Hogle</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe21167e3f53a130029d29257aaa46df1">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>C.</middle>
+<last>Harrison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2796" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="WELSH">Welsh</course_group>
+<course_number>
+<num_int>226</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Readings in Middle Welsh Prose</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Catherine McKenna</faculty_text>
+<description>An exploration of the enormous variety of medieval Welsh prose literature: selections from tales and romances, chronicles, laws, and lore.</description>
+<prerequisites>Welsh 225b or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

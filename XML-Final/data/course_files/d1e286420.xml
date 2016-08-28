@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5771" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>211</num_int>
+</course_number>
+<title>Molecular and Systems Level Cancer Cell Biology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Piotr Sicinski (Medical School), Jarrod Marto (Medical School), and Marc Vidal (Medical School)</faculty_text>
+<description>Examines the molecular basis of cancer formation including alterations in signal transduction pathways, cell cycle machinery, cell metabolism and apoptosis. Describes novel systems biology proteomic approaches to study cancer cell interactomes.</description>
+<prerequisites>General knowledge of biochemistry, molecular genetics, and cell biology.</prerequisites>
+<notes>Expected to be given in 2015-2016. Given alternate years with Cell Biology 212. Offered jointly with the Medical School as CB 704.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8412c0aabcc6a6344674a2797aaf790b">
+<name>
+<prefix>Dr.</prefix>
+<first>Peter</first>
+<middle/>
+<last>Sicinski</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fcadc5ced713d2229d6ae0feb7b0fcf09">
+<name>
+<prefix>Dr</prefix>
+<first>Jarrod</first>
+<middle/>
+<last>Marto</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Feffd9e49c3bf9433bd969a4e416ba329">
+<name>
+<prefix>Dr</prefix>
+<first>Marc</first>
+<middle/>
+<last>Vidal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

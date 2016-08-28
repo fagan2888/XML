@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3487" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>sb</num_char>
+</course_number>
+<title>Samuel Beckett's Plays and Prose: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Robert Scanlan</faculty_text>
+<description>Studies systematically the arc of Samuel Beckett's literary career, with particular emphasis on Beckett's stage and video plays. The course proposes the idea of a "stable habitation for the Self" as one way of understanding both Beckett's thematic matiere and his astonishing aesthetic innovations in three media: stage, page, and video screen. Video resources supplement reading and discussion of texts, and local productions of the plays are studied when available.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F131bb0c5a3df92120926c34f728f6526">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Scanlan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

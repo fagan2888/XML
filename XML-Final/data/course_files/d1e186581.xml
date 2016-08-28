@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47723" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>38</num_int>
+</course_number>
+<title>The English Language as Literature</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Daniel Albright (English)</faculty_text>
+<description>This course will recount the development of English literature, from Caedmon's hymn to Ulysses, as a story about the development of the English language, its new musculatures: how the steady accretion of linguistic and word-musical possibilities (French and Latin vocabulary, Italian stanza forms, Germanic and Celtic archaisms, finally a sort of pan-European synthesis) shaped the works of Chaucer, Spenser, Milton, Swift, MacPherson, Wordsworth, Tennyson, Hopkins, Yeats, Joyce, and Beckett.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2daea07f033d736ce13802c4a43535c5">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Albright</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

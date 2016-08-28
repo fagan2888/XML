@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64885" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.233</num_char>
+</course_number>
+<title>Who Owns the Past?</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Janling L. Fu</faculty_text>
+<description>What does it mean for archaeologists to discover and curate the past? We will consider the rights and problems around the passage of legislation arguing for the return of objects to Native American tribes in the United States. We will grapple with the very mission of archaeology as we study tombstones in Harvard's own backyard, investigating the challenges faced by archaeologists as they collect and interpret often apparently scant, fragile, and historically distant data. We will probe how political regimes use archaeology to legitimate versions of the past, examining cases in Israel and Palestine, Nazi Germany, and Saddam Hussein's regime.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ba1304ec8e49fe4b02b8fd8598f93d9">
+<name>
+<prefix/>
+<first>Janling</first>
+<middle>L.</middle>
+<last>Fu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="303" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5703" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>Human Genetics: Mining Our Genomes for an Understanding of Human Variation and Disease</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Kiran Musunuru</faculty_text>
+<description>The sequencing of the human genome has revealed the full extent of genetic variation that exists within us as a species. This genetic diversity underlies much of our physical variation as well as our differences in responsiveness to disease stimuli and their treatments. We will explore these and other ramifications of human genetic diversity by applying classical and contemporary genetic tools to the identification of specific genes and pathways that functionally underlie our variable biology.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b (or equivalent); SCRB 10 or MCB 52. Not expected to be offered in 2014-2015.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4b6ab91362ed1bc6c816b0d31c8a2dfc">
+<name>
+<prefix>Dr</prefix>
+<first>Kiran</first>
+<middle/>
+<last>Musunuru</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

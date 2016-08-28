@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6578" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Psychosemantics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Gennaro Chierchia and Jesse Snedeker</faculty_text>
+<description>Explores issues at the interface of linguistic semantics, pragmatics and psychology. Introduces how the analysis of meaning has been pursued by linguists and psychologists. Focuses on topics that are both of central interest to theoretical linguistics and the target of experimental research. These include sentence structure, sentential connectives, quantification, numbers, mass-count distinction, adjectives and comparison, scales and modalities.</description>
+<prerequisites>A background in psychology or linguistics; some acquaintance with both helpful but not necessary.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9640a897d547cab1de1ce8035cc8e532">
+<name>
+<prefix/>
+<first>Gennaro</first>
+<middle/>
+<last>Chierchia</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb791950275922dcbb3737a20a6101bbd">
+<name>
+<prefix/>
+<first>Jesse</first>
+<middle/>
+<last>Snedeker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

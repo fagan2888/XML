@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6659" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Acting Shakespeare</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>14</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Remo Francisco Airaldi</faculty_text>
+<description>This course is an intensive study of Shakespeare's dramatic works from the point of view of the actor. It is important to remember that Shakespeare's verse dramas were written to be performed and that only when they are approached this way-as playable, theatrical texts-that they have their maximum impact. Through text analysis, scene study, vocal work, and acting exercises we attempt to find, not only the meaning, but the music and theatrical power of Shakespeare's words.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd23c0126be12d04e2aeeb75fa57ce097">
+<name>
+<prefix>Mr</prefix>
+<first>Remo</first>
+<middle>Francisco</middle>
+<last>Airaldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Loeb Drama Center" room="Dance Studio" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

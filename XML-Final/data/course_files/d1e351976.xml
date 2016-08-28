@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40907" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>186</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Jazz Improvisation</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Daniel Artie Henderson</faculty_text>
+<description>Our theme: learn how they did it, and then do it yourself. Through listening, transcription, analysis, and performance, we will guide you as you discover the unique skills and sounds of your favorite jazz musicians. Learn about melodic interpretation, ensemble interaction, rhythm, articulation, phrasing, and style. Section meeting is actually ensemble, where your small jazz ensemble will try to apply the concepts learned in lecture. Final performance project: a recording session at which you and your peers will perform and record your own arrangements or compositions.</description>
+<prerequisites>Music 153 (Jazz Harmony), or a working knowledge of jazz harmony as demonstrated to the teaching staff during the first week of class.</prerequisites>
+<notes>Vocalists and instrumentalists of all types are welcome.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F76c10daf47a916751c9755b167facaed">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Artie</middle>
+<last>Henderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

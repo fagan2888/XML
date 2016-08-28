@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="322" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>51</num_int>
+</course_number>
+<title>Computer-Aided Machine Design</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>Fall: M., W., F., at 10; Spring: M., W., F., at 12</meeting_text>
+<faculty_text>Daniela Faas and Donal Padraic Holland</faculty_text>
+<description>A first course in the design and construction of mechanical and electromechanical devices. Engineering graphics and sketching; dimensions and tolerances. Introduction to materials selection and structural design. Machine elements and two-dimensional mechanisms; DC motors. Design methodology. Emphasis on laboratory work and design projects using professional solid modeling CAD software and numerically controlled machine tools.</description>
+<prerequisites>High school calculus; high school physics.</prerequisites>
+<notes>Intended for freshmen and sophomores.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbe4b3b93b7e5667a0512d1e7123bc36c">
+<name>
+<prefix/>
+<first>Daniela</first>
+<middle/>
+<last>Faas</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Faa35378c1917958761fedf4ed40dcca9">
+<name>
+<prefix/>
+<first>Donal</first>
+<middle>Padraic</middle>
+<last>Holland</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbe4b3b93b7e5667a0512d1e7123bc36c">
+<name>
+<prefix/>
+<first>Daniela</first>
+<middle/>
+<last>Faas</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Faa35378c1917958761fedf4ed40dcca9">
+<name>
+<prefix/>
+<first>Donal</first>
+<middle>Padraic</middle>
+<last>Holland</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+</requirements>
+</course></courses>

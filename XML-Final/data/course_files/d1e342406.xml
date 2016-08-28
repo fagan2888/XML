@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83425" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>154</num_int>
+</course_number>
+<title>Advanced Cell and Developmental Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 3-4:30</meeting_text>
+<faculty_text>Susan Mango</faculty_text>
+<description>This course will survey primary research papers describing topics in molecular and cellular biology. We will focus on areas of disagreement, reading pairs of papers that come to antithetical conclusions. Which is correct? Can both points of view be right? What experiments or controls would bolster the hypotheses of one or the other paper? Topics will focus on seminal findings in cell and developmental biology. Each week a different area will be covered through a combination of paper discussions, an introductory lecture and a quiz.</description>
+<prerequisites>MCB 60 or MCB 52 and MCB 54</prerequisites>
+<notes>Intended for advanced undergraduates who have taken MCB 60, or MCB 52 and MCB 54.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6734be0a1ad0e146df11fe7c1cd25df4">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Mango</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

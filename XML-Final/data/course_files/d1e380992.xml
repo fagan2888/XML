@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9667" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>173</num_int>
+</course_number>
+<title>Comparative Biomechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Andrew A. Biewener and Stacey A. Combes</faculty_text>
+<description>An exploration of how animals and plants contend with their physical environment, considering their biomaterial properties, structural form, and mechanical interaction with the environment. Through lectures, seminar discussions, and student presentations based on readings, students are introduced to topics related to biomechanical performance.</description>
+<prerequisites>Mathematics 1b, Physical Science 2 or Physics 11a; Mathematics 21a recommended, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F588b00606ca7b0a41b749289ae53dc96">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>A</middle>
+<last>Biewener</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F48ef78e52215b4eb444897ac7a8ca1cc">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>A.</middle>
+<last>Combes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

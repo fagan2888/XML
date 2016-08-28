@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25887" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Human Brain in Health and Disease: A Neurologist's Perspective</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 7-9 p.m.</meeting_text>
+<faculty_text>Thomas N. Byrne</faculty_text>
+<description>Brain function serves as the basis for how we make rational and irrational decisions, learn to read or not (dyslexia), learn and remember or not (amnesia), empathize and understand the perspective of another or not (autism). The mind is shaped by the interaction of the brain and environment. Our understanding of the brain enables us to attempt to modify the environment to enhance the mind. This course will look at these issues in individuals with normal brain function and those with neurological disorders.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7df4ade3db304ed2488c81e4014de803">
+<name>
+<prefix>Dr</prefix>
+<first>Thomas</first>
+<middle>N.</middle>
+<last>Byrne</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

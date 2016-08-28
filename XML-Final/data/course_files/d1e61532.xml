@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45856" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>173</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Performance Elective: Acting and Authenticity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>David Levine</faculty_text>
+<description>This is a text- and studio-based seminar that explores the realist idea of 'acting' alongside philosophical, psychological, and scientific notions of authenticity and falsehood, presence, mimesis, and empathy. What does it mean to turn into someone else? How total is the transformation? And what are the implications for our understanding of the individual? Various texts, from the acting primers of Stanislavski and Strasberg, to works of literary criticism, natural science, cognitive psychology, and philosophy of mind will be considered.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

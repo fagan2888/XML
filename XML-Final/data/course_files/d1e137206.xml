@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71979" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>211</num_int>
+</course_number>
+<title>Microphysiological Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Kevin K. Parker</faculty_text>
+<description>A sophisticated perspective on the design, construction, and testing of model physiological systems recapitulated with tissue engineering and lab on a chip technologies. Topics include organ and multiorgan physiology and pathophysiology; in vitro disease models; and design tools and fabrication techniques for lab on a chip technologies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5a2d2f2edc89ca42aab0e874e9ee592b">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Kit</middle>
+<last>Parker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

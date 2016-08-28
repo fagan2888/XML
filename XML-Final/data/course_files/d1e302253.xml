@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83871" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>304</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Drug Development: From Concept to Commercialization</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This course is intended to provide graduate students with exposure to the diverse aspects of the drug development process. The novel cystic fibrosis drug Kalydeco will be used as an exemplar, though the themes of discovery, development, manufacturing, business development, commercialization, and growth are relevant across most therapeutics. Each class will include a lecture by a person involved in that particular aspect of Kalydeco development followed by a group discussion of the associated case study.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F2dc15ac0e1f987072f946555f3bbcd0e">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle/>
+<last>Goldberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

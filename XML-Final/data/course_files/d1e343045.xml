@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43947" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Brain Invaders: Building and Breaking Barriers in the Nervous System</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Laura M. Magnotti</faculty_text>
+<description>The brain has evolved a unique but very effective system to protect itself from invaders. In this course, we will explore the specific defenses that the nervous system uses to protect itself. We will also examine how some pathogens evade or breach those defenses and the impact of those invasions. Finally, we will explore how scientists have been able to translate their understanding of these pathogenic mechanisms into technologies for research and therapeutic applications.</description>
+<prerequisites>LPS A or LS1a and either MCB 80 or MCB 60 or MCB 54</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

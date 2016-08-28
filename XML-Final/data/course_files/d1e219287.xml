@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1566" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2285</num_int>
+</course_number>
+<title>Political Science and China</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Elizabeth J. Perry</faculty_text>
+<description>This graduate seminar gives students control over the secondary literature on Chinese politics, with special attention to competing theoretical and methodological approaches.</description>
+<prerequisites/>
+<notes>Requires background in contemporary Chinese history/politics.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8ee5934e4ffbdaaa97bcdb7c3df9e87a">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>J.</middle>
+<last>Perry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

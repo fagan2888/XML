@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60945" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2062</num_int>
+</course_number>
+<title>Religions of Latin America</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>David L. Carrasco (Divinity School and FAS)</faculty_text>
+<description>Examines the history of religions in Latin America including pre-Hispanic, colonial and contemporary mythologies, ritual practices and symbols integrating archaeological, artistic, documentary, and ethnographic source materials. Topics to be investigated include cosmology and worldview, ritual violence and sacred landscapes, saints and shamanism, miracles and religious healing, indigenous ancestor worship and African diasporic devotions, goddesses and women's roles, liberation theology and Latino/a religious themes.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3705.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3c83ccd0120f2715a22ecff5ee871f82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Carrasco</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

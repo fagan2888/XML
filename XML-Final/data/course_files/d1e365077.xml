@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42458" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="HEBREW">Hebrew</course_group>
+<course_number>
+<num_int>226</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Seminar in Jewish Studies</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Shaye J.D. Cohen</faculty_text>
+<description>An overview of the methods, questions, and controversies in the field of Jewish Studies over the last two centuries.</description>
+<prerequisites>Facility in reading rabbinic Hebrew. Permission of the instructor required for all students.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff54a769ee52d727e0cfd4c1fb2382246">
+<name>
+<prefix/>
+<first>Shaye</first>
+<middle>J.D.</middle>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

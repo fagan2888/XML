@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89352" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1329</num_int>
+</course_number>
+<title>Sex, Love and War: The Evolution of Human Behavior</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11:30-1</meeting_text>
+<faculty_text>Richard W. Wrangham and Katherine J. Hinde</faculty_text>
+<description>This introductory course is designed to familiarize students with the behavioral ecology of humans from an evolutionary perspective, including evolutionary psychology and dual inheritance theory. We will survey behavioral diversity and consistency across human societies, and we will gain insights into the adaptive significance of human behavior and social organization by reference to social dynamics in other species. Topics to be covered include cooperation, aggression and warfare, dominance and hierarchy, mating and pair-bonds, parenting, social learning, culture and religion.</description>
+<prerequisites/>
+<notes>This course is most relevant for freshman and sophomores who have not yet declared a concentration in Human Evolutionary Biology, or for HEB concentrators who have not taken courses in the evolution of behavior.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd6b54ba52768230b1bc2d35125b69fe2">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>W.</middle>
+<last>Wrangham</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fef4edb25fa7cda3c8bc84fc4aa77a0d0">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>Jane</middle>
+<last>Hinde</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="102 (Haller Hall)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

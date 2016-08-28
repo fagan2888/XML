@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77158" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>189</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Chamber Music Performance</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: Tu., W., 7-10 p.m.</meeting_text>
+<faculty_text>Jessica E. Bodner, Daniel T. Chong, Kee-Hyun Kim, and Ying Xue</faculty_text>
+<description>Through auditions, students will be divided into chamber music ensembles by the Parker Quartet and have weekly coachings with members of the Parker Quartet and Heng-Jin Park of the Boston Trio. Students will be expected to rehearse between each coaching and to participate in chamber music studio classes throughout the semester, which will be led by the Parker Quartet. Auditions will be held in the first week of the semester, either in conjunction with HRO auditions or on a separate non-HRO audition day. Students who do not meet the requirements below may take the course for SAT/UNSAT credit. Pre-formed ensembles are encouraged and will be accommodated as much as possible.Note: This course is only offered for a letter grade when students are involved in one or more of the following: music concentrator, enrolled in a music department course in the same semester, a member of a faculty-led ensemble. Students intending to enroll in both the HRO and Music 189, auditions are held Sunday, August 31 and Monday, September 1 and Wednesday, September 3. Students interested in enrolling only in Music 189, auditions will be held Tuesday, September 2, 5:00 pm - 9:00 pm.</description>
+<prerequisites/>
+<notes>This course is only offered for a letter grade when students are involved in one or more of the following: music concentrator, enrolled in a music department course in the same semester, a member of a faculty-led ensemble. Pre-formed ensembles are encouraged and will be accommodated as much as possible.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F78003989e4fed6ea8493b9c9f4b06cef">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>E.</middle>
+<last>Bodner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F31601f50d261d3ce9bcd354fa82175da">
+<name>
+<prefix/>
+<first>Ying</first>
+<middle/>
+<last>Xue</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc27cb40f271a686ff97e466a645444da">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>T.</middle>
+<last>Chong</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe52c03fec92c6815901eb31d390cebe8">
+<name>
+<prefix/>
+<first>Kee-Hyun</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F78003989e4fed6ea8493b9c9f4b06cef">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>E.</middle>
+<last>Bodner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F31601f50d261d3ce9bcd354fa82175da">
+<name>
+<prefix/>
+<first>Ying</first>
+<middle/>
+<last>Xue</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc27cb40f271a686ff97e466a645444da">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>T.</middle>
+<last>Chong</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe52c03fec92c6815901eb31d390cebe8">
+<name>
+<prefix/>
+<first>Kee-Hyun</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Music Building" room="6" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4679" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2553</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Behavioral Insights Group Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Francesca Gino (Business School) and Todd T. Rogers (Kennedy School) (Kennedy School)</faculty_text>
+<description>This seminar provides lab experience in behavioral approaches to decision making and negotiation.</description>
+<prerequisites/>
+<notes>Open to students working on research in the instructors' laboratories. Offered jointly with the Business School as 4425.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0d309207119adc8cb428cc3b24a64fe8">
+<name>
+<prefix/>
+<first>Francesca</first>
+<middle/>
+<last>Gino</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fdb45f384b44063321ab9ffcad4df6891">
+<name>
+<prefix/>
+<first>Todd</first>
+<middle>T.</middle>
+<last>Rogers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0d309207119adc8cb428cc3b24a64fe8">
+<name>
+<prefix/>
+<first>Francesca</first>
+<middle/>
+<last>Gino</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fdb45f384b44063321ab9ffcad4df6891">
+<name>
+<prefix/>
+<first>Todd</first>
+<middle>T.</middle>
+<last>Rogers</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

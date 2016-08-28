@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85798" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>253</num_int>
+</course_number>
+<title>Literature, Art and Exile</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym</faculty_text>
+<description>Does exile enable or stifle artistic creativity? How does the experience of exile shape the attitude towards local and global culture? The course examines forms of diasporic conscience in literature and visual arts focusing on the issues of estrangement and nostalgia, comparative modernities and exilic devices, nationalism and cosmopolitanism, immigrant aesthetic and conceptions of freedom. Special topic include America through the eyes of exile, text and image in the writing of the diaspora, reconsideration of the critical theory from the perspective of exile. Works by Nabokov, Brodsky, Cortazar, Borges, Arendt, Pamuk, Rushdie, Kis, Kafka.</description>
+<prerequisites/>
+<notes>All texts are available in English but reading in the original languages is encouraged.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

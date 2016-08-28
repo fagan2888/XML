@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87839" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>Immigration Economics</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 10-12</meeting_text>
+<faculty_text>George J. Borjas (Kennedy School)</faculty_text>
+<description>There has been a resurgence of large-scale international migration in the past few decades. This course explores the economic determinants and consequences of these population flows. Specific topics include the study of how immigrants are non-randomly selected from the population of the countries of origin, the measurement and implications of economic assimilation in the receiving country, the impact of the flows on the labor markets of both receiving and sending countries, and the calculation of the economic benefits from immigration.</description>
+<prerequisites>Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prerequisites>
+<notes>A research paper will be required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F87f96805401210b11d8d4f0bc2b2cf68">
+<name>
+<prefix/>
+<first>George</first>
+<middle>J.</middle>
+<last>Borjas</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Lowell Lecture Hall" room="B14" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

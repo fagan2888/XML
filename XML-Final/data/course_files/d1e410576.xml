@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88479" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>To Categorize is Human: How Linguistic, Social, and Perceptual Categories Shape our Experience of the World</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Mahzarin R. Banaji members of the Department</faculty_text>
+<description>How do you draw the line between bluish green and greenish blue? A coat and a jacket? Your own race and another race? How can people judge baseball pitches or facial emotions in fractions of a second? How do we boil down complex mixes of emotional information to make binary decisions, like whether to go on a second date? We face a world full of subtle gradations, but effortlessly place people and things into discrete categories. This course will explore how these categories form, as well as the consequences that arise from the ways we categorize objects, people, and ideas.</description>
+<prerequisites>SLS-20 and one from PSY 14, PSY 15, SLS-15, or PSY 18.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

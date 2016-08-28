@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3023" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>97</num_int>
+</course_number>
+<title>Tutorial - Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-3:30, and tutorial sections to be arranged.</meeting_text>
+<faculty_text>Nancy Lipton Rosenblum and Stephen Daniel Ansolabehere</faculty_text>
+<description>This one-semester course is designed to provide all Government Department concentrators with a unified and challenging intellectual experience in the study of politics. The course covers a selection of topics on the theme of "Democracy" and draws on materials ranging from classics in political theory to cutting edge research in the discipline today.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F95d4991b1e61282180682ac2aab7f52e">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle>L.</middle>
+<last>Rosenblum</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Feaf85013fcd34b027638a1a32dd83502">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>Daniel</middle>
+<last>Ansolabehere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

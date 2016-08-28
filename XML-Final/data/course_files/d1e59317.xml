@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2332" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>184</num_int>
+</course_number>
+<title>Imagining the City: Literature, Film, and the Arts</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Svetlana Boym and Giuliana Bruno</faculty_text>
+<description>How do visual representation and narrative figuration contribute to construct urban identity? Explores the urban imagination in different artforms: architecture, cinema, literature, photography, and painting. Topics to be mapped out include: cities and modernity, metrophilia and metrophobia, the museum and cultural archaeology, the ruin and the construction site, interior space and public sphere, technology and virtual cities. We will focus on the European city, as we travel through Paris, Berlin, St. Petersburg, Moscow, Naples, and Rome</description>
+<prerequisites/>
+<notes>Students who have taken VES 184 previously may not take this course for credit. Cannot be taken concurrently with VES 184. Offered jointly with the Graduate School of Design as 4353.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F895b4c00348936263bc709cf04132356">
+<name>
+<prefix/>
+<first>Svetlana</first>
+<middle/>
+<last>Boym</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+</requirements>
+</course></courses>

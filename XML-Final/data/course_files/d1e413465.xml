@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32286" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1504</num_int>
+</course_number>
+<title>Social Cognition: Making Sense of our Social World</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 4-5:30</meeting_text>
+<faculty_text>Katherine E. Powers</faculty_text>
+<description>As a social species, a significant proportion of our everyday thoughts are devoted to social cognition - thinking about other people and comprehending what they are thinking about us. In this course we will merge theories from social and cognitive psychology to examine how people make sense of each other, social groups, and the surrounding social world. Throughout the course, we will draw on neuroscientific findings to uncover the neural basis of these abilities, as well as examine deficits in these social skills in autism and related disorders.</description>
+<prerequisites>SLS-20 and one from PSY 14, PSY 15, PSY 18, or SLS-15.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3249b34decf98e3ac6f165bf48c16d0e">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>E</middle>
+<last>Powers</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1730"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B105" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

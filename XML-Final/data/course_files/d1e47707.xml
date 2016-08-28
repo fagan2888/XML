@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49486" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Small Molecules and Biological Processes</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Matthew D. Shair</faculty_text>
+<description>Small molecules are extraordinarily useful tools to investigate biological processes, perturb cell states and treat human diseases. They are complementary to many biological techniques (e.g. expression of mutant proteins, RNAi, genome editing and antibodies) in that they are fast-acting, typically cell permeable, easily reversible, and they can engage multiple targets simultaneously. In this course, we will discuss how these useful small molecules are discovered, how they have revealed deep insights into biological processes, and how they are employed as therapeutics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa5ac356b0c5cb0c617ff15308b6cf533">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Shair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21129" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>39</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Fear and Wonder: Natural and Unnatural Experience of the Sublime</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Christina Lynne Svendsen</faculty_text>
+<description>This seminar explores extreme states of mind: the feeling of fear and wonder that philosophers call the sublime. Sublime experiences are so intense that they overwhelm our senses and our ability to express ourselves, jamming the system. The rediscovery of the sublime in the late eighteenth century coincided with a cultural shift from viewing the Alps as a site of fear to a place of awe and beauty, a shift reflected in Romantic art and literature. It reappears in modernism, in forms that range from Gothic fiction to the technological sublime of skyscrapers, the Wild West, and novels on the "posthuman" sublime of life after ecological catastrophe.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5504ecbb51a15fe8f191f3f18c801140">
+<name>
+<prefix/>
+<first>Christina</first>
+<middle>Lynne</middle>
+<last>Svendsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="106" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

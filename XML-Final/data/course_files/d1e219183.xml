@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6876" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2213</num_int>
+</course_number>
+<title>Comparative Politics of Post-Socialism</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Timothy J. Colton and Grzegorz Ekiert</faculty_text>
+<description>A research seminar designed to define an agenda for the comparative analysis of political developments among post-socialist systems. Emphasis placed on the formation of research proposals, methods of analysis, theory-building, and the presentation of comparative empirical research.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc1e9ffa46ec3d5e5fce6129d8ae4b4c1">
+<name>
+<prefix/>
+<first>Timothy</first>
+<middle>J.</middle>
+<last>Colton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1260381ab8f1370a05d0aad607c56ac9">
+<name>
+<prefix/>
+<first>Grzegorz</first>
+<middle/>
+<last>Ekiert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

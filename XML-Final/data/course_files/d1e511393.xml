@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49495" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>291</num_int>
+</course_number>
+<title>The 1960s and the End(s) of French Cinema</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Wednesdays 2-4 and a mandatory weekly film screening Tuesdays 7-9.</meeting_text>
+<faculty_text>Thomas F. McDonough</faculty_text>
+<description>The 1960s are typically seen as a decade when French film flourished, renewed by the youthful energies of the Nouvelle Vague, but for experimental filmmakers and theorists like Guy Debord, Jean-Luc Godard, Chris Marker, or Jean Rouch, it was a period of radical questioning and critique of the medium. This seminar traces an alternate history of postwar French film, focusing on issues of experimental documentary, militant film, and radical theorizations of film and media.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc02d1dee47917ca8527c1a4fd648041e">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>F</middle>
+<last>McDonough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="402" type="Seminar"/>
+<location term="1" building="Carpenter Center" room="Main Lecture Hall" type="Film Screening"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

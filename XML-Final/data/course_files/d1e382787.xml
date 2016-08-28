@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2075" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>251</num_int>
+</course_number>
+<title>Introduction to Vertebrate Surgery</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 1-3, and a weekly lab, W., 3-6</meeting_text>
+<faculty_text>Arthur L. Lage (Medical School)</faculty_text>
+<description>Teaches the basic principles of aseptic surgery with emphasis on practicality. Students learn basic "open" surgery as well as newer high-tech videoscopic minimally invasive technique, obtaining hands-on experience in scrubbing, gowning, and sterile technique while serving as anesthetist and surgeon.</description>
+<prerequisites>Comparative anatomy, Life Sciences 2 (or OEB 102), or equivalent course.</prerequisites>
+<notes>Intended for the student interested in the application of surgical technique in higher studies in biology and related disciplines.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe8d74de962868469d5b69336e42fc8c7">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle>L.</middle>
+<last>Lage</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

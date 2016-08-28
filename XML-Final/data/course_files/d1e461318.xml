@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="700" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>103</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Advanced Hindi-Urdu</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 8:30-10; W., 2-4</meeting_text>
+<faculty_text>Amy Bard</faculty_text>
+<description>Continuation of Hindi-Urdu 102; covers topics in advanced grammar; designed to improve proficiency in speaking, listening, reading, and writing.</description>
+<prerequisites>Hindi-Urdu 102 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F896d9c98bb849a3a2ffaa734db4fc68f">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Bard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="830" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

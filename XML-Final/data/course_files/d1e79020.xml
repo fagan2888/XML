@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="327" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Writing Asian Poetry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>David McCann</faculty_text>
+<description>The Japanese haiku is well known, widely published, written about, a part of most school curricula in the United States. The Korean sijo is less known, but stands as a compelling contrast on its own terms and as a verse form in English. The workshop will be reading examples of haiku and sijo, translations as well as poems written and published in English, then writing and comparing the forms. Participants will assemble portfolios of their own original work, with commentary and notes. We will also identify potential magazine, online or other literary journals, prepare and submit selections.</description>
+<prerequisites/>
+<notes>No Asian language knowledge is required; all writing will be in English.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F78ae516650022f771df1c70ef8d9fe54">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>McCann</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

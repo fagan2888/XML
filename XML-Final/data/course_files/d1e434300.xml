@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33387" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Civic Humanities</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 11-12:30</meeting_text>
+<faculty_text>Doris Sommer and Francesco Erspamer</faculty_text>
+<description>An introduction to a developing field, Civic Humanities explores the arts and humanistic interpretation through a centuries-long tradition of civic engagement. Here the humanities are a site for promoting innovation and skills for active citizenship. Democracy and aesthetic judgment developed together to project citizens as co-artists of social constructions. Readings in this tradition of enlightened aesthetics include Kant, Schiller, Dewey, Freire, Gramsci, Ranciere, Mockus, Boal, Kester, Elster, Florida, Nussbaum, and Pasolini. Guest lectures by doctors, lawyers, political leaders, business experts, and public artists will develop specific areas of innovation and represent potential mentors for students as they design original projects.</description>
+<prerequisites/>
+<notes>Conducted in English. Students are required to attend the lectures of Aesthetics and Interpretive Understanding 13 (Cultural Agents).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F43880627106323a37fd8ba24568bbd62">
+<name>
+<prefix/>
+<first>Doris</first>
+<middle/>
+<last>Sommer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1ccecedec3ba08bc6d016e4307228857">
+<name>
+<prefix/>
+<first>Francesco</first>
+<middle/>
+<last>Erspamer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

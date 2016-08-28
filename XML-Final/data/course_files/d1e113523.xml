@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5737" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>282</num_int>
+</course_number>
+<title>Solids: Structure and Defects</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 8:30-10</meeting_text>
+<faculty_text>Frans A. Spaepen</faculty_text>
+<description>Bonding, crystallography, diffraction, phase diagrams, microstructure, point defects, dislocations, and grain boundaries.</description>
+<prerequisites/>
+<notes>Intended for students in applied mechanics, materials science, condensed matter physics, and chemistry.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93a60891ae814df3ce94a03459f3d6fa">
+<name>
+<prefix/>
+<first>Frans</first>
+<middle>A.</middle>
+<last>Spaepen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="830" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="830" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

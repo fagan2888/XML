@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95148" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="YIDDISH">Yiddish</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Three Centers of Yiddish Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2&amp;#8211;4, plus a section to be arranged.</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>In 1926, the Yiddish novelist Dovid Bergelson announced the "three centers" of Yiddish literature and culture: New York, Warsaw and Moscow. Using Bergelson's essay as a window on Yiddish modernism, this class looks at the relationship between language, city, and state. We will ask, what distinguished Yiddish culture in one place from another? Did writers see themselves at home or in exile? How did politics affect the Yiddish writer? And what should we make of the other Yiddish centers, Vilna, Kiev, even Berlin?</description>
+<prerequisites/>
+<notes>This class is intended for students with a reading knowledge of Yiddish, though all texts will be available in English translation. Class discussion will be in English. There will be an extra section for Yiddish readers.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

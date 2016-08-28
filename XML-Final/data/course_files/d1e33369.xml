@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7509" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="BIPH">
+<dept_long_name>Committee on Higher Degrees in Biophysics</dept_long_name>
+<dept_short_name>Biophysics</dept_short_name>
+</department>
+<course_group code="BIOPHYS">Biophysics</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Introduction to Laboratory Research</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Introductory lectures by associated Biophysics faculty members. Lectures Fall semester only accompanied by three periods of instruction in laboratories of structural biology, cell and membrane biophysics, molecular genetics and development, neurobiology, bioinformatics, and physical biochemistry.</description>
+<prerequisites/>
+<notes>Fall semester only: meets on both the Cambridge and HMS campuses. Contact department Admin for fall course schedule.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F183eb249cd42ea6ad7401fd470ba28fd">
+<name>
+<prefix/>
+<first>James</first>
+<middle>M.</middle>
+<last>Hogle</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F183eb249cd42ea6ad7401fd470ba28fd">
+<name>
+<prefix/>
+<first>James</first>
+<middle>M.</middle>
+<last>Hogle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1630" end_time="1730"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1630" end_time="1730"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1630" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1630" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1630" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1630" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

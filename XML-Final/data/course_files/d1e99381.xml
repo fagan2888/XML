@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23513" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2150</num_int>
+</course_number>
+<title>Big Data</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 1-4</meeting_text>
+<faculty_text>Sendhil Mullainathan</faculty_text>
+<description>Innovations in machine learning ('big data') have created many engineering breakthroughs from real time voice recognition to automatic categorization (and in some cases production) of news stories. Since these techniques are at their essence novel ways to work with data, they should also have implications for social science. This course explores the intersection of machine learning and social science and aims to answer a few questions about these new techniques: (i) How do they work and what kinds of statistical guarantees can be made about their performance? (ii) How can they be used to answer questions that interest social science researchers, such as testing theories or improving social policy; and (iii) How might they open up new research questions? We will cover standard machine learning techniques such as supervised and unsupervised learning, statistical learning theory and nonparametric and Bayesian approaches. The goal is to create a working understanding of when and how they can be profitably applied. Students will be required to apply some of these techniques themselves, but we will not cover the computational aspects of the underlying methods. The course is aimed at PhD students with a solid background in statistical techniques, such as comes from the equivalent of a first year economics PhD econometrics sequence.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f0d679c0b35b05a12f4c718a8dba9c9">
+<name>
+<prefix/>
+<first>Sendhil</first>
+<middle/>
+<last>Mullainathan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

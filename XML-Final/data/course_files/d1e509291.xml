@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25495" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>173</num_int>
+</course_number>
+<title>Visual Music</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11:30&amp;#8211;1 and a weekly film screening W., 1&amp;#8211;3</meeting_text>
+<faculty_text>Laura A. Frahm</faculty_text>
+<description>A new course that explores the history of visual music throughout the 20th century and across different media. Our topics will range from early avant-garde films and Disney ani-mations to post-war art scenes and pioneers of electronic music to a survey of jukebox films and music videos. By bridging the gap between experimental and popular approaches to visual music, this course will provide a multi-layered history of the inter-relations between film, video, animation, and music.</description>
+<prerequisites/>
+<notes>This course has an additional weekly film screening Wednesday, 1-3 pm.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7ee315cd84690f3848f0513bb2565bb9">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>A.</middle>
+<last>Frahm</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

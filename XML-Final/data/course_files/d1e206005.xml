@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71081" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>Thomas Mann: Stories of Six Decades</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Peter J. Burgard</faculty_text>
+<description>Addresses Mann's short stories and novellas (in translation) individually and as a body of work, as well as in their various literary, cultural, intellectual, and historical contexts. Texts: "Death in Venice," "Tonio Kroger," "Tristan," "Disillusionment," "Little Herr Friedemann," "Gladius Dei," "The Blood of the Walsungs," "Disorder and Early Sorrow," "Mario and the Magician," among others. Term papers may address stories discussed in class or one of Mann's novels (e.g. Buddenbrooks, The Magic Mountain, Doctor Faustus).</description>
+<prerequisites/>
+<notes>No knowledge of German required. All readings and discussions in English. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd5da5e35720279c6f118465599d4e59">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>J.</middle>
+<last>Burgard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

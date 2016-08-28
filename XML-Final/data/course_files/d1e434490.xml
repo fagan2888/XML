@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21805" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Fragments of a Material History of Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Jeffrey Schnapp</faculty_text>
+<description>Literary studies examined from the perspective of the practices that have shaped ideas concerning literature, writing, speech, and communication: from scrolls and codices to the rise of printing and typewriting to digital writing.</description>
+<prerequisites/>
+<notes>Conducted in English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd1b8a5cf9abfd7e2ad72de32a2b00284">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Schnapp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

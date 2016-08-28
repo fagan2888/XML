@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20985" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2951</num_int>
+</course_number>
+<title>The Environmental Turn in History: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Ian J. Miller</faculty_text>
+<description>A critical exploration of history's "environmental turn." This course tracks the movement of environmental themes to the center of the discipline and the emergence of environmental history as an important new subfield. Readings will range from classics to cutting-edge new work.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a26ce1518f6308b400349875c90cb15">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>Jared</middle>
+<last>Miller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

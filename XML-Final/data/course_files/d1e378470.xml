@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5281" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>Plants and Human Affairs</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Charles C. Davis</faculty_text>
+<description>An introduction to the uses of plants by humans. Topics include the form, structure and genetics of plants related to their use as sources of food, shelter, fiber, flavors, beverages, drugs, and medicines. Plant structure and reproduction are studied in lecture and laboratory with a particular focus on relationships between the plant's structural, chemical, or physiological attributes and the utility plant.</description>
+<prerequisites>OEB 10 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F55e827dc1724c8b7d5c2a3f17c2fb816">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Davis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B101" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+</requirements>
+</course></courses>

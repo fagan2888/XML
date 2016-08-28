@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5394" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>140</num_int>
+</course_number>
+<title>Introduction to the Physics of Living Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Aravinthan D. T. Samuel</faculty_text>
+<description>We will discuss how theoretical and experimental tools derived from physics - e.g., statistical mechanics, fluid mechanics - have been used to gain insight into molecular and cellular biology including the structure and regulation of DNA, genomes, proteins, the cytoskeleton, and the cell. Students will gain an intensive introduction to biological systems, as well as physical and mathematical modeling.</description>
+<prerequisites>Physics 15a,b,c.</prerequisites>
+<notes>Given in alternate years. Lectures, problem sets, discussions. May not be taken for credit by students who have taken MCB 140.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbe1481325f212cb3851d6aaef157a5f5">
+<name>
+<prefix/>
+<first>Aravinthan</first>
+<middle/>
+<last>Samuel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="256" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

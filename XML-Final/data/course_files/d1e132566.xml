@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8461" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>96</num_int>
+</course_number>
+<title>Engineering Problem Solving and Design Project</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., W., 9&amp;#8211;11; Spring: Section 1: M., W., 12&amp;#8211;2; Section 2: Tu., Th., 1&amp;#8211;3</meeting_text>
+<faculty_text>Robert D. Howe (fall term), Kevin K. Parker (spring term), James G. Anderson and Karena A. McKinney (spring term)</faculty_text>
+<description>Semester-long team project that provides engineering experience working with clients on real-world problems. Projects provide exposure to problem definition, performance measurement, quantitative analysis, modeling, generation of creative solutions, engineering design trade-offs, and documentation/communication skills. Ordinarily taken in the junior year.</description>
+<prerequisites/>
+<notes>Preference given to SB candidates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5f8598b0937e71ec7db23b85e368c02a">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>D.</middle>
+<last>Howe</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5a2d2f2edc89ca42aab0e874e9ee592b">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Kit</middle>
+<last>Parker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0bbe53f12b1298572b2dc5a425263ece">
+<name>
+<prefix/>
+<first>Karena</first>
+<middle>A.</middle>
+<last>McKinney</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5f54e8708840989bc525ae860c6bd6a8">
+<name>
+<prefix/>
+<first>James</first>
+<middle>G.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="119" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

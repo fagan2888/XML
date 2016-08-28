@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96774" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>61</num_int>
+</course_number>
+<title>Performing Arts in The Portuguese-Speaking World</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Stephen Bocskay</faculty_text>
+<description>Through plays, visual media, poetry, songs, and other cultural creations, this course discusses historic and cultural connections between Portuguese-speaking countries (Angola, Brazil, Cape Verde, East Timor, Guinea-Bissau, Mozambique, Portugal, and Sao Tome and Principe). The course uses the performing arts as a point of departure for cultural and linguistic development, having class discussions and student presentations as a basis for journal entries, essay writing, and performance. Grammar review and stylistic analysis are integrated with activities and projects throughout the course.</description>
+<prerequisites>Portuguese 30, 37, 40, or 44; a score of 100 on the Harvard Placement Test; or permission of course head.</prerequisites>
+<notes>Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b868dfdfa79a1dc4d7237bd0c7a8416">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Bocskay</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37977" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GLOBHLTH">
+<dept_long_name>Standing Committee on Global Health and Health Policy</dept_long_name>
+<dept_short_name>Global Health and Health Policy</dept_short_name>
+</department>
+<course_group code="GHHP">Global Health and Health Policy</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David M. Cutler (Public Health) and members of the Department</faculty_text>
+<description>Supervised reading leading to a long term paper on a topic or topics not covered by regular courses of instruction.</description>
+<prerequisites/>
+<notes>May not be taken Pass/Fail. To enroll in the course, a written proposal and signature of advisor and chair of GHHP Committee is required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbbd786b149e2008191ae8eb37a3e82ba">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cutler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbbd786b149e2008191ae8eb37a3e82ba">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cutler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9478" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>11</num_int>
+</course_number>
+<title>Molecules of Life</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jon Clardy (Harvard Medical School) and David R. Liu (Chemistry and Chemical Biology)</faculty_text>
+<description>Molecules form the basis of heredity, govern how our bodies develop, allow us to respond to changes in our environment, and carry our thoughts. This course explores the roles of molecules through case studies of our bodies' messengers, modern drugs, and the future of medicine. Examples include sexual development, metabolism, diabetes, nerve transmission, psychiatric disease, infectious disease, cancer, aging and stem cells. Students will connect to lecture material in discussion section through hands-on activities and role-playing scenarios.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F26276ae631e0d68e77799a2029fc1cfc">
+<name>
+<prefix>Dr.</prefix>
+<first>Jon</first>
+<middle/>
+<last>Clardy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F75f9dc705bb85bd261acae8170d82f5c">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Mallinckrodt" room="Pfizer Lecture Hall (MB23)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

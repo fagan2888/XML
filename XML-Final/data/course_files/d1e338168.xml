@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7124" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDST">
+<dept_long_name>Committee on Medieval Studies</dept_long_name>
+<dept_short_name>Medieval Studies</dept_short_name>
+</department>
+<course_group code="MEDVLSTD">Medieval Studies</course_group>
+<course_number>
+<num_int>202</num_int>
+</course_number>
+<title>Latin Palaeography and Manuscript Culture: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Beverly M. Kienzle (Divinity School)</faculty_text>
+<description>Introduction to Latin manuscripts and the historical and cultural context of their production and use. Opportunity to work with actual manuscripts and facsimiles, transcribe previously unedited texts, and discuss problems in textual criticism. Student presentations on research projects. All classes held in Houghton Library.</description>
+<prerequisites>Completion of an intermediate Latin course or the equivalent.</prerequisites>
+<notes>Taught in collaboration with William Stoneman, Curator of Early Books and Manuscripts, Houghton Library. Offered jointly with the Divinity School as 2223.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdaffb44b29d202d03254ddd606502f2f">
+<name>
+<prefix/>
+<first>Beverly</first>
+<middle/>
+<last>Kienzle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

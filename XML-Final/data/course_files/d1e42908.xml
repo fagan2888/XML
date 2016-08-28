@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77175" offered="N" next_year_offered="2017">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CELTIC">Celtic</course_group>
+<course_number>
+<num_int>109</num_int>
+</course_number>
+<title>The Finn Cycle</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course explores the `sprawling forest' of Gaelic literature from Ireland and Scotland surrounding Finn mac Cumaill (otherwise known as Finn MacCool). Finn is variously portrayed as a hunter-warrior-seer and is the leader of the intrepid fiana war-band. We survey this Fenian literature as it is presented to us by medieval and early modern Gaelic manuscript tradition. We also engage with the rich modern Fenian folklore of Scotland, Ireland and Nova Scotia. This includes the study of important texts such as Acallam na Senorach (`The Dialogue of the Ancients') and Toraigheacht Dhiarmada agus Ghrainne (`The Pursuit of Diarmait and Grainne'). We also consider the impact of this literature on the rest of Europe by examining the English-language-works published by James MacPherson in the 1760s and the ensuing Ossian controversy.</description>
+<prerequisites/>
+<notes>All readings in English translation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

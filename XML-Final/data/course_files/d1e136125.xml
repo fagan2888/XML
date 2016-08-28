@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15494" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>175</num_int>
+</course_number>
+<title>Photovoltaic Devices</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>The course will provide an overview of the solid state device physics and p-n junction operation necessary to understand the operation. Several different solar architectures will be discussed including crystalline and amorphous silicon, multijunction, CdTe, CIGS, organic, dye sensitized as well as additional related topics light management, building integrated devices, and policy and economic issues relating to adoption.</description>
+<prerequisites>Engineering Sciences 173 or equivalent, or permission from instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7cd5baed2828cda7ee8ada0421882526">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Joseph</middle>
+<last>Lombardo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

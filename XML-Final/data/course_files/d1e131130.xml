@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2969" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>6</num_int>
+</course_number>
+<title>Environmental Science and Technology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Scot T. Martin and Patrick D. Ulrich</faculty_text>
+<description>An introduction to the role of technology in the environmental sciences, with foci on energy and water topics. The basic scientific principles underlying human use and control of the environment are emphasized. The course includes several field trips.</description>
+<prerequisites>The course presumes basic knowledge in chemistry, physics, and mathematics at the high school level.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3127a1e60588003a06bbe3ee7f94b1bc">
+<name>
+<prefix/>
+<first>Scot</first>
+<middle>T.</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe5b2b7609ab6c7737d53f8e14a39503f">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>D</middle>
+<last>Ulrich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

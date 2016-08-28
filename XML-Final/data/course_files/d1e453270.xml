@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21618" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>105</num_int>
+</course_number>
+<title>Sports and Society</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Mary C. Waters</faculty_text>
+<description>This course will examine the institution of sports and how it is shaped by society. Is sports a level playing field and meritocracy where the best person or team wins? Or is sports a mirror of an unequal society where power and wealth shape social life? How do class, race and gender shape the sports we play and how we play them? We will consider sports and higher education in the U.S. and at Harvard. We will also look at youth sports, sports as a business, the media and sports, and sports and health. Students will do an in depth research project on the topic and will actively discuss readings in class each week.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8654db23f652f8ddd0548ef88e289f04">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>C.</middle>
+<last>Waters</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

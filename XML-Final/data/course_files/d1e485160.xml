@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78541" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLAS-STDY">Classical Studies</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>The Construction of Gender and Sexuality in Ancient Greece</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Naomi A. Weiss</faculty_text>
+<description>This course will explore ancient Greek ideologies of gender difference and sexuality, including the mythical "origins" of gender, legal definitions of marriage and adultery, the gendering of space, the portrayal of women on the tragic stage, gender-bending and cross-dressing in comedy, medical models of sex and childbirth, and the links between pederasty and pedagogy. With the help of some important modern discussions about the construction of gender, sexuality, and identity, we will try to assess the ways in which sexual practices and male and female identities were imagined, formed, reinforced, and institutionalized during the archaic and classical periods (roughly 800-300 BCE).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73b4e209ff195e0bac9cbaff549f27ee">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle>A</middle>
+<last>Weiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

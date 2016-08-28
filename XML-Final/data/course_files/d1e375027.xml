@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8331" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="YIDDISH">Yiddish</course_group>
+<course_number>
+<num_char>Ca</num_char>
+</course_number>
+<title>Advanced Yiddish I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Emphasis on building advanced vocabulary from the three main lexical components, Germanic, Hebrew-Aramaic, and Slavic, and further development of writing, reading, and speech. Continued exploration of the main Yiddish dialects. Introduction to various styles of Yiddish literature, journalism, theater, film, and song, particularly from the nineteenth century to the present, including contemporary sources from both secular Yiddish culture and the Yiddish-speaking "ultra-orthodox" communities of New York, Jerusalem, and elsewhere.</description>
+<prerequisites>Yiddish Bb or permission of the instructor.</prerequisites>
+<notes>Additional sections at different times may be added as needed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4691" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>216</num_int>
+</course_number>
+<title>Electromagnetic Interactions with Matter</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 10:30-12</meeting_text>
+<faculty_text>Jene A. Golovchenko</faculty_text>
+<description>This course will focus on how electromagnetic fields and matter interact. Deterministic, statistical, classical, and quantum mechanical considerations will be covered. The course will be useful for experimental and applied physics students in atomic, solid state, optical, chemical, and biophysics.</description>
+<prerequisites>An advanced undergraduate course at the level of Physics 153 is required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d751b7255396ca574ec1d41d79cf607">
+<name>
+<prefix/>
+<first>Jene</first>
+<middle>A.</middle>
+<last>Golovchenko</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1030" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1030" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

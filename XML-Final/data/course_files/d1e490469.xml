@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7682" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="MEDGREEK">Medieval Greek</course_group>
+<course_number>
+<num_int>115</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Introduction to Byzantine Greek</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Florin Leonte</faculty_text>
+<description>Introduces students to medieval Greek language and literature and, through selected readings, to important elements of Byzantine culture and society. Texts will be selected to provide a diachronic survey of a variety of literary genres, to reflect the diversity of Byzantine life and letters. Topics will include: biography/hagiography, historiography, sacred and secular poetry, letters, the novel, homilies and rhetorical texts. Choice of texts will correspond in part to the specific needs and interests of participants.</description>
+<prerequisites>Greek Ba or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a443f90a843b0a3860dbe09c25d5adb">
+<name>
+<prefix/>
+<first>Florin</first>
+<middle/>
+<last>Leonte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

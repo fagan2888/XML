@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1908" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1536</num_int>
+</course_number>
+<title>Theology, Religion, and Culture: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 12-2</meeting_text>
+<faculty_text>Francis Fiorenza (Divinity School)</faculty_text>
+<description>This course explores some of the recent literature on the relation between religion, theology, and culture. Specific attention will be given to issues of method, tradition, and the intersection of theology and culture, and the relation between faith and critical inquiry. Authors to be considered include: Niebuhr, Tanner, Geertz, Rorty, Stout, Benhabib, and Fraser.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2403.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2996850aad46273857ba447ccb886940">
+<name>
+<prefix/>
+<first>Francis</first>
+<middle>Schussler</middle>
+<last>Fiorenza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

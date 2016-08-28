@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64417" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1454</num_int>
+</course_number>
+<title>Neuroscience Fiction: An Introduction to Cutting Edge Neuroscience through the Lens of Film and Television</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th. 2-4:30 plus a one-hour section to be determined.</meeting_text>
+<faculty_text>George Angelo Alvarez</faculty_text>
+<description>Film and television shows often capture the cutting edge of science, and they sometimes even anticipate future scientific advances. We'll use examples from film and television as an introduction to several hot topics in the field of neuroscience, such as Mind Control, Mind Reading, Smart Pills, and Brain Machine Interfaces, which are all getting closer to reality. Will neuroscientists ever be able to control a person's thoughts, or to know what a person is thinking? Can taking a pill really awaken untapped brain power? Will you ever be able to drive a car without touching a steering wheel? In this course, we will cover the state of the art and the future of these exciting areas of neuroscience (and entertainment). Because these are not textbook topics, this is an advanced course that will focus on reading and discussing the primary literature.</description>
+<prerequisites>SLS-20 plus either PSY 14 or MCB 80 or permission of instructor..</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1630"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

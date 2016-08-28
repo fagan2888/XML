@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34715" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.156</num_char>
+</course_number>
+<title>Resistance</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Kelsey W. McNiff</faculty_text>
+<description>What constitutes an act of resistance? What role do individual beliefs, collective action, public protest, art and literature have in resistance movements? What can the study of resistance teach us about the past and about the world we live in today? This course will explore these questions through case studies drawn from contemporary politics and culture, the apartheid era in South Africa, and Harvard history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb3f1e176711ac6acc2566ece5ff622cf">
+<name>
+<prefix/>
+<first>Kelsey</first>
+<middle>Williams</middle>
+<last>McNiff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

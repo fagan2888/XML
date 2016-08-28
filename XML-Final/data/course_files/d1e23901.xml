@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5029" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2876</num_int>
+</course_number>
+<title>New Ethnographies in the Anthropology of Social Experience and Moral Life</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Arthur Kleinman</faculty_text>
+<description>New ethnographies of social experience, moral life, and subjectivity are remaking theory and scholarship. Students in this course will critically examine studies of illness, violence, and cultural responses to other forms of human problems as well as to other human conditions. Our emphasis is on the methodology and style of writing experience-oriented ethnographies. We also examine studies of change in subjectivity and moral experience in times of social transformation, and the contribution they make to social theory, scholarship, and policy.</description>
+<prerequisites/>
+<notes>Open to advanced undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

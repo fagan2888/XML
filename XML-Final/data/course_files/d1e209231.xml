@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3405" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SWEDISH">Swedish</course_group>
+<course_number>
+<num_char>Bbr</num_char>
+</course_number>
+<title>Special Topics in Swedish Literature and Culture: "Migration till och fran Sverige"</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Maja Backvall</faculty_text>
+<description>In this fourth semester Swedish course, the theme is immigration and emigration from a Swedish perspective. We will be studying the Swedish emigration to America in the 19th century, both in fiction and through letters sent home to Sweden, the so-called amerikabrev. Modern day immigration will be discussed through recent authors who have written about their experiences moving to Sweden. We will also be following the political debate about immigration through reading news stories and opinion pieces.</description>
+<prerequisites>Swedish Ba or equivalent.</prerequisites>
+<notes>Conducted in Swedish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

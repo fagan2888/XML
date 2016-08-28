@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2014" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPAN">Japanese</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Elementary Japanese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Sections M., W., F., at 9, 10, or 1, and two additional hours to be arranged for Tu. and Th.</meeting_text>
+<faculty_text>Yuko Kageyama-Hunt</faculty_text>
+<description>This course aims to develop a basic foundation in modern Japanese leading to proficiency in the four language skills of speaking, listening, reading and writing. Emphasis is placed on the use of these skills to communicate effectively in authentic contexts of daily life. Mastery of hiragana, katakana, and approximately 45 Kanji (Chinese characters).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F614f087f324e2a3b7cb5a2b75887d423">
+<name>
+<prefix/>
+<first>Yuko</first>
+<middle/>
+<last>Kageyama-Hunt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B104" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B109" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B109" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B104" type="Lecture"/>
+<location term="1" building="Northwest Building" room="B104" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B104" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B104" type="Lecture"/>
+<location term="1" building="Northwest Building" room="B104" type="Lecture"/>
+<location term="1" building="Northwest Building" room="B109" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B104" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

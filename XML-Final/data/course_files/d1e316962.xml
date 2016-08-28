@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63006" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MICROBI">Microbiology</course_group>
+<course_number>
+<num_int>210</num_int>
+</course_number>
+<title>Microbial Sciences: Chemistry, Ecology, and Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>F., at 8:30, F., 9:45-11:45</meeting_text>
+<faculty_text>Michael S. Gilmore (Medical School)</faculty_text>
+<description>This is an interdisciplinary graduate-level and advanced undergraduate-level course in which students explore topics in molecular microbiology, microbial diversity, and microbially-mediated geochemistry in depth. This course will be taught by faculty from the Microbial Sciences Initiative. Topics include the origins of life, biogeochemical cycles, microbial diversity, and ecology.</description>
+<prerequisites>For advanced undergraduates, Life Sciences 1a and 1b are required, or permission of instructor. MCB 52 is recommended.</prerequisites>
+<notes>Also offered as Organismic and Evolutionary Biology 290.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9b0f85aadf048497f05c7a77025a6fb4">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle>S.</middle>
+<last>Gilmore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="945" end_time="1145"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="830" end_time="930"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74851" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>209</num_int>
+</course_number>
+<title>Science, Religion and Culture: Debates, Methods and Controversies</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Ahmed Ragab (Divinity School)</faculty_text>
+<description>Critical examination of different methods and theories in history and philosophy of science and STS (Science, Technology and Society studies) along with discussions of a number of tools in the study and history of culture and religion and how they can be utilized in the study of science and religion; away from the conflict/reconciliation paradigms and towards examining the perceived relations and exchanges of science and religion through analyzing paradigms, discourses, traditions and authorities. The course can serve as a methodological introduction to history and philosophy of science and STS. The course is a research workshop with a focus on training and professionalization and an emphasis on methods tools in academic writing and research. Students work on specific projects throughout the semester from topic selection, question formation, to research and writing to produce a piece of academic writing such as research papers, conference papers, articles, book reviews, prospectus, syllabi, etc.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3341.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23846" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2160</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory for Affective and Developmental Neuroscience</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: F., 11:30-1; Spring: Th., 2:30-4</meeting_text>
+<faculty_text>Leah Somerville</faculty_text>
+<description>Conduct research on emotion processing and/or adolescent socioemotional development, incorporating methods of cognitive neuroscience including functional brain imaging (fMRI). Read and discuss current issues in the fields of affective, cognitive, and developmental neuroscience.</description>
+<prerequisites>Science of Living Systems 20 or its prerequisites, and a foundational course.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0424c0799eff9f95a1857ef0f8989715">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle/>
+<last>Somerville</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0424c0799eff9f95a1857ef0f8989715">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle/>
+<last>Somerville</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="255" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

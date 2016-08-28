@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62448" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>69</num_int>
+</course_number>
+<title>Migrations: American Literature to 1865</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>27</enrollment_limit>
+<meeting_text>M., W., at 12</meeting_text>
+<faculty_text>Stephen G. Osadetz</faculty_text>
+<description>This course surveys American literature from the colonial period to the Civil War. We will read accounts of early contact, narratives of captivity and slavery, sermons, autobiographies, poems, and novels. Authors will include Winthrop, Rowlandson, Franklin, Douglass, Hawthorne, Melville, Stowe, Thoreau, Whitman, and Dickinson.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1916a7701def44fb26ab1e869d985973">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Osadetz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5459" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>181</num_int>
+</course_number>
+<title>Systematics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30; laboratory on Wednesdays with hours to be arranged.</meeting_text>
+<faculty_text>Gonzalo Giribet</faculty_text>
+<description>Theory and practice of systematics, emphasizing issues associated with homology statements and alignments, methods of tree reconstruction, and hypothesis evaluation. The course combines theoretical considerations, paying special attention to algorithmic aspects of phylogenetics, with the use of different computer programs for conducting evolutionary and phylogenetic analyses.</description>
+<prerequisites>OEB 53, LS1b or permission of instructor required. Familiarity with computers, especially PC platforms.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f5a1979a8f408aa6a46ef45510cd60e">
+<name>
+<prefix/>
+<first>Gonzalo</first>
+<middle/>
+<last>Giribet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

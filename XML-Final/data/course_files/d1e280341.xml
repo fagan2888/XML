@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45965" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>302</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular Movies: Introduction to 3D Visualization with Maya</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>8</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Introduction to advanced scientific visualization techniques using leading 3D software packages Maya and Molecular Maya. Focus will be placed on adapting existing 3D modeling/animation tools for purposes of visualizing biological processes.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F374e54e326b7b4e260eaaa185fa5502f">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cardozo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

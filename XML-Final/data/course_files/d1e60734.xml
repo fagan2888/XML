@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8160" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Directing</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>9</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Marcus Stern</faculty_text>
+<description>A directing class for directors interested in theater, television and film, as well as for actors, dramaturgs, and designers investigating all aspects of theater. The class accommodates beginning to advanced levels of work. Students may bring in video or film scenes as part of the class work. Through constant scene work the course examines the directorial tools of text analysis, staging, design, and working with actors. The focus is on how to tell a story clearly and effectively.</description>
+<prerequisites/>
+<notes>Enrollment determined by short interviews to be conducted on the first day of class.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F87f9af28d7055d155f148d8f9750559a">
+<name>
+<prefix/>
+<first>Marcus</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

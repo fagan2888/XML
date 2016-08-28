@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2338" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>27</num_int>
+</course_number>
+<title>Among the Nations: Jewish History in Pagan, Christian and Muslim Context</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Jay M. Harris (Near Eastern Languages and Civilizations)</faculty_text>
+<description>Can we trace an "authentic" Jewish identity through history, as distinct from many "cultures" of Jews in the multitude of times and places in which they have lived? This course provides an overview of major trends in Jewish civilization from biblical times through the early modern era (to approximately the 17th century), with this and related questions in mind, by engaging in close readings of traditional Jewish sources on the one hand and seeking contextual understandings of Jews and Judaism within various non-Jewish settings on the other.</description>
+<prerequisites/>
+<notes>Required of all secondary concentrators in Jewish Studies, unless excused by the DUS. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1c42029af5532b00dc4de72f64384753">
+<name>
+<prefix/>
+<first>Jay</first>
+<middle>M.</middle>
+<last>Harris</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

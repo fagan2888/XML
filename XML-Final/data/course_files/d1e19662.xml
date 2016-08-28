@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4238" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2070</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Case Studies and Research Proposal Preparation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Christian Alexander Tryon</faculty_text>
+<description>Seminar for graduate students that will focus on grant and paper writing, and will also include selected case studies.</description>
+<prerequisites/>
+<notes>Anthropology 2070a is commonly taken before Anthropology 2070b, but is not a prerequisite. Required of students in the Archaeology Program of Anthropology; open to other graduate students and advanced undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffd043baeb07c6e397cf2549816223931">
+<name>
+<prefix/>
+<first>Christian</first>
+<middle>Alexander</middle>
+<last>Tryon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

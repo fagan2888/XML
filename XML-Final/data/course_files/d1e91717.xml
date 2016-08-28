@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="813" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1123</num_int>
+</course_number>
+<title>Introduction to Econometrics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: Tu., Th., 11:30-1, and a weekly section to be arranged; Spring: M., W., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>James H. Stock (fall term) and Eric Chaney (spring term)</faculty_text>
+<description>An introduction to multiple regression techniques with focus on economic applications. Discusses extensions to discrete response, panel data, and time series models, as well as issues such as omitted variables, missing data, sample selection, randomized and quasi-experiments, and instrumental variables. Also develops the ability to apply econometric and statistical methods using computer packages.</description>
+<prerequisites>Statistics 100.</prerequisites>
+<notes>Students may take either Economics 1123 or Statistics 139 for credit. Statistics 139 will not count as econometrics requirement. Also, Economics 1123 may not be taken for credit if taken after Economics 1126, but credit will be given for both courses if Economics 1123 is taken first. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F813e1772ac330f4c4eaf4302680a41ea">
+<name>
+<prefix/>
+<first>James</first>
+<middle>H.</middle>
+<last>Stock</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F747a26a06b41d7b20f9b1898152fe10c">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Chaney</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

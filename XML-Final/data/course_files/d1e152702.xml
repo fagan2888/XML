@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12235" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Epic: From Homer to Star Wars</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 2, and a weekly section to be held F., at 2.</meeting_text>
+<faculty_text>Leah Jane Whittington</faculty_text>
+<description>This course studies epic literature through six significant works in the genre: Homer's Iliad and Odyssey, Vergil's Aeneid, Milton's Paradise Lost, George Eliot's Middlemarch, and George Lucas' Star Wars. We will examine these works in terms of their formal conventions, thematic interests, and historical contexts, as well as attending to the interactions between texts in the epic tradition, the shift from narrative poetry to novel and film, and the manifestations of epic in the modern world.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff1afd38f19ceaa97ac9a8f1dcf218c90">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle>Jane</middle>
+<last>Whittington</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

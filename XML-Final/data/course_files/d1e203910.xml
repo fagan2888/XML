@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4294" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Beginning German</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M. through Th., sections at 9, 10, 11, or 12.</meeting_text>
+<faculty_text>Lisa Parkes and members of the Department</faculty_text>
+<description>An introduction to German language and culture designed for students with little or no knowledge of the language. Encompasses all four skills: speaking, listening, reading, and writing. Class sessions emphasize the development of oral proficiency. Instruction is supplemented by literary and non-literary texts, videos, and Internet activities.</description>
+<prerequisites/>
+<notes>The first half of this course may not be taken as a half course for credit toward the AB degree; there are no exceptions to this rule. May not be taken Pass/Fail. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="104" type="Lecture"/>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Lecture"/>
+<location term="1" building="Emerson Hall" room="104" type="Lecture"/>
+<location term="1" building="Emerson Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

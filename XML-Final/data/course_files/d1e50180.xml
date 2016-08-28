@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9903" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Scientific Teaching and Communications: Practicum</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will teach graduate students how to communicate scientific concepts in the classroom. Students will focus on becoming effective teachers in discussion sections and in the laboratory. The course will emphasize hands-on experience in teaching and explaining scientific concepts.</description>
+<prerequisites/>
+<notes>Required of all first-year graduate students in the Department of Chemistry and Chemical Biology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6752a1cf1553e62728467d662882ff7e">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Tucci</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1b5cf8d5ad23c4bf67595e2f5c8899b6">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Michael</middle>
+<last>Spoering</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F3aefb2dc22e3612e21669b15c2a667cd">
+<name>
+<prefix/>
+<first>Marie</first>
+<middle>Colleen</middle>
+<last>Spong</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa5ac356b0c5cb0c617ff15308b6cf533">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Shair</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6752a1cf1553e62728467d662882ff7e">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Tucci</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1b5cf8d5ad23c4bf67595e2f5c8899b6">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Michael</middle>
+<last>Spoering</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3aefb2dc22e3612e21669b15c2a667cd">
+<name>
+<prefix/>
+<first>Marie</first>
+<middle>Colleen</middle>
+<last>Spong</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa5ac356b0c5cb0c617ff15308b6cf533">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Shair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="300h" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

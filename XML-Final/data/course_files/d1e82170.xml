@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38161" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNLIT">Japanese Literature</course_group>
+<course_number>
+<num_int>140</num_int>
+</course_number>
+<title>The Literature of Protest in Modern Japan</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-5</meeting_text>
+<faculty_text>Joanna Meredith Sturiano</faculty_text>
+<description>This course traces voices of protest in modern Japanese literature from the Freedom &amp; People's Rights movement and the political novel of the Meiji period to literary responses to the triple disaster of March 11, 2011. Lectures on historical context will supplement and situate discussions of literary texts. We will examine works from the proletarian literature movement of the late 1920s; atomic bomb literature; literary representations of the anti-Security Treaty protests; feminist literature; works by underrepresented minorities, and more. We will consider how literature has served as a means of protest and a site for recording protest throughout modern Japan.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb2bd6b99d2640392baed93c36840debd">
+<name>
+<prefix/>
+<first>Joanna</first>
+<middle/>
+<last>Sturiano</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="214" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

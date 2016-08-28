@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64129" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2474</num_int>
+</course_number>
+<title>Christian Ethics, Persuasion, and Power II</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 12&amp;#8211;2 and hour to be arranged.</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>Whatever else it might be, European "modernity" is a transformation in Christian projects for ethics. Controversies over Reformation can conceal how far both Protestant and Roman Catholic writers begin to make modern assumptions about moral learning or to exercise modern forms of control over moral subjects. The course will try to trace some of this transformation and the increasingly radical reactions to it without pretending to any completion. Readings will include major texts from the Reformation through the 19th century.</description>
+<prerequisites/>
+<notes>Expected to be given in subsequent spring semesters of odd-numbered years. Offered jointly with the Divinity School as 2394.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

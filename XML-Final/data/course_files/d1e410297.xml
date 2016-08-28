@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97975" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>Perception and Imagination</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Justin Anthony Junge</faculty_text>
+<description>Perception is required to have a mind like yours. How does perceiving work? How are streams of sensory input processed into rich and useful models of the world around you? This course will converge on the 5 senses from many informative angles, explaining how perception tracks and shapes reality, then gives rise to imagination.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors and one foundational course.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F60efd2c34b333ace86316838855faaaf">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>Anthony</middle>
+<last>Junge</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1251" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92364" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.240</num_char>
+</course_number>
+<title>Woolf and Hemingway</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Christina Kim Becker</faculty_text>
+<description>Ernest Hemingway and Virginia Woolf-few authors have been as celebrated and as influential as these two great literary stylists. Yet it is hard to imagine two authors who differ more in their literary outlook and style. In this course, we will read Woolf and Hemingway side by side. We will investigate how their gendered views on life and art create iconic texts of the twentieth century. Primary sources will include short stories by Hemingway, critical essays and short fiction by Woolf, Hemingway's novel A Farewell to Arms, and Woolf's novel Mrs. Dalloway.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe86fa9b7a27ce6cb2d91b233a53ec583">
+<name>
+<prefix/>
+<first>Christina</first>
+<middle>Kim</middle>
+<last>Becker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

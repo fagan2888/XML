@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78777" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>195</num_int>
+</course_number>
+<title>Fighting Poverty in China: Welfare and Disaster Relief in Comparative Perspective</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Nara Dillon</faculty_text>
+<description>This course is a research seminar on the political economy of poverty and inequality in China. Because China has tried such a wide variety of methods to combat poverty, it provides a useful "laboratory" for analyzing different anti-poverty policies. After an introduction to theories of the welfare state and international humanitarian relief, students will examine disaster relief and the welfare state in China, with comparisons to Europe, North America, and other developing countries.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa9f109a967fb73ad6c9af0129bf7220f">
+<name>
+<prefix/>
+<first>Nara</first>
+<middle/>
+<last>Dillon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

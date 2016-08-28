@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49183" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>174</num_int>
+</course_number>
+<title>Art of the Real</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tuesdays 10am-12pm and a mandatory weekly film screening Mondays 4pm to 6pm</meeting_text>
+<faculty_text>Dennis Lim</faculty_text>
+<description>A historical survey of the documentary from the silent era to the digital present, with an emphasis on documentary as art. The seminar will discuss the evolution of documentary in terms of cinematic engagements with the generative possibilities of the real, the confluence of documentary and experimental film, and the emergence of documentary as a mode of art making.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F843e6c0daf399416622de9c6fb4f2322">
+<name>
+<prefix/>
+<first>Dennis</first>
+<middle/>
+<last>Lim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="Main Lecture Hall" type="Film Screening"/>
+<location term="1" building="Sever Hall" room="416" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63677" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2830</num_int>
+</course_number>
+<title>International Security Studies</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 10-12</meeting_text>
+<faculty_text>Anne E. Sartori</faculty_text>
+<description>This course is a graduate-level research seminar in international security studies. The course has two related goals: to introduce students to interesting research and debates in the field, and to help each student to initiate a research project in this area.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5c6fefa358a0c1f3f094d12fa0f2f288">
+<name>
+<prefix/>
+<first>Anne</first>
+<middle>E.</middle>
+<last>Sartori</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-450" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

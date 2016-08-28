@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61538" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>18</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Arts of South and Southeast Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jinah Kim</faculty_text>
+<description>This is an introduction to the arts of South and Southeast Asia from the second millennium BCE to the present. Each lecture will examine selective artifacts and sites to understand the history of major artistic traditions developed in response to cultural exchanges and political dynamics within and beyond the region. By examining a wide range of material, such as Buddhist sculptures, Hindu temples, Jain manuscript paintings, Islamic tombs, calendar art, and so on, with fundamental art historical questions, we will consider what makes the arts of South and Southeast Asia unique as well as universal in the twenty-first century context.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbfffbf40c7b8592dc9d31f4483255e31">
+<name>
+<prefix/>
+<first>Jinah</first>
+<middle/>
+<last>Kim</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

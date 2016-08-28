@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38993" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1544</num_int>
+</course_number>
+<title>Unitarian and Universalist Thought in the Nineteenth Century</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Daniel P. McKanan (Divinity School)</faculty_text>
+<description>This seminar will explore the intellectual shapers of the Unitarian and Universalist traditions in the nineteenth century, with special attention to the founders and formative theologians of each tradition, the challenges of Transcendentalism and Spiritualism, and the interactions of Unitarianism and Universalism with broader currents of religious liberalism in the United States. Male and female, lay and ordained, elite and popular thinkers will all be represented. Featured writers may include John Murray, Judith Sargent Murray, Hosea Ballou, Joseph Priestley, William Ellery Channing, Andrews Norton, Hannah Adams, Ralph Waldo Emerson, Margaret Fuller, Theodore Parker, Lydia Maria Child, Adin Ballou, James Freeman Clarke, Lucy Stone, Francis E. Abbot, Frances Ellen Watkins Harper, and Celia Parker Woolley.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2770.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

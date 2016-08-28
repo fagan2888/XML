@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57859" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>96</num_int>
+</course_number>
+<title>Grounds for Comparison</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 12-2</meeting_text>
+<faculty_text>David Damrosch</faculty_text>
+<description>This seminar provides an introduction to literary studies in a global age. How do writers refract and transform the world around them, and the world beyond their borders? How do they celebrate or challenge their society's values and rethink their literary heritage? Writers in every culture have mobilized the resources of poetic language and literary form to delight and instruct their readers, while critics and theorists have sought to understand how writers achieve their effects. Through close reading of a range of compelling works, accompanied by major critical and theoretical statements, we will explore the relations of literature to society and theory to literature, focusing on a set of interconnected themes: travel and self-discovery, empires and their aftermath, and the politics of language and of cultural memory.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc38e4afa7c2f31744fa2622ac88fac8b">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Damrosch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

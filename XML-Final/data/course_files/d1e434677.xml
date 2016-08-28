@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="507" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>Beginning Spanish I</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., through Th., at 9, 10, 11, 1, or 2. Spring: M., through Th., at 9, 10, or 2.</meeting_text>
+<faculty_text>Maria celeste Moreno palmero (spring term), Maria Luisa Parra-Velasco (fall term) and members of the Department</faculty_text>
+<description>A basic beginning semester course for students with no previous study of Spanish. Emphasis on speaking, writing, reading, and listening, as the basis for the development of all three Communication Modes (Interpersonal, Interpretive, and Presentational). Hispanic cultures will be introduced through a variety of texts, including readings, music, art, and film.</description>
+<prerequisites/>
+<notes>Conducted in Spanish. Open to students who have not previously studied Spanish or who have scored below 300 on the Harvard placement test. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish Aa website. Students who have studied Spanish for two years or more in secondary school must begin at Spanish Ab or higher.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0897c041f2b686516565ada9416945ee">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Luisa</middle>
+<last>Parra-Velasco</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0e21a89b47344d98a889688df51e4427">
+<name>
+<prefix/>
+<first>Maria Celeste</first>
+<middle/>
+<last>Moreno Palmero</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="211" type="Section"/>
+<location term="1" building="Sever Hall" room="211" type="Section"/>
+<location term="1" building="Sever Hall" room="208" type="Section"/>
+<location term="1" building="Sever Hall" room="208" type="Section"/>
+<location term="1" building="Sever Hall" room="208" type="Section"/>
+<location term="1" building="Sever Hall" room="207" type="Section"/>
+<location term="1" building="Sever Hall" room="207" type="Section"/>
+<location term="1" building="Sever Hall" room="207" type="Section"/>
+<location term="1" building="Sever Hall" room="207" type="Section"/>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+<location term="1" building="Sever Hall" room="106" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

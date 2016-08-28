@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97765" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>223</num_int>
+</course_number>
+<title>Electronics for Scientists</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>22</enrollment_limit>
+<meeting_text>Tu., Th., 1:30-5:30</meeting_text>
+<faculty_text>Thomas C. Hayes</faculty_text>
+<description>An introduction to electronic circuit design intended to develop circuit intuition and debugging skills through daily design exercises, discussion and hands-on lab exercises. The approach is intensely practical, minimizing theory. Moves quickly from passive circuits to discrete transistors, then concentrates on operational amplifiers, used to make a variety of circuits including integrators, oscillators, regulators, and filters. The digital half of the course treats analog-digital interfacing, emphasizes the use of microcontrollers and programmable logic devices (PLDs).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Faeea5c27f9df88b8160fd67ae557721d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>C.</middle>
+<last>Hayes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Faeea5c27f9df88b8160fd67ae557721d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>C.</middle>
+<last>Hayes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1730"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="206" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

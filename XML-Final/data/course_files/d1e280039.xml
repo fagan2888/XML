@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9644" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>234</num_int>
+</course_number>
+<title>Cellular Metabolism and Human Disease</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 9-10:30</meeting_text>
+<faculty_text>Thomas Michel (Medical School), Cheryl Denise Vaughan and members of the Department</faculty_text>
+<description>Cellular and organismal metabolism, with focus on interrelationships between key metabolic pathways and human disease states. Genetic and acquired metabolic diseases and functional consequences. Interactive lectures and critical reading conferences are integrated with clinical encounters.</description>
+<prerequisites>Knowledge of introductory biochemistry, genetics, and cell biology required (MCB 52 and 54 or equivalent); one year of organic chemistry.</prerequisites>
+<notes>Also listed as MCB 234.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa608b1817ae4d2d5002955cd80f5707e">
+<name>
+<prefix>Dr.</prefix>
+<first>Thomas</first>
+<middle/>
+<last>Michel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F21ed546c9d78a5492da69b47507aa1ba">
+<name>
+<prefix/>
+<first>Cheryl</first>
+<middle>D.</middle>
+<last>Vaughan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

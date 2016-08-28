@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>AIDS in Africa</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>14</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Myron Essex (Public Health) and Tun-hou Lee (Public Health)</faculty_text>
+<description>HIV/AIDS has infected or killed more than sixty million people, and no vaccine is expected within five to ten years. About two-thirds of current infections are in ten percent of the world's population in sub-Saharan Africa, where few patients receive life-saving treatment. Explores dimensions of AIDS in Africa including the evolution and epidemiology of HIV, the pathobiology of AIDS, prevention of infection, and treatment of disease. Encourages multidisciplinary approaches, using country-specific illustrations of successful interventions.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4abbcf9e5872a258faceed36c17531ad">
+<name>
+<prefix/>
+<first>Myron</first>
+<middle/>
+<last>Essex</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F897a99d29dde6cea8eed4fd01a8a9989">
+<name>
+<prefix/>
+<first>Tun-Hou</first>
+<middle/>
+<last>Lee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

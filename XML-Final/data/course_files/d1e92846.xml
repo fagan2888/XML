@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6136" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1410</num_int>
+</course_number>
+<title>Public Economics: Designing Government Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), 2:00-3:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Martin Feldstein and Raj Chetty</faculty_text>
+<description>This course analyzes what role the government should play in a market economy. It covers topics such as tax and welfare policy, unemployment insurance, environmental protection, education policy, social security</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a or permission of instructor.</prerequisites>
+<notes>Students should have some knowledge of basic calculus and statistics, but there is no formal mathematics prerequisite. Offered jointly with the Kennedy School as SUP-125. This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcbdbd4fb4281b19b89852fbc0d4c7025">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>S.</middle>
+<last>Feldstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7fe9fbd135ba8120a51f4925ddd15100">
+<name>
+<prefix/>
+<first>Nadarajan</first>
+<middle/>
+<last>Chetty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>w</num_char>
+</course_number>
+<title>Research at the Harvard Forest: Global Change Ecology-Forests, Ecosystem Function, the Future</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>11</enrollment_limit>
+<meeting_text>Four weekends at the Harvard Forest in Petersham, MA</meeting_text>
+<faculty_text>David R. Foster</faculty_text>
+<description>This course explores state-of-the-art research, tools and measurements used to investigate and predict climate change through ongoing studies at the Harvard Forest's 3,500 acre outdoor laboratory in Petersham, MA. The seminar consists of four weekend-long field trips (Friday evening-Sunday) to the Harvard Forest and a final on-campus meeting. Students develop skills for evaluating, discussing, and presenting the ecological evidence for climate change, including feedbacks between forests and the atmosphere and long-term impacts on forest ecosystems.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Four weekends at the Harvard Forest in Petersham, MA (Fri, 3pm-Sun, late afternoon) dates TBA. Transportation, accommodations, and meals at the Harvard Forest will be provided.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fe4c919f0cf1837be312e6fb273b72c">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Foster</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

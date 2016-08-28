@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76665" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>242</num_int>
+</course_number>
+<title>Graduate Seminar: Transatlantic Poetics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Mary M. Gaylord and Josiah Blackmore</faculty_text>
+<description>The seminar studies transatlantic enterprises of Spain and Portugal through their prolific cultures of textuality. Epic, chronicles, lyric and other 15th to 17th-century genres will be scrutinized for influences of Atlantic itineraries, real and imagined, on projects of poetic "making". Authors include Garcilaso, Caminha, Ercilla, Camoes, Gongora, Cervantes, Lope, Alarcon, Quevedo, Zurara, and others.</description>
+<prerequisites/>
+<notes>Class discussions will be in English, with primary sources available in the original languages and in English translation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff13f13e61cffc225ad8e2f4406ae992a">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle/>
+<last>Gaylord</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6632425ea99f117bd5ef1e09574b2437">
+<name>
+<prefix/>
+<first>Josiah</first>
+<middle/>
+<last>Blackmore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

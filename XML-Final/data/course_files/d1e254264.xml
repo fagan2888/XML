@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69934" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>197</num_int>
+</course_number>
+<title>Nature, Environment, and the Understanding of Space</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Jeanne Haffner</faculty_text>
+<description>Investigations of the natural world have focused on different concepts at different historical moments. In America, for instance, the notion of "wilderness" was most prevalent in the late-nineteenth century; that of "environment" became central in the twentieth; and, from the postwar era to the present, analyses of the inextricability of spatial form and social organization have dominated scholarship and social activism alike. The aim of this seminar is to examine these shifts, exploring how they were employed within particular historical contexts, and to assess their implications for the past, present, and future of environmental movements in Europe and America.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd2b76859d89eb355f51044fd8542561d">
+<name>
+<prefix/>
+<first>Jeanne</first>
+<middle>Marie</middle>
+<last>Haffner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

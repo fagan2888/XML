@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1067" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ROM-STD">Romance Studies</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial-Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Luis M. Giron Negron and members of the Department</faculty_text>
+<description>Weekly individual instruction for students writing a senior thesis in Romance Studies.</description>
+<prerequisites>Satisfactory completion of a junior tutorial and faculty approval of proposed thesis topic.</prerequisites>
+<notes>For honors seniors writing a thesis. Successful completion of two terms of Romance Studies 99 is required of all thesis-track honors concentrators. Students who do not complete a thesis are required to submit a substantial paper in order to receive either half course or full course credit.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

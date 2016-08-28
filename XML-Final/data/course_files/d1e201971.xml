@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11083" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>18</num_int>
+</course_number>
+<title>Thinking About the Constitution</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>150</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Laurence H. Tribe (University Professor; Harvard Law School)</faculty_text>
+<description>What difference does our Constitution make? Does it matter whether we think about it only as a text, as living practice, or as a set of mostly unwritten principles? This course will explore such questions by investigating several concrete constitutional controversies-about abortion, birth, and dying; about embryo research; about race and gender; about the Obama health insurance reform; about sexual intimacy and same-sex marriage; about religion, free speech, and campaign finance; about workers' rights; about informational privacy; and about emergency presidential action. Readings will be drawn from judicial and other writings about the Constitution, its history, and its interpretation.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5ec6e96af80f66492528c107d2d403b9">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>H.</middle>
+<last>Tribe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74112" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>132</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Conversational Cantonese</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Jennifer Li-Chia Liu</faculty_text>
+<description>Spoken Cantonese for Advanced Cantonese speakers. Topics of this course include authentic texts from contemporary media sources, including news, films, and TV shows.</description>
+<prerequisites>Chinese 120b or equivalent.</prerequisites>
+<notes>Primarily intended for heritage speakers of Cantonese who have achieved basic proficiency and wish to progress to more complex language.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe26ea6b8f972d9248275e674b64c5669">
+<name>
+<prefix/>
+<first>Jennifer Li-Chia</first>
+<middle/>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="27a" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

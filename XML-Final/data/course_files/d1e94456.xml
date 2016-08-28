@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90055" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1620</num_int>
+</course_number>
+<title>Industry Structure, Strategy, and Public Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:10-2:30</meeting_text>
+<faculty_text>F. M. Scherer (Kennedy School)</faculty_text>
+<description>Provides a systematic economic and historical framework for evaluating industrial policies such as agricultural crop price supports, international dumping and subsidy rules, energy policy, technology policy, competition policy (antitrust), public regulation, and corporate bailouts. It proceeds through a series of 10 industry case studies, in order: agriculture, crude petroleum, petroleum refining, steel, integrated circuits, computers, the Internet, automobiles, pharmaceuticals (domestic and international), and beer. Grading will be on the basis of two short policy papers and a final examination. A longer industry study can be substituted for the final exam.</description>
+<prerequisites/>
+<notes>Jointly offered with the Kennedy School as BGP-201.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc7cc75689519e6aab2a34e9e46c444d7">
+<name>
+<prefix/>
+<first>F.</first>
+<middle>M.</middle>
+<last>Scherer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1310" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1310" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

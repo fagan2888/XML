@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63986" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.284</num_char>
+</course_number>
+<title>Surveillance: Legal and Ethical Issues</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Gillian Mary Sinnott</faculty_text>
+<description>Recent leaks by former NSA contractor Edward Snowden have revealed widespread surveillance by the U.S. government. It is easy to denounce the NSA's activities as Orwellian, or, on the other hand, to reassure ourselves that surveillance only harms those with something to hide. This course seeks to move beyond these simplistic responses. We will begin with a careful exploration of the concept of privacy. We will then turn to the specifics of the NSA's surveillance programs, both within the United States and overseas. We will examine the constitutionality of these programs and the broader policy questions they raise.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa626b286115c7805a64841b568fb05f8">
+<name>
+<prefix/>
+<first>Gillian</first>
+<middle>Mary</middle>
+<last>Sinnott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

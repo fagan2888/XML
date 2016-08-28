@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2557" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1535</num_int>
+</course_number>
+<title>International Trade and Investment</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2&amp;#8211;3:30</meeting_text>
+<faculty_text>Thomas Sampson</faculty_text>
+<description>Analyzes the causes and consequences of international trade and investment. Focuses on the interplay of economic theory and empirical descriptions of foreign trade and direct investment patterns.</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5caddffc32edff9ce7f0cdbc1493883d">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>Andrew</middle>
+<last>Sampson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="308" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

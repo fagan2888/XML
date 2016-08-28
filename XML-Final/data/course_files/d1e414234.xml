@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70821" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1561</num_int>
+</course_number>
+<title>Social and Economic Inequality: A Psychological Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Martin V. Day</faculty_text>
+<description>This course is designed to heighten your understanding of social and economic inequality using a psychological perspective. We will discuss psychological processes and theories related to inequality, as well as relevant programs and policies. We will also discuss perceptions and consequences of social, gender, and race inequalities, and how economic inequality divides us and undermines our well-being. Promising interventions and strategies to assuage the negative effects of inequality will also be explored.</description>
+<prerequisites>SLS-20 and one from PSY 14, PSY 15, PSY 18, or SLS 15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb7246f2ce96c56b820d64a49579991ef">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>V.</middle>
+<last>Day</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74187" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1080</num_int>
+</course_number>
+<title>Modern States and Religion</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Malika Zeghal</faculty_text>
+<description>This seminar examines the relationships between modern states and religion with particular attention to Islam in Muslim majority countries and beyond. We will analyze institutional arrangements from separation to establishment, and we will examine the meaning of secularism as a modern project. We will explore what the formation of the modern state owes to religion, but also how the modern state transforms religion. More broadly, the seminar will analyze the general consequences of the modern states' engagement with religion, and will explore new potential research paths. Readings will include historical, anthropological, theoretical, as well as quantitative perspectives.</description>
+<prerequisites>Approval of instructor required for freshmen.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe6948c0967ee2cd544963b4bed2aad8d">
+<name>
+<prefix/>
+<first>Malika</first>
+<middle/>
+<last>Zeghal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="211" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

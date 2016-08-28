@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66684" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>173</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Creative Music: Critical Practice Studio</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Vijay Iyer</faculty_text>
+<description>This course is an intensive, research-oriented workshop environment for advanced improviser-composers. Open to both undergraduate and graduate students. Through critical listening, readings, term papers, and collaborative musical projects, students will engage with a range of contemporary musical perspectives and practices. Graduate students</description>
+<prerequisites/>
+<notes>Between December 22 and January 12, each student should submit a recording, up to fifteen minutes in length, of your performance, solo or with a group, of your own compositions or those of others, and featuring solo or group improvisation. Please provide details about the music -- instrumentation, repertoire, personnel, date of recording, and any other relevant descriptive information. Audio should be submitted via sharing links to YouTube, Soundcloud, Dropbox, or similar. Submit links to vijayiyer@fas.harvard.edu. Please do not email files. No applications will be accepted earlier than December 22 or later than January 12.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb3b811337870c964b4dc8d097f9804f4">
+<name>
+<prefix/>
+<first>Vijay</first>
+<middle/>
+<last>Iyer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

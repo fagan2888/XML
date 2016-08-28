@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29823" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1489</num_int>
+</course_number>
+<title>Christianity, Capitalism, and Consumerism in Colonial North America and the United States</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Catherine A. Brekus (Divinity)</faculty_text>
+<description>This course asks how Christianity has both shaped and reflected economic developments in America from the eighteenth century to the present. Besides examining diverse Christian attitudes toward consumerism and capitalism, we will ask how economic developments have shaped understandings of God and the self. Among other topics, we will explore the rise of the consumer revolution in the eighteenth century, the relationship between capitalism and slavery, Christian responses to industrial capitalism, Christian marketing techniques, and the popularity of the prosperity gospel in modern-day America.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School 2183.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffba72e10c1581291fc561d94769d1f12">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle>A</middle>
+<last>Brekus</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

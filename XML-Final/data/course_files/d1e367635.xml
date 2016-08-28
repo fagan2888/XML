@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56941" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>210</num_int>
+</course_number>
+<title>Introduction to Islamic Law</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Baber Johansen (Divinity School)</faculty_text>
+<description>This lecture course provides an oversight over the history of Muslim Law, the fiqh, from the 8th to the 19th century. This system of legal and ethical norms is conceived as the continuous interpretation of the shari'a, the revealed principles and norms of law and ethics. In the "branches of the fiqh" (furu&amp;#8216; al-fiqh) this interpretation, since the eighth century, takes the form of the production of legal and ethical norms. From the tenth century on, the texts of the methodology of fiqh (usul al-fiqh) attempt to create the norms for norm production. We will discuss the norms and the methodology of the law as well as the institutions that allowed it to spread over the whole of the Muslim World. The course will consistently focus on the methods through which changes in genres of legal literature, methods, institutions and norms were introduced and recognized during different periods of the fiqh's development. Special attention will be given to the changes that the system underwent from the 19th to the 21st century.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3621.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fad340526f473644aeb62ddb5a4aa58a4">
+<name>
+<prefix/>
+<first>Baber</first>
+<middle/>
+<last>Johansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Rockefllr Hall" room="117" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

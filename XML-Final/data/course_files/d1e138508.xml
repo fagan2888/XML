@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87754" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>237</num_int>
+</course_number>
+<title>Planetary Radiation and Climate</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Robin Wordsworth</faculty_text>
+<description>Atmospheric radiative transfer, including stellar properties, spectroscopy, gray and real gas calculations, Mie theory and scattering, satellite retrievals, and radiative-convective climate modelling. Climate feedbacks: the runaway greenhouse, volatile cycles on Mars and Titan, and atmospheric collapse around M-stars. Atmospheric evolution and escape (Jeans, diffusion-limited, hydrodynamic), and key processes in planetary atmospheric chemistry.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0c57b88fc41d94e9a07b28f6d39c4ee5">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Wordsworth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2446" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>202</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Cosmology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Daniel James Eisenstein and John M. Kovac</faculty_text>
+<description>The cosmological principle: isotropy and homogeneity, cosmological world models, thermal history of the Big Bang, the microwave background, inflation, growth of density fluctuations, large scale structure and other topics at the frontiers of cosmology.</description>
+<prerequisites/>
+<notes>This course offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F27eae3b90e7190cb327e9cb2a4ceab71">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>James</middle>
+<last>Eisenstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5dff1a8ebc913e4eed96daf26e32c8c1">
+<name>
+<prefix/>
+<first>John</first>
+<middle>M</middle>
+<last>Kovac</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

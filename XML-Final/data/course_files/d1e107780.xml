@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27235" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APCOMP">Applied Computation</course_group>
+<course_number>
+<num_int>272</num_int>
+</course_number>
+<title>Kinetic Methods for Fluids: Theory and Applications</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5, M., 7-9 p.m.</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Systematic introduction to kinetic methods for studying fluids, based on the lattice Boltzmann equation. Emphasizes theory, including discrete dynamics and symmetry, as well as hands-on programming of basic algorithms for fluid flow simulations, paying attention to understanding of the theoretical basis and connection to real fluid physics. The course lays the foundation for further research on the method extensions, particularly in complex fluids and micro/nano-fluidics and presents specific applications in various science and engineering problems.</description>
+<prerequisites>Knowledge of basic classical physics, fluid dynamics, and numerical methods are desirable.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

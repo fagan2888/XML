@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9804" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>218</num_int>
+</course_number>
+<title>Electrical, Optical, and Magnetic Properties of Materials</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Shriram Ramanathan</faculty_text>
+<description>Classical and quantum description of electrical, optical and magnetic properties, and their fundamental physical origins; experimental techniques. Properties of compositionally complex materials such as ceramics. Structure-property relations. Applications in semiconductor, information storage, and energy industries.</description>
+<prerequisites>Introductory solid-state physics or equivalent course.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F97ae9a053a0c9da4ae2bf6c4832a2c11">
+<name>
+<prefix/>
+<first>Shriram</first>
+<middle/>
+<last>Ramanathan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

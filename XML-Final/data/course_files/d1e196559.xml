@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8987" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>13</num_int>
+</course_number>
+<title>Why You Hear What You Hear: The Science of Music and Sound</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>160</enrollment_limit>
+<meeting_text>M., W., 2:30-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Eric J. Heller (Chemistry and Chemical Biology; Physics)</faculty_text>
+<description>Sound and music are integral parts of all human cultures, and play critical roles in communications and social interactions. In this course, we reach a high level of understanding for the production, transmission, and perception of sound, including psychoacoustics, with the aim of expanding communication, musical, and artistic horizons. The course is front loaded with class demos and hands on tools for the student to discover by exploring. Student selected projects (with staff consultation) are an important part of the course. The course book, written by the professor, Why You Hear What You Hear, is a full-fledged resource and guide.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F02bcfbc275978b4ce4b82cd4f4dec068">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>J.</middle>
+<last>Heller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

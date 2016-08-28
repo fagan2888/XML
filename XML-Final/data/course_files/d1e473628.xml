@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7537" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>231</num_int>
+</course_number>
+<title>Time Series Analysis and Forecasting</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Tirthankar Dasgupta</faculty_text>
+<description>A graduate-level course on time series models and associated methods of data analysis and inference. Review of ARIMA models, time series regression, long-memory models, state space models and Kalman filtering, multivariate time series, statistical methods in the frequency domain.</description>
+<prerequisites>Statistics 111, 131, and 139.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc04d8e9c0d3cf9b223c9d76ee5b15704">
+<name>
+<prefix/>
+<first>Tirthankar</first>
+<middle/>
+<last>Dasgupta</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

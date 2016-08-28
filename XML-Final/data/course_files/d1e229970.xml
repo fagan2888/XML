@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7573" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1301</num_int>
+</course_number>
+<title>Western Intellectual History II: The Prehistory of Modern Thought</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Hankins</faculty_text>
+<description>A survey of major themes in medieval and early modern intellectual history. Readings in Anselm, Abelard, Thomas Aquinas, William of Ockham, Petrarch, Machiavelli, Thomas More, Martin Luther, Montaigne, Francis Bacon, Descartes, Hobbes.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa0ffc0789d9f24e4f0d1e391c53ae727">
+<name>
+<prefix>Prof</prefix>
+<first>James</first>
+<middle/>
+<last>Hankins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

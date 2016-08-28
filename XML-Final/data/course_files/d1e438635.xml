@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5610" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Historia de la lengua espanola</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Luis M. Giron Negron</faculty_text>
+<description>Introduccion a la historia de la lengua espanola desde sus origenes hasta el presente. Escarceos en linguistica historica en el marco de la historia literaria y el estudio comparado de las lenguas romanicas. Acercamiento interdisciplinario.</description>
+<prerequisites/>
+<notes>Conducted in Spanish. Required of graduate students in Spanish and Portuguese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

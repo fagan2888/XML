@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29402" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>232</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>The Art of Living (Graduate Seminar in General Education)</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Sean D. Kelly</faculty_text>
+<description>From its inception in Ancient Greece, Philosophy was conceived of not merely as an intellectual pursuit, but as an entire way of life. Indeed ethics, in the words of the Roman philosopher Cicero, was essentially an ars vivendi, an art of living [De Fin. 1.42 et. al.]. This graduate seminar is devoted to developing a General Education course that approaches philosophical texts from this broad-minded perspective. In the seminar we will pursue intensive reading of figures from Socrates to Foucault, and we will discuss various pedagogical strategies and creative assignments intended to bring to life the art that each of these figures points us toward.</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb41e46a9f0ec4f42b6db21ac94ca579d">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle>D</middle>
+<last>Kelly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7501" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anya Bernstein Bassett</faculty_text>
+<description>Writing of senior honors essay.</description>
+<prerequisites/>
+<notes>Required for concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa0b22b292e430128842e0070ced4b331">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bassett</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fa0b22b292e430128842e0070ced4b331">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bassett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="205" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

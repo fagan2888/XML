@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5683" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>3300</num_int>
+</course_number>
+<title>Supervised Field Work in Anthropology</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>General instruction in field methods and practice in the various divisions of anthropology, including archaeology, ethnography, and physical anthropology. Instructional personnel and location of course vary with the research program of the staff. Lectures, conferences, field and laboratory work.</description>
+<prerequisites/>
+<notes>May be taken by graduate students for academic credit, but since it is tuition-free, does not count for residence credit leading to reduced tuition. Open to students with adequate previous training in the subject.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

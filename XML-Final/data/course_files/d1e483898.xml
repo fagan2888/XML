@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14042" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SBIO">
+<dept_long_name>Committee on Higher Degrees in Systems Biology</dept_long_name>
+<dept_short_name>Systems Biology</dept_short_name>
+</department>
+<course_group code="SYSTBIO">Systems Biology</course_group>
+<course_number>
+<num_int>302</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Quantitative Human Physiology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Introduction to selected mathematical and computational models of human physiology, disease, and treatment monitoring. Topics may include glucose regulation, kidney filtration, blood cell homeostasis and anemia, cell growth and cancer, and pharmacokinetics and pharmacodynamics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F9f09e070d8acd1a29c2751d409118d28">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Matthew</middle>
+<last>Higgins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

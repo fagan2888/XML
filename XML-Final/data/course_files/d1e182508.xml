@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11169" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>41</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>Everyday Life in Nazi Germany</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Willeke H. Sandler</faculty_text>
+<description>This seminar will examine the experiences of those Germans defined as "Aryan" in the Third Reich, that is, those not directly persecuted by the regime. How did they adjust (or not adjust) to the changes brought to everyday life by the Nazi regime? How did their behaviors and attitudes change in ways that helped or hindered the regime and its racial agenda? How would we define the boundaries of collaboration or consent within this society? Readings will explore aspects of German society under Nazism including the experiences of young people and women, consumption, popular culture, and the question of terror.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa884f4cfd24a98d9366dca6a4d5669f7">
+<name>
+<prefix/>
+<first>Willeke</first>
+<middle>H.</middle>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="104" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

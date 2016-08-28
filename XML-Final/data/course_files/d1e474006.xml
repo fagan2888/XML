@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51453" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>244</num_int>
+</course_number>
+<title>Linear and Generalized Linear Models</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Alan Agresti (University of Florida)</faculty_text>
+<description>The theory and application of LINEAR and generalized linear models, including linear models for normal responses, logistic models for binary and multinomial data, loglinear models for count data, overdispersion and quasi likelihood methods, and models and methods for clustered (e.g., repeated measurement) correlated data.</description>
+<prerequisites>Strong statistics background required (at the second-year graduate level), Statistics 210a may be taken concurrently, Statistics 211a desirable.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffb4fee235e2a1ff549d65ce31ff1bde2">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Agresti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="109" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

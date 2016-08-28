@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76133" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Computational Design of Materials</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course will provide the background and an extensive set of examples showing how computational methods are applied to modern design of materials with desired functionality. The methods will span multiple length and time scales, including molecular dynamics simulations, first-principles approaches, stochastic methods for optimization and sampling, and continuum elasticity theory. Examples will include problems in electronic and photonic devices, materials for energy conversion, storage, and environmental protection, and those related to mechanical strength of materials.</description>
+<prerequisites>Undergraduate coursework in quantum mechanics, solid state physics, thermodynamics and statistical mechanics is recommended. Knowledge of physical chemistry and solid mechanics is required.</prerequisites>
+<notes>Applied Physics 275 is also offered as Applied Computation 275. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

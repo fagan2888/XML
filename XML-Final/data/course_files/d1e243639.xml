@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3507" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Methods Tutorial</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joseph Koerner and members of the Department</faculty_text>
+<description>An introduction to the methods and research skills of art and architectural history.</description>
+<prerequisites/>
+<notes>Required of concentrators, generally in the Junior year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F08c1d573a5c2f51da2fbaace12f0d7fb">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Koerner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F08c1d573a5c2f51da2fbaace12f0d7fb">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Koerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

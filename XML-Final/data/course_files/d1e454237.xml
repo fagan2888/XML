@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29016" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>139</num_int>
+</course_number>
+<title>Economic Sociology: Global Perspectives</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Burak Eskici</faculty_text>
+<description>Sociology offers a unique perspective on economic behavior and institutions. Exploring the foundational concepts of economic sociology with examples from all over the world, this course treats the following questions, among others: How do sociological perspectives on organizations, networks, power and inequality challenge widely held assumptions about economic behavior? How can seemingly disparate cases from around the globe enrich our conceptual understanding of economy and society? Has the economy become more global over time and, if so, how? What role does finance capital play in the current dynamics and future direction of the global economy? Starting with the evolution of economic organizations, the course covers topics such as social embeddedness, markets and networks, power, labor market, globalization, economic development, and financial markets.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F41097b16eeeb06d7a3b8d55cb8a03243">
+<name>
+<prefix/>
+<first>Burak</first>
+<middle/>
+<last>Eskici</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="102" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

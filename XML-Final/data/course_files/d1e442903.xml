@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7595" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>97</num_int>
+</course_number>
+<title>Tutorial - Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Daria Khitrova</faculty_text>
+<description>An interdisciplinary introduction to major authors and themes of Slavic history and literature, focusing on relationships between literature, power, history, and myth. Theories of literary interpretation (including Russian Formalism and semiotics) as well as different approaches to placing literature in its social and political contexts. Readings introduce students to major figures in the Slavic literary traditions, including Pushkin, Dostoevsky, Tolstoy, Chekhov, Platonov, Kundera, Hrabal, and others.</description>
+<prerequisites/>
+<notes>For concentrators in Slavic Literatures and Cultures. Open to non-concentrators provided they contact the instructor before the beginning of the semester.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6814e2abff5cdb80ea97a92ca71fb9b2">
+<name>
+<prefix/>
+<first>Daria</first>
+<middle/>
+<last>Khitrova</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

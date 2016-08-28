@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2381" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Topology I: Topological Spaces and the Fundamental Group</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Emily Elizabeth Riehl</faculty_text>
+<description>Abstract topological spaces; compactness, connectedness, continuity. Homeomorphism and homotopy, fundamental groups, covering spaces. Introduction to combinatorial topology.</description>
+<prerequisites>Some acquaintance with metric space topology (Mathematics 23a,b, 25a,b, 55a,b, 101, or 112) and with groups (Mathematics 101, 122 or 55a).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7fc93f54d5f76c3338d09bab688f164e">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle>Elizabeth</middle>
+<last>Riehl</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="507" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2010" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Introduction to Still Photography</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Fall: Monday &amp; Wednesday 9am-12pm or 1pm to 4pm. Spring 9am-12pm only.</meeting_text>
+<faculty_text>Christopher David Killip</faculty_text>
+<description>Introduction to still photography through individual and group exercises, with an emphasis on the medium as a vehicle for expression, documentation, and personal vision. Covers necessary technical, historical, and aesthetic aspects of the medium.</description>
+<prerequisites/>
+<notes>No previous studio experience necessary.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1ad53e0cea8fc3df5e51552a5dfb529f">
+<name>
+<prefix/>
+<first>Chris</first>
+<middle/>
+<last>Killip</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1ad53e0cea8fc3df5e51552a5dfb529f">
+<name>
+<prefix/>
+<first>Chris</first>
+<middle/>
+<last>Killip</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="B-19" type="Studio"/>
+<location term="1" building="Carpenter Center" room="B-19" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

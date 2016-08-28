@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16308" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-LIVSYS">Science of Living Systems</course_group>
+<course_number>
+<num_int>20</num_int>
+</course_number>
+<title>Psychological Science</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M., W., 1-2:30, and a weekly section to be arranged; Spring: Tu., Th., 2:30-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Fall: Jason Mitchell (Psychology); Spring: Steven Pinker (Psychology)</faculty_text>
+<description>An introduction to the sciences of mind, including foundational concepts from neuroscience, evolution, genetics, philosophy, and experimental methods, and specific topics such as perception, memory, reasoning and decision-making, consciousness, child development, psychopathology, personality, language, emotion, sexuality, violence, morality and social relations.</description>
+<prerequisites/>
+<notes>Students who have taken Science B-62 or Psychology 1 may not take this course for credit but may use those courses to satisfy the General Education requirement for Science of Living Systems. This course, as well as Science B-62 and Psychology 1, meet the Tier 1 requirement for Psychology.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb1dfe823d4e4e3ef39b00565fd8e83b1">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Paul</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1127b1ba1d72490825c0f39a5a430aed">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Pinker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="105" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1059" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Lisa Parkes</faculty_text>
+<description>Advanced reading in topics not covered in regular courses.</description>
+<prerequisites/>
+<notes>Permission of the Director of Undergraduate Studies is required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0d3b22ac3e06368e61a35231dc76cff1">
+<name>
+<prefix/>
+<first>Markus</first>
+<middle/>
+<last>Wilczek</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

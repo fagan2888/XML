@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39452" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>191</num_int>
+</course_number>
+<title>Zen: History, Culture, and Critique</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>James Robson</faculty_text>
+<description>This course is an introduction to the religious history, philosophy and practices of Zen Buddhism. Zen is the Japanese pronunciation of the Chinese word Chan, which is itself a transcription of the Sanskrit word dhyana, meaning meditation. While meditation is the backbone of the Zen tradition, we will see that Zen has a number of different faces and will examine the rich diversity of the Zen tradition as it developed in China, Korea, and Japan.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3012.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

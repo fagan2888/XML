@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9464" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1706</num_int>
+</course_number>
+<title>Dharmas, Emptiness, and Idealism</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Parimal G. Patil</faculty_text>
+<description>A very close and contextual reading (in translation) of Buddhist "doctrinal" and "philosophical" texts. We will select chapters from Vasubandhu's Treasury of Metaphysics, Nagarjuna's Basis of the Middle Way, and Vasubandhu's Twenty Verses. Attempt to understand these texts on their own terms and in their South Asian contexts, while also inquiring into their significance for the study of Buddhism and religion in South Asia.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3536.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F406c66c2ec01af17cb5feb020ed97cf6">
+<name>
+<prefix/>
+<first>Parimal</first>
+<middle>G.</middle>
+<last>Patil</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

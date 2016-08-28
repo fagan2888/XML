@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77614" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>114</num_int>
+</course_number>
+<title>Organizational Failures and Disasters: Leadership in Crisis</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Joshua Wakeham</faculty_text>
+<description>Examines organizational failures and disasters from a variety of sectors and professional fields as way to understand how organizational life influences people's behavior, thinking, decision-making, and moral judgment.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa26bf56982e397bd7840823773724c3d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle/>
+<last>Wakeham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

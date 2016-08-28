@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4709" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1030</num_int>
+</course_number>
+<title>Psychology and Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>100</enrollment_limit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30</meeting_text>
+<faculty_text>David I. Laibson and Tomasz Strzalecki</faculty_text>
+<description>Psychological concepts include social preferences, impulsivity, bounded rationality, loss-aversion, over-confidence, self-serving biases, hedonics, and neuroscience. Economic concepts include arbitrage, equilibrium, rational choice, utility maximization, Bayesian beliefs, game theory.</description>
+<prerequisites>Ec 10a and Ec 10b and knowledge of univariate calculus.</prerequisites>
+<notes>Psychological concepts include social preferences, impulsivity, bounded rationality, loss-aversion, over-confidence, self-serving biases, hedonics, and neuroscience. Economic concepts include arbitrage, equilibrium, rational choice, utility maximization, Bayesian beliefs, game theory. Integrates these psychological and economic concepts to understand behavioral phenomena such as portfolio choice, saving, procrastination, addiction, asset pricing, auction bidding, labor supply, cooperation, persuasion.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F96a8d36bc5067e1aa6b31b49e2cf8040">
+<name>
+<prefix/>
+<first>David</first>
+<middle>I.</middle>
+<last>Laibson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

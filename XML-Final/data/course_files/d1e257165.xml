@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7271" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSEM">
+<dept_long_name>Committee on Non-Departmental Instruction:House Seminars</dept_long_name>
+<dept_short_name>House Seminars</dept_short_name>
+</department>
+<course_group code="HSEMR-WI">Winthrop</course_group>
+<course_number>
+<num_int>75</num_int>
+</course_number>
+<title>The Laws of War</title>
+<course_type>House Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Gregg Andrew Peeples</faculty_text>
+<description>What are the "laws of war"? This seminar examines the historical development of two legal concepts: jus ad bellum, which judges the legitimacy of the use force in international relations; and jus in bello, which defines the duties of belligerents during an armed conflict. Drawing on this background in international and U.S. law, the seminar then explores how these laws have influenced the U.S. "War on Terror" and how they might shape future conflicts.</description>
+<prerequisites/>
+<notes>Open to students from all Houses.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Faed81ad522c0adb5d4eece1bc0b28b40">
+<name>
+<prefix/>
+<first>Gregg</first>
+<middle>Andrew</middle>
+<last>Peeples</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

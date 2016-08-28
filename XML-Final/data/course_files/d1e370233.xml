@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37025" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MODMIDEAST">The Modern Middle East</course_group>
+<course_number>
+<num_int>125</num_int>
+</course_number>
+<title>Culture and Society in Contemporary Israel</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Susan M. Kahn</faculty_text>
+<description>This course uses a variety of methodological approaches to explore the multidimensional nature of contemporary Israeli culture and society. Conventional and alternative narratives of the Israeli experience will be illuminated by analyzing a variety of texts, including literature, film and ethnography. Careful attention to historical and social contexts will amplify these explorations. The goal of the course is to give students a range of scholarly tools to explore central questions about Israeli culture and social life.</description>
+<prerequisites/>
+<notes>Course taught in English; no Hebrew necessary.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6818373fb70763d8bf0e77c8ad5d3970">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Kahn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland St., 38 (CMES)" room="208" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

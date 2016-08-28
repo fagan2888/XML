@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9395" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>24</num_int>
+</course_number>
+<title>Reinventing Boston: The Changing American City</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Luberoff (Sociology; Radcliffe Institute), Christopher Winship (Sociology), and Matthew E. Kaliner (Sociology)</faculty_text>
+<description>American cities have changed in extraordinary ways. In the last half of the 20th century, there was gloom about urban life and many cities were projected to decline and decay. Many did but Boston and other cities blossomed, becoming models of urban renaissance. Using Boston as a case, this course considers issues of economic change, technology, neighborhood inequality, political governance, elite relations, cultural institutions, crime, race and ethnic relations, immigration, gentrification and suburbanization. Regular guest speakers. Requirements: Several short memos on neighborhood visits, midterm essay,1 term paper, and active participation in class and section.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, may be counted for introductory Sociology concentration requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd345a79d61c588c58978f5cee1a81b63">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Luberoff</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0ff7b06939ec428db4ebb95966925c88">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle/>
+<last>Winship</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F610fb9d76043d30fa5f13c355af54ee5">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Erik</middle>
+<last>Kaliner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

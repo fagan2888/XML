@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="372" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>230</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Differential Geometry</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Hiro Tanaka</faculty_text>
+<description>Connections on the tangent bundle, Levi-Civita's theorem, Gauss's lemma, curvature, distance and volume, general relativity, connections on principle bundles.</description>
+<prerequisites>Mathematics 132 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa034decde822c3dc06511e4826d595fe">
+<name>
+<prefix/>
+<first>Hiro</first>
+<middle>Lee</middle>
+<last>Tanaka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="411" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

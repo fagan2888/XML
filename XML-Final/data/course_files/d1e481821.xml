@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79811" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1253</num_int>
+</course_number>
+<title>Sexual Health and Reproductive Justice</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Madina Agenor</faculty_text>
+<description>This intermediate-level seminar investigates the connections between sexuality, reproduction, public health, and social justice. We will examine how inequities related to gender, race/ethnicity, socioeconomic position, and sexual orientation influence the sexual and reproductive health and rights of socially and economically marginalized groups of women in the contemporary United States, especially women of color and poor and low-income women but also lesbian, bisexual, and transgender women. Using public health and social justice lenses, we will focus on the following topics: pregnancy, birth, abortion, contraception, forced sterilization, sexual violence, cervical cancer, and HIV/AIDS.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbeece13e4d353db31f9d2281d3364ccd">
+<name>
+<prefix/>
+<first>Madina</first>
+<middle/>
+<last>Agenor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

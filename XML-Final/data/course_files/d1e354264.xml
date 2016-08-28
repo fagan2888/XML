@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4984" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>212</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Chant: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Thomas Forrest Kelly</faculty_text>
+<description>Chant. Transcribing the Beneventan Chant. In preparation for a new edition, the seminar will consider the sources and the music of one of the earliest repertories of Western music, native to southern Italy.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F17ca3a66be3f7e8654d22e7d35391b31">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>Forrest</middle>
+<last>Kelly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

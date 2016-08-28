@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11874" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>155</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Ancient Mesopotamia: Archaeology and Texts</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Piotr Steinkeller and Jason A. Ur</faculty_text>
+<description>Ancient Mesopotamia was the world's first literate urban civilization. This class will examine the origins and evolution of cities, temples, and government from two complementary perspectives: the archaeological record and cuneiform inscriptions in translation. Activities will include visits to museum collections (Peabody, Semitic Museum, Boston MFA), hands-on experience with creating cuneiform tablets, and virtual tours of southern Iraq using satellite imagery.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa91767122c890a12d52a909013963a3b">
+<name>
+<prefix/>
+<first>Piotr</first>
+<middle/>
+<last>Steinkeller</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6d160deef5c5d0c72eba28d6854fb314">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Alik</middle>
+<last>Ur</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

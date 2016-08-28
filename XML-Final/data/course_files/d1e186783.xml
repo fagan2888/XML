@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94499" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Monuments of Islamic Architecture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David J. Roxburgh (History of Art and Architecture) and Gulru Necipoglu-Kafadar (History of Art and Architecture)</faculty_text>
+<description>An introduction to ten iconic monuments of the Islamic world from the beginning of Islam to the early modern period. The course introduces various types of building-mosques, palaces, multifunctional complexes-and city types and the factors that shaped them, artistic, patronal, socio-political, religio-cultural, and economic. Each case study is divided into two lectures. The first presents the monument or city by "walking" through it. The second is devoted to themes elicited from the example, developed in light of comparative monuments, sites, and/or written sources, and to problems of patronage, production, audience and meaning as they pertain to architectural history.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe1ff1e585b2b311c17248381e8e9d73f">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J.</middle>
+<last>Roxburgh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F39e095833ca4ea625e87d7450f1c90a3">
+<name>
+<prefix/>
+<first>Gulru</first>
+<middle/>
+<last>Necipoglu-Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="318" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

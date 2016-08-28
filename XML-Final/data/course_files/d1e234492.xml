@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90625" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1995</num_int>
+</course_number>
+<title>Strategy and Crisis</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Niall Ferguson</faculty_text>
+<description>The moment of crisis is the moment of discrimination: it forces decisions of obvious consequence, pitting rival theories and their proponents against one another. The crisis is par excellence the moment at which theory and practice meet. This course offers two analytical perspectives based on the study of twelve crises that are frequently seen as turning points in the modern era. To contextualize each crisis, be it political, economic, military, or a combination, we explore what the dominant theories were at the time and how they were deployed in practice in the heat of the crisis. (We may think of this a vertical, historically oriented axis of understanding.) Then we examine the linkages between crises. Are there modes of behavior or thought that are of general utility in such moments? Can strategic thought ever truly claim to be universally applicable. (We may think of this as a horizontal, thematic axis of understanding.) The course at its core is an argument for bringing history back into the core of strategic thought.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40813" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1793</num_int>
+</course_number>
+<title>Media, Public Opinion and Foreign Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Matthew A. Baum (Kennedy School)</faculty_text>
+<description>This course investigates the means through which the media and public opinion influence U.S. foreign policy. We will consider how the public learns about foreign policy, whether and when they care about it, and when political leaders will be responsive to public preferences. We will also consider the effects of real-time global news reporting and media fragmentation. The goal is to understand the interaction between the media, the public and political leaders.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc60f7e17b62501356e35aa086d5a87a2">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Baum</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

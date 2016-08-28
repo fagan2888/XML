@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59744" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>113</num_int>
+</course_number>
+<title>Crusades, Plagues and Hospitals: Medicine and Society in the Islamic Middle Ages</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11</meeting_text>
+<faculty_text>Ahmed Ragab (Divinity School)</faculty_text>
+<description>Surveys the recasting of Islamic medical practices, traditions, and institutions in response to the many health challenges of the turbulent Middle Ages, from the eleventh through the thirteenth centuries, including wars, invasions, and epidemics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

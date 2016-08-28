@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60569" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>34</num_int>
+</course_number>
+<title>Existentialism in Literature and Film</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Sean D. Kelly</faculty_text>
+<description>What is it to be a human being? How can human beings live meaningful lives? These questions guide our discussion of theistic and atheistic existentialism and their manifestations in literature and film. Material includes philosophical texts from Pascal, Kierkegaard, Nietzsche, Sartre; literature from Dostoevsky, Kafka, Beckett; films from Jean-Luc Godard, Alain Resnais, Carol Reed.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb41e46a9f0ec4f42b6db21ac94ca579d">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle>D</middle>
+<last>Kelly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

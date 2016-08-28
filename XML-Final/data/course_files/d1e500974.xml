@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86071" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2454</num_int>
+</course_number>
+<title>God and Modern Writing</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 12&amp;#8211;2 and an hour to be arranged.</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>Whatever else the word modern means, it has named a crisis in European and American styles or a crisis of inheritance for traditional forms--a crisis of confidence about form as such. Histories of modern arts or literatures tell familiar stories about how the crisis played itself out by defacing the old or improvising the new. It is not so obvious what story could be told about modern Christian theology. Indeed, it may not be clear how much modern theology there has been in this sense--namely, theology written as deliberate response to a general crisis of form. This course will pose the question, what modernity means for writing about God. It will look within and beyond theology's academic boundaries to a selection of formally deliberate texts in a variety of genres, from scriptural commentary to massmarket fiction. These texts will include works by Kierkegaard, Nietzsche, Barth, Dorothy Day, Simone Weil, Leo Strauss, and Michel Foucault, among others.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2374.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

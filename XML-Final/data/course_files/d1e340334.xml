@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88259" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>63</num_int>
+</course_number>
+<title>Biochemistry and Molecular Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Alain Viel and Rachelle Gaudet</faculty_text>
+<description>The course integrates an introduction to the structure of macromolecules and a biochemical approach to cellular function. Topics addressing protein function will include enzyme kinetics, the characterization of major metabolic pathways and their interconnection into tightly regulated networks, and the manipulation of enzymes and pathways with mutations or drugs. An exploration of simple cells (red blood cells) to more complex tissues (muscle and liver) is used as a framework to discuss the progression in metabolic complexity. Students will also develop problem solving and analytical skills that are more generally applicable to the life sciences.</description>
+<prerequisites>LS 1a or LPS A.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F395d5e262cea6d425331a5558e5dde1d">
+<name>
+<prefix/>
+<first>Alain</first>
+<middle/>
+<last>Viel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F165edb8d123232254f2eb19b107308ff">
+<name>
+<prefix/>
+<first>Rachelle</first>
+<middle/>
+<last>Gaudet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

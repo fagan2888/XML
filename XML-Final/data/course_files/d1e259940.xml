@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83815" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1495</num_int>
+</course_number>
+<title>The Head</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Katherine D. Zink</faculty_text>
+<description>How and why does the human head look the way it does? How does the head develop, and what is the interplay between this development and how the head evolves? Why are human brains so anomalously large, while our faces are quite small? In this seminar, we will explore the evolution and natural history of the head, using the comparative anatomy of our primate and hominin relatives as a guide.</description>
+<prerequisites>Life Sciences 2 or Human Evolutionary Biology 1420 recommended, but not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F42c61e3756f6f9a5ae10c521d60bc7ab">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle/>
+<last>Zink</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="52H" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

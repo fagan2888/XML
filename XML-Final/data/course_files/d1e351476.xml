@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3806" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>167</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Introduction to Electroacoustic Music</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Hans Tutschku</faculty_text>
+<description>Composition and performance with analogue and digital electronic media. Projects realized using recording gear and computers; study of relevant aspects of acoustic and electronic theory; repertoire since 1948 of musique concrete, acousmatic, and live-electronic music; synthesis, sampling, digital recording, and live performance techniques. Hands-on work will culminate in a final performance of individual projects.</description>
+<prerequisites>One course in theory/composition or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5b5e1b53f0ff1338bacdd7b062dd7106">
+<name>
+<prefix/>
+<first>Hans</first>
+<middle/>
+<last>Tutschku</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80717" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>Mathematical Foundations of Statistical Software</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Monday 2-4:30, plus weekly sections to be arranged</meeting_text>
+<faculty_text>Paul G. Bamberg</faculty_text>
+<description>Presents the probability theory and statistical principles which underly the tools that are built into the open-source programming language R. Each class presents the theory behind a statistical tool, then shows how the implementation of that tool in R can be used to analyze real-world data. The emphasis is on modern bootstrapping and resampling techniques, which rely on computational power. Topics include discrete and continuous probability distributions, permutation tests, the central limit theorem, chi-square and Student t tests, linear regression, and Bayesian methods.</description>
+<prerequisites>An excellent backgound in single-variable calculus and infinite series, plus basic knowledge of multiple integration. Mathematics 18 or 21a, taken concurrently, would be sufficient. Students should be skillful software users but need not be programmers. Background in elementary probability (e.g. AP Statistics or Computer Science 20) would be helpful but is not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe748b4af19b4ea7d9f029fbcc71d84c2">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Bamberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1630"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="222" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

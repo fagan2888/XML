@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4105" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Charlemagne in History, Story, and Myth</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Sean J. Gilsdorf</faculty_text>
+<description>Charlemagne long has been seen as the mythic father of nation-states and precursor of a united Europe. We will approach Charlemagne not simply as a legend, however, but as a compelling historical figure. Beginning with the rise of the Frankish monarchy and the emergence of the Carolingian dynasty, we will turn to consider the figure of Charlemagne himself and the kingdom that he controlled, before exploring Charlemagne's historical, political, and symbolic legacy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F67b952e1925fda53e8c8262eeb075df5">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle>J.</middle>
+<last>Gilsdorf</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="128 (Kates Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

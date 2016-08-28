@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60522" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2484</num_int>
+</course_number>
+<title>Christianity and Contemporary American Fiction</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Matthew Lawrence Potts (Divinity School)</faculty_text>
+<description>This course will study the role of Christian images, theologies, traditions, histories, and identities in contemporary American fiction. The course will seek to ask what it might mean for a literary text to bear religious meaning in contemporary America. What does it mean for a text (or a person, for that matter) to be religious in America today? We will pursue these questions primarily through the study of literary texts (novels and short stories) published within the last twenty years, with authors to include Cormac McCarthy, Toni Morrison, Louise Erdrich, and Lorrie Moore, among others.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2176.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feab43fcbcbd8f43b7393216be620aca5">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Lawrence</middle>
+<last>Potts</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7210" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2140</num_int>
+</course_number>
+<title>Econometric Methods</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Keisuke Hirano</faculty_text>
+<description>Econometric methods for cross-section and panel data. Topics include generalized method of moments, empirical likelihood, instrumental variables, bootstrapping, clustering, treatment effects, selection bias, difference-in-differences, qualitative choice, quantile regression, nonparametric methods, and semiparametric methods.</description>
+<prerequisites>Economics 2120 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd17d2ea6597443fb0135326ce06d024f">
+<name>
+<prefix/>
+<first>Keisuke</first>
+<middle/>
+<last>Hirano</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

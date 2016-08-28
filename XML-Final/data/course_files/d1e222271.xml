@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11537" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>3050</num_int>
+</course_number>
+<title>Federal Research Funding</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course focuses on federal scientific research grant applications. Students will learn about the most common forms of federal grant applications, basic components of applications, and the scientific review process for NIH / AHRQ. Students will develop a dissertation grant application, and will review actual grant applications as part of the course.</description>
+<prerequisites/>
+<notes>Required of AHRQ trainees. For more information, see the &lt;a href="http://isites.harvard.edu/icb/icb.do?keyword=k99087"&gt;course website&lt;/a&gt;.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F158bd5e3b9a65c49c7f61a44d577bfda">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle/>
+<last>Hsu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

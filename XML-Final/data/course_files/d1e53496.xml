@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15288" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>213</num_int>
+</course_number>
+<title>Comparative Arts</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Daniel Albright</faculty_text>
+<description>Is there one Art, or are there many arts? We will consider affinity and difference among literature, painting, music, and other arts. Student projects will investigate works of art that submit to or reject a particular material medium. Theory from Plato (Ion), Aristotle, Lessing, Burke, Diderot, Rousseau, Hegel, Pater, Greenberg, Heidegger; examples from Homer, Leonardo, Turner, Monet, Rossetti, Wagner, Richard Strauss, Apollinaire, Schoenberg--and others.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2daea07f033d736ce13802c4a43535c5">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Albright</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8958" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>Quantitative Methods in Sociology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 10</meeting_text>
+<faculty_text>Burak Eskici</faculty_text>
+<description>Introduces quantitative analysis in social research, including principles of research design and the use of empirical evidence, particularly from social surveys. Descriptive and inferential statistics, contingency table analysis, and regression analysis. Emphasis on analysis of data and presentation of results in research reports.</description>
+<prerequisites/>
+<notes>Required of and limited to Sociology concentrators, ordinarily sophomores. This course, when taken for a letter grade, meets the General Education requirement in Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F41097b16eeeb06d7a3b8d55cb8a03243">
+<name>
+<prefix/>
+<first>Burak</first>
+<middle/>
+<last>Eskici</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

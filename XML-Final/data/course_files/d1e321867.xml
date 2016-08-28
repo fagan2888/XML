@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22489" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>305</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Biochemistry and Biology of Neurodegenerative Diseases</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Biochemistry and biology are integrated to provide a broad perspective on major human neurodegenerative diseases. The biochemistry, enzymology, structural biology and pathology of disease-associated proteins and approaches to developing therapeutics will be examined.</description>
+<prerequisites/>
+<notes>Expected to be given in the second quarter of the fall term of 2014-2015.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F13bf2cbb22e2be1214070add59a969b1">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle>S.</middle>
+<last>Wolfe</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd8a87448a33ab388251571b60f882ed0">
+<name>
+<prefix>Dr</prefix>
+<first>Dominic</first>
+<middle>M.</middle>
+<last>Walsh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

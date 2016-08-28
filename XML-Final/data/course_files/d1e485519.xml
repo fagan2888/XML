@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3132" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASARCH">Classical Archaeology</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>Greek Antiquity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., at 11</meeting_text>
+<faculty_text>Adrian Staehli</faculty_text>
+<description>The course provides a broad overview of the development of Greek art, architecture, and material culture from the end of the "Dark Ages" through the Archaic and Classical periods to the Hellenistic age. It offers basic knowledge about core categories of archaeological artifacts and remains within their topographical setting and the context of Greek culture and society, and includes issues of archaeological method and problems of current research.</description>
+<prerequisites/>
+<notes>This course is a basic introduction to Greek art and archaeology and is specifically designed for undergraduates; graduate students are welcome, but the course does not count toward the Classical Archaeology course requirements for graduate students in the Classics or the History of Art and Architecture.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fda9f906e413b8a91cfae6b1baf589069">
+<name>
+<prefix/>
+<first>Adrian</first>
+<middle/>
+<last>Staehli</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

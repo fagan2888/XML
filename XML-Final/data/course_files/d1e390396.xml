@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8887" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>147</num_int>
+</course_number>
+<title>Philosophy of Language</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mark Richard</faculty_text>
+<description>An introduction to recent philosophical thought about language. Topics to include: relations between meaning and truth; the extent to which meaning is determinate and the extent to which it is shared; conceptions of language use as performative or expressive; the idea that there is a gulf between factual and evaluative language.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0c2e83773ef0366a5e734cb1994ce917">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Richard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94967" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>277</num_int>
+</course_number>
+<title>Philosophy and Law: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 5-7 p.m.</meeting_text>
+<faculty_text>Thomas M. Scanlon, Jr. and John C. P. Goldberg (Law School)</faculty_text>
+<description/>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2470.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F879401727e98fc4a3a08cf4e89d80023">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle/>
+<last>Scanlon</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F8213a905e318af145049a7dac67c8914">
+<name>
+<prefix/>
+<first>John</first>
+<middle>C.P.</middle>
+<last>Goldberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

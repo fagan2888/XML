@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63634" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>196</num_int>
+</course_number>
+<title>Capitalism and Cosmology in Modern India</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Shankar Ramaswami</faculty_text>
+<description>This course will explore the lives, politics, and cosmologies of working-class persons in modern India. The course will examine contemporary debates on globalization, development, and ecology; workers' experiences of factory work, informality, and agitations; and workers' religious practices, theologies, and cosmological visions. Core concerns of the course will include inquiries into the appropriate categories for understanding workers' lives and visions, and the possibilities for autonomous, nonviolent politics among working people in India. The course will draw upon a range of sources, including anthropology, history, religious studies, epics, and Hindi cinema.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3529.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd1305c68db76fbfc19795b7f6da5bdb0">
+<name>
+<prefix/>
+<first>Shankar</first>
+<middle/>
+<last>Ramaswami</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

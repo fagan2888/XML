@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5094" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2500</num_int>
+</course_number>
+<title>Proseminar in Social Psychology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mahzarin R. Banaji</faculty_text>
+<description>Advanced survey of classic and current research and theory in social psychology, including self, social cognition, attitudes, social influence, altruism and aggression, prejudice and discrimination, close relationships, and group dynamics.</description>
+<prerequisites/>
+<notes>For doctoral students only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

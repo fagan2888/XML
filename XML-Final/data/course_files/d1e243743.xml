@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3118" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Thomas B. F. Cummins and members of the Department</faculty_text>
+<description>In the fall term, HAA 99 includes several group tutorial meetings with the senior honors adviser, where assignments are aimed at facilitating the writing of a senior honors thesis; spring term consists of independent writing, under the direction of the individual thesis adviser.</description>
+<prerequisites/>
+<notes>Required of honors candidates in History of Art and Architecture. Permission of the Head Tutor required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7af4ca3452ac573c0753da6cecb6869a">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>B.F.</middle>
+<last>Cummins</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F7af4ca3452ac573c0753da6cecb6869a">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>B.F.</middle>
+<last>Cummins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="515" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

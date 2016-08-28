@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88347" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Cwar</num_char>
+</course_number>
+<title>Advanced Fiction: Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Fall: Th., 1-4; Spring: Th., 4-7 p.m.</meeting_text>
+<faculty_text>Amy Hempel</faculty_text>
+<description>Members of the advanced fiction workshop will aim to raise their levels of performance on the page, largely through guided revisions and continued reading to see the ways outstanding writers solved similar problems. Two complete stories with revisions are required during the term, as well as weekly critiques of colleagues' work.</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0199a16a58dfcd529fc1d11ff71184ac">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hempel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0199a16a58dfcd529fc1d11ff71184ac">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Hempel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-108" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

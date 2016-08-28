@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1575" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>185</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Visual Fabrics: Art, Media, Materiality Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-4, and a weekly film screening Tu., 7-9 pm.</meeting_text>
+<faculty_text>Giuliana Bruno</faculty_text>
+<description>How do the visual arts engage the sensorium? What is the place of materiality in our virtual world? How do film and fashion communicate as objects of material culture? As powerful image makers, film and fashion share a role with architecture and contemporary art. We explore their common language in "fashioning" sensory experience and material visual expression. Readings in contemporary visual theory and diverse film screenings explore the haptic as part of our cultural "fabric". Extensive text(ur)al analysis of Wong Kar-wai's In the Mood For Love.</description>
+<prerequisites/>
+<notes>Offered jointly with the Graduate School of Design as 4354. This course has an additional weekly film screening, Tuesday, 7 pm-9 pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff3e8283486169e234bad2a47854c595">
+<name>
+<prefix/>
+<first>Giuliana</first>
+<middle/>
+<last>Bruno</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

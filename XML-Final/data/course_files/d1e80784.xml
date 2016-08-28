@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9182" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPAN">Japanese</course_group>
+<course_number>
+<num_int>210</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Reading Scholarly Japanese for Students of Chinese and Korean</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9</meeting_text>
+<faculty_text>Wesley M. Jacobsen</faculty_text>
+<description>Development of skills in reading and translating academic genres of Japanese, with special attention to Japanese scholarship on Chinese and Korean studies. Introduction to old kana usage and classical forms commonly used in scholarly writing.</description>
+<prerequisites>Japanese 120b, and graduate standing in some field of Chinese or Korean studies.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4dc76df908fbaf5657883c375107881b">
+<name>
+<prefix/>
+<first>Wesley</first>
+<middle>Mark</middle>
+<last>Jacobsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland Pl., 9" room="Seminar Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

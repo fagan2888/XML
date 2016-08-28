@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44981" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2414</num_int>
+</course_number>
+<title>The American Attic (Graduate Seminar in General Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jill M. Lepore and Robin E. Kelsey</faculty_text>
+<description>This interdisciplinary graduate seminar is dedicated to developing an undergraduate course on the attic as both a place and a realm of the imagination. Students will explore the historical and aesthetic richness of archives.</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5911e61286dfa51da2c01faa19323498">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Lepore</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fcda09aae232767cac57c6ef5075e7b5d">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Kelsey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

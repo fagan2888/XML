@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6053" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSCI">
+<dept_long_name>Committee on Concentration in Physical Sciences</dept_long_name>
+<dept_short_name>Physical Sciences</dept_short_name>
+</department>
+<course_group code="PHYSCI">Physical Sciences</course_group>
+<course_number>
+<num_int>2</num_int>
+</course_number>
+<title>Mechanics, Elasticity, Fluids, and Diffusion</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 9:30-11, and a weekly section and lab to be arranged.</meeting_text>
+<faculty_text>Logan S. McCarty</faculty_text>
+<description>An introduction to classical mechanics, with special emphasis on the motion of organisms in fluids. Topics covered include: kinematics, Newton's laws of motion, oscillations, elasticity, random walks, diffusion, and fluids. Examples and problem set questions will be drawn from the life sciences and medicine.</description>
+<prerequisites>Physical Sciences 1 (or Chemistry 7), Mathematics 1b, or the equivalent.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbbbf6f776aa5ba1563ef88b52d03e8d6">
+<name>
+<prefix/>
+<first>Logan</first>
+<middle>Stewart</middle>
+<last>McCarty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="930" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="930" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" C" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

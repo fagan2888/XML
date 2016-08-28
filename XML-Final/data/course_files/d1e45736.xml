@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95622" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="CHBI">
+<dept_long_name>Committee on Higher Degrees in Chemical Biology</dept_long_name>
+<dept_short_name>Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEMBIO">Chemical Biology</course_group>
+<course_number>
+<num_int>300</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Introduction to Chemical Biology Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Lectures introduce the research areas of current program faculty in Chemical Biology.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F31f04860bbad3ff54ed325d0a593b0f2">
+<name>
+<prefix>Dr.</prefix>
+<first>Suzanne</first>
+<middle/>
+<last>Walker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F31f04860bbad3ff54ed325d0a593b0f2">
+<name>
+<prefix>Dr.</prefix>
+<first>Suzanne</first>
+<middle/>
+<last>Walker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1630" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

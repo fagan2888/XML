@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9529" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2099</num_int>
+</course_number>
+<title>Mechanism Design and Approximation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Jason Hartline</faculty_text>
+<description>This course studies the design of mechanisms to mediate the interaction of strategic individuals so that desirable outcomes are attained. A central theme will be the tradeoff between optimality of an objective such as revenue or welfare and other desirable properties such as simplicity, robustness, computational tractability, and practicality. This tradeoff will be quantified by a theory of approximation which measures the loss of performance of a simple, robust, and practical approximation mechanism in comparison to the complicated and delicate optimal mechanism. The class focuses on techniques for performing this analysis, economic conclusions, and consequences for practice. The class will follow the textbook manuscript at: http://jasonhartline.com/MDnA/</description>
+<prerequisites>Students are recommended to have prior graduate or advanced undergraduate course work in at least one of algorithms, game theory, or microeconomics.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd5d9468322d3afc7c3055c91f47014f5">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle/>
+<last>Hartline</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

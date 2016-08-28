@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36353" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Advanced Russian for Academic Professional Communication</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Natalia Pokrovsky</faculty_text>
+<description>Emphasis on close reading and stylistic analysis of the Russian language with continued development of grammatical, sociolinguistic, strategic, and discourse competencies at an advanced level. Emphasis on reading with considerable practice in speaking, presenting, and writing for professional and academic purposes.</description>
+<prerequisites>Russian 113, 114, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fee613ed315f0a049e5c36c23f1e0ffca">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle/>
+<last>Pokrovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

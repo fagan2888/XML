@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92126" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>142</num_int>
+</course_number>
+<title>Hiphop and Don't Stop: The Word</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Marcyliena Morgan</faculty_text>
+<description>Hiphop is a global phenomenon that influences social life far beyond the music and entertainment industries. Yet beyond descriptions and critiques of its mass appeal, few have considered hip-hop's development of standards and evaluations across all artistic areas and culture. Moreover, the consequences of an audience trained in the changing standards of hip-hop and charged with upholding them, has not been thoroughly explored. This course provides a critical examination of hip-hop in the US and its role as a cultural, political and artistic resource for youth. It will explore the artistic, social, cultural, linguistic and political implications of hip-hop. It is taught from the perspective of cultural and linguistic anthropology and media studies. Each year the course will include a special topic with guest lecturers. Topics include: gender and sexuality, spirituality, health, psychology, philosophy, education, politics, art, nationalism, etc.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3a0c0ce8307e84e4b2dbe27a8ddce8c7">
+<name>
+<prefix/>
+<first>Marcyliena</first>
+<middle/>
+<last>Morgan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

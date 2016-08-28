@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15165" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>232</num_int>
+</course_number>
+<title>Islamic Modernism (2): 1870-1970</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Baber Johansen (Divinity School)</faculty_text>
+<description>&lt;meta charset="utf-8"&gt;This is the second of the three seminars on Islamic Modernism. It treats the period between 1870-1970. It focuses on the development, within a colonialist context, of the learned Islamic modernism that develops in Egypt during the last third of the 19th century in the spheres of Qur'anic exegesis, the reinterpretation of Islamic normativity in a way that is compatible with the institutions of the modern nation state. This modernism also pleads for a selective reception of modern sciences from the West. This type of Islamic modernism is best represented by Muhammad &amp;#8216;Abduh, the mufti of Egypt at the end of the 19th and the beginning of the 20th century. &amp;#8216;Abduh sees in the earliest period of Islam, the lifetime of the Prophet and the first four caliphs, the model by which all Islamic societies have to abide. The Muslim societies of the 19th and the 20th centuries that deviate from this model are characterized by him as living in "ignorance" or "paganism" (jahiliyya), much as the pre-Islamic societies. This approach leads to a devaluation of the historical forms of political organization, law, and science that were developed after the early model period, a development that facilitates the adaptation of Islam to the requirements of a modern national state&lt;/meta charset="utf-8"&gt;</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3964.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fad340526f473644aeb62ddb5a4aa58a4">
+<name>
+<prefix/>
+<first>Baber</first>
+<middle/>
+<last>Johansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60925" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>193</num_int>
+</course_number>
+<title>"What's Love Got to Do With It"; Love Poetry of the Middle Ages and Early Modernity</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Luis M. Giron Negron</faculty_text>
+<description>Does love have a history? The course explores the literary history of love poetry in Europe and the Middle East from the Middle Ages through the 17th century. Reading selections from Latin and Romance love lyric (Provencal, Galician-Portuguese, French, Catalan, Spanish, the `jarchas'), Arabic and Hebrew muwashshahat, the Italian dolce stil novo, Sufi and Christian mystical poetry, the Petrarchan sonnet and its heirs (Portugal, England, Spain), Dante's Vita Nuova and erotic narrative verse (Juan Ruiz, Ibn Hazm, `Roman de la Rose'). Discussions framed by overview of premodern theories of love and recent scholarly debates on the origins of amour courtois.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3725.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F06cfc9f0386e2dee3b39e055998c1b5e">
+<name>
+<prefix/>
+<first>Luis</first>
+<middle>M.</middle>
+<last>Giron Negron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

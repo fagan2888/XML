@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95052" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>145</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Set Theory I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Peter Koellner</faculty_text>
+<description>An introduction to set theory covering the fundamentals of ZFC (cardinal arithmetic, combinatorics, descriptive set theory) and the independence techniques (the constructible universe, forcing, the Solovay model). We will demonstrate the independence of CH (the Continuum Hypothesis), SH (Suslin's Hypothesis), and some of the central statements of classical descriptive set theory.</description>
+<prerequisites>Any mathematics course at the level of Mathematics 21a or higher, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcb6a5bb857fc8a2313657081c234c4d7">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Koellner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

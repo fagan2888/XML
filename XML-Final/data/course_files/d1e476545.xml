@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96716" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>10</num_int>
+</course_number>
+<title>Human Developmental and Regenerative Biology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1, and a weekly section to be arranged</meeting_text>
+<faculty_text>Kevin C. Eggan and William J. Anderson</faculty_text>
+<description>Fundamental concepts in developmental biology will be presented within the framework of the developing and regenerating mammal. Where possible, lectures will focus on humans.</description>
+<prerequisites>Concurrent enrollment in Life and Physical Sciences A or Life Sciences 1a.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F47d70db858a1166b213cca3cda428d72">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle/>
+<last>Eggan</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe012476e22703f116fe9e23a6759b928">
+<name>
+<prefix/>
+<first>William</first>
+<middle>J.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science B"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

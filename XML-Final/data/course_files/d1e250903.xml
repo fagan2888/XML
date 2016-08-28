@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="905" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>Knowing the World: An Introduction to the History of Science</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Alex Csiszar</faculty_text>
+<description>What are the origins of modern science and of the scientific method? Have the ways of knowing the world of different cultures and societies changed over time? How has scientific knowledge been related to other enterprises such as art, religion, literature, and commerce? We will ask these questions and more through a broad survey of many of the crucial moments in the development of science from the Scientific Revolution of the 17th century to the present day. Topics and figures will include Galileo, evolution, eugenics, the atomic bomb, and the human genome project.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd103d0cf747f3d7dbdfded2e6bcaa894">
+<name>
+<prefix/>
+<first>Alex</first>
+<middle/>
+<last>Csiszar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" E" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

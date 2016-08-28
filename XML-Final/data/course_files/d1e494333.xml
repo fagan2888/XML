@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9871" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1408</num_int>
+</course_number>
+<title>Martyrdom: Bodies, Death and Life in Ancient Christianity</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 2-5</meeting_text>
+<faculty_text>Karen L. King (Divinity School)</faculty_text>
+<description>This course will consider newly discovered works, as well as engage critical readings of well-known sources, around such topics as the politics of martyrdom, performance and ritual, gender, and intra-Christian controversies.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1501.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F494383b7e235e9e97bee491399694044">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>L.</middle>
+<last>King</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

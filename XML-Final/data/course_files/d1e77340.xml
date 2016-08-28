@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91266" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Media Mix. Representations and Meaning Between Media in Japan: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2&amp;#8211;5 with film screenings on Monday evenings</meeting_text>
+<faculty_text>Alexander Nikolas Zahlten</faculty_text>
+<description>This course will explore different histories of the interconnection of media in Japan, from the early ties between theater, literature and cinema to the popularization of the media mix by the company Kadokawa and the current routes between manga, anime, light novels, films and games.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93e2ce4ee008656d8065c527b6afdf72">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Zahlten</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

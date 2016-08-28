@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20401" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1520</num_int>
+</course_number>
+<title>Colonial Latin America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Tamar Herzog</faculty_text>
+<description>This course is an introductory survey of colonial Latin American history, spanning the sixteenth to the early nineteenth century. Organized chronologically and thematically, it will examine developments in Spanish and Portuguese America by reading both secondary and primary sources (available in English translation).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2c293d3e795d8616212c0f99753afdfc">
+<name>
+<prefix/>
+<first>Tamar</first>
+<middle/>
+<last>Herzog</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

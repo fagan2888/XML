@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3838" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>151</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Nonfiction Video Projects</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>F., 1-5:30</meeting_text>
+<faculty_text>Ross McElwee</faculty_text>
+<description>Working from a proposal approved in advance by the instructor, each student plans, shoots, and edits a documentary video of his or her design. Shooting should take place over the summer and editing during the fall term. Readings and screenings augment individual work.</description>
+<prerequisites>At least one VES half-course in live-action film or video.</prerequisites>
+<notes>In exceptional cases, a student will be permitted to take the course without having filmed over the summer, but the student must have a specific proposal for a documentary that can be both shot and edited during the term. An interview with the instructor is required for admission.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfaac098622240d81b740aa84f45b9a4">
+<name>
+<prefix/>
+<first>Ross</first>
+<middle/>
+<last>McElwee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="416" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

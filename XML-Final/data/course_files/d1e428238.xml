@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4309" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>Beginning Italian I: Pathways to Italy</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: M. through Th., sections at 9, 10, 11, 12. Spring: M. through Th., at 12</meeting_text>
+<faculty_text>Elvira G. DiFabio and members of the Department</faculty_text>
+<description>For students with little or no knowledge of Italian. Aims at achieving basic communication skills and vocabulary. Emphasis on oral expression and listening comprehension. The cultural component examines everyday life through a comparative perspective: families, shopping, food culture. This course will give you the language you need to communicate effectively in Italy, and is the best way to prepare for a summer study in Italy. Course materials include workbook, audio-lab, and video.</description>
+<prerequisites/>
+<notes>Conducted in Italian. Students whose placement score does not entitle them to enter a more advanced course are assigned to Italian Aa. Students who have studied Italian for two years or more in secondary school must begin at Italian Ab or higher. May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Section on-line. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="210" type="Section"/>
+<location term="1" building="Sever Hall" room="210" type="Section"/>
+<location term="1" building="Sever Hall" room="210" type="Section"/>
+<location term="1" building="Sever Hall" room="210" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

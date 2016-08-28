@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8181" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>61</num_int>
+</course_number>
+<title>The Romance: From Jane Austen to Chick Lit</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Linda Schlossberg (Studies of Women, Gender, and Sexuality)</faculty_text>
+<description>A critical investigation of the genre's enduring popularity, beginning with Austen's satirical Northanger Abbey and three novels credited with providing narrative templates for contemporary romances (Pride and Prejudice, Jane Eyre, Wuthering Heights). We will then read twentieth-century revisions of these works (Rebecca, Wide Sargasso Sea, Bridget Jones's Diary). Topics: the female writer and reader/consumer of literature; moral warnings against romance, "sensation," and titillation; the commodification of desire; Harlequins; the relationship between high culture and low.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

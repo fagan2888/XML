@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1157" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>262</num_int>
+</course_number>
+<title>Statistical Physics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30; W., at 4</meeting_text>
+<faculty_text>Erel Levine</faculty_text>
+<description>Basic principles of statistical physics and thermodynamics, with applications including: the equilibrium properties of classical and quantum gases, phase transitions and critical phenomena, as illustrated by the liquid-gas transition and simple magnetic models. Universality, scaling and renormalization group. Introduction to non-equilibrium physics.</description>
+<prerequisites>Physics 143a and Physics 181 or Engineering Sciences 181.</prerequisites>
+<notes>Students may wish to take Applied Physics 284 when this course is bracketed.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F18954c5c1be95e993faea05126a04579">
+<name>
+<prefix/>
+<first>Erel</first>
+<middle/>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

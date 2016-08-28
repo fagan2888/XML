@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6311" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2888</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Economics of Science and Engineering Workshop</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 12-1:30</meeting_text>
+<faculty_text>Richard B. Freeman</faculty_text>
+<description>Focus on work force and career issues. Topics include: Effects of globalization on work force and innovation, growth of networks in work; impact of career incentives on productivity; university policies; mobility between academe and industry; link between ideas and outputs.</description>
+<prerequisites/>
+<notes>Offered jointly with the Business School as 4245.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3956ad677c785efeb9c52792efe7afff">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>B.</middle>
+<last>Freeman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3956ad677c785efeb9c52792efe7afff">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>B.</middle>
+<last>Freeman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

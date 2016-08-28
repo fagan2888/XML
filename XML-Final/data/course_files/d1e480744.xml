@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61128" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1144</num_int>
+</course_number>
+<title>Gender and Science</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10 and a one hour section to be arranged.</meeting_text>
+<faculty_text>Sarah S. Richardson</faculty_text>
+<description>Why are women well represented in some fields of scientific study but not others? How do gender beliefs influence the content of scientific knowledge? How is gender encoded in the practices and norms of science? This course explores the intersection of gender and science from Bacon's seventeenth-century call to "raise a masculine science" to the present. Topics include: girls, boys, and science education; gender and technology; women in the science professions; bias and objectivity in science; and gender and science in literature, film, and popular culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

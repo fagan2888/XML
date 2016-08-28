@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4987" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>134</num_int>
+</course_number>
+<title>Nature on Display</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Janet Browne</faculty_text>
+<description>Advanced seminar for undergraduates. We concentrate on the history of animal and plant collecting, exploration, and the way that "nature" is put on display in museums, zoos, botanic gardens, etc. ranging from the 17th century to the present. We also think about media and imagery including illustrations in books to early wildlife film. The course hopes to enlarge your understanding of the complex relations between display, entertainment, and scientific knowledge-as well as the natural history tradition in North America. Visits will be made to museums and archives at Harvard.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0e4b62e32bb1a3424230b69b8db1c1c5">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle/>
+<last>Browne</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

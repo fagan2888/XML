@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5712" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>230</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Music Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Matthew J. McDonald</faculty_text>
+<description>Sonic Style and the Auteur Director.This seminar examines the sonic style of directors whose films feature distinctive treatments of music, sound, and speech. Contemporary cinema will be a particular focus, including the role of new technologies in enabling directors to assert greater control over the soundtrack. The seminar will engage with recent scholarship and the films of several directors, including Alfred Hitchcock, Robert Bresson, the Coen brothers, Tom Tykwer, and Gus van Sant.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F587e6f371c978592bf3de420c9ca41ca">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>J.</middle>
+<last>McDonald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

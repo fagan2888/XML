@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70925" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>The Innovator's Practice: Finding, building and leading good ideas with others</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., W., 9-11</meeting_text>
+<faculty_text>Beth Altringer</faculty_text>
+<description>Students gain experience overcoming many under-represented challenges of becoming an innovator, including: identifying your intrinsic motivations, finding related good ideas, working effectively with others to develop them, and leading innovative professional projects to implementation. Students apply human-centered design processes (observing, interpreting, ideating, testing, refining, planning) to stimulate innovation, negotiate, strategize, and build and lead cooperative teams. Features guest speakers from industry, academia, and involves collaborating with cutting-edge companies.</description>
+<prerequisites/>
+<notes>Offered jointly with the Design School as SCI-06271.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F370a799e210b10aa1a6cf94b72792ec5">
+<name>
+<prefix/>
+<first>Bethanne</first>
+<middle/>
+<last>Altringer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="301" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

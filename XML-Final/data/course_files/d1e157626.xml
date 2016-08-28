@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53953" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>The Technology, Economics, and Public Policy of Renewable Energy</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>George Pierce Baker (Business School)</faculty_text>
+<description>Energy is the lifeblood of economic activity, and there is little prospect of this changing. However, the planet's stores of easily accessed fossil fuels are limited, and the climatological cost of continuing to rely on fossil fuels is high. This course examines the long run and short run prospects for renewable energy. We start by understanding the technology of hydro, solar, wind, and biomass. We then examine the economics of these technologies, and how subsidies and taxes affect their viability. Special attention will be paid to the interaction of technology, economics, and public policy.</description>
+<prerequisites>Economics 10a.</prerequisites>
+<notes>This course will be offered in a seminar format with an enrollment limit of 50.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F97db06e44842cbfa75968255a1141a45">
+<name>
+<prefix/>
+<first>George</first>
+<middle>P.</middle>
+<last>Baker</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

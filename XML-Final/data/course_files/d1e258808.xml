@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42215" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1416</num_int>
+</course_number>
+<title>The Neurobiology of Sociality: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2:30-5:30</meeting_text>
+<faculty_text>Katherine J. Hinde</faculty_text>
+<description>Recent research has illuminated the neural mechanisms underpinning sociality and social behavior in humans and other animals. In this seminar we will discuss publications that address modifications to neural structure and function as a result of behavioral specializations among taxa in relation to their social complexity or among individuals within species as a function of their social condition. This course will emphasize the value of approaching neurobiology from an evolutionary perspective and understanding the selective pressures that have shaped our mind, brain, and behavior.</description>
+<prerequisites>Previous or concurrent registration in Molecular and Cellular Biology 80 strongly recommended.</prerequisites>
+<notes>Can be taken by Human Evolutionary Biology concentrators as a Junior Research Seminar. Open to graduate students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fef4edb25fa7cda3c8bc84fc4aa77a0d0">
+<name>
+<prefix/>
+<first>Katherine</first>
+<middle>Jane</middle>
+<last>Hinde</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

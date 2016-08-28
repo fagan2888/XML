@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3378" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2050</num_int>
+</course_number>
+<title>History of Psychology: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Richard J. McNally</faculty_text>
+<description>Covers major issues, theories, schools of thought, and controversies integral to the development of psychology from the late 19th century to the middle of the 20th century. Readings include classic articles exemplifying these themes.</description>
+<prerequisites>For undergraduates: SLS-20 or its predecessors plus any foundational course.</prerequisites>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F64d44107a85593ee8e1e855b795d528d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>J.</middle>
+<last>McNally</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="950" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

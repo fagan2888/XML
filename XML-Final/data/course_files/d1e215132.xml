@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22391" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1087</num_int>
+</course_number>
+<title>Shakespeare and Politics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-3:30</meeting_text>
+<faculty_text>Paul A. Cantor</faculty_text>
+<description>A study of politics in Shakespeare's plays, including such topics as forms of monarchy, the influence of Machiavelli, romantic love in a political context, the difference between tragedy and comedy in political terms, nature vs. convention in politics, and the philosopher-king and utopian politics. Readings include Richard II, Henry IV Parts One and Two, Henry V, Romeo and Juliet, A Midsummer Night's Dream, As You Like It, King Lear, and The Tempest (with background reading in political theorists such as Machiavelli).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1c934b83e3117910feda638dbecee282">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Cantor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

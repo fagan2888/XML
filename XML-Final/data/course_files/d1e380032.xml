@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4624" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Biology of Fishes</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11-12:30</meeting_text>
+<faculty_text>George V. Lauder</faculty_text>
+<description>Fishes inhabit diverse aquatic environments including deep seas, intertidal zones, coral reefs, polar waters, the vast Amazonian basin, and great East African lakes. A single fish species may occupy diverse environments through extraordinary long distance horizontal and vertical migrations. To explore this unparalleled diversity, the course emphasizes bridging traditional academic boundaries with integrative analyses of the biology underlying rapid evolutionary radiations and stasis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7f49c5d86d2acd7c6159cce4c23e889f">
+<name>
+<prefix/>
+<first>George</first>
+<middle>V.</middle>
+<last>Lauder</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7817" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CELTIC">Celtic</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>The Hero of Irish Myth and Saga</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 1</meeting_text>
+<faculty_text>Tomas O Cathasaigh</faculty_text>
+<description>A study of the ways in which the hero is represented in early Irish sources, especially in the saga literature. The texts reflect the ideology and concerns of a society which had been converted to Christianity, but continued to draw on its Indo-European and Celtic heritage. The biographies of the Ulster hero, Cu Chulainn, of his divine father, Lug, and of certain king-heroes are studied in depth. The wisdom literature, and archaeological and historical evidence will be taken into account.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6fad88adea9109ffd34edb0c6b7879a8">
+<name>
+<prefix/>
+<first>Tomas</first>
+<middle/>
+<last>O Cathasaigh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

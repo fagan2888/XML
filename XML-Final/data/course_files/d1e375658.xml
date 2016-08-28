@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3437" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NEURO">
+<dept_long_name>Committee on Degrees in Neurobiology</dept_long_name>
+<dept_short_name>Neurobiology</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>hfa</num_char>
+</course_number>
+<title>Novel Therapeutics in the Central Nervous System</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4:30-6</meeting_text>
+<faculty_text>Members of the Department</faculty_text>
+<description>Recent advances have elucidated new non-traditional molecular signaling pathways involved in many disorders and diseases in the CNS. This tutorial will focus on examining novel therapeutics and 'outside the box' approaches to treat CNS disorders: Alzheimer's, Autism, Schizophrenia, Traumatic Injury and Multiple Sclerosis. To do this, we will examine primary and clinical literature and explore drug design strategies.</description>
+<prerequisites>LS 1a, MCB 80, and permission of the instructor. Intermediate biology courses (MCB 60, MCB 52, MCB 54) are recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1c384936eccaa8ea4a29de8992156490">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>Dubreuil</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1630" end_time="1800"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1630" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="106" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

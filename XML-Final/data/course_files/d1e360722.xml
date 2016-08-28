@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="697" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>131</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Upper-Level Modern Arabic II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Section l: M. through Th., at 11; Section ll: M. through Th., at 12</meeting_text>
+<faculty_text>Nevenka Korica-Sullivan</faculty_text>
+<description>A continuation of Arabic 131a or may be taken separately with permission of the instructor. Continued emphasis on advanced reading and speaking skills, and introduction to contemporary Arabic fiction, with emphasis on short stories and essays. Required textbook: al-Kitaab -Kitaab fii Ta'allum al-Arabiyya, Part III with DVDs.</description>
+<prerequisites>Arabic 131a or equivalent.</prerequisites>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F154f8ff402e97fb6921620992b1a92c9">
+<name>
+<prefix/>
+<first>Nevenka</first>
+<middle/>
+<last>Korica Sullivan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

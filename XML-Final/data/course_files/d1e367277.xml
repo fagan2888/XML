@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59889" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>176</num_int>
+</course_number>
+<title>Islam in Modern West Africa</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., at 1, plus one hour to be arranged.</meeting_text>
+<faculty_text>Ousmane Oumar Kane</faculty_text>
+<description>At the beginning of European colonial rule in the early 20th century, less than a half of the West African population was Muslim. By independence from European colonial rule in the early 1960s, close to 90 percent of many West African countries have been Islamized. More people converted to Islam during the six decades of European colonial rule than in the preceding thousand year of slow Islamization. The aim of this lecture course is to analyze contemporary West African Muslim societies with particular reference to the twenty and twenty first centuries. This course will look at how colonialism created a favorable ground for the spread of Islam. It will also address the main institutions and movements of modern Islam in West Africa as well as the postcolonial transformations in education, gender, the arts, interfaith relations etc. In addition to the discussion section in English, this lecture course will also offer a section in Arabic in which participants will be initiated to the intellectual production of Muslim intellectuals in Africa.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 3366.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F00abc6f9c5d7e8bf194316f8154b61b4">
+<name>
+<prefix>Prof</prefix>
+<first>Ousmane</first>
+<middle/>
+<last>Kane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

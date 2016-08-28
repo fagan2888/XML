@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45194" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Experimental Embryology: From Stem Cells to Tissues and Back Again</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 2-6</meeting_text>
+<faculty_text>Paola Arlotta</faculty_text>
+<description>This advanced laboratory course will apply experimental approaches and surgical techniques to illustrate critical developmental events during mouse embryogenesis. Particular emphasis will be placed on experiments covering the following topics: fertilization and pre-implantation embryology; reprogramming of adult somatic cells into embryonic stem cells; early organ development; and surgical manipulation of late stage mouse embryos in utero.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 118 or MCB 54.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4d1bbc241f46c4f2cf0e395ed530747c">
+<name>
+<prefix/>
+<first>Paola</first>
+<middle/>
+<last>Arlotta</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

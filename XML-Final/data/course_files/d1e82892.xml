@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="120" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_char>Bxa</num_char>
+</course_number>
+<title>Elementary Korean for Advanced Beginners</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and two additional hours to be arranged.</meeting_text>
+<faculty_text>Heeyeong Jung</faculty_text>
+<description>Designed for students with some listening and speaking background, either from prior formal learning or previous exposure to a Korean speaking community. Introductory Korean course, with emphasis on reading and writing. After successful completion of this course, students are expected be able to understand main ideas and/or some facts from the simple connected texts dealing with basic personal and social needs and to be able to meet a number of practical writing needs.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5dc30a2157d395a64cc93d767b0b8fa1">
+<name>
+<prefix/>
+<first>Heeyeong</first>
+<middle/>
+<last>Jung</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="104" type="Speaking Section"/>
+<location term="1" building="Sever Hall" room="104" type="Lecture"/>
+<location term="1" building="Emerson Hall" room="106" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

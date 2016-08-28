@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60717" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Seminar: New Themes in the Study of the African Diaspora: Editorial Internship with Transition</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>Students in this seminar will work with the editor of Transition to design, edit, and produce the journal. Housed at the Hutchins Center for African and African American Research (http://hutchinscenter.fas.harvard.edu/transition), Transition is the longest running Pan African cultural magazine in history. Founded in Uganda in 1961, the journal quickly became Africa's leading intellectual forum. It was later edited by Nobel Laureate Wole Soyinka in Ghana before arriving at Harvard in 1991, with publishers Henry Louis Gates, Jr. and Kwame Anthony Appiah. Some of the best scholars and minds of the Diaspora have contributed to this journal, including Martin Luther King Jr., Chinua Achebe, James Baldwin, Julius Nyerere and many others. Students in this class will familiarize themselves with the history of Transition; chart new directions for the journal; identify topics of Pan African significance and potential contributors on those topics; and serve as critical readers of materials submitted for publication to the journal. Students will be listed in the issues of the journal they help produce as "student associate editors".</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Mount Auburn, 104" room="205" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

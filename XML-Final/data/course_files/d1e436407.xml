@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31989" offered="Y" next_year_offered="2014">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>cb</num_char>
+</course_number>
+<title>Modern Survey: Civilization and Barbarism in Latin American Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Nicole Delia Legnani</faculty_text>
+<description>In Latin American literature, the opposition between civilization and barbarism has defined America since its "discovery" by Columbus. With a focus on the intersections of time, space, language and violence in seminal texts, we look at ways their authors position the Americas and their peoples in universal history. We will also consider the role of the public intellectual and writer as political figure and founder of new national movements. Authors include Columbus, Las Casas, Teresa de Mier, Sarmiento, Marti, Dario, Gallegos, Cesar Vallejo, Borges, Arguedas, Vargas Llosa, Fernando Vallejo and Bolano.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc7cf7cca8aef5949419c7c5c4785926a">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle>Delia</middle>
+<last>Legnani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

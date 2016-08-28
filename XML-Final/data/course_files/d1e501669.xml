@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69539" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2488</num_int>
+</course_number>
+<title>Queer Theology, Queer Religions</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4&amp;#8211;6 and an hour to be arranged.</meeting_text>
+<faculty_text>Mark D. Jordan (Divinity School)</faculty_text>
+<description>According to one narrative, the encounter or collision of feminist, liberationist, and erotic theologies mainly within Christianity has produced something called queer theology. Wherever it comes from, whatever its exact genealogy, queer theology has attracted or claimed writers working on the whole range of theological topics, from scriptural exegesis or doctrines of God to ethics and liturgy. This course will attempt both to sample what has been written and to speculate about what might be written next.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2709.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F581924e3ceec4104ede5383e27023a51">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>D.</middle>
+<last>Jordan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-050" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27156" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>214</num_int>
+</course_number>
+<title>Concepts of Innovation (tajdid) in Classical Islam (9th-12th centuries)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Baber Johansen (Divinity School)</faculty_text>
+<description>&lt;meta charset="utf-8" /&gt;In the secondary literature Muslim law and theology of the Middle Period of Islam are widely characterized as tradition-bound and oriented towards the past. Such an assessment can, in fact, be justified through references to many of the texts of both disciplines. But it ignores that important jurists and theologians in 11th- and 12th century Baghdad and elsewhere adopted a different approach to the tasks of their disciplines, seeing innovation (tajdid) as the characteristic of Muslim culture, law, and theology. In this seminar we will read (in Arabic or in the translations by BJ) philosophical, legal, and philological texts that define language, law, social and cultural practices as continuing processes of innovation. The philological debate on the divine or human "Instituting of language" (wa&amp;#7693;&amp;#8216; al-lugha) that was led from the 9th to the 16th century served as a general point of reference for these debates. It will also be the starting point of our discussions. This discussion has to be related to the translation movement that - from the 8th to the 10th century - helped to integrate natural sciences and philosophy into Islamic culture and religion. We will read Dimitri Gutas' history of this translation movement. In the second half of the seminar, we will focus on the fields to which scholars of the eleventh and twelfth centuries apply their concept of innovation and the way in which the scholarly and political milieu reacted to this conceptualization.&lt;/meta charset="utf-8"&gt;</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3492.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fad340526f473644aeb62ddb5a4aa58a4">
+<name>
+<prefix/>
+<first>Baber</first>
+<middle/>
+<last>Johansen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

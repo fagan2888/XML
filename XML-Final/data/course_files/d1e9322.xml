@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45583" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>219</num_int>
+</course_number>
+<title>Proseminar: Race and Ethnicity in Latin America</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>W., 12-2</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>This yearlong seminar introduces students to current questions and debates in the study of race and ethnicity in Latin America. The course analyzes how different "racial formations," incorporating different combinations of indigenous, African, and European peoples and their descendants, have developed in Latin America since colonial times. Through the systematic comparison of several cases, the course discusses how ideas of race and nation have interacted in Latin America, shaping opportunities for mobilization and public policies; how racial identities have been formed and invoked for different cultural and political purposes; and how ideas of race and ethnicity have contributed to the stratification of Latin American societies, which are among the most unequal in the world. A final section looks at the creation of transnational networks of cooperation by indigenous and black activists and how their exchanges have shaped ideas of race and forms of mobilization in their respective societies. Students in this class will have the opportunity to meet with the authors of some of the works we are reading.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1400"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

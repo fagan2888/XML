@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85397" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2310</num_int>
+</course_number>
+<title>Brain Mystery: What is so Special about the Primate Frontal Cortex</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Yaoda Xu</faculty_text>
+<description>Read and discuss papers to understand how the primate frontal cortex supports a wide range of cognitive operations, including attention, working memory, executive control functions, and decision making.</description>
+<prerequisites/>
+<notes>Advanced graduate course not open to undergraduates. This course will only be given in spring 2014 and will not be offered again.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fac2f707e355b94ad61f59d49e175b913">
+<name>
+<prefix/>
+<first>Yaoda</first>
+<middle/>
+<last>Xu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

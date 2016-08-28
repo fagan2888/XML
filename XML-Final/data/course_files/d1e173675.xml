@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81667" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>174</num_int>
+</course_number>
+<title>Chinese Folk Arts</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Felicity A. Lufkin</faculty_text>
+<description>This course will introduce several types of Chinese (visual) folk art. We will consider them comparatively, and pay special attention to the position of folk art in contemporary Chinese society.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbabbf4a8eb023bbefc8d0a0fbdc6d751">
+<name>
+<prefix/>
+<first>Felicity</first>
+<middle/>
+<last>Lufkin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

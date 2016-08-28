@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25057" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>57</num_int>
+</course_number>
+<title>Animated Spirituality: Japanese Religion in Anime, Manga, and Film</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>108</enrollment_limit>
+<meeting_text>Tu., Th., at 1; nine film screenings Tu., 4-6pm; and a weekly section to be arranged.</meeting_text>
+<faculty_text>Helen Hardacre (East Asian Languages and Civilizations)</faculty_text>
+<description>This course addresses the representation of religion in Japanese popular culture, with emphasis on anime, manga, and film. The course examines depictions of religious figures, themes, and human dilemmas in contemporary popular culture as a gateway to understanding the significance of religion in Japanese society and history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F305d145a078c6e8fbaeb73819d960c96">
+<name>
+<prefix/>
+<first>Helen</first>
+<middle/>
+<last>Hardacre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

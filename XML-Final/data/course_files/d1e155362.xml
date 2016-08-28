@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39824" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>296</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Poets of the Pacific West: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Nicholas Bradley</faculty_text>
+<description>The West Coast of North America has been imagined in a variety of ways: as paradise, as the end of the world, and as a point of contact with Asia, among others. This seminar will concentrate on poetic responses to the natural and social environments of the Pacific West-a transborder region that spans the U.S. and Canada-in an effort to discern the intricate tangles of regional cultures and geography. Of particular interest will be the place of the West Coast in American and Canadian literature. Authors may include Jeffers, Snyder, Ginsberg, Duncan, Hugo, Kizer, Zwicky, Marlatt.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F656627054d1c172606d9d1e6942c95a1">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>Philip Richard</middle>
+<last>Bradley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

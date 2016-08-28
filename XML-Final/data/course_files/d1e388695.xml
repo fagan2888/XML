@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20223" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>19</num_int>
+</course_number>
+<title>Introduction to Philosophy of Religion</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Cheryl K. Chen</faculty_text>
+<description>An examination of some central themes in the philosophy of religion. Topics include: arguments for and against the existence of God, divine attributes, the problem of evil, miracles, religious experience, the relation between religion and science, and life and death. Readings from historical and contemporary sources.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbae62b5b727c2ca2e10f3e5354162add">
+<name>
+<prefix/>
+<first>Cheryl</first>
+<middle/>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3477" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>153</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Intermediate Animation Workshop</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Thu., 1-5, and weekly film screenings F., 1-3.</meeting_text>
+<faculty_text>Ruth S. Lingford (fall term), Paul Bush (spring term)</faculty_text>
+<description>This course offers returning animators a chance to extend and deepen skills and understanding of animation and to make a more substantial piece of work, alongside introductory level students who will learn some basic tools of animation. Additional exercises encourage students to challenge themselves and explore a range of creative possibilities.</description>
+<prerequisites>This course welcomes both introductory level and intermediate level students.</prerequisites>
+<notes>This course has an additional weekly film screening, Friday, 1-3 pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5129580f56c96835f723b5918b802955">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle>Stella</middle>
+<last>Lingford</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5129580f56c96835f723b5918b802955">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle>Stella</middle>
+<last>Lingford</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="402" type="Studio"/>
+<location term="1" building="Carpenter Center" room="B-04" type="Film Screening"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

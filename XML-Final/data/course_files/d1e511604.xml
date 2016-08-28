@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92002" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>330</num_int>
+</course_number>
+<title>Teaching Workshop</title>
+<course_type>Workshop</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course serves as an introduction to teaching in Visual and Environmental Studies, as well as a forum for designing instruction. There will be an emphasis on discussions of hybrid methodologies between research and practice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F3e936c2d950dc127d7c39ea0370212d3">
+<name>
+<prefix/>
+<first>Matt</first>
+<middle/>
+<last>Saunders</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3e936c2d950dc127d7c39ea0370212d3">
+<name>
+<prefix/>
+<first>Matt</first>
+<middle/>
+<last>Saunders</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

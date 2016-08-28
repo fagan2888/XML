@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64666" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>26</num_int>
+</course_number>
+<title>Sex and the Citizen: Race, Gender, and Belonging in the United States</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>126</enrollment_limit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Caroline Light (Studies of Women, Gender, and Sexuality)</faculty_text>
+<description>Even before the formal establishment of the United States, assumptions about sex have helped determine who is entitled to - and not entitled to - the privileges and protections of full citizenship. This course investigates the roles that sex, race, gender, and sexuality have played in configuring notions of citizenship over time as well as the ways in which sexual rights remain a site of contestation and struggle in the modern United States.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F67a1dc7e159d9f57f7aa554402dea4a5">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Light</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

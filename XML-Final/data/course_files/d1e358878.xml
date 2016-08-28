@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9522" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Ancient Jewish Wisdom Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>A close critical reading and interpretation of works thought to derive from the Wisdom tradition of ancient Israel, through the Second Temple period. The workings of the world and the ways of God as they appear in works such as Proverbs, Job, Qohelet, Ben Sira, some Psalms, the Wisdom of Solomon, Fourth Maccabees, and Pseudo-Phocylides as well as narratives about such figures as Joseph, Esther, and Daniel. Egyptian and Mesopotamian antecedents and parallels briefly considered. Emphasis on matters of worldview and literary form.</description>
+<prerequisites>Ancient Near East 120 or an equivalent introduction to the historical-critical study of the Hebrew Bible.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1416.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

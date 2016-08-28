@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="476" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Philosophy and Methods of the Social Sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Cameron Macdonald and Eric Beerbohm</faculty_text>
+<description>This course integrates research methods with an investigation of the philosophical foundations of the social sciences. Topics covered include causal explanation, interpretation, rational choice and irrationality, relativism, collective action, and social choice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5f35b6bafaee5c33f5fbb1345a61492e">
+<name>
+<prefix/>
+<first>Cameron</first>
+<middle/>
+<last>Macdonald</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa98b4b55f758af1cb04ace192c094256">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Beerbohm</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

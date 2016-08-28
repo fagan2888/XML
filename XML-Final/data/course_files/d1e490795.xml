@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8487" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="MODGRK">Modern Greek</course_group>
+<course_number>
+<num_int>100</num_int>
+</course_number>
+<title>Advanced Modern Greek: Introduction to Modern Greek Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1&amp;#8211;3, and a one-hour section, to be arranged.</meeting_text>
+<faculty_text>Vassiliki Rapti</faculty_text>
+<description>Special Topic: Introduction to the Poetry of Nobel Laureate George Seferis. Literary, sociocultural, and linguistic analysis of selected readings in prose, poetry, and literary criticism by George Seferis. Emphasis will also be given to the reception of the Nobel laureate Greek poet. Students will achieve linguistic and cultural competency while grasping a complete portrait of the poet and diplomat George Seferis within a broader historic and sociopolitical context of 20th-century Greece.</description>
+<prerequisites>Modern Greek B or equivalent and permission of instructor.</prerequisites>
+<notes>Conducted in Greek.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe61384e15adba80d1e9b2be12f614d30">
+<name>
+<prefix/>
+<first>Vassiliki</first>
+<middle/>
+<last>Rapti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="103" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

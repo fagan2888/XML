@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46977" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1243</num_int>
+</course_number>
+<title>Men to Boys: Masculinity in Postwar Hollywood Film</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>M., 1&amp;#8211;3 and a one hour section to be arranged.</meeting_text>
+<faculty_text>Michael Bronski</faculty_text>
+<description>This survey course examines the changing images of masculinity in Hollywood films from 1950 to the present. We will use the films, critical readings, feminist theory, film theory and primary source materials to chart the enormous changes in how postwar culture conceptualized "manhood" and "masculinity." Beginning with post-World War II films such as "The Men," and then covering Vietnam films and sports films such as "Rocky" and "Raging Bull" we will end with popular comedies celebrating male immaturity of Judd Apatow. We will be analyzing the films in the economic, political, sociological, and psychological context in which they were made and to which they were responding.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4df52a41d91ec8093b9ac3589143cd2d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Bronski</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

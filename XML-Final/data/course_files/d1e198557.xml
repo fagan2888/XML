@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4588" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>18</num_int>
+</course_number>
+<title>Europe on Trial: Retribution, Renewal and Reconciliation Since 1945</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Mary D. Lewis (History)</faculty_text>
+<description>This course examines Europe from the aftermath of the world's most destructive war to today's euro crisis. Using the idea of "trials" both literally and figuratively, we will address the major themes of postwar retribution, the Cold War, decolonization, new social movements, the fall of Communism, the expanding European Union, and the dilemmas facing a pluralist and postcolonial Europe. The roles of vigilante justice, terrorism, social justice and economic welfare will also be explored. Students will study the transcripts and accounts of political trials to examine how these themes occurred and recurred in post-war Europe.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe73bb627243d65bf7cb295f3e556ea3c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>D.</middle>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

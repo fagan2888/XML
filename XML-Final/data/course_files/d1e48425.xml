@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14862" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>Chemistry of Positron Emission Tomography</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Jacob M. Hooker (Medical School)</faculty_text>
+<description>This course will provide exposure to translational imaging from a unique chemical perspective. The focus of the course will be radiotracer chemistry but additional topics such as imaging physics, imaging equipment, and probe design based on biology, pharmacokinetics, and image analysis will be covered. Students will leave the course with working knowledge of radiotracer design and human translational imaging.</description>
+<prerequisites>One year of Organic Chemistry.</prerequisites>
+<notes>Laboratory sessions may be arranged.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F24c9042e1062a8631978fb83ac21098b">
+<name>
+<prefix>Dr</prefix>
+<first>Jacob</first>
+<middle>M</middle>
+<last>Hooker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

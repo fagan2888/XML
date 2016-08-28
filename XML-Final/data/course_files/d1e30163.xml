@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63523" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>309</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Tumor Cell Signaling and Metabolism</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will focus on the metabolic reprogramming of cells as they undergo the transformation from normal to cancer cells. Emphasis will be placed on the unique nutrient and energy demands of growing tumors, the molecular mechanisms by which oncogenic signaling pathways alter cellular metabolism, and therapeutic opportunities arising from the profound differences in the metabolism of normal versus tumor cells. This course consists of one lecture and one session of critical reading of current primary literature related to the lecture each week.</description>
+<prerequisites>Preference given to PhD students in HILS-affiliated programs (e.g., BPH, BBS, etc.)</prerequisites>
+<notes>This course will be taught every other year (odd years). Offered jointly with the School of Public Health as GCD 213.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fee89aadf6fc5b6ed34c01323ef6fb8fe">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle/>
+<last>Manning</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8749" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>History of Witchcraft and Charm Magic</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Stephen A. Mitchell</faculty_text>
+<description>This course examines witchcraft (and the "magical world view") from cross-cultural, historical, and literary perspectives. Although witches and witchcraft are considered in their non-Western settings, the course focuses on the melding of Christian and pagan views of witchcraft and magic in the European Middle Ages, and the evolving construction of witchcraft ideologies through the witch crazes of the sixteenth and seventeenth centuries to the rise of modern paganism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

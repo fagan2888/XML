@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="704" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="IRISH">Irish</course_group>
+<course_number>
+<num_int>160</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Modern Irish</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. at 11; TuTh at 3</meeting_text>
+<faculty_text>Tomas O Cathasaigh and others</faculty_text>
+<description>Geared to the interests and aptitudes of the participants, this course enhances students' confidence in using Irish as a medium of oral and written communication and introduces them to the Gaelic literary tradition.</description>
+<prerequisites>Irish 133r or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6fad88adea9109ffd34edb0c6b7879a8">
+<name>
+<prefix/>
+<first>Tomas</first>
+<middle/>
+<last>O Cathasaigh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1600"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53474" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2618</num_int>
+</course_number>
+<title>The Body in the Age of Obesity</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Susan Greenhalgh</faculty_text>
+<description>This course takes a critical, anthropological look at the nation's cultural and political obsession with the "obesity epidemic." Placing the growing girth of Americans in historical and global context, it asks how the weighty body replaced smoking as the focus of the latest national "crisis," how the problem of "obesity" has been framed, what solutions have been put in place to address it, and with what effects for individuals and society at large. The course draws on work in many fields - from public health and the anthropologies of science and medicine; to American and fat studies; to political ecology, food systems, and food justice studies - in an effort to stimulate interdisciplinary conversations about what today's intense focus on obese bodies means for us as human scientists and as citizens of the world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd0d95d44b56d32375f3b9d9ddf38ccc0">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Greenhalgh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

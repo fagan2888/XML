@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1936" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_int>150</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Readings in Cultural Studies</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-6 with two additional hours to be arranged</meeting_text>
+<faculty_text>Sang-suk Oh</faculty_text>
+<description>Selected readings in contemporary Korean on topics in art, film, drama, and cultural studies, supplemented by selections from audio-visual media on traditional and current cultural events. After completion of Korean 150a and 150b, students are expected to be able to participate in most formal and informal conversations on practical, social, professional, and abstract topics and read with almost complete comprehension and at normal speed expository prose on unfamiliar subjects and a variety of literary texts.</description>
+<prerequisites>Korean 140b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcd6b0615e4b6ee3590f0f60eaf420d4d">
+<name>
+<prefix/>
+<first>Sang-suk</first>
+<middle/>
+<last>Oh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

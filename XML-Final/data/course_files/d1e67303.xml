@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38407" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>286</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Current Topics in Biogeochemistry I: Biological and Inorganic Stable Isotope Systematics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 8-11</meeting_text>
+<faculty_text>David T. Johnston and Ann Pearson</faculty_text>
+<description>This is a reading class aimed at touring the literature on light stable isotope systematics. Topics covered will range from classic applications in geology (diagenetic and high temperature exchange), through to more novel isotope systems (clumping, 17O, etc.) and applications in biological systems (for instance, those effects associated with RuBiSCo). Topics covered will also flex with the interest of the enrolled students.</description>
+<prerequisites>EPS 186 and 187 or equivalent; or permission of instructor.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9a54c6da426f3cf85ccce6e0d02f4840">
+<name>
+<prefix/>
+<first>David</first>
+<middle>T</middle>
+<last>Johnston</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F4e3d7bdea7afc4e4994b0775fa447030">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Pearson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

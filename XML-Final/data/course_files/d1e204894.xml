@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73323" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>67</num_int>
+</course_number>
+<title>German in Revue: Kabarett through the 20th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Lisa Parkes</faculty_text>
+<description>Immersion into German language and culture through German Kabarett of the 20th century. Introduction to the writing and performance techniques of German cabaret artists, including the analysis of comedic skits, political and social satire, parody, and humorous poetry. The final project involves a performance of a Kabarett revue.</description>
+<prerequisites>German C or equivalent.</prerequisites>
+<notes>Taught in German. Interested students are required to apply in writing to Dr. Lisa Parkes no later than the first day of the Spring term of 2014.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc6f2d2ffa9313ac48deab17d6a361834">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>Caroline</middle>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

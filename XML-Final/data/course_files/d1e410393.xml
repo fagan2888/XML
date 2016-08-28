@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16581" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Social Factors in the Development of Psychopathology</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mahzarin R. Banaji and members of the Department</faculty_text>
+<description>This course will review the role social factors (social support, social interactions, social functioning, and the broader social context of communities) relate to the development and maintenance of psychopathology. In the context of disorders such as schizophrenia, depression (including suicide), eating disorders, and post-traumatic stress disorder, this course will look at how social factors might contribute to the development of mental illness, as well as how social factors might be indicators of mental illness, and finally how social factors might mediate the severity of or even prevent the development of mental illness.</description>
+<prerequisites>Science of Living Systems 20 and Psychology 18.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F915b0ed348ff3b904d5fa0f461ab8f26">
+<name>
+<prefix/>
+<first>Mahzarin</first>
+<middle>R.</middle>
+<last>Banaji</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

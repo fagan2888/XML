@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14818" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KORLIT">Korean Literature</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Korean Literature: Texts and Contexts, 9th Century through the Early 20th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Si Nae Park</faculty_text>
+<description>This lecture course introduces students to select representations of Korean literature through literary works and their contexts from the 9th through the early 20th centuries. Lectures will be on the socio-cultural, historical, political, and philosophical contexts within which the texts, their writers' lives, their customs, their worldviews were embedded. Readings include original texts in translation and parallel scholarly commentaries. Students will read diverse genres of writing including biographies, memorials, poetry, songs, letters, fictional prose, travelogues, memoirs, folklore, and p'ansori. Some of our literary texts may perfectly fit our understanding of what a literary text is supposed to be, while others will challenge us to expand the boundaries of what we define as literature. The course aims to uncover sensibilities that constituted what Koreans during this period perceived as literary and literature-like. Combining lectures and deep reading of the course materials for class discussions, the course also uses visual representations such as paintings, maps, and old books, and portrayals of traditional Korean literary practices in film and television. Those interested in East Asian literature, history, and society will find this course useful.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa2fd5a04cdc0e2ee32583ed7536dbb97">
+<name>
+<prefix/>
+<first>Si Nae</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

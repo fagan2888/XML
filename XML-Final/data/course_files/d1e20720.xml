@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59567" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2614</num_int>
+</course_number>
+<title>Sexuality and Political Economy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George Paul Meiu</faculty_text>
+<description>This course provides students with a basic conceptual language for understanding the complex relations between sexuality, capitalism, power, and the cultural politics of globalization. Throughout the past four decades, sexuality became an important topic of interdisciplinary debate that resulted in a vast and complex array of studies and perspectives. After Michel Foucaul'ts The History of Sexuality, the role of modern forms of power that work to discipline subjects and regulate populations has become central to how scholars conceptualize sexuality. By comparison, however, the relation between sexuality and the capitalist economy remains relatively undertheorized. How do the processes by which subjects produce, commodify, and consume goods shape desires, affects, and sexual subjectivities? What are the relations between commodities, discourses of sexuality, and the erotic practices of concrete historical actors? And what do we learn about globalization when we think of sexuality as a central domain of economic production, social reproduction, and political belonging?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2cf43a9aef6646796191931c33e16cba">
+<name>
+<prefix/>
+<first>George Paul</first>
+<middle/>
+<last>Meiu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

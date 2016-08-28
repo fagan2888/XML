@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91925" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>113</num_int>
+</course_number>
+<title>Environmental Archaeology of the Ancient Near East</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2&amp;#8211;4, with occasional labs to be arranged.</meeting_text>
+<faculty_text>Robert Homsher</faculty_text>
+<description>This course deals with major changes in climate and environment affecting humans, and the various ways in which Near Eastern societies have endured, mastered, or destroyed themselves, from an ecological perspective. Importance is placed on a diachronic outlook on dynamic human-environment interactions as understood through archaeology, particularly with reference to the challenge of sustainability in the so-called Anthropocene. A major focus of this course will be on case studies from around the eastern Mediterranean and greater Near East during the Holocene, but particularly dealing with examples from the Levant (modern Israel/Palestine, Syria, southern Turkey, Lebanon, and Jordan). Topics will cover different types of environments and geological processes found in the Near East, practical sampling and analytical procedures, and major categories of anthropological interpretation.</description>
+<prerequisites/>
+<notes>Ancient Near East 115 and/or Anthropology 1010 are helpful, but certainly not essential, as background.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff79c775aaf32948b014bd02ac496092">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Homsher</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

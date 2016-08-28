@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="90117" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>282</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Decision-Making Under Uncertainty</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Finale Doshi-Velez</faculty_text>
+<description>The focus of the Spring 2015 course will be reinforcement learning, a framework for solving problems involving a sequence of decisions with uncertain outcomes. This course will cover the fundamental theory through readings of classic papers and build practical intuition through coding assignments. Topics will include Markov decision process and partially observable Markov decision processes, planning under uncertainty, model-free and model-based reinforcement learning, function approximation in reinforcement learning, and batch reinforcement learning.</description>
+<prerequisites>Students should be familiar with basic linear algebra, probability, and algorithms; courses such as Stat 110, AM 21b, and CS 124 may be helpful. Students will be expected to implement algorithms in programming languages such as Matlab, Python, and Java (e.g. CS 51).</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9e1afd5c9aa134f1b789f4d12af42426">
+<name>
+<prefix/>
+<first>Finale</first>
+<middle/>
+<last>Doshi-Velez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

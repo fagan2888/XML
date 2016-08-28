@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72556" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.123</num_char>
+</course_number>
+<title>Urban America</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Lindsay M. Silver Cohen</faculty_text>
+<description>This course addresses questions about the past and present urban experience by analyzing American cities from various disciplinary perspectives. Unit I hones critical skills through close readings of How the Other Half Lives, an expose of late nineteenth-century New York. Unit II emphasizes the importance of context through analysis of the play, A Raisin in the Sun with companion texts. Unit III teaches the fundamentals of research through independent projects on our local, urban environment: Cambridge, Massachusetts. Together, these units teach the mechanics of academic writing while providing insight into the problems and promise of the American city over time.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4ea96bc91fb1b60a29f8dddd13f702a6">
+<name>
+<prefix/>
+<first>Lindsay</first>
+<middle>M.</middle>
+<last>Silver Cohen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

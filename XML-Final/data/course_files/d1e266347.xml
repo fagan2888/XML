@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1856" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>174</num_int>
+</course_number>
+<title>Tense and Aspect in Japanese</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Wesley M. Jacobsen</faculty_text>
+<description>Examination of phenomena of tense and aspect in Japanese, with special attention to verbal semantics and the interaction of temporal categories with modality and transitivity.</description>
+<prerequisites>Knowledge of Japanese equivalent to Japanese 120b, or familiarity with the linguistic structure of a non-Indo-European language, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4dc76df908fbaf5657883c375107881b">
+<name>
+<prefix/>
+<first>Wesley</first>
+<middle>Mark</middle>
+<last>Jacobsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

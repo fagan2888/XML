@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40662" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>310</num_int>
+</course_number>
+<title>Qualifying Paper</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Guides students through the process of producing an original research paper of high quality. Readings and discussion cover the identification of appropriate research problems, the nature of causal reasoning, and data analysis and write-up.</description>
+<prerequisites/>
+<notes>Required of, and ordinarily limited to, third-year graduate students while writing the qualifying paper. Not repeatable for credit.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0ff7b06939ec428db4ebb95966925c88">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle/>
+<last>Winship</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="William James Hall" room="601" type="Workshop"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

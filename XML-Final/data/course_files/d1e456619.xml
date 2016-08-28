@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82041" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>189</num_int>
+</course_number>
+<title>Democracy and Social Movements in East Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Paul Y. Chang</faculty_text>
+<description>Social movements are an important part of both democratic and non-democratic societies. This course assesses the state of civil society in East Asia by surveying contemporary social movements in China, Taiwan, Hong Kong, Japan, and South Korea. We start the course by discussing the main concepts and analytic approaches in social movement theory. We then apply these theoretical frameworks to specific mobilization efforts in East Asia, keeping in mind each country's unique historical context. With the theoretical and empirical tools gleaned from the lectures and readings, students will pursue a case analysis of an East Asian social movement of their choosing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2d505b39070604f2c167fd4b7a55aaf6">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>Yunsik</middle>
+<last>Chang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

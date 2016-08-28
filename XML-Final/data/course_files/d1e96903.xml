@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8485" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2040</num_int>
+</course_number>
+<title>Experimental Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>48</enrollment_limit>
+<meeting_text>F., 9-12</meeting_text>
+<faculty_text>Armin Falk</faculty_text>
+<description>This course discusses techniques of experimental economics and illustrates design and methodological issues in discussing recent topics in behavioral economics. At the end of the course students should be able to design their own experiments. For students who are familiar with experiments and who are already running experiments I will offer an opportunity to discuss their design ideas and to receive detailed feedback. The suggested topics include (1) an introduction to lab experiments, potential objections against lab evidence, generalizability and experimental methods, (2) classic experimental designs (markets, bargaining, public goods), (3) morality, (4) sorting, (5) formation of preferences and personality, (6) psychology of incentives (7) preferences for consistency, (8) reference dependent preferences and labor supply, and (9) non-binding default rules. Students' task for the course is to prepare a proposal for an experiment.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of the instructor. Offered jointly with the Business School as 4160.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3070458fb39121b64c9acaa6923aa199">
+<name>
+<prefix/>
+<first>Armin</first>
+<middle/>
+<last>Falk</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

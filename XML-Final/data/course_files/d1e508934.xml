@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35875" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>162</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Water Musics--A Dialogue of Electroacoustic Music and Moving Images</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tuesdays and Thursdays 10am-1pm</meeting_text>
+<faculty_text>Alfred F. Guzzetti and Hans Tutschku</faculty_text>
+<description>Students work with both video and sound composition to explore the mutual dependence of the two media. Water in its many manifestations provides the source material and playground for a series of assignments. The final project will be an art work for presentation in various venues: concert hall, gallery and outdoor spaces.</description>
+<prerequisites>Music 167 or Music 264 or one VES course in video production.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb4c276b771a145716843af02b495d78c">
+<name>
+<prefix/>
+<first>Alfred</first>
+<middle/>
+<last>Guzzetti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F5b5e1b53f0ff1338bacdd7b062dd7106">
+<name>
+<prefix/>
+<first>Hans</first>
+<middle/>
+<last>Tutschku</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="B10" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

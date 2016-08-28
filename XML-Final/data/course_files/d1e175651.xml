@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74216" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>24</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>A Brief History of Surgery</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 7-9 p.m.</meeting_text>
+<faculty_text>Frederick H. Millham</faculty_text>
+<description>In this seminar, students explore the historical foundation of modern surgical practice. They will study the medical notions of the ancients, and then see these notions overturned in The Enlightenment. Advances of the 19th century will be studied in detail. We will end with a session on combat casualty care, aided by an experienced combat surgeon. Students will write a 5 page paper on a topic in surgical history and will present their work to the class.</description>
+<prerequisites/>
+<notes>Open for Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fba3e1bb16f3e7421c52680a65af1ca31">
+<name>
+<prefix>Dr</prefix>
+<first>Frederick</first>
+<middle>H.</middle>
+<last>Millham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

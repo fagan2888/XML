@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5446" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>212</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Real Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Shlomo Z. Sternberg</faculty_text>
+<description>Banach spaces, Hilbert spaces and functional analysis. Distributions, spectral theory and the Fourier transform.</description>
+<prerequisites>Mathematics 114 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0ca8d4791f20268e405ca275b8b5872c">
+<name>
+<prefix/>
+<first>Shlomo</first>
+<middle>Z.</middle>
+<last>Sternberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="310" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

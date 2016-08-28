@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5981" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2640</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research in Industrial Organization</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-4</meeting_text>
+<faculty_text>Ariel Pakes and Gregory M. Lewis</faculty_text>
+<description>Participants present their own research in progress in an informal setting. Open to doctoral students in economics who have passed their general examinations and are in the early stages of their dissertations.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe22275f70ee5cf84ff2c4465cb8385cc">
+<name>
+<prefix/>
+<first>Ariel</first>
+<middle/>
+<last>Pakes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe18f56105a7d624db9ba70f13f8c01d0">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe22275f70ee5cf84ff2c4465cb8385cc">
+<name>
+<prefix/>
+<first>Ariel</first>
+<middle/>
+<last>Pakes</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe18f56105a7d624db9ba70f13f8c01d0">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6445" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>3505</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Colloquium in American Religious History</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Presentation and discussion of the research of doctoral candidates in American religious history.</description>
+<prerequisites/>
+<notes>Open, with instructor's permission, to doctoral students in other fields of religious studies or American studies. Offered jointly with the Divinity School as 2390.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F279f329953b0cbb696c70171b4e145fa">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Neil</middle>
+<last>Hempton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F279f329953b0cbb696c70171b4e145fa">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Neil</middle>
+<last>Hempton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

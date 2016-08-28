@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74246" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNHIST">Japanese History</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>Museum Research in Japanese Art: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Melissa M. McCormick and Ryuichi Abe</faculty_text>
+<description>Examines works in the Harvard Art Museums in art historical, literary, and religious context. The Spring 2014 seminar will focus on medieval Buddhist art and illustrated scrolls about the Shingon sect and its founder Kukai.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3d24ba923e798e10e1696207b2b691c1">
+<name>
+<prefix/>
+<first>Melissa</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F87bf909bd5c621cd40e01c25b56bdf95">
+<name>
+<prefix/>
+<first>Ryuichi</first>
+<middle/>
+<last>Abe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

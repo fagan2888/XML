@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83126" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>163</num_int>
+</course_number>
+<title>Rationality and Irrationality</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Matthew Boyle</faculty_text>
+<description>What kind of power is rationality; in what respects does it set humans apart from nonrational creatures? To what extent, if any, is a special form of understanding brought to bear in making sense of rational creatures? Though human beings are capable of rationality, clearly we are often actually irrational: we do what we judge not to be worth doing and believe what we know to be unjustified. How are such phenomena to be understood?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F927050e917539f45639c066045d49d09">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Boyle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

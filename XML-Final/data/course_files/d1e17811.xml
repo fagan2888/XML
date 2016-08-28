@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23312" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1832</num_int>
+<num_char>cr</num_char>
+</course_number>
+<title>Sensory Ethnography III: Studio Course</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., W., (F.), 2-4</meeting_text>
+<faculty_text>Lucien G. Castaing-Taylor</faculty_text>
+<description>Third in a three-term sequence in which students apply media anthropological theory and conduct ethnography using film, video, sound, and/or still photography.</description>
+<prerequisites/>
+<notes>Offered in Visual and Environmental Studies as 158cr.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6a780e85707c2933cb63cd6cb4ca474a">
+<name>
+<prefix/>
+<first>Lucien</first>
+<middle/>
+<last>Castaing-Taylor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="416" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

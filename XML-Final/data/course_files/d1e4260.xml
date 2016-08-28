@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73078" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>105</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Anthropology of Africa: Culture, Power, and Modernity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George Paul Meiu</faculty_text>
+<description>Africa has occupied a central place in the making of anthropology as a discipline. If early ethnographic studies of African contexts generated leading theories of society and political organization, contemporary anthropologists made African livelihoods key contexts for understanding modernity, globalization, and the dynamics of late capitalism. Taking "Africa" as both an ideological category of knowledge and power and a geo-political context of life, this course traces the ways in which lives, subjectivities, and intimacies in Africa mediate and are shaped by global historical processes. We examine diverse themes and theories that deal with local and regional economies; kinship and socio-political organization; ritual, sexuality, and the life course; colonial and missionary reforms; labor migration and urbanization; development and witchcraft; law and criminality in the postcolonial state; the effects of market liberalization; and the commodification of African identities. We ask: What do ethnographies of Africa offer us by means of understanding the world at large?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

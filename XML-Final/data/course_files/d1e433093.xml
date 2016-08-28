@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56372" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>264</num_int>
+</course_number>
+<title>Colonial Brazil</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Josiah Blackmore</faculty_text>
+<description>We will study the literary culture of colonial Brazil, with consideration of Brazil's place in transatlantic enterprise.</description>
+<prerequisites/>
+<notes>Conducted in Portuguese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6632425ea99f117bd5ef1e09574b2437">
+<name>
+<prefix/>
+<first>Josiah</first>
+<middle/>
+<last>Blackmore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="403" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

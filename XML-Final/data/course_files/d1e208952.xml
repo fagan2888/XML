@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7438" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SWEDISH">Swedish</course_group>
+<course_number>
+<num_char>Aa</num_char>
+</course_number>
+<title>Beginning Swedish Language and Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through Th., at 9</meeting_text>
+<faculty_text>Maja Backvall</faculty_text>
+<description>A basic course focusing on listening, speaking, reading, and writing skills. During fall term, pronunciation and listening comprehension will be emphasized, as well as regular writing assignments. Literary, film, music and other cultural texts will be introduced relatively early on. By semester's end, students will have achieved a basic literacy in everyday Swedish.</description>
+<prerequisites/>
+<notes>Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

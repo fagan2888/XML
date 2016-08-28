@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8742" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>129</num_int>
+</course_number>
+<title>Reading the 18th Century Through 21st-Century Eyes</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Christie McDonald</faculty_text>
+<description>Why study the French Enlightenment today and how? How do discussions of principle play out in real-world events? Analysis of works from the eighteenth century juxtaposed with novels, plays, media events, operas, photography and films of the 20th-21st centuries; debates in literature, philosophy and the arts about cultural differences, universality, and the search for belief and confidence in a society undergoing dramatic change. Topics include the reworking of issues urgent then as now: equality, justice, freedom, tolerance, torture, human rights, the relation of the personal to the political, the role of opinion and the media in ethical interpretation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff54ed97acd33d879f602e4de491aba76">
+<name>
+<prefix/>
+<first>Christie</first>
+<middle/>
+<last>McDonald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66608" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>39</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Traveling Latin America: Empire, I and the Empirical Eye</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 4&amp;#8211;8 p.m.; films will often be shown after class from 6-8pm</meeting_text>
+<faculty_text>Ezer Vierba</faculty_text>
+<description>From the earliest years of its "discovery" to the rise of the Machu Picchu Facebook portrait, travelers have played the most intriguing roles in Latin America: advocates of the continent's beauty, protectors of its cultures, scientists and conquerors, voyeurs, consumers and looters. How can we understand these travelers, and how have they understood themselves? In this freshman seminar we will look at a variety of accounts of historians, anthropologists, filmmakers, and travelers, in order to answer these questions. We will think about the content and form of these texts, while also contextualizing these documents historically, and considering their audiences, their genres and ideologies.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe91960ad5d711a021d6a047437fa9efc">
+<name>
+<prefix/>
+<first>Ezer</first>
+<middle/>
+<last>Vierba</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="316" type="Seminar"/>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Film Screening"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

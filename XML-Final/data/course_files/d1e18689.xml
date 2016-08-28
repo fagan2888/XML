@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17287" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1988</num_int>
+</course_number>
+<title>Kinship, Citizenship, and Belonging: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>George Paul Meiu</faculty_text>
+<description>The domains of family life, kinship, and intimacy represent central sites for the construction and contestation of social and political belonging. This course introduces students to classic and contemporary theories of society, kinship, and citizenship by way of theorizing how economic production, sovereignty, and everyday life emerge through the regulation of relatedness. Anthropologists of the late nineteenth century and of the first half of the twentieth century turned kinship into a key domain for understanding social cohesion and political organization. In the past three decades -- following feminist, Marxist, and queer critiques -- anthropologists explored how discourses about kinship and the family anchored the ideologies and practices of modernity, colonialism, nationalism, and globalization. In this course, we ask: What can various forms of kinship teach us about the politics of social reproduction and the making of citizenship -- its modes of belonging and exclusion -- in the contemporary world?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2cf43a9aef6646796191931c33e16cba">
+<name>
+<prefix/>
+<first>George Paul</first>
+<middle/>
+<last>Meiu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 416" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

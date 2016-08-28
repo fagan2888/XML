@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28338" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>298</num_int>
+</course_number>
+<title>Allegory</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Panagiotis Roilos</faculty_text>
+<description>Investigates major landmarks in the development of allegorization and allegorical literary composition in European tradition. Starting with pseudo-Herakleitos and his allegorical hermeneutics of the Homeric epics, this seminar will study different theoretical explorations and literary manifestations of allegorical discourse from antiquity to modernity from ancient Greek rhetoric to Prudentius to Byzantine literature to Dante to the Romantics to C. P. Cavafy to Benjamin and de Man. Topics to be addressed include: personification, ambiguity, hermeneutic double-tonguedness (amphoteroglosia), the interplay between allegory and other tropes and discursive modes (metaphor, metonymy, symbol, parody, satire).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe49ab18bf9b82ea5e59ed2e270ad14b1">
+<name>
+<prefix/>
+<first>Panagiotis</first>
+<middle/>
+<last>Roilos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

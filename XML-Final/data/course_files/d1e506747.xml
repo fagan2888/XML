@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41985" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>Artist as Typographer (Seminar)</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Thu. 1-3</meeting_text>
+<faculty_text>Thomas F. McDonough</faculty_text>
+<description>This course examines the recent proliferation of artists whose work employs typography. If we have been accustomed to the predominance of language in art at least since the rise of Conceptual practices in the early 1970s, the current turn represents something different: it takes up language's material realization and the particular histories carried within its forms. We'll examine the range of such practices, trace their genealogies, and assess their approaches toward contemporary communication.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc02d1dee47917ca8527c1a4fd648041e">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>F</middle>
+<last>McDonough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="401" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

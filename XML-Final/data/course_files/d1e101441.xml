@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7072" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2410</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Topics in Macroeconomics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3:30</meeting_text>
+<faculty_text>Emmanuel Farhi and Robert J. Barro</faculty_text>
+<description>Investigates the effect of financial market imperfections on aggregate investment and asset prices. Topics include financial persistence and amplification mechanisms, fire sales and limits to arbitrage, leverage cycles, asset price bubbles, financial fragility and financial contagion.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F60a897d927654bf987246576e9840e2b">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Farhi</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd074f447722cba7bd2c2541d67666de2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Barro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

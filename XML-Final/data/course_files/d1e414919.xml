@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7521" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1702</num_int>
+</course_number>
+<title>The Emotional Mind</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Leah Somerville</faculty_text>
+<description>Not only do emotions permeate our everyday lives, they have aided in the survival of the human species. But what are emotions, and what are they good for? What causes us to experience an emotion? And how do emotional responses, in turn, influence our perception, memory, decision-making, and psychological well-being? This course will address these questions by drawing on key advances from historical, philosophical, psychological, and neuroscientific perspectives.</description>
+<prerequisites>Science of Living Systems 20 and one of MCB 80, SLS 15, Psy 13, Psy 14, Psy 15, or Psy 18</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0424c0799eff9f95a1857ef0f8989715">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle/>
+<last>Somerville</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

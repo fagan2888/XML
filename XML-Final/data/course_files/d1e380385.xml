@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62937" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>Vertebrate Evolution and Development</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Arkhat Abzhanov</faculty_text>
+<description>A survey of the evolution and development of major groups of vertebrates, integrating the paleontological record of the origin of chordates, diverse fishes, amphibians, reptiles, birds, and mammals with current understanding of the genetic, cellular and developmental mechanisms that underlie these transformations.</description>
+<prerequisites/>
+<notes>Not open to students who have taken OEB 139.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff67d9e69c1224ad4d3c19dbe9017ba85">
+<name>
+<prefix/>
+<first>Arkhat</first>
+<middle/>
+<last>Abzhanov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

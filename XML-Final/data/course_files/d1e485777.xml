@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64392" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASARCH">Classical Archaeology</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Monarchic Sicily through Coins: A Cross-cultural Platform between East and West 317-212 BCE</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Carmen Arnold-Biucchi</faculty_text>
+<description>This seminar will explore Hellenistic Sicily between Egypt, Carthage, and Rome in its last century of autonomy. It is intended as a hands-on introduction to numismatic methodology: using Harvard Art Museums' collections, we will look at what coins can tell us about Sicily's ethnic populations, the history, and the cultural exchanges of that period, as well as ruler representation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff9d7703b728dfcf7fe16fcfba0969ba2">
+<name>
+<prefix/>
+<first>Carmen</first>
+<middle/>
+<last>Arnold-Biucchi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

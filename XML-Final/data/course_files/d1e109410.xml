@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3871" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>Applied Algebra</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Vahid Tarokh</faculty_text>
+<description>Introduction to abstract algebra and its applications. Sets, subsets, and partitions; mappings, operations, and equivalence relations; groups, rings, and fields, polynomials, encryption, computer coding, application of modular arithmetic, combinatorial designs, lattices, application of trellis representation of lattices, fast algorithms.</description>
+<prerequisites>Applied Mathematics 21a and 21b, or Mathematics 21a and 21b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7e8c124524bf17a9190aaa933bb1f154">
+<name>
+<prefix/>
+<first>Vahid</first>
+<middle/>
+<last>Tarokh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

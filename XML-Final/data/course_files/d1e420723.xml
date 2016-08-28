@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52745" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2652</num_int>
+</course_number>
+<title>The Psychology of Cooperation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Felix Warneken</faculty_text>
+<description>Why and how do humans cooperate? What are the origins of these behaviors in human development and evolution? In this course we discuss how research in psychology, behavioral economics and primatology can provide insight into the foundation of human cooperation. This includes the study of empathy, altruism, fairness, and collaboration.</description>
+<prerequisites>Science of Living Systems 20 and one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS 15.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3918f1a9b1dac463f83262a97a8e372d">
+<name>
+<prefix/>
+<first>Felix</first>
+<middle/>
+<last>Warneken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

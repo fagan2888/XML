@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1404" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2060</num_int>
+</course_number>
+<title>Contract Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Philippe Aghion</faculty_text>
+<description>Recent developments in contract theory. Includes hidden action and hidden information models, dynamic agency issues, incomplete contracts, and applications of contract theory to theories of the firm and corporate financial structure.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F84cb6b83841ed3476e42b540e3991d4b">
+<name>
+<prefix/>
+<first>Philippe</first>
+<middle/>
+<last>Aghion</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-17" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82359" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>250</num_int>
+</course_number>
+<title>Software Foundations</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>John G. Morrisett</faculty_text>
+<description>This course introduces concepts and techniques in the foundational study of programming languages, as well as their formal logical underpinnings. The central theme is the view of programs and languages as formal mathematical objects about which precise claims may be made and proved. Particular topics include operational techniques for formal definition of language features, type systems, and program logics. The models and proofs are formalized using mechanical theorem provers.</description>
+<prerequisites>Computer Science 51</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0d385eae518092ada5b41e8c64bb0f13">
+<name>
+<prefix/>
+<first>Greg</first>
+<middle/>
+<last>Morrisett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="100F" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

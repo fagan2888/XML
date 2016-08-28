@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3901" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Tutorial-Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Nicholas Watson and members of the Department</faculty_text>
+<description>Supervised individual tutorial in an independent scholarly or critical subject.</description>
+<prerequisites>Satisfactory completion of one term of English 98r, completion of an undergraduate seminar (90-level) taken in the junior year or earlier, and faculty approval of proposed thesis topic.</prerequisites>
+<notes>Two terms required of all thesis honors seniors. To enroll, students must submit for approval a Thesis Proposal.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F6994e7ac997e43c8873e3178e77515ce">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>James</middle>
+<last>Watson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

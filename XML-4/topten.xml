@@ -1,0 +1,12 @@
+<topten>
+  <course cat_num="3660" course_group="ECON" course_number="10a" emp="0" grad="3" prof="Mankiw" total="719" ugrad="712" xreg="0">Principles of Economics</course>
+  <course cat_num="4949" course_group="COMPSCI" course_number="50(Letter Grade)" emp="0" grad="3" prof="Malan" total="700" ugrad="678" xreg="19">Introduction to Computer Science I</course>
+  <course cat_num="9742" course_group="ETH-REASON" course_number="18" emp="0" grad="1" prof="Puett" total="700" ugrad="696" xreg="0">Classical Chinese Ethical and Political Theory</course>
+  <course cat_num="2137" course_group="LIFESCI" course_number="1a" emp="0" grad="1" prof="Lue" total="485" ugrad="484" xreg="0">An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology</course>
+  <course cat_num="6760" course_group="MATH" course_number="21a" emp="0" grad="0" prof="Knill" total="328" ugrad="328" xreg="0">Multivariable Calculus</course>
+  <course cat_num="147" course_group="STAT" course_number="110" emp="1" grad="36" prof="Rader" total="323" ugrad="281" xreg="4">Introduction to Probability</course>
+  <course cat_num="6692" course_group="CULTR&amp;BLF" course_number="34" emp="0" grad="0" prof="Harrington" total="315" ugrad="314" xreg="1">Madness and Medicine: Themes in the History of Psychiatry</course>
+  <course cat_num="4582" course_group="STAT" course_number="104" emp="0" grad="2" prof="Parzen" total="311" ugrad="307" xreg="2">Introduction to Quantitative Methods for Economics</course>
+  <course cat_num="58552" course_group="ECON" course_number="1010a" emp="0" grad="0" prof="Miron" total="305" ugrad="304" xreg="1">Microeconomic Theory</course>
+  <course cat_num="6166" course_group="GOV" course_number="20" emp="0" grad="0" prof="Levitsky" total="302" ugrad="300" xreg="1">Foundations of Comparative Politics</course>
+</topten>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6794" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Writing and Performance</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Section I: Tu., Th., 10-11:30; Section II: Tu., Th., 11:30-1; Section III: Tu., Th.,1-2:30</meeting_text>
+<faculty_text>Adriana Gutierrez and members of the Department</faculty_text>
+<description>An advanced language course designed to strengthen and develop competence in written expression. Close reading of texts in literary and non-literary genres will help students refine personal style. The performance of short excerpts of plays, combined with advanced work on oral expression and phonetics, will help students increase their fluency and ease of expression.</description>
+<prerequisites>A score between 721-750 on the SAT II test or on the Harvard Placement Test, Spanish 40, or permission of course head.</prerequisites>
+<notes>Conducted in Spanish. Recommended for concentrators. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish 50 website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd9ce6597ccfee1a9a38d006964b3c71d">
+<name>
+<prefix/>
+<first>Adriana</first>
+<middle/>
+<last>Gutierrez</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fd9ce6597ccfee1a9a38d006964b3c71d">
+<name>
+<prefix/>
+<first>Adriana</first>
+<middle/>
+<last>Gutierrez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="212" type="Section"/>
+<location term="1" building="Sever Hall" room="212" type="Section"/>
+<location term="1" building="Sever Hall" room="212" type="Section"/>
+<location term="1" building="Lamont Library" room="240" type="Section"/>
+<location term="1" building="Lamont Library" room="240" type="Section"/>
+<location term="1" building="Robinson Hall" room="107" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

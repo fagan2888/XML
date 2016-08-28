@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4070" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>167</num_int>
+</course_number>
+<title>Herpetology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30; Lab: W., 2:30-5:30</meeting_text>
+<faculty_text>James Hanken and Jonathan Losos</faculty_text>
+<description>An introduction to the biology of amphibians and reptiles. Lectures and laboratories examine the morphology, systematics, natural history, behavior, ecology, evolutionary relationships, and biogeography of all major taxa.</description>
+<prerequisites/>
+<notes>The course is planning an optional week-long field trip during spring break.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa2674dc4d97172f91de4372453c6de21">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Hanken</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F60482a013458cbd8f309cd614226f4ba">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle/>
+<last>Losos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

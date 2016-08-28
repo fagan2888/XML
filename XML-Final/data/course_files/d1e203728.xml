@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5900" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>41</num_int>
+</course_number>
+<title>Power and Protest: The United States in the World of the 1960s</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Lisa M. McGirr (History)</faculty_text>
+<description>This course charts the key events, actors, ideas and strategies of collective movements for social change during the "long 1960s." It situates these mobilizations within the key economic, social and political developments in the post-World War II period in the United States and the world. Topics include Cold War politics from Eisenhower to Nixon, the civil rights movement, the new left, the women's movement, the war in Vietnam, black power, as well as the emergence of a revitalized political Right. The legacies of these movements and the more recent economic and political shifts that have challenged some of their core assumptions are also considered.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fabe128aa0aa1fa1e62bd548659e07b4b">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>M.</middle>
+<last>McGirr</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

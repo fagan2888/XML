@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25351" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>266</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Computational Tools in Seismology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Miaki Ishii</faculty_text>
+<description>Seminar course that investigates computational tools that are readily available. Students will select one to two techniques (e.g., receiver functions and focal mechanism determination), present the basis, current research using the technique(s), and lead the class through installation and application of the method.</description>
+<prerequisites>EPS 204 or equivalent and computer programming experience; or permission of instructor.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7edba0f5ca8a767c3b3e7ecaff527ecb">
+<name>
+<prefix/>
+<first>Miaki</first>
+<middle/>
+<last>Ishii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

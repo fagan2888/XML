@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91598" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1424</num_int>
+</course_number>
+<title>American Fetish: Consumer Culture Encounters the Other</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Caroline Light</faculty_text>
+<description>How are notions of human difference, including ethnicity, race, gender, and sexuality, used to sell products in an increasingly global market? We will start in the nineteenth century with the rise of consumer culture, examining how cultures and people considered "primitive" achieved value as objects for exchange and entertainment, and then investigate how this idea takes shape in our contemporary moment. Topics include: sex tourism; commodification of "queer" and multiracial aesthetics; "compassionate" consumption.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F67a1dc7e159d9f57f7aa554402dea4a5">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Light</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

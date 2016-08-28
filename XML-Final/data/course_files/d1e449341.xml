@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="34432" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>nb</num_char>
+</course_number>
+<title>Inequality and Social Mobility in America</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 1:30-3:30</meeting_text>
+<faculty_text>Anya Bernstein Bassett</faculty_text>
+<description>The United States is currently experiencing high levels of income and wealth inequality and comparatively low levels of social mobility. This course will ask why this is and what, if anything, should be done about it. We will consider both social and individual explanations for inequality and social mobility, and we will examine efforts to increase mobility through educational and legal means.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa0b22b292e430128842e0070ced4b331">
+<name>
+<prefix/>
+<first>Anya</first>
+<middle/>
+<last>Bassett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Hilles" room="Conference Room 1" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

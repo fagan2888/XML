@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41097" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>281</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Visual Programs in Early Chinese Art</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eugene Wang</faculty_text>
+<description>The course explores the mechanism of early Chinese design and visual programming. Early visual and textual blueprints and the First Emperor's tomb serve as starting point. A variety of designs-bronze decorations and tomb furnishings-from Shang through Han will be examined in this framework. Bio-technology is the central concern.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb75a30470fbc826e536a58d6d25d284f">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle>Yuejin</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

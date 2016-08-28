@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52767" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2258</num_int>
+</course_number>
+<title>Histories of the Future (Graduate Seminar in General Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Alison Frank Johnson</faculty_text>
+<description>The seminar will consider how individual people and groups in the past thought about and planned for the future. Specific topics can include the history of: insurance; speculation; engineering and unintended environmental consequences; climate change; population growth (or decline) and social planning; education and "disruption." Our object will be to design an undergraduate course that encourages students to look critically at how we think we can plan for the future in the present.</description>
+<prerequisites/>
+<notes>Consent of instructor required. The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbce33fc85d702fa036f8fc9938d701eb">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Frank</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Adolphus Busch Hall" room="Cabot Seminar Rm (105)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1253" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>187</num_int>
+</course_number>
+<title>Art and Violence in the Cultural Revolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Xiaofei Tian</faculty_text>
+<description>Examines the cultural implications of the Cultural Revolution (1966-1976). We will examine how art was violent towards people and how violence was turned into an art. We will also consider the link between violence, trauma, memory and writing. Materials include memoir, fiction, essay, "revolutionary Peking Opera," and film.</description>
+<prerequisites>Four years of Mandarin or equivalent (with permission of instructor).</prerequisites>
+<notes>Lectures and most readings in Chinese. Discussions in Chinese. Count toward Language Citation in Modern Chinese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="212" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8971" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1368</num_int>
+</course_number>
+<title>The Politics of American Education</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>48</enrollment_limit>
+<meeting_text>Tu., Th., at 2</meeting_text>
+<faculty_text>Paul E. Peterson</faculty_text>
+<description>This course examines historical and contemporary forces shaping American K-12 education policy. It also reviews research and commentary on contemporary issues: class size, fiscal policy, teacher recruitment, compensation and tenure, accountability, school vouchers, charter schools and digital learning.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as SUP 447 (formerly HLE 347).</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0d60e58bc45015673bb56c194d23c86e">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>E.</middle>
+<last>Peterson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-010 Lecture Hall" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

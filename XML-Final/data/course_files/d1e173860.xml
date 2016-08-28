@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74849" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>f</num_char>
+</course_number>
+<title>On Broken Ground: The Science and Impact of Earthquakes</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Brendan J. Meade</faculty_text>
+<description>Great earthquakes have shaped both the Earth and history. Here we consider the causes of earthquakes, assessments of their hazard, as well as their impact on human society through an analysis of contemporary and historical ruptures. Further we discuss the future of earthquake hazards on a more populated planet and how technological approaches are allowing us to prepare for earthquakes before they happen.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7afa5de27211f04bca48192511605398">
+<name>
+<prefix/>
+<first>Brendan</first>
+<middle>J.</middle>
+<last>Meade</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="103a (Geological Museum 103a)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

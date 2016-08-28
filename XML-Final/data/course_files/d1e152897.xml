@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56886" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>138</num_int>
+</course_number>
+<title>The 18th-Century English Novel</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Stephen G. Osadetz</faculty_text>
+<description>The rise of the novel, seen through eighteenth-century fiction by Defoe, Haywood, Richardson, Fielding, Sterne, and Jane Austen. Through fiction, we can live out our highest aspirations and blackest fantasies; we can imaginatively enter the minds of others and inhabit strange, sometimes terrifying alternate realities. The early novel was preoccupied with such possibilities for dislocation and change: what happens when a character ventures far from home, and how can someone rise or fall in the world? Alongside these issues, we will explore the paradoxes of "realism," the problems of gender and class, and the sheer pleasure of reading fiction</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1916a7701def44fb26ab1e869d985973">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Osadetz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

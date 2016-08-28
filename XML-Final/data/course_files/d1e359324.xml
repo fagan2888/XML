@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16825" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>The Chosen People</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 8:30-10</meeting_text>
+<faculty_text>Michael D. Coogan (Divinity School)</faculty_text>
+<description>A consideration of the concept of the biblical motif of divine choice of individuals and groups, with close reading of representative texts in the Hebrew Bible/Old Testament. Knowledge of Hebrew not required.</description>
+<prerequisites>Introduction to Hebrew Bible/Old Testament or the equivalent.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1120.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb2535cf7eb8999689773d4b2878127be">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>David</middle>
+<last>Coogan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

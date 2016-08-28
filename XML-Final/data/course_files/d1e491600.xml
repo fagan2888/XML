@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8015" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>46</num_int>
+</course_number>
+<title>The Letters of Paul: Ethnicity, Sex, Ethics, and the End of the World</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11 and an hour to be arranged.</meeting_text>
+<faculty_text>Laura S. Nasrallah (Divinity School)</faculty_text>
+<description>This introductory course focuses on 1) the Pauline epistles in their first-century sociopolitical context, and their earliest interpretations; 2) recent trends in Pauline studies, including feminist and postcolonial interpretation, the New Perspective, and European philosophical treatments (Badiou, Zizek). Special attention will be given to ideas of the gendered/enslaved body and its potential for transformation and pollution, ethnicity in the Roman world, the relations of communities to Roman imperial power, and views of time and the impending eschaton.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1544. Former course title: Paul's Letters and Their Interpreters: Ethnicity, Empire, the Body, and the End of the World. This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8994632fe6a40a89eac32f12d4be7def">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>Salah</middle>
+<last>Nasrallah</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

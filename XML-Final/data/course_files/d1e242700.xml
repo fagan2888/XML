@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78376" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>18</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>The Japanese Woodblock Print</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Yukio Lippit</faculty_text>
+<description>This course provides an introduction to Japanese art and cultural history through a survey of the Japanese woodblock print from its emergence in the mid-17th century to the modern era. Technical developments, major genres, and master designers are explored within the context of Japan's pictorial traditions and evolving urban culture. Topics for consideration include aesthetic discourse, censorship, erotica, Japonisme, the construction of social identity, print culture, and the representation of war.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F83be5e8c683ef1dd2d5b856c5a26753d">
+<name>
+<prefix/>
+<first>Yukio</first>
+<middle/>
+<last>Lippit</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

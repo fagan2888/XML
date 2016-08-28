@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66514" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1467</num_int>
+</course_number>
+<title>Sex, Race, and The Visual: Studies in Art and Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Kimberly Juanita Brown</faculty_text>
+<description>This course will examine categories of race, gender, sex, and sexuality through the lens of the visual. Using contemporary literature, photography, performance art, film, and theories of the visual, our task is to investigate the import and utility of embodiment. How do race, gender, and sexuality function in artistic imaginary? What can we glean from cultural productions that engage the viewer/reader in ways that challenge ideas about conformity, fluidity, belonging, and self-reflection? More than a linear literary or theoretical trajectory, this course will provide a template for all the mechanisms of the visual-psychological and ocular, interpretive, rhetorical and performative.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F25cea7e9eb0ef152a2b1f4edad0b7488">
+<name>
+<prefix/>
+<first>Kimberly</first>
+<middle>Juanita</middle>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="968" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>3007</num_int>
+</course_number>
+<title>Research Workshop in Political Economy</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="2">Full course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Intended for graduate students in the third year and above, this course welcomes scholarship of all types and on all aspects of political economy. Intended to provide a venue in which to develop and to debate work in progress.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F793d4bf03ed05e5ec06fa43c63238cc8">
+<name>
+<prefix/>
+<first>Horacio</first>
+<middle/>
+<last>Larreguy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F9ce0802d23f209d19133416b15195319">
+<name>
+<prefix/>
+<first>Torben</first>
+<middle/>
+<last>Iversen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe280a6be046d6fc95ac243ec311e5877">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>A.</middle>
+<last>Shepsle</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F793d4bf03ed05e5ec06fa43c63238cc8">
+<name>
+<prefix/>
+<first>Horacio</first>
+<middle/>
+<last>Larreguy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9ce0802d23f209d19133416b15195319">
+<name>
+<prefix/>
+<first>Torben</first>
+<middle/>
+<last>Iversen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe280a6be046d6fc95ac243ec311e5877">
+<name>
+<prefix/>
+<first>Kenneth</first>
+<middle>A.</middle>
+<last>Shepsle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-354" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

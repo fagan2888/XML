@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61179" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1467</num_int>
+</course_number>
+<title>Historical Jesus</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Giovanni Battista Bazzana (Divinity School)</faculty_text>
+<description>The course will introduce the students to the history of the quest for the historical Jesus by examining the most relevant methodological issues and by reviewing the ideological and socio-political stakes in this enterprise that has been intertwined to the cultural history of the western world from the XVIII to the XXI century.</description>
+<prerequisites/>
+<notes>//Offered jointly with the Divinity School as 1277.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd922d089f638c5ff6669cb1ce7b64875">
+<name>
+<prefix/>
+<first>Giovanni</first>
+<middle>Battista</middle>
+<last>Bazzana</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

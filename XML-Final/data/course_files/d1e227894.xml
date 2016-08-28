@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1925" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1020</num_int>
+</course_number>
+<title>A Global History of Modern Times</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Charles S. Maier</faculty_text>
+<description>Think big: A historical survey of world societies since the 16th century "encounters," designed to emphasize their interactions and interdependence. Covers transnational forces such as demographic change and migration, religious revivals, industrial development, and upheavals in class, racial and gender relationships. Also follows comparative political transformation within empires and states and the international hierarchies of power, including the impact of the great revolutions, imperialism and war, trade and investment, and cultural diffusion.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2f6ff94b260c5dbf633391a3ba54c2e4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>S.</middle>
+<last>Maier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

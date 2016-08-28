@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83581" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1358</num_int>
+</course_number>
+<title>Is there more to thought than muscle twitches? Cognitive and neural aspects of object and action knowledge</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alfonso Caramazza</faculty_text>
+<description>Knowledge of objects and actions encompasses their perceptual and motor properties as well as more abstract properties such as information about their function (e.g., what they are used for, the goal of an action). In this seminar, we will explore the relationship between the sensory-motor processes involved in the perception of objects and the execution of actions and the organization and representation of the conceptual knowledge associated with objects and actions. We will review critically the relevant behavioral, neuroimaging and neuropsychological research.</description>
+<prerequisites>Science of Living Systems 20 or its predecessors plus Psychology 13 or Psychology 14 or MCB 80, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2ae2216ea525af5369b50318866448f9">
+<name>
+<prefix/>
+<first>Alfonso</first>
+<middle/>
+<last>Caramazza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

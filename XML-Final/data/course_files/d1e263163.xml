@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2164" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>60</num_int>
+</course_number>
+<title>Ethics, Biotechnology, and the Future of Human Nature</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2&amp;#8211;4, and a weekly section to be arranged</meeting_text>
+<faculty_text>Douglas A. Melton and Michael J. Sandel</faculty_text>
+<description>Explores the moral, political, and scientific implications of new developments in biotechnology. Does science give us the power to alter human nature? If so, how should we exercise this power? The course examines the science and ethics of stem cell research, human cloning, sex selection, genetic engineering, eugenics, genetic discrimination, and human-animal hybrids. Readings will be drawn from literature in the areas of biology, philosophy, and public policy.</description>
+<prerequisites/>
+<notes>May not be taken concurrently with Government 1093. May not be taken for credit if Government 1093 has already been taken. The course is open to both science and non-science concentrators. Ethical Reasoning 22 (Justice) is recommended as a background. This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fddc593582e5426a8520503fa4662c866">
+<name>
+<prefix/>
+<first>Douglas</first>
+<middle/>
+<last>Melton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2ca5625089ae385f1c4107040ed74acf">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Sandel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

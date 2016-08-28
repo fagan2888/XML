@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5039" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>History and Theory of Folklore and Mythology</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 12:30-2:30</meeting_text>
+<faculty_text>Stephen A. Mitchell</faculty_text>
+<description>Examines the development of folklore and mythology as fields of study, with particular attention to the methodological approaches suited to their areas of enquiry. Considers the study of folklore and mythology in the 19th and early 20th centuries, but focuses especially on theoretical contributions to the study of folklore, mythology, and oral literature in recent decades.</description>
+<prerequisites/>
+<notes>Required of all, and limited to, concentrators.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1230" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

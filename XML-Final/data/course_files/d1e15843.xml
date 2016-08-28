@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58559" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1606</num_int>
+</course_number>
+<title>Being Asian American: Representations and Realities</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Christine Yano</faculty_text>
+<description>This course tackles the broad, unwieldy category "Asian American" as a historically contingent, politically derived conglomeration of ethno-racial groups. Examining "Asian American" as a racialized umbrella that encompasses groups differing by national origin, culture, social class, and immigrant history, this course asks: - what kinds of stereotypes does Asian American encompass?- how do immigrant histories shape contemporary experiences?- how does the category "Asian American" shape lives? Embracing both critical and celebratory aspects of Asian American experiences, the course addresses relevant issues of race/ethnicity (including mixed-race), diaspora, cosmopolitanism, citizenship, class, gender, body, sexuality, and affect.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F18523f07c27b0933f574f18b9f24f105">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Yano</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 203" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="88853" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Political Rhetoric and American Democracy</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Adam Emanuel Sandel</faculty_text>
+<description>This course investigates a question at the heart of democratic politics: in what sense, if any, is rhetoric a part of reasoned political argument? Is rhetoric necessarily a kind of pandering or manipulation? Or can rhetoric be a part of thoughtful deliberation on the common good? We will examine the case for and against rhetoric by turning to classical texts (Aristotle, Plato, Hobbes, Kant), contemporary political theory, and great political speeches (Frederick Douglass, Abraham Lincoln, Lyndon Johnson, and others.)</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2b601952a4369ec6d76e1f4349184736">
+<name>
+<prefix/>
+<first>Adam</first>
+<middle>Emanuel Adatto</middle>
+<last>Sandel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

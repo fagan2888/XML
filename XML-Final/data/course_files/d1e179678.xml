@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35953" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>33</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Reasoning About God: Exploring Religious Belief in Light of Philosophy and Cognitive Science</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Guven Guzeldere</faculty_text>
+<description>This seminar explores the nature of religious belief and various ways of reasoning about God, in light of philosophical arguments and recent research in the cognitive sciences. Questions that will be subjected to a systematic analytical examination include the rational and psychological bases for belief in God, the metaphysical possibility of an afterlife, and the relation between faith and reason (including the relation between religious belief and scientific knowledge). We will also discuss various philosophical arguments for the existence of God, different conceptions of the soul, the problem of evil, and the relation of religion to morality.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4a922861f4a830f7b94377ed5a1da0cd">
+<name>
+<prefix/>
+<first>Guven</first>
+<middle/>
+<last>Guzeldere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="310" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2179" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>2</num_int>
+</course_number>
+<title>Celestial Navigation</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., 11:30-1:30, Tu., 7-10 pm</meeting_text>
+<faculty_text>Philip M. Sadler</faculty_text>
+<description>Never be lost again! Find your way on sea, land, or air by employing celestial and terrestrial techniques. Acquire expertise in using navigators' tools (sextant, compass, and charts) while learning the steps to the celestial dance of the sun, moon, stars, and planets. This 108-year-old course continues to rely on practical skills and collaborative problem-solving, while utilizing historical artifacts (instruments, maps, captains' logs) and student-built devices. Culminating in a day-long cruise to practice navigation skills.</description>
+<prerequisites/>
+<notes>Minimal lecturing; predominantly practical activities with individual attention from teaching staff. Math beyond high school trigonometry and geometry unnecessary. This course is offered each year.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9079489e57b719a5498b6dd90ec654fb">
+<name>
+<prefix/>
+<first>Philip</first>
+<middle>M.</middle>
+<last>Sadler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1900" end_time="2200"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1330"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

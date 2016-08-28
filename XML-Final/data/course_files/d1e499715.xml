@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66716" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1829</num_int>
+</course_number>
+<title>Readings in Islam and the History of Islam in the U.S. and Europe</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Leila N. Ahmed (Divinity School)</faculty_text>
+<description>We will read contemporary works in the history of Islam in the U.S. and Europe in the 20th and 21st centuries.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3582.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3a0b7c1827e5efebc50f0c8afb5cd563">
+<name>
+<prefix/>
+<first>Leila</first>
+<middle/>
+<last>Ahmed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

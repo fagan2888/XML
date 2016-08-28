@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7499" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>96</num_int>
+</course_number>
+<title>System Design Projects</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., Th., 4-6</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Cooperative design, development, and testing of a sizable and realistic computer system. Students work as a group with a client on a real-world open-ended problem, and gain experience in problem definition, software development, and system lifecycle issues, and in the area of application. Students work in groups; both student participation in the classroom and effective group cooperation outside the classroom are stressed.</description>
+<prerequisites>Computer Science 51 or 61.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

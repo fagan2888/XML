@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="70054" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HUM">
+<dept_long_name>Division of Humanities</dept_long_name>
+<dept_short_name>Humanities</dept_short_name>
+</department>
+<course_group code="HUM-QSTNS">Humanities: Essential Questions</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>Human History</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Maya Jasanoff (History) and Niall Ferguson (History)</faculty_text>
+<description>Six hundred years of world history through the prism of twelve encounters between "the West" and "the Rest" -- beginning with the clash between Portuguese buccaneers and Chinese eunuchs in 1517 and ending yesterday. Human History takes globalization personally, but views it from at least two very different perspectives-those of the professors. (We also show how to resurrect the dead.)</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Febadaea9325bca0591f5c052ae859cd1">
+<name>
+<prefix/>
+<first>Maya</first>
+<middle/>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F852aa15870e59daee8d3062a751b3e34">
+<name>
+<prefix/>
+<first>Niall</first>
+<middle>Campbell Douglas</middle>
+<last>Ferguson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

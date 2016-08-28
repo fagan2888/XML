@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54236" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>178</num_int>
+</course_number>
+<title>Social Network Analysis: Theory, Methods and Applications</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Interests in social network analysis have exploded in the past few years. Aimed to examine social relationships and interactions from a structural perspective, social network analysis has become an essential tool for us to understand and address a variety of social issues, including friendship formation, peer influence, career mobility, socioeconomic inequality, organizational alliance and competition, economic development, international trade, diffusion of innovations, political mobilization, crime proliferation, spreading of diseases, etc. This course covers the basic concepts and theory in social network analysis, and major approaches and methods to collect, represent, visualize and analyze social network data. Students will also have the opportunity to learn using the mainstream software in social network analysis to conduct their own research on social networks.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

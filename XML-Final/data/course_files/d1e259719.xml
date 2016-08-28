@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28385" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1480</num_int>
+</course_number>
+<title>Human Evolution through Developmental Change</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Terence D. Capellini and David Pilbeam</faculty_text>
+<description>Humans and our primate relatives display marked variation in biological traits. This variation results from natural selection operating on pre- and post-natal developmental mechanisms. While these mechanisms remain mostly unknown, recent advances in genetics, genomics, and developmental biology now allow us to begin to understand how evolutionary processes influence and are influenced by underlying developmental and genetic organization. This course explores these inter-relationships in the context of the primate paleontological record. We focus on the evolution of the cranium, dentition, axial skeleton, and limbs, and present studies that cast light on the mechanisms that underlie major transitions in human evolution.</description>
+<prerequisites>Life Sciences 1b</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F85c7bd61b373969d123929119c884f01">
+<name>
+<prefix/>
+<first>Terence</first>
+<middle>D.</middle>
+<last>Capellini</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F517763dd0fd2e6fd9a2fb9995263409a">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Pilbeam</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

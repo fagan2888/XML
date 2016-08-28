@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6478" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2450</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Public Economics and Fiscal Policy II</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11:30-1; F., 11:30-1</meeting_text>
+<faculty_text>Nathaniel Hendren</faculty_text>
+<description>This course covers theoretical and empirical applications of public economics to policy debates. Topics include education, local public finance, fiscal federalism, housing policy, corporate and international taxation, social security, and macroeconomic stabilization using fiscal policy.</description>
+<prerequisites>Economics 2010a and 2010b or Economics 2020a and 2020b. Students are strongly encouraged to take Economics 2450a before taking 2450b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa16c102d532ec0f9a6c49bbae1e7c535">
+<name>
+<prefix/>
+<first>Nathaniel</first>
+<middle/>
+<last>Hendren</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57068" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>269</num_int>
+</course_number>
+<title>Environmental Nanotechnology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Introduces students to the environmental aspects of nanoscience and nanotechnology. We will study the fundamental physical chemical properties, characterization, environmental implications, and environmental applications of nanoparticles and nanomaterials. Case studies from recent publications on engineered carbon nanomaterials such as fullerenes, carbon nanotubes, and graphene will be discussed.</description>
+<prerequisites>College-level chemistry course or equivalent and Physical Sciences 1 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fea3915c3355582088b5d4249e4eb2318">
+<name>
+<prefix/>
+<first>Chad</first>
+<middle>D.</middle>
+<last>Vecitis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

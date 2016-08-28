@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9962" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2436</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Social Neuroscience and Psychopathology Laboratory</title>
+<course_type>Research Workshop</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Spring: F., 4-6</meeting_text>
+<faculty_text>Christine Hooker</faculty_text>
+<description>Provides instruction and experience in conducting research on social cognitive processes as they relate to psychopathology. Cognitive neuroscience methods, such as fMRI, are emphasized.</description>
+<prerequisites>Psychology 18</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F78e62e40d42631038863656814d044de">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Hooker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F78e62e40d42631038863656814d044de">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Hooker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17812" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>79</num_int>
+<num_char>e</num_char>
+</course_number>
+<title>Commodities in International History</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alison Frank Johnson 5313</faculty_text>
+<description>Introduces students to international history through the study of commodities ranging from oil, coal, and cotton to potatoes, rum, coffee, and sugar. Showcases historical writings that transcend geographic, cultural, and political boundaries between East and West, North and South, Atlantic and Pacific as well as methodological boundaries between cultural, economic, business, and environmental history, the history of food, of technology, and of ideas.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbce33fc85d702fa036f8fc9938d701eb">
+<name>
+<prefix/>
+<first>Alison</first>
+<middle>Frank</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

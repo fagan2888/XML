@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1022" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1175</num_int>
+</course_number>
+<title>The Archaeology of Ethnicity</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Gary Urton</faculty_text>
+<description>Ethnic identity and conflict are among the most powerful processes and relations shaping the world we live in today. Questions addressed include: What can we understand about ethnic identity and relations in the prehistoric world on the basis of the archaeological record? For example, how might differences in material culture represent and reflect markers of ethnic identity? The Peabody Museum collections will provide materials for study and analysis.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa512804ed79c861545ff45ddbf1564fc">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Urton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28251" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>247</num_int>
+</course_number>
+<title>Current Issues in the History of Medicine: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Allan M. Brandt</faculty_text>
+<description>Explores new methods for understanding disease, medicine, and society, ranging from historical demography to cultural studies. Topics include patterns of health and disease, changes in medical science and clinical practice, the doctor-patient relationship, health care systems, alternative healing, and representations of the human body. The course will focus on historical problem-framing, research strategies, and writing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2efd46cc48fdf41c5632d9b531704489">
+<name>
+<prefix/>
+<first>Allan</first>
+<middle>M.</middle>
+<last>Brandt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

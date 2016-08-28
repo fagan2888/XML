@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5844" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1640</num_int>
+</course_number>
+<title>Language and Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, with a section to be arranged.</meeting_text>
+<faculty_text>Nicholas H. Harkness</faculty_text>
+<description>This is a course in linguistic anthropology. We explore key theoretical issues in the semiotic anthropology of language use, focusing on communication, social (inter)action, representation, cultural conceptualization, and language ideology. By presenting many of the most influential and innovative contributions to the study of language in culture and society-both recent and classic-the course aims to guide students in asking fundamental questions about language and communication more broadly as facts of everyday sociocultural experience.</description>
+<prerequisites/>
+<notes>No previous knowledge of linguistics or of anthropology is required. This course may fulfill the Entry Course requirement for Social Anthropology.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf8a114fc4429cf23897a57f991bd63f">
+<name>
+<prefix/>
+<first>Nicholas</first>
+<middle>H.</middle>
+<last>Harkness</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+</requirements>
+</course></courses>

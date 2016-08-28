@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4637" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>234</num_int>
+</course_number>
+<title>Topics in Marine Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2:30-5</meeting_text>
+<faculty_text>Robert M. Woollacott</faculty_text>
+<description>Human impacts on marine life and ecosystems of the sea.</description>
+<prerequisites/>
+<notes>Weekly class meeting including lectures, class presentations, several laboratories, and one field trip through the course of term.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbdee9ebfe496595b8d0eaefc7862139d">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>M.</middle>
+<last>Woollacott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

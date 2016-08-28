@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28387" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>190</num_int>
+</course_number>
+<title>Science Facts and Science Fictions</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>This course uses science fiction as a lens through which to view the history of science and technology. By reading sci-fi literature (including novels and short stories by Shelley, Wells, Verne, and Butler, as well as more recent works by Heinlein, Asimov, Le Guin, Gibson, and Atwood) and viewing sci-fi films, this course asks how science is fictionalized, and what such representations tell us about science as an enterprise that melds present contexts with futurism and fantasy. Topics include: time travel, utopias and dystopias, other worlds, artificial intelligence, robotics, alien life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

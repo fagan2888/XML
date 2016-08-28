@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48085" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>191</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Books and Things in the Colonial World</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Thomas B. F. Cummins</faculty_text>
+<description>We study the few remaining Mesoamerican Pre-Columbian, as well as the much more numerous sixteenth and seventeenth-century colonial, pictorial manuscripts. We also study the only three pictorial manuscripts of the Andes. Emphasis is on the production, form and iconography of the different manuscripts. The physical and formal properties also are examined in relation to use of manuscripts in the Americas, both before and after the Spanish conquest.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7af4ca3452ac573c0753da6cecb6869a">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>B.F.</middle>
+<last>Cummins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

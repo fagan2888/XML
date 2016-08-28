@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1775" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1018</num_int>
+</course_number>
+<title>Cultural Economics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Alberto F. Alesina</faculty_text>
+<description>Explores the importance of culture on economic outcomes, focusing on how heterogeneity of preferences affects economic choices and where those differences come from. Theoretical topics include group identity, social interactions and networks, evolutionary selection</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a, and Economics 1123.</prerequisites>
+<notes>Explores the importance of culture on economic outcomes, focusing on how heterogeneity of preferences affects economic choices and where those differences come from. Theoretical topics include group identity, social interactions and networks, evolutionary selection, the importance of the family. Empirical applications include international investment, savings, occupational choices, ethical norms, economic development, fertility decisions.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5583804393098ebb191328cc14b4e4b3">
+<name>
+<prefix/>
+<first>Alberto</first>
+<middle/>
+<last>Alesina</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="102" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

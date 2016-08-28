@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8197" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="BE">Biomedical Engineering</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Physiological Systems Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Daniel M. Merfeld (Medical School)</faculty_text>
+<description>A survey of systems theory with applications from bioengineering and physiology. Analysis: differential equations, linear and nonlinear systems, stability, the complementary nature of time and frequency domain methods, feedback, and biological oscillations. Applications: nerve function, muscle dynamics, cardiovascular regulation. Laboratory: neural models, feedback control systems, properties of muscle, cardiovascular function.</description>
+<prerequisites>Applied Mathematics 21b or Mathematics 21b or equivalent. Physiology at the level of Engineering Sciences 53 suggested.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7575dd31a4c13f77b9602d94ec0cf857">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>M</middle>
+<last>Merfeld</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

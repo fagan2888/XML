@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="264" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>Electrodynamics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Girma Hailu</faculty_text>
+<description>Aimed at advanced undergraduates. Emphasis on the properties and sources of the electromagnetic fields and on the wave aspects of the fields. Course starts with electrostatics and subsequently develops the Maxwell equations. Topics: electrostatics, dielectrics, magnetostatics, electrodynamics, radiation, wave propagation in various media, wave optics, diffraction and interference. A number of applications of electrodynamics and optics in modern physics are discussed.</description>
+<prerequisites>Physics 15a, b, and c, or written permission of the Head Tutor; Mathematics 21a, b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F618e2d812144167df04dea9b9882fcdb">
+<name>
+<prefix/>
+<first>Girma</first>
+<middle/>
+<last>Hailu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

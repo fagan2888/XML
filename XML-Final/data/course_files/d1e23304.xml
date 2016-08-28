@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12667" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2817</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Law as a Dimension of Fieldwork: Instances and Interpretations</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Sally F. Moore</faculty_text>
+<description>This course is intended for advanced graduate students in the Anthropology Department and in the Law School who will be doing fieldwork projects for their dissertations. The emphasis will be on a wide variety of field situations and their analysis. Legal matters are shown to be a useful entry point for the study of the larger society, and can often serve as a way of identifying the major social processes that are under way at the time of observation. The writings of various social theorists will also be touched on to ask how pertinent their concepts are to the analysis of actually observed events.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5cd3a2e8231e8b0c7445f6857888becb">
+<name>
+<prefix/>
+<first>Sally</first>
+<middle>Falk</middle>
+<last>Moore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

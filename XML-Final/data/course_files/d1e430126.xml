@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75661" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>171</num_int>
+</course_number>
+<title>Cultural History and Nation-Making: 1870-1920</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Maria Grazia Lolla</faculty_text>
+<description>Introduction to the cultural history of Italy from the Risorgimento to the dawn of Fascism: war, work, education, music, fashion, festivals and cooking. Students will explore the interaction between literary texts and other cultural forms.</description>
+<prerequisites/>
+<notes>Conducted in Italian or English depending on enrollments.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffaf697ee76e2ade1592db3233e068741">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Grazia</middle>
+<last>Lolla</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

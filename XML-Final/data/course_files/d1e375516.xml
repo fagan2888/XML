@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9400" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NEURO">
+<dept_long_name>Committee on Degrees in Neurobiology</dept_long_name>
+<dept_short_name>Neurobiology</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Honors Thesis Tutorial</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ryan W. Draft and members of the Department</faculty_text>
+<description>For honors candidates writing a thesis in Neurobiology. This course is ordinarily taken in the last semester of enrollment. The Head Tutor must approve a thesis proposal prior to enrolling in Neurobiology 99.</description>
+<prerequisites/>
+<notes>Laboratory safety session required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

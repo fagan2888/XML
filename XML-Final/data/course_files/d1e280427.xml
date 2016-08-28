@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61072" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>303</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular Movies: Advanced 3D Visualization with Maya</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Explore Maya's vast visualization toolset. Advanced techniques in each of the phases of the 3D production pipeline will be presented including dynamics systems like Hair, nCloth, nParticles and PaintFx. Introduction to Maya's Embedded Language (MEL).</description>
+<prerequisites>Molecular Movies: Introduction to 3D Visualization with Maya required.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F374e54e326b7b4e260eaaa185fa5502f">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cardozo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

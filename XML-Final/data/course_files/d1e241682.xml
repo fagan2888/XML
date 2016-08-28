@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46952" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>bj</num_char>
+</course_number>
+<title>Staging the Civil War-From the Archive to the A.R.T.</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Timothy P. McCarthy</faculty_text>
+<description>Part of the A.R.T.'s National Civil War Project, this new course explores how a diverse cohort of contemporary playwrights and composers (Suzan-Lori Parks, Ruth and Jim Bauer, Timothy Patrick McCarthy, Matthew Aucoin) are using history to find creative ways to tell the story of the American Civil War on stage. It brings together several parts of Harvard-the classroom, the library, and the theater-to explore the dynamic relationship between archival discovery and artistic creation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe5607765bcd9f07bdebc23d8222b10c5">
+<name>
+<prefix/>
+<first>Timothy</first>
+<middle>Patrick</middle>
+<last>McCarthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

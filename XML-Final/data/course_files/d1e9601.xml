@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53068" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>222</num_int>
+</course_number>
+<title>Proseminar: Afro-Americas II: Comparative Race Relations in the US and Latin America</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alejandro de la Fuente</faculty_text>
+<description>This seminar offers a systematic comparison of race relations in the United States and Latin America after emancipation. Writing in 1950, Alfred Metraux, a Swiss-American anthropologist who became the Director of the UNESCO Division for the Study of Race Problems, captured the then prevalent view that race operated very differently in "Anglo-Saxon" and "Latin" America. He made reference to the "favorable impressions produced by Brazil's race relations" and to the fact it had "been hailed as one of the rare countries which have achieved a 'racial democracy'." Whereas rigid forms of racial segregation characterized the United States, most countries in Latin America were seen as mestizo, racially-mixed nations that did not have a rigid color-line. Scholars have been debating the accuracy of these characterizations during the last sixty years. This seminar offers an introduction to this scholarship, assesses the current state of the field, and seeks to identify problems and questions for future research.</description>
+<prerequisites/>
+<notes>Afro-Americas I is not required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffa2be13fa2fb6c1715542965e6df8702">
+<name>
+<prefix/>
+<first>Alejandro</first>
+<middle/>
+<last>de la Fuente</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

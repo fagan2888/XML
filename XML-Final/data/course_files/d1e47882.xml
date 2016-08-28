@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1061" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>Practical NMR Spectroscopy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Eugene Elliott Kwan</faculty_text>
+<description>This course examines the application of modern NMR spectroscopic techniques to the structural elucidation of small molecules. Both the practical and theoretical aspects of 1D and 2D NMR experiments will be explored. Topics include: the chemical shift; coupling constants; the nuclear Overhauser effect and relaxation; chemical exchange; 2D homonuclear and heteronuclear correlation; analysis of complex molecules with overlapping signals and data tabulation; analysis of reactive intermediates; kinetics by NMR; the Fourier transform; quadrature detection; phase-sensitive detection; the vector model; the density matrix and the product operator formalism; pulsed field gradients; and spectrometer instrumentation.</description>
+<prerequisites>Chemistry 17/27 or 20/30 or equivalent. The course is designed for organic chemists who do not have an extensive math or physics background. In fact, no prior knowledge of NMR spectroscopy is assumed. It is suitable for both undergraduate and graduate students.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F78a434638462602c66f8a1f0f2bc74ab">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle>Elliott</middle>
+<last>Kwan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

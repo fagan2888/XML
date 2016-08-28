@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8638" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>103</num_int>
+</course_number>
+<title>Advanced Russian: Reading, Composition, and Conversation</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1, with a speaking section Tu., Th., at 1 or 2. Tuesday/Thursday small group practice times are tentative and will be adjusted to accommodate student schedules.</meeting_text>
+<faculty_text>Veronika Egorova and others</faculty_text>
+<description>Continuing work on vocabulary and grammar centering on verbs and verb government. Readings include works by Chekhov and Dostoevsky, poetry, and film.</description>
+<prerequisites>Russian 101 or placement at the 103 level.</prerequisites>
+<notes>Strongly recommended for students who plan to continue in Russian.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1cfeebd45324a9126a47e704afebd8a3">
+<name>
+<prefix/>
+<first>Veronika</first>
+<middle>A.</middle>
+<last>Egorova</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

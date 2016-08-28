@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54404" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>Introduction to Philosophy of Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Guven Guzeldere</faculty_text>
+<description>An introduction to philosophical questions in psychology and the cognitive sciences: the nature of consciousness, the relation between perception, cognition, and introspection, the pertinence of language for rational thought, and the role of memory for personal identity and the self. We also examine related questions, such as how we can study the content of minds in non-human animals and assess the possibility of minds in robots, as well as how certain brain dysfunctions affect the mind and the self.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4a922861f4a830f7b94377ed5a1da0cd">
+<name>
+<prefix/>
+<first>Guven</first>
+<middle/>
+<last>Guzeldere</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

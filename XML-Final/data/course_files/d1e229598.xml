@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4501" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1280</num_int>
+</course_number>
+<title>History of the Soviet Union, 1917-1991</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Terry D. Martin</faculty_text>
+<description>Examines the history of the Soviet Union from the Russian Revolution to Gorbachev's failed reforms. Focus on the period 1928-53 when industrialization, nationalization and political terror created a distinct Soviet society and culture. Readings include novels, short stories, memoirs, Soviet propaganda, high policy deliberations, letters, journalism, songs, jokes, etc.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7a060e1d1ba5ede7e6ccae3e183906a">
+<name>
+<prefix/>
+<first>Terry</first>
+<middle/>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

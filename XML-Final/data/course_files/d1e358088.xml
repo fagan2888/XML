@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65695" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>103</num_int>
+</course_number>
+<title>Ancient Lives</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Gojko Barjamovic</faculty_text>
+<description>This course will present and question a number of fundamental elements of human society, using themes from ancient history to explore ways of thinking about civilization and culture. Our focus is the earliest human 'civilization' - Mesopotamia c. 3400-100 BC - which corresponds to parts of modern-day Iraq, Iran, Turkey and Syria. Particular to the study of this early period of human history is the fact that writing was first developed here in the form of cuneiform inscriptions on clay. Because clay survives well in the ground, ancient Mesopotamia is one of the most densely documented historical periods prior to early modern times. Also, unlike, say, Greek and Roman manuscripts, which mostly exist as copies that have been passed down through tradition, virtually all of sources for the ancient Near East survive directly as documentary records that have remained in the ground since their time of use. This includes peoples' private letters, grocery lists, medical bills, philosophical treaties, school essays, proverbs, and virtually any other imaginable textual genre. The wealth, scope and incredible chronological extent of the Mesopotamian sources allow us to raise a number of fundamental questions about what it means to be human. What is nature and what is culture? What are the roots of economy and the concept of private ownership? Why do we need belief systems (religion, philosophy, etc.) and how do these develop? Is the concept of love universal? How about childhood? Race? Gender? - What is universal and what is context-specific? How is our current situation a product of the past? How did ancient societies perceive themselves and the world that surrounded them? What are the key foundations for our current condition, and what can we learn from ancient societies?</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1b00dba177010d0334940507032e9f1b">
+<name>
+<prefix/>
+<first>Gojko</first>
+<middle/>
+<last>Barjamovic</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74917" offered="Y" next_year_offered="2014">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MED-SCI">Medical Sciences</course_group>
+<course_number>
+<num_int>304</num_int>
+</course_number>
+<title>Methods in Single-Cell RNA-seq Analysis</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F7ada45ff3ff2ef5b99dd3b529fb57e88">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Kharchenko</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7ada45ff3ff2ef5b99dd3b529fb57e88">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Kharchenko</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

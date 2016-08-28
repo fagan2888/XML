@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4924" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>294</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Materials Science Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., at 4</meeting_text>
+<faculty_text>Frans A. Spaepen and Michael J. Aziz</faculty_text>
+<description>Special topics in materials science.</description>
+<prerequisites>See instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F93a60891ae814df3ce94a03459f3d6fa">
+<name>
+<prefix/>
+<first>Frans</first>
+<middle>A.</middle>
+<last>Spaepen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2316c0d2994a9261a2f26f15be5e83e6">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Aziz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F93a60891ae814df3ce94a03459f3d6fa">
+<name>
+<prefix/>
+<first>Frans</first>
+<middle>A.</middle>
+<last>Spaepen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2316c0d2994a9261a2f26f15be5e83e6">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Aziz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="209" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

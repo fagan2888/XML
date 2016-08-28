@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89772" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>102</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Urban Problems and the Role of the Expert</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Laurence A. Ralph</faculty_text>
+<description>This course will equip students with qualitative research experience that focuses on the ways in which urban residents deal with the consequences of violence, crime, and injury. The class will meet once a week for a three-hour period. Each week students will either be on Harvard's campus or at their chosen field site. Field sites will be chosen early in the semester. Possible sites include: 1) a violence prevention program in Dorchester; 2) a homeless shelter in Boston; 3) a housing and tenants rights advocacy group in Roxbury; and 4) a physical rehabilitation center for war veterans in Jamaica Plain. While learning how to engineer a research project (that may eventually blossom into a senior thesis), students will be encouraged to examine how injury is both embodied and perpetuated through "structural violence," or the social forces that predetermine a population's susceptibility for injury and illness.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F19d9cdd40b32d9fde520ebafc0fd3968">
+<name>
+<prefix/>
+<first>Laurence</first>
+<middle>A</middle>
+<last>Ralph</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4926" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARMEN">Armenian</course_group>
+<course_number>
+<num_int>130</num_int>
+</course_number>
+<title>Advanced Classical Armenian</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 5:30-7:30 p.m.</meeting_text>
+<faculty_text>James R. Russell</faculty_text>
+<description>The text of St. Grigor Narekats'i Matean olbergut'ean, with other mystical texts from Armenian and Eastern Christian traditions.</description>
+<prerequisites>Armenian A.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1730" end_time="1930"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

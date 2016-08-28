@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29628" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2150</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Social Cognitive Development: Research Seminar</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Felix Warneken</faculty_text>
+<description>Year-long lab course on children's social-cognitive development and the study of cooperation. Students develop and pilot experiments with children or participate in ongoing projects. In addition, students read and discuss papers on social cognition, understanding of norms, and cooperation from developmental and evolutionary psychology.</description>
+<prerequisites>For undergraduates: SLS-20 and one from PSY 13, PSY 14, PSY 15, PSY 18, or SLS 15.</prerequisites>
+<notes>Open to all undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3918f1a9b1dac463f83262a97a8e372d">
+<name>
+<prefix/>
+<first>Felix</first>
+<middle/>
+<last>Warneken</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3918f1a9b1dac463f83262a97a8e372d">
+<name>
+<prefix/>
+<first>Felix</first>
+<middle/>
+<last>Warneken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

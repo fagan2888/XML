@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96823" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.068</num_char>
+</course_number>
+<title>Cross-Cultural Contact Zones</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 12</meeting_text>
+<faculty_text>Srilata Mukherjee</faculty_text>
+<description>How does fiction represent cross-cultural encounters between Eurocentric and non-Eurocentric worlds? In what ways do the specific social and political circumstances under which these contacts occur influence the nature of the cross-cultural encounters? Do issues of power, class, and gender function differently in cross-cultural environments for the racial groups involved than they would within a single culture? In exploring literature about three kinds of cross-cultural encounters-transient, colonial/postcolonial, and immigrant-we'll pose such resonant questions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1cc5ac53e178ccdac9c2c4c5b19a480a">
+<name>
+<prefix/>
+<first>Sri</first>
+<middle/>
+<last>Mukherjee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

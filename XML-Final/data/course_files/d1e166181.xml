@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24282" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.194</num_char>
+</course_number>
+<title>Dangerous Speech</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Jessica W. Ziparo</faculty_text>
+<description>"Congress shall make no law . . . abridging the freedom of speech." The First Amendment has, with this short statement, made America exceptional in its protection of free expression. Yet our commitment to the freedom of speech has real limits. In this course, we'll examine the extent to which the First Amendment protects "dangerous speech"-a category that includes incitements to violence, hate speech, and the communication of "subversive" ideas. Through analysis of Supreme Court decisions, First Amendment theorists and contextual materials, we'll probe the boundaries of, in Justice Holmes's words, "the freedom for the thought that we hate."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7fed6af5a5c84ceeff964a6cef8592b">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>Wynn</middle>
+<last>Ziparo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89626" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>61</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Being French: Historical and Societal Considerations</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Stacey Katz Bourns and members of the Department</faculty_text>
+<description>This course examines the concept of a "French identity" from the principles of the Enlightenment to the contemporary debates and political controversies about national identity. Through the exploration of historical, literary, sociological and philosophical texts, as well as film and multimedia resources, we will focus on individuals, symbolic places, ideological discourses and narratives that have contributed to the formation and questioning of a French national identity.</description>
+<prerequisites>French 50 or another French course at the 50 level; 751-780 on the SAT II or the Harvard placement test; or permission of course head.</prerequisites>
+<notes>Conducted entirely in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60-level in French.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F63a58fb328b41f96935bb9760bfd6027">
+<name>
+<prefix/>
+<first>Stacey</first>
+<middle>Katz</middle>
+<last>Bourns</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

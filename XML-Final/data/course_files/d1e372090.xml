@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58728" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="PERSIAN">Persian</course_group>
+<course_number>
+<num_int>151</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Sufi Traditions in Classical Persian Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2-3:30</meeting_text>
+<faculty_text>Chad Kia</faculty_text>
+<description>Readings in Persian Sufi literature from early post-Islamic centuries to Attar, Rumi, Hafez, and others, with emphasis on fundamental themes of the Sufi tradition. Practice in grammar and composition at an advanced level will develop the student's ability to read high literary texts, both in prose and poetry.</description>
+<prerequisites>At least two years of Persian or equivalent.</prerequisites>
+<notes>The course lectures and readings will be in English but there will be a separate section for students with adequate knowledge of Persian to read the text of the Masnavi in Persian. Offered jointly by the Divinity School as 4070.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc43bcb1d8ed495debaf863e81046f7ea">
+<name>
+<prefix/>
+<first>Chad</first>
+<middle/>
+<last>Kia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

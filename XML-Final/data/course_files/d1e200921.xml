@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85573" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>47</num_int>
+</course_number>
+<title>Contemporary South Asia: Entrepreneurial Solutions to Intractable Social &amp; Economic Problems</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 3:30-5, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Tarun Khanna (Harvard Business School)</faculty_text>
+<description>South Asia is home to two of the world's seven billion people. The primary objective of the course is to engage students with the modern day challenges affecting South Asia, and to examine a range of entrepreneurial attempts to solve these problems. The course focuses on several categories of social and economic problems faced by the countries of South Asia, with specific focus on the realms of Education, Health, Financial Inclusion, and Urbanization. The goal is to understand ways in which entrepreneurial action can effectively tackle major socioeconomic problems in South Asia, by combining knowledge of historical causes, qualitative and quantitative evidence, and context-specific knowledge of the commonalities and differences across South Asian countries. No prior knowledge of South Asia is required.</description>
+<prerequisites/>
+<notes>Offered jointly with the Business School as 1266, the School of Public Health as GHP 568, the Kennedy School as PED-338, the Law School as HLS 2543 and the Graduate School of Education as A-819.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc1aab310b015ac0c0e469217317e01d5">
+<name>
+<prefix/>
+<first>Tarun</first>
+<middle/>
+<last>Khanna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1530" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1530" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

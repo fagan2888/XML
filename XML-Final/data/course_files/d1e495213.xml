@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77836" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1444</num_int>
+</course_number>
+<title>God and Money</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Harvey G. Cox, Jr. (Divinity School)</faculty_text>
+<description>What Is the spiritual significance of money? Wealth and poverty have posed controversial questions for faith since the attacks by the Hebrew prophets; Jesus' warnings to the rich about the eye of the needle; and the sharp objections raised by monastics, St. Francis and reformers. These themes persist in current disputes, sparked in part by Pope Francis's statements about inequality, and by controversies around the prosperity gospel and liberation theology's "preferential option for the poor." This course will explore biblical, theological and ethical dimensions of these issues and will include some comparative discussion of how other religions approach them.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2190.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9af766e9a9bdeace97087597540b06eb">
+<name>
+<prefix/>
+<first>Harvey</first>
+<middle/>
+<last>Cox</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Div - Andover Hall" room="102" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4566" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>180</num_int>
+</course_number>
+<title>"The Words to Say It": Women Writing in French from Colette to Satrapi</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Alice Jardine</faculty_text>
+<description>Motherhood, romantic love, independence, sexuality, citizenship, fantasy, death: these are just some of the themes explored in women's novels, written in French, in the twentieth century. We will read eight novels together, exploring how they have finally become classics, even given what they say about life and what it means for women to write about it.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa71fd2c5965c593b69c06613fc55f773">
+<name>
+<prefix/>
+<first>Alice</first>
+<middle/>
+<last>Jardine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="403" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

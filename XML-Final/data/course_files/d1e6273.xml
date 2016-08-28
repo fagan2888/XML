@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26136" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>141</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Prejudice and Racism in Modern Society</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>James Sidanius</faculty_text>
+<description>This course provides a survey of the psychology of prejudice and racism, the scientific study of human feeling, thinking, and behavior in situations involving conflict between groups. More broadly, we will consider the psychological factors that contribute to the perpetuation of inequality and discrimination. Throughout the course, we will consider both proximate (immediate) influences on behavior, such as the immediate social situation as well as distal (more remote) influences on behavior, such as human evolution. We will also consider both conscious and unconscious attitudes and behavior.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbd78d2fe37ffd66716143ced8a25d51e">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Sidanius</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

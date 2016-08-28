@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20243" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>176</num_int>
+</course_number>
+<title>Introduction to MicroElectroMechanical System</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>25</enrollment_limit>
+<meeting_text>Tu., 5:30-7:30 p.m.</meeting_text>
+<faculty_text>Fawwaz Habbal and Peter RH Stark</faculty_text>
+<description>This course introduces student to the rapidly emerging, multi-disciplinary and exciting field of MicroElectroMechanical Systems (MEMS). It teaches fundamentals of micro machining and Micro fabrication techniques, including planar thin-film process technologies, photolithography and soft-lithography techniques, deposition and etching techniques, and surface, bulk, and electroplating micro machining technologies.</description>
+<prerequisites>Physics 11a,b or 15a,b; College Chemistry at the level of Life Sciences 1a and Physical Sciences 1.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd4a233bca45eb78a8219536d27cc2e08">
+<name>
+<prefix/>
+<first>Fawwaz</first>
+<middle/>
+<last>Habbal</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F5605b3c43518f6dcb1764ca5a8efb032">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>RH</middle>
+<last>Stark</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1730" end_time="1930"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="301" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

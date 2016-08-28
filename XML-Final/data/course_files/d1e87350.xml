@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97175" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="VIETNAM">Vietnamese</course_group>
+<course_number>
+<num_int>140</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced-High Vietnamese</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Binh Ngo</faculty_text>
+<description>Development of near-native fluency in oral and written expression. Modern Vietnamese literature, including short stories, excerpts from novels, and poems in the original, that were published in Vietnam from the 1930s to the present day is used to introduce the complex grammar, idioms, proverbs and some slang expressions commonly used in contemporary Vietnamese. Discussion focuses on Vietnamese culture and issues related to Vietnamese society during that period.</description>
+<prerequisites>Vietnamese 130b</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F723afadc4bf3a398fce9f226be6f0408">
+<name>
+<prefix/>
+<first>Binh</first>
+<middle/>
+<last>Ngo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

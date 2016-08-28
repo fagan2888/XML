@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94577" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>f</num_char>
+</course_number>
+<title>Junior Tutorial -The Study of East Asian Religions</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., at 2</meeting_text>
+<faculty_text>James Robson</faculty_text>
+<description>This tutorial is designed to deepen and extend the student's knowledge of the study of East Asian religions. It will build on the student's foundational understanding of the development and history of Buddhism, Daosim, Confucianism, Shinto, and various forms of popular religion, by situating that material in the context of larger issues in the study of East Asian religions. The overarching concern within this tutorial will be on reading and discussing methodologically oriented scholarship that will introduce the student to new and intellectually engaging approaches to the various traditions covered.</description>
+<prerequisites>Culture and Belief 33: Introduction to the Study of East Asian Religions. If students have not previously taken this course, they are required to attend those lectures concurrently with this tutorial.</prerequisites>
+<notes>EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1d12f779bc616abbcc8baf74d8a4a52b">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

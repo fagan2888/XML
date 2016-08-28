@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7470" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1540</num_int>
+</course_number>
+<title>Topics in International Trade</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>Pol Antras</faculty_text>
+<description>Covers advanced topics in international economics with a special emphasis on an analytical approach to the recent process of globalization. Topics include the role of multinational firms in the global economy, the effect of international outsourcing on wages, and trade and industrial development.</description>
+<prerequisites>Economics 1535 and basic knowledge of calculus and econometrics.</prerequisites>
+<notes>This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F730d054a16e2021ee123dcb1f12be042">
+<name>
+<prefix/>
+<first>Pol</first>
+<middle/>
+<last>Antras</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

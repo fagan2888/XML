@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98413" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>190</num_int>
+</course_number>
+<title>Understanding Histories of Tibet</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp and members of the Department</faculty_text>
+<description>This course introduces two histories of Tibet. The first history begins from the remote past, covering the evolution of political, religious and ideological institutions on the Tibetan plateau from the 7th century until the present. The second history is that of the more recent past, when the first history was used, misused or abused in the scholarly domain and beyond. The close intermingling of these two histories - and the frequent pretense of one as the other - makes "Tibet" uniquely useful in our understanding the very nature of the humanistic inquiry that we call history. Instead of looking at the Tibetan plateau as a self-sufficient unit of historical analysis, this course situates the Tibetan plateau between China, India, Central Asia, Western Asia and the "West." Specifically, students will be introduced to themes such as: the changing domains of the Tibetan cultural areas; Buddhism's historical and historiographical conquests of Tibet; the usefulness of the vocabulary "Golden" as well as "Dark" ages in linear historical narratives; the process of consecration of historical persons such as Songtsen Gampo and the Dalai Lamas; the subjugation of and resistence to Tibet as a part of "Chinese" history; the highly contextual representations of Tibet and Tibetan history. No prior knowledge is required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

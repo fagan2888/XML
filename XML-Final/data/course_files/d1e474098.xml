@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3488" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>245</num_int>
+</course_number>
+<title>Statistics and Litigation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Daniel James Greiner (Law School)</faculty_text>
+<description>Interaction between quantitative methods and law. Teaming with law students: analyze data, prepare expert reports, and give testimony. Learn how to communicate with and present results to untrained but intelligent users, and to defend conclusions.</description>
+<prerequisites>Basic knowledge of R programming and a graduate course in data analysis, such as Statistics 220, Economics 2120, or a 2000-level quantitative Government course. No knowledge of legal issues is presumed.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb12a0ca3dcc4cbe360c65843d36555d7">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>James</middle>
+<last>Greiner</last>
+<suffix>II</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

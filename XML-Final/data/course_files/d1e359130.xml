@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81386" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>142</num_int>
+</course_number>
+<title>The Bible Uncensored: Journeys into Texts Dark and Daring from the Hebrew Bible</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11, plus periodic discussion sections</meeting_text>
+<faculty_text>Peter Machinist</faculty_text>
+<description>Not your usual introduction to the Hebrew Bible. Through a close study of biblical texts (in translation) that are at once strange, shocking, raw, even bawdy, this course aims to reveal the variety and excitement of biblical literature and the ancient Israel that lies behind it.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1828.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

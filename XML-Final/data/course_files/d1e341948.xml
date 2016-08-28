@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5205" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>141</num_int>
+</course_number>
+<title>Molecular and Cellular Biology of the Senses and their Disorders</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Catherine Dulac</faculty_text>
+<description>"The great art of life is sensation, to feel that we exist, even in pain." Lord Byron. Molecular basis of normal and pathological sensory perception, formation and modulation of sensory circuits during development and in the adult brain. Topics will include the mechanisms of sensory detection and discrimination, the discovery of key genes, cellular pathways and neural circuits affected in human disorders, molecular and genetic strategies for restoring normal sensation, coding of sensory information by the brain, establishment of appropriate connections in the developing brain, epigenetic influences on sensory function. Molecular, genetic and epigenetic approaches to normal and pathological sensing and associated behavior will be discussed.</description>
+<prerequisites>Prerequisite: LS 1a and LS 1b. Recommended: MCB 80 and a cell or molecular biology course such as MCB 60, MCB 52 or MCB 54, or MCB 115.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F729ed103484b37ee35b5cb631c605dd5">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>Dulac</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

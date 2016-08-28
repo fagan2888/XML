@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35633" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>164</num_int>
+</course_number>
+<title>Sense and Scientific Sensibility</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>Scientific inquiry is often considered an endeavor pursued using one's sense of vision: scientists peer into microscopes and telescopes, and stare at graphs, diagrams, and computer screens. But on what other senses do scientists rely? How do they gather data using senses of hearing, smell, taste, and touch (or, for that matter, less acknowledged perceptual systems, among them, balance, temperature, movement, pain, and time)? How do researchers evaluate sensory evidence? Further, what is the history of scientific studies of the senses? To address such questions, each week we will explore a different sense (from the canonical five to synaesthesia and ESP) by combining readings in the history of science with classic primary sources. Throughout, we will examine critical questions regarding how the senses are culturally and historically constructed, evaluated, and technologically mediated.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

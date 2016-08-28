@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5148" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SBIO">
+<dept_long_name>Committee on Higher Degrees in Systems Biology</dept_long_name>
+<dept_short_name>Systems Biology</dept_short_name>
+</department>
+<course_group code="SYSTBIO">Systems Biology</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Principles of Animal Dev. from a Systems Perspective</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., F., 3:30-5</meeting_text>
+<faculty_text>Sean Megason (Medical School), Angela Depace (Medical School), and Marc W. Kirschner (Medical School)</faculty_text>
+<description>Intensive and critical analysis of systems approaches to circuits and principles controlling pattern formation and morphogenesis in animals. Students develop their own ideas and present them through mentored "chalk talks" and other interactive activities.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffbfbc945cbfc922521065e179f6749d9">
+<name>
+<prefix/>
+<first>Sean</first>
+<middle/>
+<last>Megason</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F70741334674c8989471e69669915b283">
+<name>
+<prefix/>
+<first>Marc</first>
+<middle/>
+<last>Kirschner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc626fa18eef05363250aa474527ec2b8">
+<name>
+<prefix>Dr</prefix>
+<first>Angela</first>
+<middle/>
+<last>Depace</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

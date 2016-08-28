@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5591" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Molecular Biology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 10:45-12:15</meeting_text>
+<faculty_text>Joseph John Loparo (Medical School), Paul J. Anderson (Medical School), Lee Stirling Churchman (Medical School), Shobha Vasudevan (Medical School), Johannes Walter (Medical School), Timur Yusufzai (Medical School), and other members of the Departments.</faculty_text>
+<description>An advanced treatment of molecular biology's Central Dogma. Considers the molecular basis of information transfer from DNA to RNA to protein, using examples from eukaryotic and prokaryotic systems. Lectures, discussion groups, and research seminars.</description>
+<prerequisites>Intended primarily for graduate students familiar with basic molecular biology or with strong biology/chemistry background.</prerequisites>
+<notes>Offered jointly with the Medical School as BP 723.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0e31774008c8eb43e2f586129bdd054f">
+<name>
+<prefix>Dr</prefix>
+<first>Joseph</first>
+<middle>John</middle>
+<last>Loparo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1045" end_time="1215"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1045" end_time="1215"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1045" end_time="1215"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3768" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EABS">East Asian Buddhist Studies</course_group>
+<course_number>
+<num_int>240</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Japanese Buddhist Doctrine and Monastic Culture: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 10-12</meeting_text>
+<faculty_text>Ryuichi Abe</faculty_text>
+<description>A graduate seminar aimed at improving students' ability to read and analyze scriptural sources in the context of textual, artistic, and other cultural productions centered around large monasteries in premodern Japan. Major theme for this semester: Buddhist cultural exchange between medieval Japan and China.</description>
+<prerequisites>Classical Japanese and Kambun are required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F87bf909bd5c621cd40e01c25b56bdf95">
+<name>
+<prefix/>
+<first>Ryuichi</first>
+<middle/>
+<last>Abe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="214" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

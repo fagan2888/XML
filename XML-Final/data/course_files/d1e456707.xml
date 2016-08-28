@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8651" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>193</num_int>
+</course_number>
+<title>Crime, Community, and Public Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Anthony A. Braga</faculty_text>
+<description>Examines criminal justice from the perspective of local communities. Questions of how local communities affect and are affected by crime and criminal justice will be addressed. A central concern will be the discussion of characteristics of neighborhoods that lead to high rates of criminality and how federal, state, and local policies not directly concerned with crime policy may nonetheless bear on crime rates. The City of Boston will be used as a laboratory in which to study these issues.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F654eb6107c36bce5d9326ec01cd615b8">
+<name>
+<prefix/>
+<first>Anthony</first>
+<middle/>
+<last>Braga</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="105" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

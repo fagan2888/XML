@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55057" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>298</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Media, Method, and Practice</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Jeremy Blatter</faculty_text>
+<description>What are the tools of our trade? How can media augment scholarship? How are theories represented? Arguments diagrammed? Data visualized? From building a research database to actor-network mapping, this seminar will explore the power and peril of the digital humanities in relation to our own scholarly practices. As a practice-oriented course each student will be expected to explore over the course of the semester new methods, tools and presentational modes in connection with their current research or developing projects.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F37157e18d4cb574ec21234e0deaca5b1">
+<name>
+<prefix/>
+<first>Jeremy</first>
+<middle>Todd</middle>
+<last>Blatter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="469" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92429" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>250</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Colloquium on Teaching Pedagogy</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: Tu., 10-12; Spring: Tu., 9-11</meeting_text>
+<faculty_text>Sindhumathi Revuluri</faculty_text>
+<description>The Craft of Teaching. Devoted to the craft of teaching, the course considers all major facets of academic teaching practices (lectures, tutorials, discussion, syllabi, advising, grading, etc.).</description>
+<prerequisites/>
+<notes>Required of all third year music department graduate students. This course must be taken Sat/Unsat.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b6e6534d1880c3fccaaf2786f66c903">
+<name>
+<prefix/>
+<first>Sindhumathi</first>
+<middle/>
+<last>Revuluri</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F1b6e6534d1880c3fccaaf2786f66c903">
+<name>
+<prefix/>
+<first>Sindhumathi</first>
+<middle/>
+<last>Revuluri</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="900" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

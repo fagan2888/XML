@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9332" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>70</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Topics in Natural History</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Daniel L. Smail</faculty_text>
+<description>A reading seminar focused on literature relevant for a natural history of humankind from several million years ago to the present. Topics will include population diasporas; long-distance exchange; coevolution; family, sex, and marriage; food; communication; goods and things; technology; human contact with ecosystems; status; demography and scale; and cognitive studies. The course will introduce students to the rapidly growing field of big history or deep history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa7fdf5bc2488632fabb4290914abff77">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>Lord</middle>
+<last>Smail</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

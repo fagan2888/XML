@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="416" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>11</num_int>
+</course_number>
+<title>Poetry Without Borders</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2 - 3:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Stephanie Sandler (Slavic Languages and Literatures)</faculty_text>
+<description>Studies contemporary poetry as a cultural practice that requires and perversely challenges visual, linguistic, geographic, and aesthetic borders. Main topics are translation (poems crossing borders), emigration/exile (poets crossing borders), and poetry and other arts (poems with music, film, photography). Texts by Charles Bernstein, Allen Ginsberg, Bei Dao, Joseph Brodsky, Paul Celan, Barbara Guest, Susan Howe, Yang Lian, Valzhyna Mort, Henry Parland, Vladimir Nabokov, W. G. Sebald, Cesar Vallejo, Zafer &amp;#350;enocak, and C. D. Wright, alongside sound recordings, photographs, films, and poetry performances.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-050" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

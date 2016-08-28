@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6982" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>203</num_int>
+</course_number>
+<title>Stochastic Control</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Introduction to the theory of stochastic differential equations based on Wiener processes and Poisson counters, and an introduction to random fields. The formulation and solution of problems in nonlinear estimation theory. The Kalman-Bucy filter and nonlinear analogues. Identification theory. Adaptive systems. Applications.</description>
+<prerequisites>Applied Mathematics 104 (formerly Applied Mathematics 105a), Applied Mathematics 105 (formerly Applied Mathematics 105b), or equivalent. Some prior exposure to probability; Engineering Sciences 202 desirable but not essential.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

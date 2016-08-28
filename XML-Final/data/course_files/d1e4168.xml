@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56476" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>103</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>The Black Radical Tradition</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Justin Leroy</faculty_text>
+<description>This course functions, first and foremost, as a map of the major landmarks in twentieth-century black intellectual history. Using primary sources (that is, work written by black intellectuals rather than about them), the course engages the idea of a "black radical tradition". The black radical tradition is bound together as a set of ideas that constructs and reconstructs philosophical and political connections across the rupturing history of black dispossesssion, displacement, and disenfranchisement. The black radical tradition, then, exists in dialectical tension with many of the key idioms of Enlightenment and liberal philosophy (freedom, progress, history, justice, civilization). We pay particular attention to how the black radical tradition has framed the relationship of black history to modernity and global historical developments; how it has posited black selfhood and black liberation over and against attempts to conscript the end of slavery into a seamless narrative about the triumph of liberal values; and finally, whether black desires and black life itself can ever be validated in the midst of ongoing anti-black racism.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb85348341813e7d26b8fb273e000976c">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle/>
+<last>Leroy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="230 (Locke Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

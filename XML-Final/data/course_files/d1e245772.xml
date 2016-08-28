@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7574" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>173</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>The Early Modern Artist</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ewa Lajer-Burcharth</faculty_text>
+<description>Explores the emergence of artistic individuality in French 18th-century art and culture. What was modern about the 18th-century artist? What were the criteria of artistic self-definition? Among the issues addressed: the cultural myth of the artist; artist vs. critic; artistic identity and the philosophical notions of the self; subjectivity, sexuality, and gender; the artist's touch; authorship; melancholia; eccentricity; the artist's body; fashion. Artists include: Watteau, Chardin, Fragonard, Vigee-Lebrun, David, Girodet. Museum trip(s).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6554df6d5af17648b84e59cbbd390ffb">
+<name>
+<prefix/>
+<first>Ewa</first>
+<middle/>
+<last>Lajer-Burcharth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9481" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2554</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Moral Cognition: Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-3:30</meeting_text>
+<faculty_text>Joshua D. Greene</faculty_text>
+<description>Year-long lab course for students engaged in research on moral cognition.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3dfcab5d419fc1858c90c94c8c296f55">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>D.</middle>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F3dfcab5d419fc1858c90c94c8c296f55">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>D.</middle>
+<last>Greene</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1305" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

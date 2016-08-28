@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8614" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNLIT">Japanese Literature</course_group>
+<course_number>
+<num_int>233</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Nara and Heian Court Literature: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Edwin A. Cranston</faculty_text>
+<description>Topic: Sagoromo Monogatari.</description>
+<prerequisites>Japanese 106a or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1ab9dc394c1a6da49a98be7fa3fb80d0">
+<name>
+<prefix/>
+<first>Edwin</first>
+<middle>A.</middle>
+<last>Cranston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

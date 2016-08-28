@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3309" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>241</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Advanced Modern Arabic Bridge: Language, Literature, and Culture I</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1, and an additional hour to be arranged.</meeting_text>
+<faculty_text>Sami Alkyam</faculty_text>
+<description>This constitutes the final year of Modern Arabic track. Representative readings from contemporary literature and culture will form bases of discussions on major themes in contemporary Arab society.</description>
+<prerequisites>Advanced proficiency in Arabic.</prerequisites>
+<notes>Conducted in Arabic. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F281371cf7cfe3bd52b6b010d9fe19ee3">
+<name>
+<prefix/>
+<first>Sami</first>
+<middle>Mahmoud</middle>
+<last>Alkyam</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LISE" room="303" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

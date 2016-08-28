@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2897" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>44</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>The Atomic Bomb in History and Culture</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Everett I. Mendelsohn</faculty_text>
+<description>The explosion of the atomic bomb over the Japanese city of Hiroshima in 1945 ushered in a new era of warfare, of scientific prominence, of civic anxiety, and political challenge. Explores the interaction of science, politics, strategy, and culture in the studies of historians as well as in the literature, films, and theater from the early years of the twentieth century through the 1970s and 1980s dealing with the atom and the atom bomb.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F673a3ad22e299c34d5cdf88fe592cb9b">
+<name>
+<prefix/>
+<first>Everett</first>
+<middle/>
+<last>Mendelsohn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="359" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

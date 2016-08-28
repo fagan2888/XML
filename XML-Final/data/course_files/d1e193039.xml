@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54305" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>18</num_int>
+</course_number>
+<title>What are the odds?</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Andrew W. Murray (Molecular and Chemical Biology) and Edward J. Hall (Philosophy)</faculty_text>
+<description>There is the mathematics behind statistics, and then there are the concepts - without a proper grasp of which you will all too likely fall prey to confusion, error, and even outright deception. This course will teach you a bit about the math, and a lot about the concepts. Take it and achieve enlightenment about such topics as the difference between probability and risk, the nature of statistical inference, and the connections between correlation and causation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffcf09e7eafcd69479a3fce0556b11e5e">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Murray</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F249339f6d9c871d31004e8dfa6ff16d7">
+<name>
+<prefix/>
+<first>Edward</first>
+<middle>J</middle>
+<last>Hall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

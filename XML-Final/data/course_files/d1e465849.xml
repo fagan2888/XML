@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31655" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>193</num_int>
+</course_number>
+<title>Class and the City in Indian Cinema</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Shankar Ramaswami</faculty_text>
+<description>This course will examine imaginaries and understandings of class and cities in Indian cinema. How are struggles for earnings and mobility in the city - of migrants, workers, and middle classes - represented in Indian cinema? In what ways is the city viewed as a space of ethical deviations and compromises? How does class shape experiences of friendship, family, and erotic love? What visions of politics, justice, and hope arise in Indian cinema? The course will explore these questions in commercial, art, and documentary films (in Bengali, Hindi, and Marathi, with English subtitles), along with readings in history, anthropology, and cinema studies. Screenings will include films by Satyajit Ray, Guru Dutt, Raj Kapoor, Yash Chopra, Muzaffar Ali, and Anand Patwardhan.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd1305c68db76fbfc19795b7f6da5bdb0">
+<name>
+<prefix/>
+<first>Shankar</first>
+<middle/>
+<last>Ramaswami</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

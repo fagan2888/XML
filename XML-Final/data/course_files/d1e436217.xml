@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6700" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>71</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Introduction to Modern Latin American Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and an additional weekly section hour to be arranged.</meeting_text>
+<faculty_text>Mariano Siskind and members of the Department</faculty_text>
+<description>This course is a survey of Latin American Literature from the last decades of the 19th century to the present. It offers an overview of the most salient moments in modern Latin American cultural history, placing emphasis on the ways in which specific literary works relate to the social and political developments that have shaped the region since the late 19th century. Readings by Machado de Assis, Rulfo, Borges, Gioconda Belli, Bellatin, Pizarnik, and others.</description>
+<prerequisites>A score above 780 on the SAT II or on the Harvard Placement test; a 50-, or 60-level course in Spanish; or permission of course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb113a1c6d7fc21bf79d923c1c611f693">
+<name>
+<prefix/>
+<first>Mariano</first>
+<middle/>
+<last>Siskind</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+</requirements>
+</course></courses>

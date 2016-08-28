@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3900" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>142</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Conversational Chinese</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30; Th., at 2, Tu., 2-4</meeting_text>
+<faculty_text>Hongyun Sun</faculty_text>
+<description>Spoken Chinese for advanced students.</description>
+<prerequisites>Chinese 130b, Chinese 130xb, or equivalent.</prerequisites>
+<notes>No auditors. May not be taken Pass/Fail. No native speakers allowed. May not be used for citation.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F595fac744cf6c1e4e05dc428d523db4e">
+<name>
+<prefix/>
+<first>Hongyun</first>
+<middle/>
+<last>Sun</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="27a" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

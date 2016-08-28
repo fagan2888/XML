@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44363" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>233</num_int>
+</course_number>
+<title>Trans-Reformation English Writing: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>James Simpson</faculty_text>
+<description>English literary history shies away from one of cultural history's most momentous revolutions: the Reformation. This course looks to a series of discursive areas (e.g. literature, theology, politics) to shape that literary history. We will look to both canonical and non-canonical texts, from Chaucer to Shakespeare; each session will be grounded in a Houghton-possessed book.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F01753b5e2d5c28e09f8aa24a86d44e7f">
+<name>
+<prefix/>
+<first>W.</first>
+<middle>James</middle>
+<last>Simpson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="269 (Larsen Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56228" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1155</num_int>
+</course_number>
+<title>Early Modern Europe, 1450-1789</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 1</meeting_text>
+<faculty_text>Daniel Juette</faculty_text>
+<description>This survey course explores European history from the end of the Middle Ages to the eighteenth century. Topics include the Renaissance in Southern and Northern Europe, the Reformation and the wars of religion, the rise of Absolutism, the Enlightenment, and the French Revolution. The course will introduce students to key figures (such as Machiavelli, Luther, Montaigne, Bacon, and Kant) as well as to topics in cultural and everyday history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffa7f583aa6270de062e66ef3361b8ac6">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Juette</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="Y" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57242" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>Sibling Rivalries: Israel and the Other in the Hebrew Bible</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Joel Kaminsky (Divinity School)</faculty_text>
+<description>This course will provide an in-depth examination of the biblical idea of divine election, that is. the notion that God specially favors certain individuals and nations, a notion that sits at the heart of ancient Israel's theological self-understanding. Beginning with the narratives of sibling rivalry in Genesis and then turning to other relevant texts from the Hebrew Bible (all read in English), as well as on occasion from the Apocrypha, the New Testament and rabbinic literature, we shall explore how the Hebrew Bible conceives of election, what it entails for those chosen, and what the Hebrew Bible's election theology implies about the three-way relationship among God, Israel, and the nations of the world, and conclude by surveying how early Christianity and rabbinic Judaism each appropriated ancient Israel's election theology in unique but related ways.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1790.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

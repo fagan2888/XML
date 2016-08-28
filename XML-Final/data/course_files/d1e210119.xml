@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6500" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>Introduction to Political Science Research Methods</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Arthur P. Spirling</faculty_text>
+<description>This class will introduce students to techniques used for research in the study of politics. Students will learn to think systematically about research design and causality, how data and theory fit together, and how to measure the quantities we care about. Students will learn a `toolbox' of methods---including statistical software---that enable them to execute their research plans. This class is highly recommended for those planning to write a senior thesis.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course must be taken for letter grade.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1a3c42369067de659267e287340802de">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle>P</middle>
+<last>Spirling</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-010 Lecture Hall" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

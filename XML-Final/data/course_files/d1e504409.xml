@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44695" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Building Thought: Sculpture Course</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Monday and Wednesday 1pm to 4pm</meeting_text>
+<faculty_text>Annette Lemieux</faculty_text>
+<description>Using a variety of materials and methods, students will build and create artworks that reflect their ideas, with an emphasis and understanding of the language of images, materials, forms, actions, and presentation. Through images, videos, and informal discussions, students will be introduced to the concerns of conceptual artists of the 20th Century to the present.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F165038019e770702320ffa39d9058d75">
+<name>
+<prefix/>
+<first>Annette</first>
+<middle/>
+<last>Lemieux</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Carpenter Center" room="2nd Floor" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

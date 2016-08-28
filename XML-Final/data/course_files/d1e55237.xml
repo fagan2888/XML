@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79933" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>281</num_int>
+</course_number>
+<title>Rhetoric, Imitation, Translation: Comparative Literature from Antiquity to Early Modernity</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Katharina Piechocki</faculty_text>
+<description>How can we think of comparative literature prior to the rise of aesthetics and "Weltliteratur" in the eighteenth century? From antiquity to early modernity, literary traditions were shaped by the rules of rhetoric, imitation, emulation, and translation. We will discuss works from Greek and Latin antiquity; the Latin, Hebrew, Arab, Persian, and Byzantine Middle Ages; and the revival of rhetoric, imitation, and translation in early modernity. Authors include Sappho, Aristotle, Cicero, Lucretius, Hermogenes, St. Jerome, Martianus Capella, Al-Farabi, Averroes, Leonardo Bruni, Isotta Nogarola, Helisenne de Crenne, Joachim Du Bellay, Gaspara Stampa, Jan Kochanowski.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8b9f3118d75e6ba332177e2d231fd59b">
+<name>
+<prefix/>
+<first>Katharina</first>
+<middle>Natalia</middle>
+<last>Piechocki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

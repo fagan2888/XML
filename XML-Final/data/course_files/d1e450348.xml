@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42851" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>of</num_char>
+</course_number>
+<title>Democracy and the Psychology of Inequality</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Gwyneth McClendon</faculty_text>
+<description>This course explores individuals' and societies' responses to economic inequality in the context of democracy. Why is economic inequality met in some democracies and at some times with discontent and in other democracies and at other times with acceptance or even celebration? How do the sources and structure of economic inequality shape citizens' reactions to it? And do citizens' responses to inequality then actually shape politics and public policymaking in democracies? In investigating these questions, we examine research from political science, social psychology and economics conducted in Sub Saharan Africa, the United States, Western and Eastern Europe, and India.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F80e86eea13175e1f339f22245a4c8a8b">
+<name>
+<prefix/>
+<first>Gwyneth</first>
+<middle/>
+<last>McClendon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

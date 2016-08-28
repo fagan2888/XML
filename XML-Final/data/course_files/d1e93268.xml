@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5549" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1430</num_int>
+</course_number>
+<title>Macroeconomics and Politics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 11</meeting_text>
+<faculty_text>Robert J. Barro and Emmanuel Farhi</faculty_text>
+<description>Topics include the political economy of economic growth, including the roles of democracy and legal institutions; inflation, monetary policy, and fiscal policy; interplay between religion and political economy; and analyses of economic and monetary unions.</description>
+<prerequisites>Economics 1010b or 1011b, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd074f447722cba7bd2c2541d67666de2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Barro</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F60a897d927654bf987246576e9840e2b">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Farhi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="219" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

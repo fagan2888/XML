@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>kg</num_char>
+</course_number>
+<title>The Political Economy of Health in the Developing World</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Nara Dillon</faculty_text>
+<description>This course places the politics of health care in the context of economic development. Although health care and social programs are often considered secondary to economic growth, they have come to play an increasingly central role in development policy. This course explores the interaction between development and health through a survey of different theoretical approaches to development, combined with empirical research on public health, AIDS, family planning, and development programs.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa9f109a967fb73ad6c9af0129bf7220f">
+<name>
+<prefix/>
+<first>Nara</first>
+<middle/>
+<last>Dillon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

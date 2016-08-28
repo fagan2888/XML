@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21112" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1166</num_int>
+</course_number>
+<title>Amerindian Languages and Literatures</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Alexandre Andreevich Tokovinine</faculty_text>
+<description>This course surveys the indigenous literatures (both Pre-Columbian and Colonial) of several New World civilizations (the Aztecs, Inka and Maya) from a comparative anthropological perspective. Included are brief introductions to the languages of these early documents (Nahuatl, Quechua and Mayan), as well as a discussion of their literary conventions, contents, and significance for an understanding of the cultures that produced them. A particular focus will be on the diachronic changes in these literatures since Precolumbian times, indicative of the complex and contested landscape of Spanish Colonization.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb4d2c7b3c8dc44735c98e45d9ba15ad">
+<name>
+<prefix/>
+<first>Alexandre</first>
+<middle>Andreevich</middle>
+<last>Tokovinine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

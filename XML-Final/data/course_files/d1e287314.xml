@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62351" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>306</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Teaching 100: The Theory and Science of Teaching</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>For many graduate students, teaching will be part of their career, whether as mentoring, formal classroom teaching, or outreach. In addition, the theory and research evidence accumulating in the disciplines of cognitive psychology, neuroscience, and from STEM classrooms, has turned the question of, 'How do we best teach science?' into its own scientific discipline. The Theory and Science of Teaching focuses on understanding why certain teaching methods are effective by examining the scientific research and theoretical frameworks that support these methods. We will read and discuss foundational educational and cognitive psychology texts and primary literature, and then develop an annotated lesson plan that allows us to put these ideas into practice.</description>
+<prerequisites/>
+<notes>The course has been designed as a companion to Genetics 302qc: Teaching 101, but neither course is a prerequisite of the other.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fa4581f4fa743be495294f44933fa3944">
+<name>
+<prefix>Dr</prefix>
+<first>Johanna</first>
+<middle/>
+<last>Gutlerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

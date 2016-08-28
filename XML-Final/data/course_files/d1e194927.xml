@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35187" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>35</num_int>
+</course_number>
+<title>Nature</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Joyce E. Chaplin (History)</faculty_text>
+<description>Ethical relations among people have always implied (whether directly or covertly) a preferred connection between people and nature. This course offers a critical and historical analysis of selected texts that identify human beings as a distinctively ethical species within the natural world, with particular attention to the emergence of normative theories that rank people with and against other natural beings. Topics include: definitions of wilderness and property; social hierarchies based on "natural" differences; agriculture, modern science, industrialization, and consumer economies as historic redefinitions of the human place within nature; animal rights; and environmentalism and its critics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4f1d85f4c37049f7a35b064b63677a57">
+<name>
+<prefix/>
+<first>Joyce</first>
+<middle>E.</middle>
+<last>Chaplin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

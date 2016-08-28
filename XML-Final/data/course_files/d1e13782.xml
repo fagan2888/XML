@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8716" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1090</num_int>
+</course_number>
+<title>Ethnography and Archaeology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Gary Urton</faculty_text>
+<description>Archaeologists often draw on ethnographic studies of Western and non-Western societies as sources of explanation for ancient cultural practices. But the questions remain: how valid is the use of ethnographic analogy in the study of the past? What assumptions do archaeologists make about past social processes in their uses of ethnographic studies? These are some of the questions addressed in this course.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa512804ed79c861545ff45ddbf1564fc">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Urton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+</requirements>
+</course></courses>

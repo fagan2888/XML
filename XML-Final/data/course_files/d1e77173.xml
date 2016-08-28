@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14983" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>Chinese Cinema</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1&amp;#8211;2:30, and an additional section to be arranged. Film screenings Wednesday, 7-9 pm</meeting_text>
+<faculty_text>Jie Li</faculty_text>
+<description>Introduction to major works, genres, and waves of Chinese cinema from the silent era to the present (with a focus on Mainland China). We will discuss formal aesthetics, historical representation, and audience reception. Students are encouraged to collaborate on their own short films in response to works we watch in class.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc06e4746ec56a05dc3384b7ffa9356ef">
+<name>
+<prefix/>
+<first>Jie</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29813" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>265</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Reading Efron</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 6&amp;#8211;8:30 p.m.</meeting_text>
+<faculty_text>Xiao-Li Meng, Joseph K. Blitzstein and Viktoriia Liublinska</faculty_text>
+<description>Exploration of the statistical contributions of Bradley Efron through study of his writings. Both deeply influential and deeply controversial ideas will be discussed; topics include statistical foundations and principles, estimating the number of unseen species, self-consistency, empirical Bayes, large-scale inference, and the bootstrap.</description>
+<prerequisites>Statistics 211a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F065d459a25b5cec46636aa60fae1773d">
+<name>
+<prefix/>
+<first>Xiao-Li</first>
+<middle/>
+<last>Meng</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F48331742259037b9b8a17000234a8e7e">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>K.</middle>
+<last>Blitzstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc0fba82f809c81eb1638c04a5054a84c">
+<name>
+<prefix/>
+<first>Viktoriia</first>
+<middle/>
+<last>Liublinska</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

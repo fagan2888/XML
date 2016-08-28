@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="989" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1019</num_int>
+</course_number>
+<title>Basic Mathematics for Social Scientists</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 1-2:30</meeting_text>
+<faculty_text>Pedram Safari</faculty_text>
+<description>The aim of this course is to provide the students of social sciences with a conceptual understanding of the basic notions of calculus and matrix algebra.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F40328820184225a5f89c24af7859aa85">
+<name>
+<prefix/>
+<first>Pedram</first>
+<middle/>
+<last>Safari</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-001" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

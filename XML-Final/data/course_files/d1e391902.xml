@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2594" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>187</num_int>
+</course_number>
+<title>Aesthetics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard Moran</faculty_text>
+<description>An examination of some texts of philosophical aesthetics from the 18th and 19th centuries, texts which either represent or anticipate the Romantic period. Themes include the role of emotion in art, the nature of expression and its relation to the will, problems of sincerity, and art or poetry as sources of knowledge. Readings will include some, but probably not all, of the following authors: Diderot, Schiller, Burke, Kant, Hume, Hegel, Lessing, Rousseau.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F895430831adb9dd728daef38eaa4e627">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Moran</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

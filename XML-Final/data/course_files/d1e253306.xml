@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83424" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>166</num_int>
+</course_number>
+<title>"What is Enlightenment?": Science, Religion, and the Making of Modernity</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Soha Hassan Bayoumi</faculty_text>
+<description>From Immanuel Kant's answer to this question in 1784 to Michel Foucault's engagement with the same question and answer in 1984, two centuries had passed and much water had flowed under the bridge. From the inception of its ideals in the Anglo-Saxon world in the seventeenth century at the hands of Spinoza, John Locke and Isaac Newton, to its development in France in the eighteenth century by Voltaire, Montesquieu and Rousseau and culmination with the writings of Immanuel Kant, the Enlightenment developed into an important intellectual movement which helped shape modernity and its repercussions in the contemporary world. This course will trace the history of Enlightenment in primary sources, enriched by a collection of secondary readings, and will explore contemporary reflections on Enlightenment from various schools of thought, ranging from romanticism to marxism, and from feminism to postmodernism. Some of the themes addressed include the politics of the Enlightenment, philosophy and morality, rationalism and empiricism, science and education, and religion and toleration.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3302.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9d999bb4ac1d9aef86ba61d054143aa2">
+<name>
+<prefix/>
+<first>Soha</first>
+<middle/>
+<last>Bayoumi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="252" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

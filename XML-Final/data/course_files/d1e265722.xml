@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="536" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>146</num_int>
+</course_number>
+<title>Syntax and Processing</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>To be determined.</faculty_text>
+<description>Selected grammatical phenomena will be examined from a theoretical and experimental perspective, with a view toward answering questions like the following: What theoretical treatments are available? How do experimental studies distinguish among competing theoretical approaches? What kind of future experimental work is needed to resolve the outstanding issues?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffc33fb29a8029a4dce510f312600015e">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle/>
+<last>Polinsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

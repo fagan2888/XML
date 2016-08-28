@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2144" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNLIT">Japanese Literature</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Gender and Japanese Art</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Melissa M. McCormick</faculty_text>
+<description>Examines the role of gender in the production, reception, and interpretation of visual images in Japan from the twelfth through the twenty-first centuries. Topics include Buddhist conceptions of the feminine and Buddhist painting; sexual identity and illustrated narratives of gender reversals; the dynamics of voyeurism in Ukiyo-e woodblock prints; modernization of images of "modern girls" in the 1920s; and the gender dynamics of girl culture in manga and anime.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3d24ba923e798e10e1696207b2b691c1">
+<name>
+<prefix/>
+<first>Melissa</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

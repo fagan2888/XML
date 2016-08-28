@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6270" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>220</num_int>
+</course_number>
+<title>Bayesian Data Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., Th., 11:30-1</meeting_text>
+<faculty_text>Jun S. Liu</faculty_text>
+<description>Basic Bayesian models, followed by more complicated hierarchical and mixture models with nonstandard solutions. Includes methods for monitoring adequacy of models and examining sensitivity of models.</description>
+<prerequisites>Statistics 110 and 111.</prerequisites>
+<notes>Emphasis throughout term on drawing inferences via computer simulation rather than mathematical analysis.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4559191edbcdc6c228d034b10baabcc7">
+<name>
+<prefix/>
+<first>Jun</first>
+<middle/>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="705" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

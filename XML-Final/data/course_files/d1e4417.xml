@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75126" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>107</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Race, Ethnicity, and the Empire</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>George Paul Meiu</faculty_text>
+<description>This course explores how discourses and embodied encounters have produced Otherness through racial and ethnic categorizations and how such categories mediate political and economic interventions in the colonial and postcolonial world. How do discourses of racial, ethnic, and cultural difference shape the lived worlds of those they claim to represent? How does alterity emerge and how is it embodied by subjects of difference? And what is the role of globalization, commodification, and consumption in the regeneration, reconfiguration, or erasure of markers of difference? Students will revisit classic texts in postcolonial theory and critical race theory in order to explore how their conceptual insights can be translated into ethnographic practice and historical analysis. If anthropology has long been invested in various categories of difference, this course also sets out to rethink what the discipline can offer towards a critical investigation of the production of alterity in the (post)colonial world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2cf43a9aef6646796191931c33e16cba">
+<name>
+<prefix/>
+<first>George Paul</first>
+<middle/>
+<last>Meiu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

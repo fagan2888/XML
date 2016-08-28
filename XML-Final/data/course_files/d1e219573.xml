@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5491" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2340</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Social Policy lI</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Jennifer L. Hochschild and Amitabh Chandra (Kennedy School)</faculty_text>
+<description>Considers the effects of policies and institutions in creating or reducing inequality in the US and other advanced democracies, as well as the reciprocal effects of inequality on political activity and policy choices.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as SUP-922.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73010804b38948a70f242a4703ccc3e2">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle>L.</middle>
+<last>Hochschild</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1cb6ee68200e5e3e90a4bdb968ffe6de">
+<name>
+<prefix/>
+<first>Amitabh</first>
+<middle/>
+<last>Chandra</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

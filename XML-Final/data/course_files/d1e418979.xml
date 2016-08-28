@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9796" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2450</num_int>
+</course_number>
+<title>Affective and Social Neuroscience</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Christine Hooker</faculty_text>
+<description>Reviews two emerging fields in neuroscience, affective and social neuroscience. Through integration of human and animal data, the course focuses on mapping affect, motivation, and social cognition to brain function.</description>
+<prerequisites>SLS-20 or its predecessors plus any foundational course.</prerequisites>
+<notes>Open to advanced undergraduates with permission of instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F78e62e40d42631038863656814d044de">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle/>
+<last>Hooker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="950" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

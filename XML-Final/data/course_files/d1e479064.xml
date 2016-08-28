@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77518" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Principles and Practice of Drug Development</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-6</meeting_text>
+<faculty_text>Lee L. Rubin, Stan Neil Finkelstein (Medical School), and Robert H. Rubin (Medical School)</faculty_text>
+<description>Critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules. Economic considerations of the drug development process.</description>
+<prerequisites/>
+<notes>Classes held at MIT. SCRB 230 is also offered as BCMP 230. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa771e8ae46afb8bc82db510244e58374">
+<name>
+<prefix/>
+<first>Lee</first>
+<middle/>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F418b328d6c9a0929d7b7bf791670ef77">
+<name>
+<prefix/>
+<first>Stan</first>
+<middle>Neil</middle>
+<last>Finkelstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F95ae85add3c263d074aead608cf25c4f">
+<name>
+<prefix>Dr</prefix>
+<first>Robert</first>
+<middle>Harold</middle>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

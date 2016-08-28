@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4005" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>185</num_int>
+</course_number>
+<title>Human Disease</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Gregory L. Verdine</faculty_text>
+<description>This course will address both the molecular basis of human disease, and the biological and chemical foundation of therapeutic intervention. The course will include lectures by prominent experts, and analysis of the primary literature.</description>
+<prerequisites>Chemistry 20/30 or 17/27, Life Sciences 52 or their equivalents.</prerequisites>
+<notes>May not be taken concurrently with MCB 185. May not be taken for credit if MCB 185 or Chemistry 285 has already been taken. Credit cannot also be received for MCB 185.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1980b488c52491a9d8164908568df5ab">
+<name>
+<prefix/>
+<first>Gregory</first>
+<middle/>
+<last>Verdine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

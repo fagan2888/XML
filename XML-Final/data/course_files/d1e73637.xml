@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="673" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>224</num_int>
+</course_number>
+<title>Introduction to T'ang and Sung Historical Sources</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Peter K. Bol</faculty_text>
+<description>Introduction to the reading and interpretation of sources useful in the study of T'ang and Sung history. Recent scholarship and methodological issues are also discussed.</description>
+<prerequisites>One year of literary Chinese or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F33c73f03f0b4a8d66da1c28f47cbd9ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>K.</middle>
+<last>Bol</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93535" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>168</num_int>
+</course_number>
+<title>Sociology of Biomedicine and Global Health</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Mary-Jo Del Vecchio Good (Medical School)</faculty_text>
+<description>Examines the culture of medicine in comparative perspective in diverse environments of risk and trust, in the US and globally; explores the transformative influence of the medical imagination on contemporary worlds of biomedicine and psychiatry</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F04ea9f8b2e18c70f2f7d25d053e3cc9f">
+<name>
+<prefix/>
+<first>Mary Jo</first>
+<middle>DelVecchio</middle>
+<last>Good</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

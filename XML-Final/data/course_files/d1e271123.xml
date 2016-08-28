@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6402" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>118</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Dynamical Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Yaiza Canzani</faculty_text>
+<description>Introduction to dynamical systems theory with a view toward applications. Topics include existence and uniqueness theorems for flows, qualitative study of equilibria and attractors, iterated maps, and bifurcation theory.</description>
+<prerequisites>Mathematics 21a,b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F01a11d5e22fd4a007501233cd12542f8">
+<name>
+<prefix/>
+<first>Yaiza</first>
+<middle/>
+<last>Canzani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

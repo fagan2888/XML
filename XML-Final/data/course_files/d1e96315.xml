@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4431" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2010</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Economic Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and a 90-minute weekly section to be arranged.</meeting_text>
+<faculty_text>David I. Laibson and Robert J. Barro</faculty_text>
+<description>Topics include discrete-time and continuous-time dynamic programming, consumption, investment, economic growth, and business cycles.</description>
+<prerequisites/>
+<notes>Enrollment is strictly limited to PhD students in the Economics Department, Business Economics program, and PEG program. Qualified Harvard undergraduates may also enroll. No other students may take the course for credit or as auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F96a8d36bc5067e1aa6b31b49e2cf8040">
+<name>
+<prefix/>
+<first>David</first>
+<middle>I.</middle>
+<last>Laibson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd074f447722cba7bd2c2541d67666de2">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>J.</middle>
+<last>Barro</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21693" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2475</num_int>
+</course_number>
+<title>Legal History Workshop</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>5</enrollment_limit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Tomiko Brown-Nagin (Law School)</faculty_text>
+<description>This workshop will examine major works in the field of legal history, important historiographical debates and critical methodologies. Students will participate in workshop presentations by leading scholars.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2596. Open to undergraduates with the permission of the Instructor. This course will meet at the Harvard Law School. Law students have a choice of enrolling in the workshop for two or three credits. Law students who choose to write a substantial paper will receive three credits upon successful completion of the course; law students who do not complete substantial papers will receive two credits. All FAS graduate students who enroll in the workshop must complete a substantial paper; all FAS students will receive three credits upon successful completion of the course.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ca2fbaab5ed6e821d1c688f6710f828">
+<name>
+<prefix/>
+<first>Tomiko</first>
+<middle/>
+<last>Brown-Nagin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="LAW - Caspersen Wasserstein Building" room="3009" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

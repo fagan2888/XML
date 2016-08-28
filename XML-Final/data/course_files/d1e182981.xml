@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57831" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>41</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>Museums</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Hanken</faculty_text>
+<description>What are museums? What exactly do they do, and why? Do they have a future? Traces the history of museums from their beginnings centuries ago to the modern institutions of today. Considers objects and their conservation, the role of museums in contemporary society, finances, dual&amp;#8211;and sometimes conflicting&amp;#8211;functions of scholarly research and public display, exhibit design, legal and ethical issues, and other challenges. Sessions include field trips to museums at Harvard and elsewhere in the Boston area to view public exhibits and "behind-the-scenes" collections that the public rarely sees.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa2674dc4d97172f91de4372453c6de21">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Hanken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68933" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>180</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Race, Class and the Making of American Religion</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Marla F. Frederick</faculty_text>
+<description>This class explores the ways in which both race and class are implicated in the development and practice of religion in the U.S. Through historical, anthropological and sociological works we explore the theoretical underpinnings of race and class and ponder their influence upon varying expressions of Islam, Judaism and Christianity.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2599.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F471675e7c254e3496514255d5e00cdcc">
+<name>
+<prefix/>
+<first>Marla</first>
+<middle/>
+<last>Frederick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

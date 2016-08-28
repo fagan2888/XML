@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9840" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="GENETIC">Genetics</course_group>
+<course_number>
+<num_int>228</num_int>
+</course_number>
+<title>Genetics in Medicine - From Bench to Bedside</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 2-5</meeting_text>
+<faculty_text>Susan A. Slaugenhaupt (Medical School) and Christopher Holmes Newton-Cheh (Medical School)</faculty_text>
+<description>Focus on translational medicine: the application of basic genetic discoveries to human disease. Will discuss specific genetic disorders and the approaches currently used to speed the transfer of knowledge from the laboratory to the clinic.</description>
+<prerequisites>Genetics 201 or equivalent.</prerequisites>
+<notes>Course will include patient presentations and lectures by investigators known for their work in a specific disease area. Course will be held at MGH (transportation provided to MGH). Offered jointly with the Medical School as GN 711.0. For more information visit &lt;a href="http://www2.massgeneral.org/bbs/" target="-blank"&gt;Massachusetts General Hospital&lt;/a&gt; and select GEN 228.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4a7f4e09f6b588f5088b85b03849403e">
+<name>
+<prefix>Dr</prefix>
+<first>Susan</first>
+<middle>Ann</middle>
+<last>Slaugenhaupt</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F42779eb49e72d16a0755d9b5d7005d11">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>Holmes</middle>
+<last>Newton-Cheh</last>
+<suffix>M.D.</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

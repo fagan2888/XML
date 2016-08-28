@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7217" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>97</num_int>
+</course_number>
+<title>Tutorial-Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Caroline Light</faculty_text>
+<description>An introduction to foundational concepts and skills in the study of gender and sexuality. Readings include Gloria Anzaldua, Donna Haraway, Patricia Hill Collins, Kimberle Crenshaw, Monique Wittig, Alison Bechdel, Chandra Talpade Mohanty, and Michel Foucault.</description>
+<prerequisites/>
+<notes>Required of Women, Gender, and Sexuality concentrators in their first year in the concentration. Recommended for undergraduates pursuing a secondary field in WGS.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F67a1dc7e159d9f57f7aa554402dea4a5">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Light</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

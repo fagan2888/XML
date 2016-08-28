@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1802" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>216</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>18th-Century Music: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 10-12</meeting_text>
+<faculty_text>Emily Dolan</faculty_text>
+<description>Instruments and Instrumentality. This seminar will explore the history of musical instruments and the diverse ways in which we can think about what they are and what they do. We will touch on many topics including early organographies, notions of artisanal epistemology, the history of mediation, thing theory, and late eighteenth-century aesthetics. This seminar will draw on texts from a range of disciplines and will include a visit to the collection of musical instruments at the Museum of Fine Arts in Boston.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9930eb6ef3ab729b31213ad855ffadee">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle/>
+<last>Dolan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

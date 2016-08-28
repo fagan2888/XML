@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1096" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PLSH">Polish</course_group>
+<course_number>
+<num_char>Cr</num_char>
+</course_number>
+<title>Advanced Polish</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Anna Baranczak</faculty_text>
+<description>Individualized study of the Polish language at the advanced level. Emphasis on reading with some practice in speaking and writing for professional and academic purposes. Conducted as a tutorial.</description>
+<prerequisites/>
+<notes>Not open to auditors. Course offered only by application and upon approval by the Director of the Language Program. Students must demonstrate clear academic need for the tutorial (e.g., knowledge of the language contributes to thesis research, other course work, planned study/research/internships abroad, etc.). Mere academic interest in the language is not sufficient for approval. Application information is available at the Slavic Department website. Interested students should submit on-line applications to staff assistant, Jolanta Davis, slavic@fas.harvard.edu, preferably by the second day of classes. No applications accepted after Friday of the first week of classes.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F71a16ddea4fd71a8adf0b9e4d938cae6">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle/>
+<last>Baranczak</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F71a16ddea4fd71a8adf0b9e4d938cae6">
+<name>
+<prefix/>
+<first>Anna</first>
+<middle/>
+<last>Baranczak</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54666" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>46</num_int>
+<num_char>t</num_char>
+</course_number>
+<title>Rebels With a Cause: Tiananmen in History and Memory</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Rowena Xiaoqing He</faculty_text>
+<description>In spring 1989, millions of Chinese took to the streets calling for political reforms. The nationwide demonstrations and the college students' hunger strike on Tiananmen Square ended with the People's Liberation Army firing on unarmed civilians. Student leaders and intellectuals were purged, imprisoned, or exiled. Discussion about "Tiananmen" remains a political taboo in China today despite the Tiananmen Mothers' struggle to keep the forbidden memory alive. This course will explore the Tiananmen Movement in history and memory. Exiled student leaders and political prisoners from the movement will be invited to share their experience and perspectives with the class.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff93bca82392cbb7724f403eb820304ee">
+<name>
+<prefix/>
+<first>Rowena</first>
+<middle>Xiaoqing</middle>
+<last>He</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="205" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

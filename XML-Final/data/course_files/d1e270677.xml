@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="405" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>113</num_int>
+</course_number>
+<title>Analysis I: Complex Function Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12</meeting_text>
+<faculty_text>Adam Jacob</faculty_text>
+<description>Analytic functions of one complex variable: power series expansions, contour integrals, Cauchy's theorem, Laurent series and the residue theorem. Some applications to real analysis, including the evaluation of indefinite integrals. An introduction to some special functions.</description>
+<prerequisites>Mathematics 23a,b, 25a,b, or 112. Not to be taken after Mathematics 55b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1ab2f21c6945e19c782f6cbffa39bf89">
+<name>
+<prefix/>
+<first>Adam</first>
+<middle/>
+<last>Jacob</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

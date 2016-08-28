@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98327" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>42</num_int>
+</course_number>
+<title>The World Wars in Global Context, 1905-1950</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Charles S. Maier (History)</faculty_text>
+<description>Examines the origins, military history, and successive postwar settlements of World Wars I and II in the framework of evolving empires, fascist, communist, and democratic ideological mobilization, forced resettlement and cultures of mass violence, ongoing economic and social change (and persistence). Attention to Asian and African as well as European and American transformations.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2f6ff94b260c5dbf633391a3ba54c2e4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>S.</middle>
+<last>Maier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

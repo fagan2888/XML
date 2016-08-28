@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6945" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Drawing 1--The Language of Drawing</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Monday and Wednesday 10am-1pm</meeting_text>
+<faculty_text>Katarina Burin</faculty_text>
+<description>A studio course to build the skills of drawing incrementally and expand students' visual vocabulary. Drawings will be made from life, photographs and invention. Emphasis will be placed on enhancing our observational sensibilities, focusing on all aspects of technical development, particularly the importance of line. Assignments will delve into the development of abstract and conceptual principles, and introduce specialized systems of rendering and notation. The aim is to expand drawing skills with intention and purpose.</description>
+<prerequisites>This class is for beginners or anyone furthering their skill level.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0bf87e9bc52c50aff9dec6d73b199a57">
+<name>
+<prefix/>
+<first>Katarina</first>
+<middle/>
+<last>Burin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

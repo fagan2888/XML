@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98211" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>158</num_int>
+</course_number>
+<title>Sex, Gender, Sexuality</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>100</enrollment_limit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Tey Meadow</faculty_text>
+<description>Male/Female, Man/Woman, Masculine/Feminine, Straight/Gay. These "dueling dualisms" structure our lives, identities and social institutions. Most of us believe that we have a concrete biological sex, social gender and sexual orientation; yet, sociologists increasingly debate the very meanings of these categories and their relationships to one another. We will examine theoretical and empirical approaches to understanding sex, gender and sexuality, paying particular attention to the historical construction of categories, theories about human difference and efforts within sociology to make sex, gender and sexuality into proper objects of study.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff2a537edba2c479b238873a8dec0f843">
+<name>
+<prefix/>
+<first>Tey</first>
+<middle/>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="210" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

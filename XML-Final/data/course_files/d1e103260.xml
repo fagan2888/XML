@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3766" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2610</num_int>
+</course_number>
+<title>Industrial Organization I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Robin S. Lee</faculty_text>
+<description>Applied work in industrial organization. Static analysis (theory, estimation): demand systems, cost functions, and game theoretic concepts of equilibrium and their application. Dynamic analysis (theory, computation, estimation): single agent problems, dynamic games and their application.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8331dedf978ab29981d0116882a9bb56">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle>Seung-jin</middle>
+<last>Lee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-16" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

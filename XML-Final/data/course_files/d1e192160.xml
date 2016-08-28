@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63195" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>58</num_int>
+</course_number>
+<title>Case Studies in the Medical Humanities: Interdisciplinary Perspectives on the Experience of Illness and Healing</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Shumway Jones (History of Science; Harvard Medical School) and Arthur Kleinman (Anthropology; Harvard Medical School)</faculty_text>
+<description>Disease and healing pose pragmatic and moral challenges for individuals and societies. Artists and writers have struggled to make sense of these tragic and transcendent experiences through fiction, poetry, art, and music. Scholars can explore these archives of the illness experience to understand not just disease and medicine but also what it means to be human. This interdisciplinary course examines how the medical humanities can change how we think about suffering, resilience, and care-giving, an endeavor relevant to anyone who expects to encounter these problems in life (i.e., everyone). In 2014 the course will focus on death and dying. Future offerings will address epidemics, chronic disease, mental illness, or caregiving.</description>
+<prerequisites/>
+<notes>//</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fffdef953c00697b7354e6be8ec7db8c4">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Shumway</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9097" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSE">Chinese</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>xa</num_char>
+</course_number>
+<title>Pre-Advanced Modern Chinese for Heritage Students</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Section I: M., through F., at 9; Section II: M., through F., at 12</meeting_text>
+<faculty_text>Wei Liu</faculty_text>
+<description>Designed for heritage learners and covers the equivalent of Chinese 130a and other materials for reading and writing.</description>
+<prerequisites>Chinese 120b, Chinese 123xb, Chinese 125ab, or with permission of instructor.</prerequisites>
+<notes>No auditors. May not be taken Pass/Fail.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F34f5a7eb8343401f766701d3524940e3">
+<name>
+<prefix/>
+<first>Wei</first>
+<middle/>
+<last>Liu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Vanserg" room="24a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="24a" type="Speaking Section"/>
+<location term="1" building="Vanserg" room="27a" type="Lecture"/>
+<location term="1" building="Vanserg" room="27a" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

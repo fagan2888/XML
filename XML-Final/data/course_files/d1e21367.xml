@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7971" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2650</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>History and Theory of Social Anthropology: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-1</meeting_text>
+<faculty_text>Ajantha Subramanian</faculty_text>
+<description>Continuation of Anthropology 2650a.</description>
+<prerequisites/>
+<notes>Required of candidates for the PhD in Social Anthropology. Not open to undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0037454d068b85f7e2d5348b8d43309a">
+<name>
+<prefix/>
+<first>Ajantha</first>
+<middle/>
+<last>Subramanian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

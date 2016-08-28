@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="319" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>171</num_int>
+</course_number>
+<title>Structural Geology and Tectonics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1&amp;#8211;2:30, and three hours of laboratory work each week</meeting_text>
+<faculty_text>John H. Shaw</faculty_text>
+<description>An introduction to the deformation of Earth materials, including the processes of mountain building and plate tectonics, faulting and earthquakes, folding, and ductile deformation. Structures are examined using geologic maps, balanced cross sections, seismic reflection data, satellite imagery, microscopic analysis, analog experiments, and numerical methods. Labs emphasize the applications of structural geology in the energy and environmental industries, and for assessing earthquake hazards.</description>
+<prerequisites>EPS 7, 8, or 21; or permission of instructor.</prerequisites>
+<notes>Given in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F214e668f2dc2c1e7a2471b80031e9feb">
+<name>
+<prefix/>
+<first>John</first>
+<middle>H.</middle>
+<last>Shaw</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

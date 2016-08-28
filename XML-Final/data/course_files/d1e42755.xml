@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85544" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CELTIC">Celtic</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>The Folklore of Gaelic Scotland</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 2</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>An introduction to the oral traditions of Gaelic Scotland and Nova Scotia, including tales and song. The process of collecting is explored, and various folkloristic theories and approaches applied in order to gain a deeper understanding of the material.</description>
+<prerequisites/>
+<notes>No knowledge of Gaelic required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

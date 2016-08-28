@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14423" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>112</num_int>
+</course_number>
+<title>You Will Win, But You Won't Convince: Discussing the Spanish Civil War</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Daniel Aguirre Oteiza</faculty_text>
+<description>Examines the Spanish Civil War (1936-39) as a key event for understanding the "causes" that have shaped 20th- and 21st-century Spanish culture and society within the context of recent Western history. Focus on the relation between memory, history, and representation in cultural works ranging from the years prior to the conflict up to the present (narrative, poetry, testimonies, memoirs, film, visual arts, comic books, etc.).</description>
+<prerequisites>A previous course in Spanish at the 60- or 70-level; 800 on the SAT II test or on the Harvard Placement test; or permission of the course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3f0d2617a9d9596480241185013c2acc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Aguirre-Oteiza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

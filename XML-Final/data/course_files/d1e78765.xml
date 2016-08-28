@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20018" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>129</num_int>
+</course_number>
+<title>The World of the Three Kingdoms: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Xiaofei Tian</faculty_text>
+<description>This course explores the appeal of the "Three Kingdoms," a dangerous and violent time, and examines the nostalgic construction of the world of the Three Kingdoms from medieval times through contemporary period, in the forms of fiction, poetry, plays, movies, TV series, video games, MVs and fan fiction. Using the concept of "nostalgia" as a point of entry, this class offers an account of the nuances in the phenomenon and sentiments of nostalgia about the Three Kingdoms in different periods throughout Chinese history, with emphasis on nostalgia as a historical emotion and a modern global condition.</description>
+<prerequisites/>
+<notes>Intended for undergraduate and graduate students. All readings in English (students may opt to read in Chinese). No specific background in Chinese or East Asian Studies required.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fea9a48e00cb2aa06774c0b59ad9b27c3">
+<name>
+<prefix/>
+<first>Xiaofei</first>
+<middle/>
+<last>Tian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

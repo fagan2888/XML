@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21083" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1421</num_int>
+</course_number>
+<title>Medical Management of the Female Body</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Sarah S. Richardson</faculty_text>
+<description>This course examines how Western medical knowledge, practices, and institutions define female health and normality and manage diseased and gender-variant female bodies. How, for instance, does medicine conceive of the female body as a medical problem or mystery and how do race, class, and sexuality inflect these conceptions? Topics include: "female maladies," medicalization of childbirth and the pregnant body, medical management of transgender and intersexed bodies, ideals of fitness, cosmetic surgery, disability, and pharmaceutical marketing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

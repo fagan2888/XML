@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65925" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.163</num_char>
+</course_number>
+<title>Cities and Globalization</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Elizabeth Greenspan</faculty_text>
+<description>This course investigates how "the global city" brings to the fore the opportunities and challenges of contemporary globalization. How do economic and cultural forms link cities like New York, Paris, and Mumbai? How is urban protest a response to globalization? We will answer these questions by reading a variety of texts - including theoretical works by Saskia Sassen and Ulf Hannerz, and literary non-fiction by Suketu Mehta - and viewing artistic interpretations, including the film "La Haine."</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F29fa091810fc6b873e64522b25c45505">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>Leah</middle>
+<last>Greenspan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

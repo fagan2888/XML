@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6183" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIST">
+<dept_long_name>Committee on Higher Degrees in Biostatistics</dept_long_name>
+<dept_short_name>Biostatistics</dept_short_name>
+</department>
+<course_group code="BIOSTAT">Biostatistics</course_group>
+<course_number>
+<num_int>230</num_int>
+</course_number>
+<title>Probability Theory and Applications I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:30&amp;#8211;3:20, and a weekly 90-minute lab.</meeting_text>
+<faculty_text>Marcello Pagano (Public Health)</faculty_text>
+<description>Axiomatic foundations of probability, independence, conditional probability, joint distributions, transformations, moment generating functions, characteristic functions, moment inequalities, sampling distributions, modes of convergence and their interrelationships, laws of large numbers, central limit theorem, and stochastic processes.</description>
+<prerequisites/>
+<notes>Offered jointly with the School of Public Health as BIO230.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1565dffe0b9e31cb19fe92d5ecf43a01">
+<name>
+<prefix/>
+<first>Marcello</first>
+<middle/>
+<last>Pagano</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1520"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1520"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

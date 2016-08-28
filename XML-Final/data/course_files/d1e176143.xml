@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="81872" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>24</num_int>
+<num_char>u</num_char>
+</course_number>
+<title>"How Did I Get Here?"--Appreciating "Normal" Child Development</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Laura Marie Prager (Medical School)</faculty_text>
+<description>How do we conceptualize "normal" growth and development? In this seminar, we will examine stages of child development from many vantage points: neurobiological, physical, cultural, and psychological. Readings will include classic papers on development, textbook chapters that provide overviews of specific developmental stages, recently published research articles on brain development and genetic inheritance, selected contemporary children's and young adult literature, personal memoirs, and short stories written about childhood. We will also examine clips from contemporary films. Assignments will consist of three short response papers and a longer final paper. There are no prerequisites for this course.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F52f69bd0b25c97caf39c1d690510cda5">
+<name>
+<prefix>Dr</prefix>
+<first>Laura</first>
+<middle>Marie</middle>
+<last>Prager</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

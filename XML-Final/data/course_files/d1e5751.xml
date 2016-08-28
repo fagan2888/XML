@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3426" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>128</num_int>
+</course_number>
+<title>Black Nationalism</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Tommie Shelby</faculty_text>
+<description>Critically examines the family of African American social philosophies generally classified under the broad rubric "black nationalism." Topics to be explored include the meaning of black collective self-determination; the relationship between black identity and black solidarity; and the significance of Africa for black nationalist ideals. Authors to be discussed include Martin Delany, Alexander Crummell, Edward Blyden, W.E.B. Du Bois, Marcus Garvey, Elijah Muhammad, Malcolm X, Stokely Carmichael, Huey Newton, and some contemporary representatives of the tradition.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fab311be3659dbd44828e4a4892a586e1">
+<name>
+<prefix/>
+<first>Tommie</first>
+<middle/>
+<last>Shelby</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

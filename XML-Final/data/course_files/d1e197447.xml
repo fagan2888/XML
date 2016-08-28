@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1387" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>25</num_int>
+</course_number>
+<title>Energy: Perspectives, Problems and Prospects</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Michael B. McElroy (Harvard School of Engineering and Applied Sciences; Earth and Planetary Sciences)</faculty_text>
+<description>The course provides an historical account of the evolution of the modern energy system, from early dependence on human and animal power, to the subsequent use of wind and water, to more recent reliance on fossil fuels - coal, oil and natural gas - and even more recently to the development of the ability to tap the energy contained in the nucleus. It will discuss the important historical advances in the applications of energy, notably in the production and distribution of electricity and in the transportation sector - where oil-derived products provide the motive force for cars, trucks, trains, ships and planes. It will highlight the energy related problems we confront today, with particular emphasis on air pollution, on the threat of global climate change, on the hazards of nuclear proliferation, and on the risks to national security imposed by our increasing reliance on imported sources of oil. It concludes with a discussion of options for a more sustainable energy future.</description>
+<prerequisites>Students are expected to have a background of high school algebra and trigonometry.</prerequisites>
+<notes>Students who have taken Science A-52 may not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffb530e6d87831c18ca5db4b774d10846">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>B.</middle>
+<last>McElroy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76136" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>Wd</num_char>
+</course_number>
+<title>Occupations and Professions in a Bureaucratized World</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Joshua Wakeham</faculty_text>
+<description>What does it mean to do a job well? What does it mean to be a good teacher, doctor, social worker, lawyer, or business person? How does the bureaucratic arrangement of work change people's incentives, perceptions of their jobs, and their capacities to do their jobs well? This class will examine how people in various professional and occupational fields navigate the day-to-day demands of their work, with particular attention to how the demands of organizational life-rules, authority, formality, coordination-interact with the work itself. This course will draw on an array of research in the sociology of organizations, the sociology of occupations, and the sociology of professions. The goal of this course is to help students develop a research project in some professional or occupational field of their interest.</description>
+<prerequisites/>
+<notes>Required of and limited to Sociology concentrators. Spring junior tutorials are by assignment only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa26bf56982e397bd7840823773724c3d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle/>
+<last>Wakeham</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

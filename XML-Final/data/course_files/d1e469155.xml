@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40485" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="TIBET">Tibetan</course_group>
+<course_number>
+<num_int>151</num_int>
+</course_number>
+<title>Era of the 5th Dalai Lama (1617-82): Ascendancy &amp; Intellectual Climate of Dga' ldan pho brang Court</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Leonard W. J. van der Kuijp</faculty_text>
+<description>This course will examine the politics of the Dga' ldan pho brang court and the arts and sciences cultivated by the Fifth Dalai Lama and his governors (sde srid), with special attention given to Sde srid Sangs rgyas rgya mtsho (1653-1705). This will be a seminar-cum-reading course with readings taken from the Fifth Dalai Lama's autobiography, his and Sangs rgyas rgya mtsho's treatises on the astral sciences, and several "afterwords" (par byang) to the xylograph-publications that they sponsored.</description>
+<prerequisites>Reading knowledge of Tibetan and an insatiable intellectual curiosity.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F59cd896e88d4d9a4f84994a96462d10a">
+<name>
+<prefix/>
+<first>Leonard</first>
+<middle/>
+<last>van der Kuijp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="317" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

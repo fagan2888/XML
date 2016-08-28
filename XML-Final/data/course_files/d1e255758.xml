@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21346" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>261</num_int>
+</course_number>
+<title>Ethnography of Science and Technology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>This course surveys monographs in the ethnography of science, both canonical and current. How have the methods and tools of the interpretive social sciences been applied to cultures of science and technology? What is the relation of description to analysis in ethnographies of science? How do such ethnographies approach theory-building and interpretation? Beginning with early work in the sociology of scientific knowledge and laboratory studies, students will read work in feminist science studies, field and environmental studies, multi-sited ethnography, sensory ethnography, and ethnographic accounts of digital worlds. Throughout, pressure will be placed on issues of method, style, and representation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

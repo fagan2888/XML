@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7869" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>37</num_int>
+</course_number>
+<title>The Chinese Overseas</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Michael A. Szonyi (East Asian Languages and Civilizations)</faculty_text>
+<description>This course introduces the emigration of people from China to other parts of the world over the last five centuries. It considers the causes of emigration, the ties that emigrants retained to China, and the communities that Overseas Chinese created abroad. It compares the experiences of emigrants and their descendants in Southeast Asia and in North America. Last, it tries to situate the recent wave of Chinese migration to North America in global and historical context.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff0e73bd7d765861e70f2c20b371c0fed">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Szonyi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19013" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>102</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Introduction to Old English: The Literature of Spiritual Warfare</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Laura Wang</faculty_text>
+<description>An introduction to the deeply religious, yet turbulent culture of Anglo-Saxon England, where the tension between new Christian belief and deeply engrained warrior culture produced works of provocative prose and astonishing poetry. We will first learn the fundamentals of Old English, which requires study as a foreign language. As we gain facility with the language, we will translate biblical narratives, sermons, and religious poems: some of them cautiously literal in their treatment of scripture, others fascinatingly hybrid. Ultimately, we will gain a sense of the development of English prose, and read some of the greatest poems in the English language.</description>
+<prerequisites/>
+<notes>Students who complete both English 102 and 103 with honors grades will fulfill the College language requirement and the English Department's Foreign Literature requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F23344209efba74080c7dffa25683bca1">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle/>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="302" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7142" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>The Supreme Court in U.S. History</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Richard H. Fallon (Law School)</faculty_text>
+<description>Often described as the world's most powerful court, the US Supreme Court has not always enjoyed high prestige or unquestioned authority. The Court's significance has waxed and occasionally waned, with the variations typically depending on surrounding currents in the nation's social and political history. Examines the history of the Court from the nation's founding to the present. Highlights relation between constitutional law and ordinary politics, and the ways in which they influence one another.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe494f1bf048f632d7d0569ece2b7ee90">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Fallon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

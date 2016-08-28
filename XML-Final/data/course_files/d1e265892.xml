@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9457" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Prosody and Intonation</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Patrick J. Jones</faculty_text>
+<description>Prosody and intonation are intricately linked to many domains of language use and linguistic structure. We examine the phonetic form of prosodic contours and intonational grouping, the function of prosody in expressing semantic and pragmatic information and in disambiguation during sentence production and comprehension, and the use of "implicit" prosody even in silent reading.</description>
+<prerequisites>Linguistics 101 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb4e9c4abaec2212b32f4e0029ebc9c7e">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle>Jackson</middle>
+<last>Jones</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9475" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2328</num_int>
+</course_number>
+<title>The Emergence of Modern Economic Growth: A Comparative and Historical Analysis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James Robinson</faculty_text>
+<description>Overview and analysis of comparative economic development during the last half millennia. Examines the emergence of modern economic growth in Europe after 1500, and the forces that led to the great divergence in prosperity in the 19th century. Also considered: colonialism, communism, fascism, and revolution.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F629c44f6b64f514b5c2d1bc243315d33">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Robinson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

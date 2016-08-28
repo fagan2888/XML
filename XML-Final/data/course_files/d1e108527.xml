@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6395" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Mathematical Methods in the Sciences</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Margo S. Levine</faculty_text>
+<description>Complex numbers. Multivariate calculus: partial differentiation, directional derivatives, techniques of integration and multiple integration. Vectors: dot and cross products, parameterized curves, line and surface integrals. Vector calculus: gradient, divergence and curl, Green's, Stokes' and Gauss' theorems, including orthogonal curvilinear coordinates. Applications in electrical and mechanical engineering.</description>
+<prerequisites>Mathematics 1b or equivalent.</prerequisites>
+<notes>May not be taken for credit by students who have passed Mathematics 21a. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb103006542cd115cb57c63b2b9af2694">
+<name>
+<prefix>Dr</prefix>
+<first>Margo</first>
+<middle>S</middle>
+<last>Levine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

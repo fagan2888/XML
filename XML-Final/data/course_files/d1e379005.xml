@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4559" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>Plant Development and Differentiation</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Elena M. Kramer and Pamela Diggle</faculty_text>
+<description>A comprehensive lecture course on the developmental biology of plants from fertilization through all phases of vegetative and reproductive growth. Material includes both morphological and genetic studies. Although the main focus of the course is angiosperms, examples are drawn from other lineages of land plants as well. Additional topics include control of cell division and elongation, signal transduction, and hormone response.</description>
+<prerequisites>Life Sciences 1b and OEB 52 (formerly OEB 124) or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdf11d24b49c9337165f9e24a9f08c923">
+<name>
+<prefix/>
+<first>Elena</first>
+<middle>M.</middle>
+<last>Kramer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6ad0eae3daf86871a08099ebd064bd61">
+<name>
+<prefix/>
+<first>Pamela</first>
+<middle/>
+<last>Diggle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

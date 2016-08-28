@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74654" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>64</num_int>
+</course_number>
+<title>The Cell Biology of Human Life in the World</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Robert A. Lue</faculty_text>
+<description>This course teaches fundamental concepts in cell biology in the context of individual life histories drawn from different parts of the world. Each life case focuses on key aspects of human development, growth, aging and disease while providing a nuanced view of the interplay between the life sciences, geography and culture. For example, a comparative discussion of aging in the United States and Japan is used to explore diet, cellular metabolism and its relationship to protein damage and turnover, while the Human Immunodeficiency Virus and AIDS in South Asia is used to explore mucosal immunity and the basis for estimating relative infection risk. Each case delves into the cell biology of major biological events across the life history of the human</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9ed9faeaae6a5875845328f356a73623">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>A.</middle>
+<last>Lue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

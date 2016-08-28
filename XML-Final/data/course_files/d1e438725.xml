@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77268" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>242</num_int>
+</course_number>
+<title>Being and Knowing in Latina Theory</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Mayra Rivera Rivera (Divinity School)</faculty_text>
+<description>This graduate-level seminar course engages philosophers and literary theorists who analyze the relationship between geopolitics, language, and the prouction of knowledge drawing from Latino/a and Latin American intellectual traditions. Readings include works by Linda Martin Alcoff, Walter Mignolo, and Edouard Glissant, among others.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6041f2a472ba07e5cd97b44d54176b51">
+<name>
+<prefix>Prof</prefix>
+<first>Mayra</first>
+<middle/>
+<last>Rivera Rivera</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

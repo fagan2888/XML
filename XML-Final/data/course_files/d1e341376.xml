@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8703" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Cellular Basis of Neuronal Function</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 2</meeting_text>
+<faculty_text>Venkatesh N. Murthy</faculty_text>
+<description>The essential function of a neuron is to processes complex signals derived from the external world. To accomplish this function, neurons employ diverse mechanisms that respond to chemical and electrical signals with incredible sensitivity and plasticity. In this course, we will study these electrical, molecular, and cellular processes using biophysical and biological approaches. Specifically, we will explore topics on excitable membranes, neurotransmission, ion channels, dendritic integration, intracellular signaling, and synaptic plasticity in the context of various model circuits in the brain.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2eea5e5725779046e3de8e4eae548841">
+<name>
+<prefix/>
+<first>Venkatesh</first>
+<middle/>
+<last>Murthy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="1080 (Main Lecture Hall)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

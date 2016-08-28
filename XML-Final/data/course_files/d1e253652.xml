@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76277" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>176</num_int>
+</course_number>
+<title>Brainwashing and Modern Techniques of Mind Control</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Rebecca M. Lemov</faculty_text>
+<description>This course examines the phenomenon of "brainwashing" as a modern set of techniques that can apparently force a subject radically to alter her beliefs against her will. The Cold War roots of 'brainwashing' - both the myth and the reality -- lie in the politics of twentieth-century anti-Communism and the deeper fear that people's most strongly held thoughts, ideas, and ideological commitments could be vulnerable to powerful infiltration. In order to understand the dynamics of this process we will examine case studies beginning with the Korean War-era emergence of the term 'brainwashing', the American interdisciplinary science of "coercive persuasion" that arose in response, and successive waves of technological, political, and sociocultural developments. We will also look at how brainwashing and analogous persuasive techniques may operate among larger groups, crowds, organizations, and mass societies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F79de794d3e2e19eb71a2033b0ec0b76d">
+<name>
+<prefix/>
+<first>Rebecca</first>
+<middle/>
+<last>Lemov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

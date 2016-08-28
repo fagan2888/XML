@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4407" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2356</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Visual Cognition: Research Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Yaoda Xu, George Angelo Alvarez, and Ken Nakayama</faculty_text>
+<description>Discussion of current research on visual cognition (how we perceive, attend to, and remember visual information). We will also discuss ongoing research by participants in the seminar.</description>
+<prerequisites/>
+<notes>Open to graduate and undergraduates.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fac2f707e355b94ad61f59d49e175b913">
+<name>
+<prefix/>
+<first>Yaoda</first>
+<middle/>
+<last>Xu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0de948ca917d4930fb40a4748ac83c5a">
+<name>
+<prefix/>
+<first>Ken</first>
+<middle/>
+<last>Nakayama</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fac2f707e355b94ad61f59d49e175b913">
+<name>
+<prefix/>
+<first>Yaoda</first>
+<middle/>
+<last>Xu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0de948ca917d4930fb40a4748ac83c5a">
+<name>
+<prefix/>
+<first>Ken</first>
+<middle/>
+<last>Nakayama</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

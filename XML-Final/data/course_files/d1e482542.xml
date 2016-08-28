@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29785" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1440</num_int>
+</course_number>
+<title>Mommy Wars: Race, Class, and the Politics of Motherhood</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Elizabeth Singer More</faculty_text>
+<description>The term "mommy wars" emerged in 1990 to suggest that relations between "working mothers" and "stay at home mothers" were characterized by mutual animosity and petty status battles between women defined through their roles as mothers. Yet the political, cultural, and economic struggles over motherhood have deep roots and high stakes. This seminar will look critically at the history and literature of the "mommy wars," from The Feminine Mystique to contemporary advice literature, paying special attention to voices often excluded from mainstream media representations. Topics include mothers in the workplace, race and reproduction, caring labor, and class in discourses of "good" and "bad" mothering.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffbcecfdb7460872fcc22efd60dcea3dd">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle>Singer</middle>
+<last>More</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

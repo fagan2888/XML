@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6498" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Courtney Bickel Lamberth</faculty_text>
+<description>A required component of the senior year tutorial is a biweekly seminar, led by the Assistant Director of Undergraduate Studies. Covers research methods and strategies in thesis writing.</description>
+<prerequisites/>
+<notes>Required of concentrators writing a thesis.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fafeeb8242ff10928d87dd4c2c4dd010d">
+<name>
+<prefix/>
+<first>Courtney</first>
+<middle>Bickel</middle>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fafeeb8242ff10928d87dd4c2c4dd010d">
+<name>
+<prefix/>
+<first>Courtney</first>
+<middle>Bickel</middle>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Barker Center" room="403 (Finnegan Room)" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

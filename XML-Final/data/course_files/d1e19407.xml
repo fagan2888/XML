@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93911" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2038</num_int>
+</course_number>
+<title>Bioarchaeology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Jessica Ines Cerezo-Roman</faculty_text>
+<description>In the broadest of terms, bioarchaeology as used in the United State is the study of human skeletal remains from archaeological contexts. This includes a myriad of interconnected phenomena including mortuary contexts, paleodemography, paleopathology, and assessing human variation and adaptation. It also encompasses scientific approaches and applications of social theory, and carries weighted concerns for historical context and ethical issues. Since its inception in the 1970's bioarchaeology has evolved into a mature and diversified approach to understanding human biology and behavior in the past. This course will provide an overview of contemporary bioarchaeological research. Students will develop a historical perspective on bioarchaeology within the larger context of American anthropology. Emphases also are placed on recent discoveries, new interpretations and theoretical approaches.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe6c19a0bc88ee4c68704c7013cbc0428">
+<name>
+<prefix/>
+<first>Jessica</first>
+<middle>Ines</middle>
+<last>Cerezo-Roman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

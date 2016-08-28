@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4771" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>150</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Theory IIa</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Andrew Moses Friedman</faculty_text>
+<description>Continues the work of Music 51. The fall term focuses on the Classical style (Haydn, Mozart, Beethoven and their contemporaries). Topics include harmony, phrase structure, and musical forms. Concepts are developed through written &amp; aural analysis, model composition, keyboard harmony and ear-training exercises.</description>
+<prerequisites>Music 51 or equivalent.</prerequisites>
+<notes>Required of all concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0ed655671e50f43b575140342c0bcb13">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle>Moses</middle>
+<last>Friedman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="6" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

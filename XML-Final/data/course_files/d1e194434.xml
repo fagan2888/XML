@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12206" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>The Just World</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>T., Th., at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Mathias Risse (Harvard Kennedy School)</faculty_text>
+<description>Globalization is changing the world. What do wealthy countries have to do to contribute towards the creation of a just world? We start by exploring different approaches to the question of whether obligations of justice apply only to those who share a country. We will then assess whether the global order harms the poor. Next we look at human rights and ask whether liberal values should be promoted as universal human rights. We will complete the course by exploring three additional subjects: moral obligations arising from trade (specifically whether labor standards should be linked with human rights standards), immigration, and environmental justice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F834b2af2fdae667e99ab506b12fab0fc">
+<name>
+<prefix/>
+<first>Mathias</first>
+<middle/>
+<last>Risse</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="201" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

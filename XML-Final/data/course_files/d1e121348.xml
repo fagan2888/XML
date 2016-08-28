@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3411" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>51</num_int>
+</course_number>
+<title>Introduction to Computer Science II</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, and an additional 90-minute section to be arranged</meeting_text>
+<faculty_text>John G. Morrisett</faculty_text>
+<description>Abstraction and design in computation. Topics include functional and object-oriented styles of programming, software engineering in the small, and models of computation. Our main goal is to understand how to design large programs to make them readable, maintainable, elegant, and efficient. Exercises in OCaml.</description>
+<prerequisites>Computer Science 50 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0d385eae518092ada5b41e8c64bb0f13">
+<name>
+<prefix/>
+<first>Greg</first>
+<middle/>
+<last>Morrisett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

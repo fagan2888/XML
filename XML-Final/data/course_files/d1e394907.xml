@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8676" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>15</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Wave Phenomena</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Girma Hailu and Markus Greiner (fall term), and Matthew D. Schwartz and Vinothan N. Manoharan (spring term)</faculty_text>
+<description>Forced oscillation and resonance; coupled oscillators and normal modes; Fourier series; Electromagnetic waves, radiation, longitudinal oscillations, sound; traveling waves; signals, wave packets and group velocity; two- and three-dimensional waves; polarization; geometrical and physical optics; interference and diffraction. Optional topics: Water waves, holography, x-ray crystallography, and solitons.</description>
+<prerequisites>Physics 15a, Physics 15b, or written permission of the Head Tutor in Physics. Mathematics preparation at least at the level of Mathematics 21b taken concurrently is required. Some prior knowledge of complex numbers (for example as taught in Mathematics 1b) is helpful. Linear algebra and differential equations are used extensively. Students taking Mathematics 21b concurrently will likely find that some concepts are introduced in Physics 15c before they have seen them in Mathematics 21b. Some students may wish to postpone Physics 15c until they have completed Mathematics 21b.</prerequisites>
+<notes>Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 15c. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F618e2d812144167df04dea9b9882fcdb">
+<name>
+<prefix/>
+<first>Girma</first>
+<middle/>
+<last>Hailu</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fcbb522a1316c7aefa0c61b37327d9552">
+<name>
+<prefix/>
+<first>Markus</first>
+<middle/>
+<last>Greiner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fee02cee081dde73f303e6fa508c9066b">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>D</middle>
+<last>Schwartz</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd5da4ad9a60144994d3e0594c41e3f09">
+<name>
+<prefix/>
+<first>Vinothan</first>
+<middle>N</middle>
+<last>Manoharan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" D" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

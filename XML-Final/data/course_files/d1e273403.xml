@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8320" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>221</num_int>
+</course_number>
+<title>Algebra</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Hector Hardy Pasten Vasquez</faculty_text>
+<description>A first course in commutative algebra: Noetherian rings and modules, Hilbert basis theorem, Cayley-Hamilton theorem, integral dependence, Noether normalization, the Nullstellensatz, localization, primary decomposition, discrete valuation rings, filtrations, completions and dimension theory.</description>
+<prerequisites>Mathematics 123.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fabf4994a470de418f54cc99d8399fd45">
+<name>
+<prefix/>
+<first>Hector</first>
+<middle>Hardy</middle>
+<last>Pasten Vasquez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="213" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

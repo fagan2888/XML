@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35075" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>252</num_int>
+</course_number>
+<title>Rereading Russian Intellectual History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Justin Weir</faculty_text>
+<description>This seminar reviews the standard texts and topics of pre-Revoluationary Russian intellectual history. Course readings include works by Chaadaev, Herzen, Belinsky, Chernyshevsky, Pisarev, Bakunin, Solovyov, and others.The seminar also considers methodological problems and how approaches to writing Russian intellectual history have evolved from the last half of the twentieth century to the post-Soviet era.</description>
+<prerequisites>Reading knowledge of Russian required.</prerequisites>
+<notes>Open to qualified undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb95f496c0add7449a50df6c8dc7b7450">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>M.</middle>
+<last>Weir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

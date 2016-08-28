@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3361" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_char>Bb</num_char>
+</course_number>
+<title>Selections from Homer's Iliad</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9</meeting_text>
+<faculty_text>Ivy Livingston and assistant</faculty_text>
+<description>An introduction to Homeric poetry: language, meter, formulae, and type scenes.</description>
+<prerequisites>Greek Ab, Aab, Ac, or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc2da8660ca48ffbab0f0353c42055450">
+<name>
+<prefix/>
+<first>Ivy</first>
+<middle/>
+<last>Livingston</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

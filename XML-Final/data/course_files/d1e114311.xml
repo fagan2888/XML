@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7500" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>298</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Interdisciplinary Chemistry, Engineering and Physics: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Robert M. Westervelt and members of the Faculty</faculty_text>
+<description>Materials-related topics chosen from: Structure and Self-Assembly; Mechanical Properties; Surfaces and Interfaces; Biomaterials; Synthesis and Fabrication; Characterization Techniques; Soft Materials, and Complex Fluids.</description>
+<prerequisites/>
+<notes>The class will be divided into teams and each team will spend 4 weeks investigating a current research problem posed by a faculty member. This will entail reading and lab work and will be followed by a presentation to the full class. Each team will work on 3 problems through the term. Suitable for graduate students with undergraduate concentrations in chemistry, engineering, or physics having present or potential research interests in this field. The course will provide an introduction to current research problems as well as the methodology of research and presentation. A final paper based on one theme will also be required. Taught by faculty from Chemistry, Physics, and the School of Engineering and Applied Sciences who are associated with Harvard's Materials Research Science and Engineering Center.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F92a59f63f11bfa59534238bef7cd76d6">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>M.</middle>
+<last>Westervelt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

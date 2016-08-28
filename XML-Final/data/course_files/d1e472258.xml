@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6617" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>149</num_int>
+</course_number>
+<title>Statistical Sleuthing through Generalized Linear Models</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Mark E. Glickman (Boston University)</faculty_text>
+<description>Sequel to Statistics 139, emphasizing common methods for analyzing continuous non-normal and categorical data. Topics include logistic regression, log-linear models, multinomial logit models, proportional odds models for ordinal data, Gamma and inverse-Gaussian models, over-dispersion, analysis of deviance, model selection and criticism, model diagnostics, and an introduction to non-parametric regression methods.</description>
+<prerequisites>Statistics 139 or with permission of instructor.</prerequisites>
+<notes>Examples will be drawn from several fields, particularly from biology and social sciences.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb49bb5f396b6356e7f109bbd7afb3525">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Glickman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

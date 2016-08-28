@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="388" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2390</num_int>
+<num_char>c</num_char>
+</course_number>
+<title>Development Economics II: Macroeconomic Issues</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Nathan J. Nunn and Michael R. Kremer</faculty_text>
+<description>The first part will cover macro-economic topics including aggregative and non-aggregative growth models, growth and development accounting and models of technology diffusion and choice. The second part will evaluate the role of governance/institutional design in affecting development.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School of Government as PED-319.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd5992b061a0aaaa5ee6ce3ca6cec747b">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>R.</middle>
+<last>Kremer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

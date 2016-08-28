@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57367" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1009</num_int>
+</course_number>
+<title>Psychology of Women</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>----------</faculty_text>
+<description>How does being a woman or man affect our behavior, our evaluations of ourselves, and our interactions with others? This course examines psychological science on women and girls in western industrialized societies, addressing such topics as gender stereotypes, girlhood, women and work, relationships, pregnancy and motherhood, mental health, violence against women, and women in later adulthood. We will consider these topics through an understanding of gender as a social construction, being mindful of the intersections of gender, sexuality, class, and race. Although focused on women's lives and experiences, this course is also highly relevant to men.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

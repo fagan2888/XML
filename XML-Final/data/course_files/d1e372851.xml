@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7399" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="SUMERIAN">Sumerian</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Intermediate Sumerian</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Fall: Th., 1-4</meeting_text>
+<faculty_text>Piotr Steinkeller and assistant</faculty_text>
+<description/>
+<prerequisites>Knowledge of basic Sumerian grammar, vocabulary, and cuneiform script.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa91767122c890a12d52a909013963a3b">
+<name>
+<prefix/>
+<first>Piotr</first>
+<middle/>
+<last>Steinkeller</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fa91767122c890a12d52a909013963a3b">
+<name>
+<prefix/>
+<first>Piotr</first>
+<middle/>
+<last>Steinkeller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Widener Library" room="G" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

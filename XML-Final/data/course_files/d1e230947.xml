@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86765" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1433</num_int>
+</course_number>
+<title>American Populisms: Thomas Jefferson to the Tea Party</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Brett Flehinger</faculty_text>
+<description>This course studies the American Populist tradition that defines the common "people" as the centerpiece of American economic and political life and thrives on opposition between the people and "elite" interests. The class focuses on the formal Populist movement and the People's Party of the late nineteenth century, and places this history in broader context, from Jeffersonian tradition through the rise of anti-elitist and anti-government movements characterized by Rush Limbaugh, Sarah Palin, and the rise of the Tea Party.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff8649cdb68955a28e2bfc520deb4ba77">
+<name>
+<prefix/>
+<first>Brett</first>
+<middle/>
+<last>Flehinger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

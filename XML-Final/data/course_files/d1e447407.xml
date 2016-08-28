@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5278" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Introduction to Social Studies</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Richard Tuck, Michael Frazer, and members of the Committee</faculty_text>
+<description>This course offers an introduction to the classic texts of social theory of the eighteenth and nineteenth centuries. Our focus will be on the rise of democratic, capitalist societies and the concomitant development of modern moral, political, and economic ideas. Authors we will examine include Jean-Jacques Rousseau, Adam Smith, Alexis de Tocqueville, John Stuart Mill, and Karl Marx.</description>
+<prerequisites/>
+<notes>This course is limited to sophomores and Social Studies concentrators. This course is a prerequisite for sophomores applying to Social Studies. Students planning to take this class must attend the first lecture to be admitted.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0603e2610b10050a18554945e7d5ced0">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Tuck</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F5adb7b8dc14e974bb14bd3d42e600800">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Frazer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="113" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

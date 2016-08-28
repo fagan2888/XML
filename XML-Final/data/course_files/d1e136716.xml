@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66894" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>198</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Probability Applications in Social Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 11-2</meeting_text>
+<faculty_text>Kevin K. Parker</faculty_text>
+<description>Introductory statistical methods for students in the applied sciences and engineering with a focus on social networks. Random variables and probability distributions; the concept of random sampling, including random samples, statistics, and sampling distributions; role of statistics in social network analysis; mathematical interpretation of social networks; connections and homophily, propinquity, mutuality/reciprocity, multiplexity, network closure; distributions and bridges, distance, centrality, density; segmentation and cliques, cohesion, clustering; graph theory and adjacency matrices; Erdos-Renyi model; Watts-Strogatz Small World model; Barabasi -Albert (BA) Preferential Attachment model; special topics in social network analysis.</description>
+<prerequisites>Applied Mathematics 21b or Mathematics 21b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5a2d2f2edc89ca42aab0e874e9ee592b">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Kit</middle>
+<last>Parker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98561" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>nc</num_char>
+</course_number>
+<title>The Economics of Education</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Amanda D. Pallais</faculty_text>
+<description>This course examines economic aspects of education issues, using quantitative research. We will examine several of the major proposed strategies for improving schools including increasing school resources, enhancing school accountability, improving teacher selection and training, and creating school choice through vouchers and charter schools. We will also discuss how to write a quantitative research paper.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1ae62dea16c7d888d0f51e4f799744e9">
+<name>
+<prefix/>
+<first>Amanda</first>
+<middle>D.</middle>
+<last>Pallais</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26691" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>The Architectural Imagination</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:30-12</meeting_text>
+<faculty_text>K. Michael Hays (Design School) and Erika Naginski (Design School)</faculty_text>
+<description>This course is structured as a dialogue between the historical and theoretical frameworks that have shaped the formulation of architectural principles - what the architectural historian Rudolf Wittkower called the "apparatus of forms" - by means of selected case studies. The organizing principle here is thematic as opposed to chronological, and synoptic rather than merely factual. We treat a selected range of concepts developed by philosophers and historians to explain the Classical and the Baroque as dialectical systems of thought that arise in history but transcend this history to mark modern and postmodern practices.</description>
+<prerequisites/>
+<notes>Note: Offered jointly with the Design School as 4121.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1415af7976ee6698c4f21964eeb1c391">
+<name>
+<prefix/>
+<first>K.</first>
+<middle>Michael</middle>
+<last>Hays</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc7c97e5582f56013b6f9841b43deb560">
+<name>
+<prefix/>
+<first>Erika</first>
+<middle/>
+<last>Naginski</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1030" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1030" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

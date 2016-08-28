@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3974" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SCAND">Scandinavian</course_group>
+<course_number>
+<num_int>150</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>The Vikings and the Nordic Heroic Tradition</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F) at 1</meeting_text>
+<faculty_text>Stephen A. Mitchell</faculty_text>
+<description>Examines the historical events in Europe A.D. 800 to A.D. 1100, and the resulting heroic legacy in medieval poetry and Icelandic sagas. The course focuses on Viking Age figures as warriors, kings, poets, outlaws and adventurers; pre-Christian religion, the Viking raids and the Norse experience in "Vinland" carefully considered.</description>
+<prerequisites/>
+<notes>All readings and discussions in English. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past. May be repeated for credit with the permission of the instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

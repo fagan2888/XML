@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48568" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1605</num_int>
+</course_number>
+<title>Psychology of Language</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Jesse Snedeker and Gennaro Chierchia</faculty_text>
+<description>How do children manage to learn the sounds, the words and the grammar of their native language in three years or less? Does the language that we speak change how we think? What happens in the mind (and brain) that allows us to convert sound into meaning during language comprehension (and meaning into motor movements during language production)? Why are human languages similar to each other in some ways, and what allows them to vary in others? We will explore these questions integrating the perspectives of linguistics, psychology and cognitive neuroscience.</description>
+<prerequisites>For psychology concentrators, Science of Living Systems 20. For linguistics concentrators: this course may be substituted for Linguistics 83 or Linguistics 101 as a requirement for the concentration.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb791950275922dcbb3737a20a6101bbd">
+<name>
+<prefix/>
+<first>Jesse</first>
+<middle/>
+<last>Snedeker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9640a897d547cab1de1ce8035cc8e532">
+<name>
+<prefix/>
+<first>Gennaro</first>
+<middle/>
+<last>Chierchia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

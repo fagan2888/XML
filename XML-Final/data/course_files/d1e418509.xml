@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8446" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2420</num_int>
+</course_number>
+<title>Cognitive-Behavioral Treatment of Psychological Disorders</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 11-1</meeting_text>
+<faculty_text>Jill M. Hooley</faculty_text>
+<description>Covers current cognitive-behavioral approaches to the treatment of common psychological disorders in adults. Emphasis is on the practical aspects of treatment, and on treatment outcome research. Includes theoretical underpinnings of cognitive-behavioral therapy.</description>
+<prerequisites/>
+<notes>Limited to Harvard graduate students in clinical psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1100" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="950" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

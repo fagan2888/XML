@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2771" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1854</num_int>
+</course_number>
+<title>Schizophrenia: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jill M. Hooley</faculty_text>
+<description>Examines schizophrenia and schizophrenia-spectrum disorders from biological, psychological, and psychosocial perspectives. Focuses on early (e.g., Kraepelin) and modern (e.g., DSM-IV) perspectives, clinical case descriptions of the disorder, and recent theoretical and empirical developments in understanding etiology, phenomenology, and treatment.</description>
+<prerequisites>Science of Living Systems 20 and Psychology 18.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F29927b1fcbaba9c7fc1858b49029afe5">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle>M.</middle>
+<last>Hooley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

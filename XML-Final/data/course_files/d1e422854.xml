@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8235" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>3490</num_int>
+</course_number>
+<title>Advanced Statistical Modeling and Psychometrics Using R</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This course introduces advanced statistical and modern psychometric methods such as Bayesian approaches (inference, predictions, MCMC), causal modeling (inference, moderator/mediator, graphical models), social network analysis (SNA measures, subgroups, visualization), multivariate exploratory methods (biplots, correspondence analysis, multidimensional scaling), item response theory, meta analysis, and machine/statistical learning (clustering, discriminant analysis support vector machines). All topics covered will be supported by corresponding computations in R. Lab sections will focus on Web Scraping, Text Mining, and data visualization.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fc9dd0c4d5eb1ad776e18b793690ef577">
+<name>
+<prefix/>
+<first>Patrick</first>
+<middle/>
+<last>Mair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

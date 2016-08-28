@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6883" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2170</num_int>
+</course_number>
+<title>Developmental Proseminar</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-1</meeting_text>
+<faculty_text>Elizabeth S. Spelke and members of the Department</faculty_text>
+<description>Proseminar in conceptual development and language acquisition.</description>
+<prerequisites/>
+<notes>Open to all graduate students in the department and counts as one of the required two major survey courses. Open to others by permission of the instructor.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F755c24d6f3dc2d38cf2eb586a699f45c">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Spelke</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1050" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

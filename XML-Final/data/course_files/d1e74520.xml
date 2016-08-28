@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1863" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>270</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Research Methods in Late Imperial Chinese History I: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-4</meeting_text>
+<faculty_text>Mark C. Elliott and Michael A. Szonyi</faculty_text>
+<description>Training in the use of a wide array of sources, methods, and reference tools for research in the history of late imperial China, focusing upon the reading and analysis of different types of Qing-era documents, official and unofficial. Students will write a research paper using documents provided in class. Reading knowledge of modern and literary Chinese required.</description>
+<prerequisites>Chinese 106b or equivalent in foundation literary Chinese.</prerequisites>
+<notes>Open to qualified undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62da2b4f7b89c047307df379cd365724">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>C.</middle>
+<last>Elliott</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff0e73bd7d765861e70f2c20b371c0fed">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Szonyi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

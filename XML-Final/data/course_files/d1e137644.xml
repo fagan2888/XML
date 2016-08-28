@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4136" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>224</num_int>
+</course_number>
+<title>Laboratory in Engineering and Physical Biology</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-5</meeting_text>
+<faculty_text>Nancy Kleckner and Mara Prentiss</faculty_text>
+<description>A project-oriented laboratory course which will integrate genetic, molecular, biochemical and cytological approaches from the life sciences with optical, magnetic and mechanical approaches from the physical sciences. Interesting and original experiments will be organized around a common theme which, this year, will be "Biomechanics of E. coli."</description>
+<prerequisites/>
+<notes>Intended primarily for first year graduate students in the EPB PhD track but available to other graduate students and advanced undergraduates as space and resources permit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc3e1b17bbbfd9b2e9f3e10b90deb62b0">
+<name>
+<prefix/>
+<first>Nancy</first>
+<middle/>
+<last>Kleckner</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2cad8e6e404ab4062b2845d6509fcfc2">
+<name>
+<prefix/>
+<first>Mara</first>
+<middle/>
+<last>Prentiss</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

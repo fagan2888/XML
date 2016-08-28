@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2269" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1530</num_int>
+</course_number>
+<title>International Monetary Economics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Richard N. Cooper</faculty_text>
+<description>This is an intermediate level international finance and macroeconomics course that uses a mix of theoretical, empirical and policy frameworks to analyze topical problems in international finance. The topics include exchange rate determination, currency interventions, monetary policy coordination, capital flows and currency crises.</description>
+<prerequisites>Economics 1010b or 1011b.</prerequisites>
+<notes>Writing requirement: A research paper is required. This course meets the concentration writing requirement. May not be taken for credit with Economics 1531.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7eb8efac2b529fa5cc85c4ba14fda75d">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>N.</middle>
+<last>Cooper</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

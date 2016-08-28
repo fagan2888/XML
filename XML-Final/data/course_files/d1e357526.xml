@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4024" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="AKKAD">Akkadian</course_group>
+<course_number>
+<num_int>156</num_int>
+</course_number>
+<title>Neo-Babylonian Inscriptions</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Focuses on juridical aspects of every-day life in 1st millennium BCE Babylon. Reports of legal cases, letters and contracts allow vivid insights into interactions between persons and enhances their sometimes moving biographies. Explores the fates of murderers, thieves, slaves and foundlings; characteristics of legal decision-making bodies and the royal interventions in private law will be discussed.</description>
+<prerequisites>Akkadian grammar, basic vocabulary, knowledge of cuneiform script.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa91767122c890a12d52a909013963a3b">
+<name>
+<prefix/>
+<first>Piotr</first>
+<middle/>
+<last>Steinkeller</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

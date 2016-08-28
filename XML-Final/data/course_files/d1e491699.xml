@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39331" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>47</num_int>
+</course_number>
+<title>Christian Ethics and Modern Society</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2&amp;#8211;4 and an hour to be arranged</meeting_text>
+<faculty_text>Charles Lockwood</faculty_text>
+<description>This course provides an introduction to Christian conceptions of conduct, character, and community, as well as modern disputes over their interpretation and application. How are Christian principles related to modern ideals of freedom, equality, and democracy? What do Christian principles imply for contemporary issues related to religious pluralism, secularism, feminism, racism, and globalization? Readings will provide historical background and highlight a variety of contemporary perspectives and approaches to Christian ethics. Special emphasis will be given to current moral and political challenges, including war and peace, the environment, capitalism and consumption, abortion and euthanasia, and love, sexuality, and marriage.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F629a77956c91c4812dcff70ccab6efb4">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Evans</middle>
+<last>Lockwood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

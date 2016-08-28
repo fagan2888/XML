@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6576" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2080</num_int>
+</course_number>
+<title>Economics and Politics: The Foundations of Economics in Political Theory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Benjamin M. Friedman and Richard Tuck</faculty_text>
+<description>Offers graduate students in relevant disciplines the chance to study the historical origins of central ideas in modern economics and to discuss their philosophical character.</description>
+<prerequisites>A basic knowledge of economics is assumed.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F637b5514aa6b7ad65e075a1516fce531">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle>M.</middle>
+<last>Friedman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0603e2610b10050a18554945e7d5ced0">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle/>
+<last>Tuck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

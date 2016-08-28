@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="79499" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>22</num_int>
+</course_number>
+<title>The Fluid Earth: Oceans, Atmosphere, Climate, and Environment</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly three-hour lab to be arranged.</meeting_text>
+<faculty_text>Peter John Huybers and Ann Pearson</faculty_text>
+<description>This course introduces students to the fluid Earth, emphasizing Earth's weather and climate, the carbon cycle, and global environmental change. The physical concepts necessary for understanding the structure, motion and energy balance of the atmosphere, ocean, and cryosphere are covered first, and then these concepts are applied in exploring major earth processes. Examples from Earth's past history, on-going changes in the climate, and implications for the future are highlighted.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F671d658c63bb83213b482ab3610ce08d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>John</middle>
+<last>Huybers</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4e3d7bdea7afc4e4994b0775fa447030">
+<name>
+<prefix/>
+<first>Ann</first>
+<middle/>
+<last>Pearson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

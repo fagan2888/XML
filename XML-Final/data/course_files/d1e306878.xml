@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4971" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="IMUNOL">Immunology</course_group>
+<course_number>
+<num_int>301</num_int>
+</course_number>
+<title>Immunology Seminar</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Gives students exposure to research topics in Immunology. Students prepare for the weekly seminar through readings, discussions, and preparing brief write-ups. These discussions are facilitated by members of the Committee on Immunology.</description>
+<prerequisites/>
+<notes>Required for, and limited to, first-year Immunology graduate students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F86a153270795dd66ed5396375e6aff11">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>C</middle>
+<last>Carroll</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F80f1a167136ed971961dd0b5a38587a6">
+<name>
+<prefix>Dr</prefix>
+<first>William</first>
+<middle>Nicholas</middle>
+<last>Haining</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F86a153270795dd66ed5396375e6aff11">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>C</middle>
+<last>Carroll</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F80f1a167136ed971961dd0b5a38587a6">
+<name>
+<prefix>Dr</prefix>
+<first>William</first>
+<middle>Nicholas</middle>
+<last>Haining</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1215" end_time="1315"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1530" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1215" end_time="1315"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

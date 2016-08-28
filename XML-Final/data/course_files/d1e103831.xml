@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6529" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2680</num_int>
+</course_number>
+<title>Environmental, Natural Resource, and Climate Change Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Martin L. Weitzman</faculty_text>
+<description>Basic theory and models. Externalities, common property, public goods, pollution control, renewable and non-renewable resources, discounting, uncertainty, cost-benefit analysis, green accounting, sustainability, climate change.</description>
+<prerequisites>Graduate price theory at level of Economics 2010 or 2020.</prerequisites>
+<notes>Students welcome from other departments and programs. There is a choice of a research paper or final exam.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3edbf25b7ea5de3df3943417e74af0d5">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>L.</middle>
+<last>Weitzman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

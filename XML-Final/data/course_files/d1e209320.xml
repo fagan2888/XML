@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4832" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GLOBHLTH">
+<dept_long_name>Standing Committee on Global Health and Health Policy</dept_long_name>
+<dept_short_name>Global Health and Health Policy</dept_short_name>
+</department>
+<course_group code="GHHP">Global Health and Health Policy</course_group>
+<course_number>
+<num_int>50</num_int>
+</course_number>
+<title>The Quality of Health Care in America</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>40</enrollment_limit>
+<meeting_text>M., W., 4:30-6 and a weekly section to be arranged.</meeting_text>
+<faculty_text>Ashish Kumar Jha (Medical School) and Anupam Bapu Jena (Medical School)</faculty_text>
+<description>Offers information and experiences regarding most important issues and challenges in health care quality. Overview of the dimensions of quality of care, including outcomes, overuse, underuse, variation in practice patterns, errors and threats to patient safety, service flaws, and forms of waste. Each session focuses on one specific issue, exploring patterns of performance, data sources, costs, causes, and remedies. Explores desirable properties of health care systems that perform at high levels in many dimensions of quality.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff339b751c3080660882e5ca7f2e2989d">
+<name>
+<prefix/>
+<first>Ashish</first>
+<middle/>
+<last>Jha</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe391e6210fa452a83ed851f5e64c7e9f">
+<name>
+<prefix>Dr</prefix>
+<first>Anupam</first>
+<middle>Bapu</middle>
+<last>Jena</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1630" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1630" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

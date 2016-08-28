@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3652" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged.</meeting_text>
+<faculty_text>George Soroka and members of the Department</faculty_text>
+<description/>
+<prerequisites>Two half courses of Government 94.</prerequisites>
+<notes>Taken as two half courses by those who have elected the honors program and in order to write their senior theses.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8a2366909aa390b97ba5362ed6ff267d">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Soroka</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8a2366909aa390b97ba5362ed6ff267d">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Soroka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8941" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2001</num_int>
+</course_number>
+<title>Advanced Quantitative Research Methodology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Gary King</faculty_text>
+<description>Graduate-level version of Gov. 1002. Meets with Gov. 1002, introduces theories of inference underlying most statistical methods and how new approaches are developed. Examples include discrete choice, event counts, durations, missing data, ecological inference, time-series cross sectional analysis, compositional data, causal inference, and others. Will require extra homework and examination problems in addition to those for Gov. 1002.</description>
+<prerequisites>Government 2000 or the equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F478a247cd5ffa018a72e7c1adf835baa">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>King</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

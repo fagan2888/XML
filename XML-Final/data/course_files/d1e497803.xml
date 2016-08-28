@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39813" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1559</num_int>
+</course_number>
+<title>Unitarian and Universalist Thought in the Twentieth Century</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Daniel P. McKanan (Divinity School)</faculty_text>
+<description>This seminar will explore the major shapers of the Unitarian and Universalist traditions in the twentieth century, with special attention to the influence of the social gospel, religious humanism, process thought, and liberation theology. Featured writers will include Francis Greenwood Peabody, Clarence Skinner, John Haynes Holmes, Charlotte Perkins Gilman, Curtis Reese, Frederick May Eliot, James Luther Adams, Sophia Fahs, Henry Nelson Wieman, Charles Hartshorne, A. Powell Davies, Kenneth Patton, William R. Jones, and Rebecca Parker.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2772.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb403d11e239ec4c65834c21d5f076811">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>P</middle>
+<last>McKanan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

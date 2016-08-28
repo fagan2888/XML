@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="903" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>242</num_int>
+</course_number>
+<title>Population Genetics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Daniel L. Hartl (Public Health) and Michael Manish Desai</faculty_text>
+<description>Mathematical theory, experimental data, and history of ideas in the field, including analytical methods to study genetic variation with applications to evolution, demographic history, agriculture, health and disease. Includes lectures, problem sets, and student presentations.</description>
+<prerequisites>LS1b or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feb92edece3664d6292f81f48e2ccf405">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>L.</middle>
+<last>Hartl</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fed7488796700d446724211885228f8a4">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>M</middle>
+<last>Desai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

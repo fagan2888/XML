@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="514" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Introduction to Portuguese</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Section I, M., W., 3-5; Section II, Tu., Th., 3-5</meeting_text>
+<faculty_text>Clemence Jouet-Pastre and members of the Department</faculty_text>
+<description>A basic introductory course for students who can devote only one term to the study of Portuguese. Teaches fundamental communication skills-understanding, speaking, reading and writing-but does not offer a complete study of grammar.</description>
+<prerequisites/>
+<notes>Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese Ba website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

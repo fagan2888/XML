@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="512" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>385</num_int>
+</course_number>
+<title>Statistical Machine Learning</title>
+<course_type>Reading and Research</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>Hands-on introduction to network statistics, with applications to social, biological and communication networks. Topics in sampling designs and inference. Modeling network evolution. Processes on networks. Critical literature review, in class-presentations, and final projects.</description>
+<prerequisites>Familiarity with estimation and inference techniques, and knowledge of a computer programming language (R or Matlab) required; Statistics 220 or 221 recommended.</prerequisites>
+<notes>Computer programming exercises will apply the methods discussed in class.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

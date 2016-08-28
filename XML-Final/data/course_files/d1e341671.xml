@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8956" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>129</num_int>
+</course_number>
+<title>The Brain: Development, Plasticity and Decline</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Samuel M. Kunes</faculty_text>
+<description>A lecture and discussion course on how the brain develops, employs plasticity to adapt to its environment and undergoes functional decline with aging. Topics include the birth, death and identity of neurons, axon guidance and synaptic specificity, adult neurogenesis, developmental disorders of synaptic function and memory, including autism and Alzheimer's Disease. We explore how the brain loses function with aging. Course assignments emphasize critical evaluation of the primary literature, experimental design and scientific writing.</description>
+<prerequisites>Permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3637a2e7756f0a41d444ad64cc0ebd9f">
+<name>
+<prefix/>
+<first>Sam</first>
+<middle/>
+<last>Kunes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Biological Labs" room="1058" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

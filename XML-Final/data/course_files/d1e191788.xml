@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98258" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>53</num_int>
+</course_number>
+<title>Sacred and Secular Poetry</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged</meeting_text>
+<faculty_text>Judith Ryan (Germanic Languages and Literatures; Comparative Literature)</faculty_text>
+<description>Tracing poetry from its origins in religious practice, the course examines the process of secularization and the ways in which modern poems retain traces of sacred texts. As poets grapple with an increasingly secular world, the emergence of modernity is revealed in vivid ways. Class discussions will explore the extent to which reminiscences of the sacred form part of the deeper appeal of poetry and its ability to shape meaning in the modern world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F54f3b25241b12492545ef7c0432b9081">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>L.</middle>
+<last>Ryan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="359 (Nebel Room)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

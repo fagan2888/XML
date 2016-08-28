@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="11917" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARABIC">Arabic</course_group>
+<course_number>
+<num_int>243</num_int>
+<num_char>cr</num_char>
+</course_number>
+<title>Advanced Readings in Classical Arabic Bridge III: Prose and Poetry</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 9-11</meeting_text>
+<faculty_text>William E. Granara</faculty_text>
+<description>Reinforcement of advanced classical Arabic grammar and stylistics, and introduction to various genres of poetry and prose (adab).</description>
+<prerequisites>Three years of Arabic or equivalent level of proficiency.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4229114bc2d1a87a15e4da68ff15c2b">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Granara</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="900" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Kirkland St., 38 (CMES)" room="208" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

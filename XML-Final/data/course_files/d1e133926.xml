@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7274" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>125</num_int>
+</course_number>
+<title>Mechanical Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Katia Bertoldi</faculty_text>
+<description>Modeling and analysis of mechanical and electromechanical systems. Topics include 3D rigid body dynamics, resonance, damping, frequency response, Laplace transform methods, Lagrange's equations, multiple degree-of-freedom systems and an introduction to nonlinear vibration, continuous systems, and control. Analytical modeling will be supplemented with numerical simulations and lab experiments. Laboratory exercises will explore vibration, stabilization, and nonlinear systems using data acquisition systems.</description>
+<prerequisites>Applied Mathematics 21a,b or Mathematics 21a,b or Mathematics 23a,b; Physics 11a or 15a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F99591dfa744e91f4d06f22f59c650f41">
+<name>
+<prefix/>
+<first>Katia</first>
+<middle/>
+<last>Bertoldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Cruft Memorial Lab" room="309" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

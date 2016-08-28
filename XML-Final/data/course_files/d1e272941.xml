@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="33581" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>161</num_int>
+</course_number>
+<title>Category Theory in Context</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Emily Elizabeth Riehl</faculty_text>
+<description>An introduction to categories, functors, natural transformations, the Yoneda lemma, limits and colimits, adjunctions, monads, and other topics as time permits with the aim of revisiting a broad range of mathematical examples from the categorical perspective.</description>
+<prerequisites>Mathematics 123 (may be taken concurrently) and Mathematics 131, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7fc93f54d5f76c3338d09bab688f164e">
+<name>
+<prefix/>
+<first>Emily</first>
+<middle>Elizabeth</middle>
+<last>Riehl</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67293" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>296</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Proseminar on Inequality &amp; Social Policy I</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Theda Skocpol and Devah Pager (Kennedy School)</faculty_text>
+<description>The first doctoral seminar in the Inequality and Social Policy three-course sequence, this course considers the effects of policies and institutions in creating or reducing inequality in the U.S. and other advanced democracies, we well as the reciprocal effects of inequality on political activity and policy choices.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as SUP-921.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62b9f8bb02cc1342740662892fcede11">
+<name>
+<prefix/>
+<first>Theda</first>
+<middle>R</middle>
+<last>Skocpol</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ffbd477477411bc77f655d3b95ebc24b7">
+<name>
+<prefix/>
+<first>Devah</first>
+<middle/>
+<last>Pager</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

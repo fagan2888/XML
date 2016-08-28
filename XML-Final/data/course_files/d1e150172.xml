@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74158" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>41</num_int>
+</course_number>
+<title>Arrivals: 700-1700</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>27</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:45</meeting_text>
+<faculty_text>James Simpson</faculty_text>
+<description>Across the period 700-1700 the shapes of British culture were absorbed from different centers of Western Europe. These cultural forms are conflicted among themselves, and conflicted across time. This course will delineate the principal cultural forces (e.g. religious, political, social) that shaped England in particular. We will look to the ways in which those vibrant yet opposed forces find expression in the shape, or form, of literary works.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F01753b5e2d5c28e09f8aa24a86d44e7f">
+<name>
+<prefix/>
+<first>W.</first>
+<middle>James</middle>
+<last>Simpson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1145"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1145"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

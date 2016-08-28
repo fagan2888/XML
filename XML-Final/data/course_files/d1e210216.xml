@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52605" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>61</num_int>
+</course_number>
+<title>Research Practice in Quantitative Methods</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Arthur P. Spirling</faculty_text>
+<description>Class introduces students to statistical methods and practice commonly used in political science and likely to be of utility to those undertaking a quantitative methods thesis in Government. Topics will include techniques for dealing with binary or ordinal dependent variables, time series and 'survival' models, along with applications of more complicated approaches. Students will learn new statistical software skills, and be expected to both gather and work on their own data throughout the semester.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F1a3c42369067de659267e287340802de">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle>P</middle>
+<last>Spirling</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

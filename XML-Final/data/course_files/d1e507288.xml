@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54031" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>125</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Postcards from Volcanoes: Studio Course</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 1&amp;#8211;5 and 6&amp;#8211;8</meeting_text>
+<faculty_text>Matthew Saunders</faculty_text>
+<description>This is an intermediate painting class grounded in individual projects and group critique. Not limited to conventional forms, we will think broadly about the edge between inchoate material and inscribed meaning. Studio work will be coupled with abundant reading and discussion.</description>
+<prerequisites>At least one VES studio half-course or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3e936c2d950dc127d7c39ea0370212d3">
+<name>
+<prefix/>
+<first>Matt</first>
+<middle/>
+<last>Saunders</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4885" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>232</num_int>
+</course_number>
+<title>Advanced Classical Electromagnetism</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 2:30-4</meeting_text>
+<faculty_text>Jacob Barandes</faculty_text>
+<description>Special relativity, relativistic field theories, gauge invariance, the Maxwell equations, conservation laws, time-independent phenomena, multipole expansions, electrodynamics and radiation theory, radiation from rapidly-moving accelerating charges, scattering and diffraction, and macroscopic averaged fields and propagation in matter. Additional topics may include relativistic particles with spin, coherent states, superconductors, accelerator physics, renormalization, and magnetic monopoles.</description>
+<prerequisites>Prerequisites: Physics 153 and Physics 143a, or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F476f1e10c2cfc0073d14a3d902620bfa">
+<name>
+<prefix/>
+<first>Jacob</first>
+<middle/>
+<last>Barandes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="667" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>Experimental Physical Chemistry</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 3-4, and sections on Th., 1-5, or 6-10 pm</meeting_text>
+<faculty_text>Cynthia M. Friend</faculty_text>
+<description>Hands-on introduction to physical methods and techniques used widely in chemistry and chemical physics research laboratories. Computer-based methods of data acquisition and analysis are used throughout.</description>
+<prerequisites>Chemistry 7, or Physical Sciences 1, or equivalent; Applied Mathematics 21a or Mathematics 21a; one full course in physics or equivalent. Recommended: Chemistry 160, Physics 143a or similar, a course in Quantum Mechanics.</prerequisites>
+<notes>Recommended as an efficient preparation for research in experimental chemistry, chemical physics, engineering sciences, and related disciplines.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Feea607f04678ffae277c1e4b4f216b83">
+<name>
+<prefix/>
+<first>Cynthia</first>
+<middle/>
+<last>Friend</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

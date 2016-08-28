@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9992" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>42</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Comparative Law and Religion</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Ofrit Liviatan</faculty_text>
+<description>Investigates the use of legal processes in addressing religion-based conflicts, a leading source of tension in modern societies. The seminar will explore theoretical approaches to accommodating religious diversity and examine existing models of religion-state relationships. Drawing on legal cases from the US, Turkey, India, Israel, Spain, Canada, and England, the seminar will also familiarize participants with contemporary debates involving religion: the wearing of Islamic headscarf, religion and education, the funding of religious institutions, etc.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F7cbf3cd25c817a501a539cfa625e2755">
+<name>
+<prefix/>
+<first>Ofrit</first>
+<middle/>
+<last>Liviatan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

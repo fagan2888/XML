@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2149" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>207</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Ethnomusicology: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Richard K. Wolf</faculty_text>
+<description>Creative Ethnographic Writing. Students will read, listen to and watch experimental creations on music and musical culture, and create their own written or multimedia works. The emphasis in this class is not on ethnographic research itself but on creative ways of communicating the results of ethnographic or historical research. As such, students should come to this class having already acquired considerable experience with at least one musical tradition.</description>
+<prerequisites/>
+<notes>Open to undergraduates with permission of instructor. May be taken by students from other departments by permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5e6ef125443869a8ffa40eca282892dd">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>Kent</middle>
+<last>Wolf</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

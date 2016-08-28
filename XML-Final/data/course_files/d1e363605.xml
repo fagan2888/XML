@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8125" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CLAS-HEB">Classical Hebrew</course_group>
+<course_number>
+<num_char>A</num_char>
+</course_number>
+<title>Elementary Classical Hebrew</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Peter Machinist</faculty_text>
+<description>A thorough and rigorous introduction to Biblical Hebrew, with emphasis on grammar in the first term, and translation of biblical prose in the second. Daily preparation and active class participation mandatory.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 4010.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Divinity Hall" room="320" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

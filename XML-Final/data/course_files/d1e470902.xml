@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5128" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Introduction to Quantitative Methods for Psychology and the Behavioral Sciences</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30, and weekly sections to be arranged.</meeting_text>
+<faculty_text>Kevin A. Rader</faculty_text>
+<description>Similar to Statistics 100, but emphasizes concepts and practice of statistics used in psychology and other social and behavioral sciences. Topics covered: describing center and variability; probability and sampling distributions; estimation and hypothesis testing for comparing means and comparing proportions; contingency tables; correlation and regression; multiple regression; analysis of variance. Emphasis on translation of research questions into statistically testable hypotheses and models, and interpretation of results in context.</description>
+<prerequisites/>
+<notes>Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3b265d63d871c6372275fab9779fed5e">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>Andrew</middle>
+<last>Rader</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

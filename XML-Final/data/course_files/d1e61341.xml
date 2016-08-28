@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10477" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>171</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Participatory Theater</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Cesar Alvarez</faculty_text>
+<description>Young audiences have been weaned on choice-based, interactive, participatory and socially networked artwork and entertainment. At this moment in history, theater has an incredible opportunity to redefine how stories can be told and how audiences might be invited into the telling. This course is open to actors, writers, musicians, game designers, programmers, directors, designers and artists of all kinds. Through scholarship, discussion, creative work, and play testing, this course will explore the emerging fields of participatory theater, interactive performance, social gaming, and system-based story telling. We will study the basics of game design, the fundamentals of physical and social gaming, and the history of interactivity as a theatrical device. Students will design physical and tabletop games, ambulatory experiences, social experiments, and interactive environments. Emphasis is on creative output and integrating participatory systems and audience agency with emergent narrative. The class will establish a generous inter-disciplinary working environment which values creative risks, collaboration and inventiveness. There will be one trip to New York City as part of the class.</description>
+<prerequisites/>
+<notes>Due to space limitations entrance into this class will require a brief interview. If you'd like to join the class come to the first class prepared to discuss your interest in participatory theater and a 1 minute creative offering of your choosing. Preference is given to undergraduates, though graduate students may also be admitted pending availability.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F22301595a16b62e8b0c8a6217974ac91">
+<name>
+<prefix/>
+<first>Cesar</first>
+<middle/>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Farkas Hall (New College Theater)" room="203 (Meeting Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12701" offered="Y" next_year_offered="2014">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Rethinking the "Origins" of Science: Science, Religion, and Culture in Medieval Europe and the Lands of Islam</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Katharine Park and Ahmed Ragab (Divinity School)</faculty_text>
+<description>This is the graduate section to History of Science 101, Communities of Knowledge: Science, Religion, and Culture in Medieval Europe and the Lands of Islam. Students are required to attend the lectures in History of Science 101.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F70f4ce8ca93187ceebd075d38745e1cd">
+<name>
+<prefix/>
+<first>Katharine</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4ad495df2f643fecbb4ee4302d94974c">
+<name>
+<prefix/>
+<first>Ahmed</first>
+<middle/>
+<last>Ragab</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

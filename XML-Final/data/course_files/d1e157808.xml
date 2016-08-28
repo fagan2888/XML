@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74118" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>Economic Evaluation of Environmental Regulation</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2:30-5</meeting_text>
+<faculty_text>James K. Hammitt (Public Health)</faculty_text>
+<description>What level of environmental protection is best? Stronger regulations provide greater protection against the target harm, but generally at the cost of reduced economic consumption or increases in other environmental harms. What principles can be used to determine the `right' level of protection, and how can regulations be evaluated? This course provides an introduction to environmental risk assessment and benefit-cost analysis of environmental regulation, incorporating theory and case studies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7eecc8a2d0d02b644cee23a204b6ab5">
+<name>
+<prefix/>
+<first>James</first>
+<middle>K.</middle>
+<last>Hammitt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Peabody Museum" room="Shaler Seminar Room" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8993" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Radiative Processes in Astrophysics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Ramesh Narayan</faculty_text>
+<description>This course offers a survey of radiative processes of astrophysical importance from radio waves to gamma rays. Topics include thermal and non-thermal processes, including bremsstrahlung, synchrotron radiation, and Compton scattering; radiation in plasmas; atomic and molecular spectra.</description>
+<prerequisites>Physics 143a.</prerequisites>
+<notes>Open to seniors concentrating in Astrophysics or Physics. Juniors considering this course should contact the instructor. This course is offered each year.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F48182201e2fa0fe7e9421bd972165507">
+<name>
+<prefix/>
+<first>Ramesh</first>
+<middle/>
+<last>Narayan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Observatory A Building" room="A-101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

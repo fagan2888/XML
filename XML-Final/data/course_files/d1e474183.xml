@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="59588" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>260</num_int>
+</course_number>
+<title>Design and Analysis of Sample Surveys</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-5</meeting_text>
+<faculty_text>Alan M. Zaslavsky (Medical School)</faculty_text>
+<description>Meets with Statistics 160, but graduate students will have an extended class period and complete additional assignments for a more theoretical, in-depth treatment of topics.</description>
+<prerequisites>Statistics 110, 111, and 139 or with permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

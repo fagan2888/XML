@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6075" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="VIROLOGY">Virology</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Introduction to Virology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., W., 1:30-3:30.</meeting_text>
+<faculty_text>Max L. Nibert (Medical School), Michaela Gack (Medical School), Elliott D. Kieff (Medical School), David M. Knipe (Medical School), Karl Munger (Medical School), and Priscilla Yang (Medical School)</faculty_text>
+<description>Introduction to virology. The lecture component reviews the basic principles of virology and introduces the major groups of human viruses. Weekly discussion groups critically analyze selected papers from the literature.</description>
+<prerequisites/>
+<notes>There will be a final project consisting of a proposal based on laboratory rotations (for Virology, BBS, or Immunology Program students) or a final paper based on a topic from the literature. Offered jointly with the &lt;a href="http://www.courses.fas.harvard.edu/6075"&gt; Medical School&lt;/a&gt; as MG 705.0.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4e62ee418be708c34f1e50c100fbda72">
+<name>
+<prefix>Dr.</prefix>
+<first>Max</first>
+<middle>L.</middle>
+<last>Nibert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1530"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

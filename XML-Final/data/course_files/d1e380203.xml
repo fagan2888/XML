@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85974" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>141</num_int>
+</course_number>
+<title>Biogeography</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2-3:30</meeting_text>
+<faculty_text>Gonzalo Giribet</faculty_text>
+<description>Biogeography aims to explain distributions of organisms through historical and ecological factors. This course will focus on the history of biogeographic research, developments in the area of historical biogeography, and on ecological processes that affect distributions of whole clades. Topics include plate tectonics and earth history, vicariance and dispersal, areas of endemism, phylogenetic niche conservatism, latitudinal gradients in species richness, and the theory of island biogeography. Software for biogeographical analysis will be discussed and evaluated.</description>
+<prerequisites>Two following courses: Life Sciences 1b, OEB 10, OEB 51, OEB 52, OEB 53, OEB 54, OEB 55, OEB 181, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6f5a1979a8f408aa6a46ef45510cd60e">
+<name>
+<prefix/>
+<first>Gonzalo</first>
+<middle/>
+<last>Giribet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

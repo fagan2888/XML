@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41383" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="SHBT">SHBT</course_group>
+<course_number>
+<num_int>333</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory Rotation in Speech and Hearing Sciences</title>
+<course_type>Laboratory Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Research on topics in theoretical, experimental, clinical, or translational aspects of Speech and Hearing Sciences arranged on an individual basis with a research supervisor.</description>
+<prerequisites/>
+<notes>For SHBT students only</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F507d0f5e91593c5f4e6c8603ff4f0de4">
+<name>
+<prefix>Dr</prefix>
+<first>Bertrand</first>
+<middle/>
+<last>Delgutte</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F507d0f5e91593c5f4e6c8603ff4f0de4">
+<name>
+<prefix>Dr</prefix>
+<first>Bertrand</first>
+<middle/>
+<last>Delgutte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

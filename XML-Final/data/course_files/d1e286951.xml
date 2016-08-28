@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24657" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>The Epidemiology and Molecular Pathology of Cancer</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This January course will provide students with an in-depth introduction to the epidemiology and molecular pathology of cancer. We will explore multiple types of cancer, including breast, colon, lung, prostate and brain, through a series of lectures and hands-on practice tutorials. These tutorials will include training in molecular pathology techniques, state of the art image analysis of human biomarkers, tissue processing, immunohistochemistry, and tumor histology. In addition, the epidemiology, genetics and relevant signal transduction pathways of cancer will be highlighted.</description>
+<prerequisites/>
+<notes>This is an intensive January course. Curriculum Fellow: Megan Mittelstadt, 617-432-7498.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F9f2fcc097e4d01f85d36fa9118169e68">
+<name>
+<prefix>Dr</prefix>
+<first>Massimo</first>
+<middle/>
+<last>Loda</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="930" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="930" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="930" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="930" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="930" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

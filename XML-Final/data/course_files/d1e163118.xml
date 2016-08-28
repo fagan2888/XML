@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29403" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.101</num_char>
+</course_number>
+<title>The Voice of Authority</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 10</meeting_text>
+<faculty_text>Jane E. Unrue</faculty_text>
+<description>What is authority? First, we will read the controversial One Flew Over the Cuckoo's Nest, closely investigating that explosive novel's complex treatment of authority. Next, we will read and meet two "at-risk" writers, comparing and analyzing effects and expressions of artistic challenges to governmental and cultural authority. Finally, our ongoing inquiry into authority will shape research topics as we investigate issues arising out of authority's relation to education, rhetorical strategy, politics, human rights, and art.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F85071aa36ff9ab8a8aa3913c43763e9e">
+<name>
+<prefix/>
+<first>Jane</first>
+<middle/>
+<last>Unrue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="302" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

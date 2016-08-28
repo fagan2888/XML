@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83056" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>New World Orders? From the Cold War to Contemporary International Relations</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>75</enrollment_limit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Mary Elise Sarotte (Government; History)</faculty_text>
+<description>The US and major European states, including Russia and the Soviet Union, have tried to instill order upon the chaotic transatlantic and international relations of the twentieth and twenty-first centuries. This course examines their attempts to institute "new world orders" as the global Cold War unfolded, European empires gave way to European integration, and technology reshaped politics. It also explores the legacy of these events for international relations in the 1990s and the twenty-first century.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F84f10c0385653e159e4f1aa9ec3031f3">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle/>
+<last>Sarotte</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="201" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

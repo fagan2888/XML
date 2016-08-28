@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36395" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.062</num_char>
+</course_number>
+<title>Interpreting the Civil Rights Movement</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 2</meeting_text>
+<faculty_text>Ariane Mary Liazos</faculty_text>
+<description>According to civil rights scholar Charles Payne, "Our understanding of social change, our conceptions of leadership, our understanding of the possibilities of interracial cooperation are all affected by how we remember the movement." In this seminar, we investigate the work of remembering and interpreting the mid-twentieth-century civil rights movement. We consider both popular and scholarly accounts, and we focus on the use of speeches, memoirs, and newspapers to reconstruct the events of the past.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0930846879669f9c379ef04a5e721f58">
+<name>
+<prefix/>
+<first>Ariane</first>
+<middle>Mary Aphrodite</middle>
+<last>Liazos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

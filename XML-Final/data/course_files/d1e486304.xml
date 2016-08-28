@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94491" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>271</num_int>
+</course_number>
+<title>Space and Movement in Latin Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Jared M. Hudson</faculty_text>
+<description>This seminar will examine the Roman literary representations of space and movement. Readings are organized around several central thematic nodes (including "territory," "roads," and "vehicles"). Is it possible to chart a transformation in how particular spaces are conceptualized in Latin literature through the transition from Republic to Empire? How do different literary genres contribute to-or offer competing visions of-the articulation of physical space? And how, in turn, do cultural practices involving space influence literary texts and genres? The emphasis will be on reading and interpreting individual Latin texts, with special attention given to scholarly approaches.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F48d772aa02752f4c62193e3bf9444d55">
+<name>
+<prefix/>
+<first>Jared</first>
+<middle>M</middle>
+<last>Hudson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="237" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

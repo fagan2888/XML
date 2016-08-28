@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8058" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>33</num_int>
+</course_number>
+<title>Religion and Social Change</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Marla F. Frederick (African and African American Studies; Study of Religion)</faculty_text>
+<description>Religion has inspired new understandings of social and political engagement. From early protest oriented struggles for civil rights in the US to the more recent personal responsibility calls of neo-pentecostal discourses, this course takes African American religious engagement with the process of democracy as a starting point for thinking about how other communities around the world have employed religion as a means of advancing social change. Through ethnography, auto/biography, and documentary film, this class compares and contrasts the influence that religious moods and motivations have had on calls for democracy and social change in places like Latin America, the Middle East and West Africa. In each instance the course questions the place of the US government and US religious bodies in these global efforts towards change.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3700. This course, when taken for a letter grade, meets the General Education requirement for United States in the World or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F471675e7c254e3496514255d5e00cdcc">
+<name>
+<prefix/>
+<first>Marla</first>
+<middle/>
+<last>Frederick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

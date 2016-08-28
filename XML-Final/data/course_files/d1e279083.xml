@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14711" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BBS">BBS</course_group>
+<course_number>
+<num_int>330</num_int>
+</course_number>
+<title>Critical Thinking and Research Proposal Writing</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>A small group tutorial systematically guiding students in the writing of original, hypothesis-driven research proposals from initial topic selection through completion of a final draft.</description>
+<prerequisites/>
+<notes>This course is required for second year BBS students; others need permission of the instructor. Dates, times and locations for all sessions, following the first meeting, will be coordinated between each group of students and the pair of faculty members guiding these sessions. Group assignments will be posted on the course website following the first meeting.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F7672b8869de827610fdf8d684c075c8b">
+<name>
+<prefix/>
+<first>Monica</first>
+<middle>P.</middle>
+<last>Colaiacovo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

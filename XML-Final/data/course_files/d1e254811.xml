@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="64715" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>231</num_int>
+</course_number>
+<title>Transforming Technologies: Science, Technology, and Social Change</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Naomi Oreskes</faculty_text>
+<description>Climate change threatens severe dislocation of our environment, culture and infrastructure, as well as substantial losses to biodiversity and natural beauty. Virtually all experts agree that to avoid extensive disruptive climate change, we must transform our energy system from one based on burning carbon-based fuels to renewables or other energy sources that are net carbon-neutral. This will require a technological transformation. This course examines that challenge in light of past and present transforming technologies. In the first part of the class, we examine past examples of technological transformation, and consider what we might learn from them. In particular, we consider the questions: where do new technologies come from? What has been the role of the free market v. the role of conscious planning? Does technology drive social change or does social change drive technological innovation? Above all, how do we get the technologies we need? Do we get the technologies we need? In the second part we examine the required energy transition to prevent anthropogenic climate change, and the obstacles to it.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F061d3c7baf040f0301684cd55e33d5a0">
+<name>
+<prefix/>
+<first>Naomi</first>
+<middle/>
+<last>Oreskes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

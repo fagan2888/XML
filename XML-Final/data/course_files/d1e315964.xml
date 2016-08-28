@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6946" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MED-SCI">Medical Sciences</course_group>
+<course_number>
+<num_int>250</num_int>
+<num_char>ab</num_char>
+</course_number>
+<title>Human Functional Anatomy</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<enrollment_limit>52</enrollment_limit>
+<meeting_text>Lectures, M., W., F., 1:30-2:30; laboratory, M., W., F., 2:30-6</meeting_text>
+<faculty_text>Lee Gehrke (Medical School)</faculty_text>
+<description>Lectures, detailed laboratory dissections, and prosections provide a thorough exploration of the gross structure and function of the human body. Fundamental principles of embryology and bioengineering promote analytical approaches to understanding the body's design.</description>
+<prerequisites/>
+<notes>Open to qualified graduate students with permission of the course director. The course has a minimum enrollment of 30. This course requires rental of a locker for two hundred and ten dollars. Offered jointly with the Medical School as HT010.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F224362e0f9af98e31f3846daf60522ea">
+<name>
+<prefix/>
+<first>Lee</first>
+<middle/>
+<last>Gehrke</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1330" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1330" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

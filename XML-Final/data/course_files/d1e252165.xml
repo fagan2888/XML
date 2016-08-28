@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51253" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>132</num_int>
+<num_char>v</num_char>
+</course_number>
+<title>History of the Earth and the Environment</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Matthew Shindell</faculty_text>
+<description>This course examines our changing view of the Earth and the environment from the 19th century to the present, highlighting the interrelatedness of science, society, and culture. Our changing understanding of the Earth - as our home planet has become older, more dynamic, and more vulnerable to human activity - has accompanied changes in our relationship to Earth's environment, the nature of global problems, their causes, their impacts, and our ability to mediate them. These changes have led to some very heated and persistent political debates. Topics include the age of the earth, plate tectonics, planetary science, environmentalism, pesticides, and climate change.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0fd85bf7487764f4ccbe235a86c6a59f">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Benjamin</middle>
+<last>Shindell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

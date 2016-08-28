@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="38895" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>137</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>The Roman Dinner Party: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Ruth Bielfeldt</faculty_text>
+<description>The banquet is the key event of Roman elite society. It involved not only luxurious and well-staged food and wine, but proper behavior, a decent setting, luxury furniture, entertainment and enchantment. The seminar discusses visual, archaeological and literary evidence to explore the sensual culture of the Roman dinner party - oscillating between strict social rules, intellectual table talks, the theatrical orchestration of high cuisine, revelry, eroticism and bodily excess.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6cb20c1952b8e4e014c9fbfa7eeefcc0">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle/>
+<last>Bielfeldt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="119" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3845" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>A La Francaise: French Feminisms Today</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12;</meeting_text>
+<faculty_text>Alice Jardine</faculty_text>
+<description>Close readings of postwar French fiction and theory with emphasis on what is called "the feminine" in key psychoanalytic, philosophical, and literary writings of the French poststructuralist tradition. In particular, we will focus on fifty years of dialogue between postwar theory in France and feminist practice in the United States. Writers considered include Cixous, Duras, Hyvrard, Irigaray, Kristeva, and Wittig as well as Deleuze, Derrida, and Lacan.</description>
+<prerequisites>Excellent reading knowledge of French.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa71fd2c5965c593b69c06613fc55f773">
+<name>
+<prefix/>
+<first>Alice</first>
+<middle/>
+<last>Jardine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="57397" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="NEURO">
+<dept_long_name>Committee on Degrees in Neurobiology</dept_long_name>
+<dept_short_name>Neurobiology</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>101</num_int>
+<num_char>hfi</num_char>
+</course_number>
+<title>The Neurobiology of Drug Addiction</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4-5:30</meeting_text>
+<faculty_text>Members of the Department</faculty_text>
+<description>Students will examine primary literature to understand the acute and chronic action of drugs of abuse, including opioids, cannabinoids, psychostimulants, nicotine, and ethanol. The course will introduce the models of addiction and examine animal and human research results to build an understanding of how modifications to molecular signaling, cells and neural circuits underlie the development of the addicted brain.</description>
+<prerequisites>LS 1a, MCB 80, and permission of the instructor. In addition, one of the following courses is required: MCB 60, MCB 52, or MCB 54.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Feaefaf3b475fb5eeef801fc9c39608b5">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>M.</middle>
+<last>Magnotti</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F202d8c48b23dc38f395b4a072d8cf530">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Wesley</middle>
+<last>Draft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa4581f4fa743be495294f44933fa3944">
+<name>
+<prefix>Dr</prefix>
+<first>Johanna</first>
+<middle/>
+<last>Gutlerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1730"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="107" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

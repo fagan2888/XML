@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9869" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>302</num_int>
+</course_number>
+<title>Scientists Teaching Science</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Learn the secrets of lecturing well, leading discussions, connecting to real-world applications, and creating tests in any scientific discipline as we focus on relevant educational research and case studies, plus engage in practical classroom activities.</description>
+<prerequisites>Experience as a teaching fellow or tutor.</prerequisites>
+<notes>Open to graduate students in all areas of science. Assignments help illustrate research findings from life, earth, and physical science education. Undergraduates with an interest in teaching at the pre-college level may be admitted with instructor permission. This course offered each year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F9079489e57b719a5498b6dd90ec654fb">
+<name>
+<prefix/>
+<first>Philip</first>
+<middle>M.</middle>
+<last>Sadler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="69728" offered="N" next_year_offered="2016">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2275</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Subjectivities and Identities in Russia and Eurasia: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Terry D. Martin and Stephanie Sandler</faculty_text>
+<description>Year-long bi-weekly seminar on collective and personal identities in the history, culture, and politics of Russia, Eastern Europe and Central Asia. Key questions: where and how are identities formed (in domestic, public, textual, and virtual spaces)? What factors constrain, promote, and shape identity formation? What theories of self-expression help us understand the region? How are identities and subjectivities similar? How are they different?</description>
+<prerequisites/>
+<notes>Open to qualified undergraduates with consent of the instructors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe7a060e1d1ba5ede7e6ccae3e183906a">
+<name>
+<prefix/>
+<first>Terry</first>
+<middle/>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe7a060e1d1ba5ede7e6ccae3e183906a">
+<name>
+<prefix/>
+<first>Terry</first>
+<middle/>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F8fb5d3f50c2623d2e4a7b9146d004ee0">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Sandler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

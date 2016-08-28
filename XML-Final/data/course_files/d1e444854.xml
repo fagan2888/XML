@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3307" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>181</num_int>
+</course_number>
+<title>Russian Poetry of the 19th Century</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>John E. Malmstad</faculty_text>
+<description>The major themes and modes of Russian poetry from pre-Romanticism to "pure art." Selections from Zhukovsky, Batiushkov, Baratynsky, Yazykov, Lermontov, Tiutchev, Nekrasov, Fet, and others.</description>
+<prerequisites>Russian 101 or an equivalent acceptable to instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F45e50c0dcb1ec6225755f2d16492046f">
+<name>
+<prefix/>
+<first>John</first>
+<middle>E.</middle>
+<last>Malmstad</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

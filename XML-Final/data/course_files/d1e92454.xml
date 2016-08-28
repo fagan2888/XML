@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45985" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1370</num_int>
+</course_number>
+<title>Media, Democracy and Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Philippe Aghion and Benedicte Berner</faculty_text>
+<description>This course will analyze the role of media in political and economic development. Topics covered are the history of the relationship between media and the state, media and democracy today, laws governing the media and its practice, legal and political pressures on the media, media as an economic object, ownership of media and its effects, media coverage on elections and in developing countries, competition and truth in the market for news, the current mainstream media, and journalistic ethics.</description>
+<prerequisites>Ec 10a and Ec 10b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F84cb6b83841ed3476e42b540e3991d4b">
+<name>
+<prefix/>
+<first>Philippe</first>
+<middle/>
+<last>Aghion</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc77b9539dd32f2c9e328c4fd10a5d4a2">
+<name>
+<prefix/>
+<first>Benedicte</first>
+<middle/>
+<last>Berner-eyde</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

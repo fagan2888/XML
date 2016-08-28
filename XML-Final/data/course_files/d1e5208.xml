@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10526" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>119</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Chocolate, Culture, and the Politics of Food</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Carla Denny Martin</faculty_text>
+<description>This course will examine the sociohistorical legacy of chocolate, with a delicious emphasis on the eating and appreciation of the so-called "food of the gods." Interdisciplinary course readings will introduce the history of cacao cultivation, the present day state of the global chocolate industry, the diverse cultural constructions surrounding chocolate, and the implications for chocolate's future of scientific study, international politics, alternative trade models, and the food movement. Assignments will address pressing real world questions related to chocolate consumption, social justice, responsible development, honesty and the politics of representation in production and marketing, hierarchies of quality, and myths of purity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5865f1233860d1cd612476ad4e53c50b">
+<name>
+<prefix/>
+<first>Carla</first>
+<middle>Denny</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

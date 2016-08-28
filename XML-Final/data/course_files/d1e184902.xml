@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9965" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>49</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Measurements of the Mind: The Creation and Critique of the Psychological Test</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Marla D. Eby (Medical School)</faculty_text>
+<description>Introduces the history of psychological tests, from the perspective of the psychologists using them, the people tested, and the general public. Examines the creativity within psychology in the making of such tests, as well as the drawbacks and dangers of the (mis)uses of these instruments. Explores tests in current use, as well as tests contained in various Harvard archives. Final project for this seminar involves the design of an original psychological test.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff196b6486b69b189096534d4b1ed5ce">
+<name>
+<prefix/>
+<first>Marla</first>
+<middle>Diane</middle>
+<last>Eby</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="212" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

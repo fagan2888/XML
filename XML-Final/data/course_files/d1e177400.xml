@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93587" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>26</num_int>
+<num_char>k</num_char>
+</course_number>
+<title>Transformative ideas in brain science and neuroscience: how war, technology, and disease have illuminated the organization and function of the nervous system historically and today</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Jeffrey D. Macklis</faculty_text>
+<description>This seminar will offer an integrated historical-neurobiological-neurological introduction to foundational and transformative ideas in the ~3,700 year history of neuroscience, brain science, and "lay" neurology - all accessible to freshmen with interests from history, art, and literature to economics, social policy, and business to neuroscience / life sciences. No background will be assumed. Rather, historical vignettes and sources will be tied to modern understanding of elements of the nervous system, their organization, function, and modes of investigation and manipulation. Some historical contexts, often including war, disease, serendipity, and technology advancement, will be highlighted as advancing knowledge in surprising ways.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff74141b56d6ed240e8a6497197849d55">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Macklis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Fairchild Biochemistry Lab" room="268" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

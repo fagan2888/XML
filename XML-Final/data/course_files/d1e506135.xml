@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9183" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Special Projects</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ruth S. Lingford and members of the Department</faculty_text>
+<description>Open to a limited number of students who wish to carry out a special project under supervision. Students wishing to enroll in VES 91r must find a member of the faculty to advise the project and submit an application to the Director of Undergraduate Studies.</description>
+<prerequisites/>
+<notes>Letter-graded only. Special Project tutorials are led by individual faculty members; however study cards should be signed by the Director of Undergraduate Studies.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5129580f56c96835f723b5918b802955">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle>Stella</middle>
+<last>Lingford</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5129580f56c96835f723b5918b802955">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle>Stella</middle>
+<last>Lingford</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

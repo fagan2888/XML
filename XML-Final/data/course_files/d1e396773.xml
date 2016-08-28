@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16952" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>165</num_int>
+</course_number>
+<title>Modern Atomic, Molecular, and Optical Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>John M. Doyle</faculty_text>
+<description>Includes the use of coherent electromagnetic radiation to probe and control atomic systems, use of traps to isolate atoms, molecules, and elementary particles for studies of ultracold quantum degenerate matter and precision tests of the standard model; resonance methods. Goals of course include acquainting student with these and other modern research topics while providing the foundations of modern atomic, molecular and optical physics research.</description>
+<prerequisites>Physics 143a and 143b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffadcb0fefc50c9a03c46127de8da2261">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Doyle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37322" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Shakespeare Shakes the Globe</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Karen Thornber</faculty_text>
+<description>This course examines literary, theatrical, and cinematic adaptations of Shakespeare's plays in Africa, the Americas, Asia, Europe and the Middle East. Students learn how artists, including Shakespeare, have used creative production of the past to understand and address concrete issues and problems of the present, including political scandal and persecution, imperial domination, and racial and ethnic biases and oppression. We also explore the continued vitality worldwide of theater and the arts, as well as their constant transformations throughout time and space.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfbb1f4e749c96d35ea6bc00bf4f2311">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>Laura</middle>
+<last>Thornber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

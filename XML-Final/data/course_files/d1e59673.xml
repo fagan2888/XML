@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7592" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>105</num_int>
+</course_number>
+<title>Production Dramaturgy: A.R.T. 2014-15 Season and Civil War Project</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 1:10-3</meeting_text>
+<faculty_text>Ryan Scott McKittrick</faculty_text>
+<description>In this course, students will learn about the roles and responsibilities of a dramaturg in the rehearsal room and in a theater company. Focusing on productions in the American Repertory Theater's 2014-15 season and specifically on the A.R.T.'s Civil War Project, students will study and evaluate scripts and performances on the A.R.T. stages, and participate in developmental workshops and readings. By exploring performance histories, translations, and dramatic structures of plays and musicals, students will learn about the steps a dramaturg takes to prepare for a production. In addition, students will read and evaluate new scripts submitted to the A.R.T. and the A.R.T. Institute. Students will also use the Harvard Theater Collection to research a play, opera, or musical of his or her choice and write an essay analyzing the production history.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F96b2b72e1e033c6c39ecc250e47cdc96">
+<name>
+<prefix/>
+<first>Ryan</first>
+<middle>Scott</middle>
+<last>McKittrick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1310" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

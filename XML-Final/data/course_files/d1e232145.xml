@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5936" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1700</num_int>
+</course_number>
+<title>The History of Sub-Saharan Africa to 1860</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Emmanuel K. Akyeampong</faculty_text>
+<description>Survey of sub-Saharan Africa to 1860, with attention to the range of methodologies used in writing early African history, including oral history, archaeology, and anthropology. Will address themes of the impact of climate change on migration and settlement, trade and commerce, state formation, slavery, and the impact of Islam and Christianity on the continent. Will provide a methodological and historiographical framework in which more specific historical processes and events may be placed and understood.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc74e458dae84037d2bf03fdcec7462e6">
+<name>
+<prefix/>
+<first>Emmanuel</first>
+<middle/>
+<last>Akyeampong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-050" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+</requirements>
+</course></courses>

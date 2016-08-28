@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1378" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>124</num_int>
+</course_number>
+<title>Don Quixote and the Art of Reading</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Mary M. Gaylord</faculty_text>
+<description>In the beginning was the book. From his library the hidalgo, bent on writing himself into History, sallies forth into a world of actors, storytellers, and readers. How do books come by their power to shape individuals and their world? We read Cervantes' masterpiece alongside seminal Renaissance works his characters and readers knew (Erasmus, Vives, More, Castiglione), and modern studies of reading and print culture.</description>
+<prerequisites>Coursework in Spanish at the 70-, 90-, or 100-level, or permission of the instructor.</prerequisites>
+<notes>Conducted in Spanish; an advanced reading knowledge of Spanish is essential. There will be class visits to the Houghton Library of Rare Books and screenings of film versions of the novel. .</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff13f13e61cffc225ad8e2f4406ae992a">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle/>
+<last>Gaylord</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63346" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="BE">Biomedical Engineering</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Chemical Kinetics and Reactor Design</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>David J. Mooney and Daniel Joseph Needleman</faculty_text>
+<description>Introduction to chemical kinetics and reactor design with applications to bioengineering, chemical engineering, environmental sciences and other areas.</description>
+<prerequisites>Applied Math 21a (Mathematical Methods in Science); Introductory chemistry course at the level of Life Sciences 1a, or Life and Physical Sciences A.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa4f240a0860801ed6a9b7db522115864">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Mooney</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc0f8eb98b54d512201eb1b5fa7b01fc9">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Needleman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Pierce Hall" room="100F" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

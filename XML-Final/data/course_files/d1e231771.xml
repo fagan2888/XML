@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12271" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1526</num_int>
+</course_number>
+<title>European Legal History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Tamar Herzog</faculty_text>
+<description>This is a survey course of the history of European law from the fall of the Roman Empire (5th century) to the establishment of the European Union (20th century). Organized chronologically, it engages with the sources and nature of Law, the organization of legal systems and the relationship between law and society, law and law-maker, law and the legal professions. Continental and Common Law, as well as Colonial law would be covered.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2700.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2c293d3e795d8616212c0f99753afdfc">
+<name>
+<prefix/>
+<first>Tamar</first>
+<middle/>
+<last>Herzog</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

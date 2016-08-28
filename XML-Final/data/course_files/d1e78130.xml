@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8288" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Junior Tutorial--Japan and the World</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Susan J. Pharr</faculty_text>
+<description>Junior Tutorial option for EAS. Open to Government and other concentrators. For students with an interest in the society, economy, politics, and popular culture of contemporary Japan and its place in the world.</description>
+<prerequisites/>
+<notes>EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb7c908c9b223c29781fa11bdc50abb91">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle>J.</middle>
+<last>Pharr</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-001" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

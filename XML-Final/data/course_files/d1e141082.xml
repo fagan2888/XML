@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28719" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>298</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Quantum Electronics and Photonics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course is designed for engineers who are interested to learn applied quantum mechanics to study quantum behavior of electron, photon and their interaction. The course content is a mix of topics usually covered in more conventional courses such as quantum electronics and quantum optics to invite a wide range of audiences who are working on areas such as optoelectronics, quantum photonics, nanoelectronics, nanophotonics, spintronics, and in general quantum devices and systems. The course emphasizes on the fundamental concepts and engineering applications without a need for previous exposure to quantum mechanics. Examples and problems are designed to address the applications of the course contents to real problems.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F90eabab950b3082858f55b45b94fc731">
+<name>
+<prefix/>
+<first>Amirhamed</first>
+<middle/>
+<last>Majedi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

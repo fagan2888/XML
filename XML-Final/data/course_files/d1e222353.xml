@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2133" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>3060</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Research Seminar in Decision Sciences</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Explores key conceptual and methodological issues relevant to research in health decision sciences. Faculty members and invited speakers will assign readings and present examples of theoretical and applied work. Students are required to participate in class discussion and to present their own research work in progress.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F6dfaa921999b7b07fab76fae5f4be2cf">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle/>
+<last>Salomon</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6dfaa921999b7b07fab76fae5f4be2cf">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle/>
+<last>Salomon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

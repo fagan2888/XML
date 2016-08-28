@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4855" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPAN">Japanese</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Japanese II</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Sections M., T., W., Th., F., at 10, 1, or 2</meeting_text>
+<faculty_text>Miki Yagi</faculty_text>
+<description>Third-year intermediate advanced course. Development of skills in reading authentic materials from contemporary Japanese media and fiction and in aural comprehension of contemporary television news and drama with decreased reliance on pedagogical aids. Development of speaking and writing skills to an increasingly sophisticated level. Introduction of approximately 200 additional Chinese characters beyond those introduced in 120b.</description>
+<prerequisites>Japanese 120b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7dd4e9d2518821b33bab5db33912f6e2">
+<name>
+<prefix/>
+<first>Miki</first>
+<middle/>
+<last>Yagi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B106" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B106" type="Speaking Section"/>
+<location term="1" building="Northwest Building" room="B106" type="Section"/>
+<location term="1" building="Northwest Building" room="B106" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97995" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Vector Space Methods for Differential Equations</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2-3:30</meeting_text>
+<faculty_text>Paul G. Bamberg</faculty_text>
+<description>Develops the theory of inner product spaces, both finite-dimensional and infinite-dimensional, and applies it to a variety of ordinary and partial differential equations. Topics: existence and uniqueness theorems, Sturm-Liouville systems, orthogonal polynomials, Fourier series, Fourier and Laplace transforms, eigenvalue problems, and solutions of Laplace's equation and the wave equation in the various coordinate systems.</description>
+<prerequisites>Mathematics 23ab or 25 ab, or Mathematics 21ab plus any Mathematics course at the 100 level.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe748b4af19b4ea7d9f029fbcc71d84c2">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Bamberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

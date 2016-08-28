@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="30378" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>Reconstruction in American Memory</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Todd Carmody</faculty_text>
+<description>Reconstruction - the period of economic rebuilding and philosophical reorientation that followed the American Civil War - was an unprecedented moment of historical rupture. Reconstruction sought quite simply to remake an entire society at once, from one day to the next replacing slavery with the ideals of free labor and democratic participation. In this seminar, we will consider Reconstruction as a set of historical events and as a narrative problem. In other words, while learning about this unheralded moment of change in American history, we will also ask how Reconstruction became a story to be passed down from one generation to the next - by novelists, poets, historians, political scientists, and filmmakers.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F723275b660c44344d3998d05b1a4948f">
+<name>
+<prefix/>
+<first>Todd</first>
+<middle/>
+<last>Carmody</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

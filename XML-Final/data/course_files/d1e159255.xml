@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28612" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>.012</num_char>
+</course_number>
+<title>Introduction to Expository Writing</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Vernon Tad Davies</faculty_text>
+<description>A rigorous, intensive elective that helps students prepare for the demands of college writing. In small classes, students work closely with instructors on developing and organizing ideas, analyzing sources, and writing clear, engaging essays. Students also meet frequently in individual conferences with instructors to discuss their work. Assignments are based on sources from a range of disciplines and genres.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb35b75883fdb5a463017bbb572976ef">
+<name>
+<prefix/>
+<first>Vernon</first>
+<middle>Tad</middle>
+<last>Davies</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="012" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

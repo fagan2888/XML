@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="93588" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1590</num_int>
+</course_number>
+<title>Ancient Biomolecules</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 1:30-3, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Noreen Tuross and Linda M. Reynard</faculty_text>
+<description>How do we know where and how people migrated? How old is this ruin? Did ancient humans eat a lot of meat? This course will explore the known, the unknown, and the unknowable in the study of ancient biomolecules and critically evaluate the current literature and the accompanying press reports. The course couples topics about the past in which ancient biomolecules are used with an examination of the methods employed. The format of the course will be lecture and case study.</description>
+<prerequisites>There are no prerequisites, but you can expect to do more work if you have not taken Life and Physical Sciences A or Life Sciences 1a or had a strong high-school biology course.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2303423c4fe9a3f261db85fad4ff0b1b">
+<name>
+<prefix/>
+<first>Noreen</first>
+<middle/>
+<last>Tuross</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F66e96135cb8d88d0f37b2f1ac9d2a10c">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Reynard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="501" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

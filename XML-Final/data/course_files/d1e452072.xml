@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="16127" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>Gc</num_char>
+</course_number>
+<title>Global Workers, Professionals &amp; Entrepreneurs: The New Economic Order Across Borders</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Filiz Garip</faculty_text>
+<description>We live in a world where economic activities increasingly span national borders. How do individuals navigate the economic and social relations across borders? This tutorial will guide students through the preparation of an empirical research paper on this broad question.</description>
+<prerequisites>Sociology 97</prerequisites>
+<notes>Required of and limited to Sociology concentrators. Spring junior tutorials are by assignment only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F982a26b536139a43e95f007feb1ee1a7">
+<name>
+<prefix/>
+<first>Filiz</first>
+<middle/>
+<last>Garip</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

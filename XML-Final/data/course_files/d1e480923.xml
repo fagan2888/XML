@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9232" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1210</num_int>
+<num_char>qt</num_char>
+</course_number>
+<title>Queer Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Tey Meadow</faculty_text>
+<description>What is "queer"? What relationship does queer have to "homosexuality," "LGBT," or any conventional understanding of gender, sexuality, culture, history or politics? This course surveys the interdisciplinary field of queer theory, from its emergence two decades ago to its present day articulations. We will examine queerness as a conceptual category, as identity (or anti-identity), and its relation to race, ethnicity, nationality, class, as well as to artistic production and activism. We will likewise interrogate "theory" itself, what it is, what it does, and what interventions it can perform. Other topics include recent work on futurity, utopia, place, risk and intimacy.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff2a537edba2c479b238873a8dec0f843">
+<name>
+<prefix/>
+<first>Tey</first>
+<middle/>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

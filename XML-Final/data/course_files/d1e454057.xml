@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87494" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Education and Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>Tu., Th., at 3</meeting_text>
+<faculty_text>Betsy Leondar-Wright</faculty_text>
+<description>Education is intended to be the great equalizer of opportunity, the engine of the American Dream. But in fact there are vast disparities in educational experiences and outcomes, such as high school graduation rates, depending on race, class and other social inequities. Why? Policy and structural factors offer only partial explanations. Cultural factors also come into play, including cultural and social capital; parenting styles; teacher bias; teachers' and students' raced and classed language codes; college admissions priorities; and the experiences of first-generation college students on campus. Students will practice analyzing the methodology behind claims about the causes of educational inequality and learn to debunk flawed studies. This lively, interactive course will uncover many roots of educational disparities, as well as possible solutions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feec5c0ba195e2416ac4d9a7164e67aba">
+<name>
+<prefix/>
+<first>Betsy</first>
+<middle/>
+<last>Leondar-Wright</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1500" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="214" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

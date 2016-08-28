@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5017" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Conscious States: Waking, Sleeping, and Dreaming</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Robert A. Stickgold (Medical School)</faculty_text>
+<description>Focuses on waking, sleeping, and dreaming as examples of conscious states in both humans and animals. Original papers and Antonio Damasio's book (The Feeling of What Happens form the background for discussions of waking, sleeping, and dreaming from the perspectives of neurology, physiology, psychology, and cognitive neurosciences. Discusses various approaches to understanding the functions of sleep and wake (consciousness) and reviews several theories on the topic.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa292b4a985a8aa0fef9ed880f40c267f">
+<name>
+<prefix>Dr.</prefix>
+<first>Robert</first>
+<middle/>
+<last>Stickgold</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="6" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

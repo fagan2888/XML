@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26718" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>74</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>U.S. History: Major Themes in the Twentieth Century</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Lisa M. McGirr</faculty_text>
+<description>The twentieth-century United States is a vibrant and flourishing field of historical study. The goal of this seminar is to introduce students to the central questions, problems and debates in the history of the "American century." Students will learn how the literature of history has developed through reading both older and newer approaches. Readings focus on questions of politics, political culture, the state and social life. The course is both thematic and chronological (as well as necessarily selective). Students are expected to prepare well for seminar and to participate actively in discussion. Each class will begin with a brief introduction to the readings (no more than five minutes) by a member of the seminar. The idea here is for one student to take special responsibility for leading discussion, raising questions and problems posed by the reading.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fabe128aa0aa1fa1e62bd548659e07b4b">
+<name>
+<prefix/>
+<first>Lisa</first>
+<middle>M.</middle>
+<last>McGirr</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

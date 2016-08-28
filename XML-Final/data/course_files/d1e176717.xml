@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94303" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>25</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Understanding Emotions</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Matthew Leeds</faculty_text>
+<description>Large and small, simple and complex, self-evident and confusing, emotions in all their variety are a fundamental part of life. But just what are emotions? Are they the same in all cultures? What, if any, functions do they serve? Can we control our emotions? What role do they play in development, personality, relationships and well-being? What effects can they have on physical health? And do they present special challenges to scientific study? This seminar will take up these and other fundamental questions, and will discuss methods used to study emotion and the current state of knowledge about human emotion.</description>
+<prerequisites/>
+<notes>Open to Freshmen only</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffdce6a6e47212ef2068dc2030ce2b794">
+<name>
+<prefix>Dr</prefix>
+<first>Matthew</first>
+<middle/>
+<last>Leeds</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="201" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

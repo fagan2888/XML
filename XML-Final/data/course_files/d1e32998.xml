@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3598" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIPH">
+<dept_long_name>Committee on Higher Degrees in Biophysics</dept_long_name>
+<dept_short_name>Biophysics</dept_short_name>
+</department>
+<course_group code="BIOPHYS">Biophysics</course_group>
+<course_number>
+<num_int>170</num_int>
+</course_number>
+<title>Quantitative Genomics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., 2:30-4</meeting_text>
+<faculty_text>Shamil R. Sunyaev (Medical School), Isaac S. Kohane (Medical School), Leonid Mirny (Medical School), and members of the Committee</faculty_text>
+<description>In-depth study of genomics: models of evolution and population genetics; comparative genomics: analysis and comparison; structural genomics: protein structure, evolution and interactions; functional genomics, gene expression, structure and dynamics of regulatory networks.</description>
+<prerequisites/>
+<notes>Meets at MIT</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F49ff578db4c12fb63d97a6d999ea6ebb">
+<name>
+<prefix>Dr</prefix>
+<first>Shamil</first>
+<middle>R.</middle>
+<last>Sunyaev</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa0ac4679868802776a39faa2d64344bb">
+<name>
+<prefix>Dr</prefix>
+<first>Isaac</first>
+<middle>Samuel</middle>
+<last>Kohane</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb9788fdada7e04a758ede0084e0c880d">
+<name>
+<prefix/>
+<first>Leonid</first>
+<middle/>
+<last>Mirny</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

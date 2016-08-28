@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66831" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HUM">
+<dept_long_name>Division of Humanities</dept_long_name>
+<dept_short_name>Humanities</dept_short_name>
+</department>
+<course_group code="HUM-FRAMES">Humanities: Frameworks</course_group>
+<course_number>
+<num_int>11</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Frameworks: The Art of Looking</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>105</enrollment_limit>
+<meeting_text>T., 11:30 -1:00, and a 2-hour weekly section to be arranged.</meeting_text>
+<faculty_text>Jennifer L. Roberts (History of Art and Architecture)</faculty_text>
+<description>Visual information today is superabundant thanks to our smartphones, tablets, and other screen-based gadgets. But few of us recognize how thoroughly our habits and experiences of looking have been conditioned by interfaces with long and complex histories. Participants in this new Framework Course, developed as part of the Humanities Project at Harvard, will approach looking through a consideration of key technologies from its history, such as the telescope, the television, and the easel painting. Students will learn about the hidden intricacies of looking and hone skills of visual, material, and spatial analysis through encounters with aesthetic objects from Harvard's collections.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffa82738bf1de4870e9ca6290c40bafa4">
+<name>
+<prefix/>
+<first>Jennifer L.</first>
+<middle/>
+<last>Roberts</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

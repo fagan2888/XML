@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21986" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="SAS">South Asian Studies</course_group>
+<course_number>
+<num_int>194</num_int>
+</course_number>
+<title>A Clash of Civilizations? Hindus and Muslims in South Asia</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-6</meeting_text>
+<faculty_text>Harpreet Singh</faculty_text>
+<description>The objective of the course is to understand the rich and complex history of Hindu-Muslim interactions in one of most diverse regions in the world. Using literature, art, film and critical scholarship, we will study the ways in which religious identities have been negotiated and contested in the public sphere. We will attempt to respond to the question whether religious strife between Hindus and Muslims in South Asia represents a "clash of civilizations" or something more interesting.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3390.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2c3c2cf7826f266ecedff8523f9f0284">
+<name>
+<prefix/>
+<first>Harpreet</first>
+<middle/>
+<last>Singh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35497" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1490</num_int>
+</course_number>
+<title>Growth and Crisis in the World Economy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Dale W. Jorgenson</faculty_text>
+<description>This course assesses the future of the tri-polar world economy - Asia, Europe, and North America. The course analyzes the resurgence of the US economic growth, the emergence of asset pricing bubbles, and the ensuing financial and economic crisis. We will discuss the sources of Asian growth miracles and the convergence and subsequent divergence of Europe and North America. What growth rate is sustainable and who will lead? What are the forces that threaten long-term prosperity?</description>
+<prerequisites>Economics 1010a1, 1010a2, or 1011a and Economics 1010b or 1011b.</prerequisites>
+<notes>This course satisfies the Economics concentration writing requirement. Students who would like to enroll should submit the application form available on the course website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb9948105d6d0927515c621d9db2714bf">
+<name>
+<prefix/>
+<first>Dale</first>
+<middle>W.</middle>
+<last>Jorgenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="202" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

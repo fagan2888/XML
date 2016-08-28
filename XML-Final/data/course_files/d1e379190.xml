@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4953" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>114</num_int>
+</course_number>
+<title>Vertebrate Viviparity</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>David A. Haig</faculty_text>
+<description>Viviparity has evolved many times in vertebrate phylogeny. The course reviews the diversity of parental care in vertebrates and explores the selective forces that have favored the evolution of live-bearing. The evidence for intergenerational conflicts is considered.</description>
+<prerequisites>Life Sciences 1b or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3ee5f9b7bc03e98873dcff9b5a1f3ad3">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Haig</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

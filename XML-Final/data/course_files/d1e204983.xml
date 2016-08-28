@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3213" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>71</num_int>
+</course_number>
+<title>German Literature from Goethe to Nietzsche</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Jillian DeMair</faculty_text>
+<description>Through close readings of central texts from the Age of Goethe to the late 19th century, this course introduces students to key concepts of literary analysis. Readings include Goethe, Schiller, Kleist, Hoffmann, Buchner, and Nietzsche.</description>
+<prerequisites>German 61, equivalent preparation, or permission of the instructor.</prerequisites>
+<notes>Readings and discussions in German.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F659f2785d530b68e09fd08936d168051">
+<name>
+<prefix/>
+<first>Jillian</first>
+<middle/>
+<last>DeMair</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

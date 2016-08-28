@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47399" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>161</num_int>
+</course_number>
+<title>Applied Environmental Toxicology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Elynor M. Sunderland</faculty_text>
+<description>This course will examine the theory and practical application of environmental chemistry and toxicology for assessing the behavior, toxicity and human health risks of chemical contaminants in the environment. The goals of the course are to: (a) illustrate how various sub-disciplines in environmental toxicology are integrated to understand the behavior of pollutants; (b) demonstrate how scientific information is applied to inform environmental management decisions and public policy through several case studies; and (c) provide an introduction to the legislative framework in which environmental toxicology is conducted. This course will be directed toward undergraduate students with a basic understanding of chemistry and calculus and an interest in applied science and engineering to address environmental management problems.</description>
+<prerequisites>Physical Sciences 1 or 11 and Mathematics 1a and 1b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd7c14083a43a2cf6dd7d00b8f2109195">
+<name>
+<prefix/>
+<first>Elsie</first>
+<middle>M</middle>
+<last>Sunderland</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

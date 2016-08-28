@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="845" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Introduction to Theatre</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 10-12; Tu., at 3</meeting_text>
+<faculty_text>Scott Zigler</faculty_text>
+<description>An introduction and overview of the major creative elements in professional theater including: acting, directing, playwriting, and designing. Special attention given to productions by the American Repertory Theater (A.R.T.), the A.R.T. Institute and other productions in the Boston area. Students have the opportunity to attend and analyze at least five different productions and to engage in creative work throughout the term. Additionally, theater professionals from the A.R.T. give guest lectures in their areas of expertise.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0d960416c9821002a932cff346866d9e">
+<name>
+<prefix/>
+<first>Scott</first>
+<middle/>
+<last>Zigler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

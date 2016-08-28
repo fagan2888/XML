@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3873" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="VIETNAM">Vietnamese</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Elementary Vietnamese</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through F., at 9</meeting_text>
+<faculty_text>Binh Ngo</faculty_text>
+<description>Surveys the fundamentals of Vietnamese phonetics, grammar, and vocabulary to provide students with basic ability to understand, speak, read, and write Vietnamese. Conversational ability is stressed through an interactive, communication-oriented approach.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F723afadc4bf3a398fce9f226be6f0408">
+<name>
+<prefix/>
+<first>Binh</first>
+<middle/>
+<last>Ngo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B106" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

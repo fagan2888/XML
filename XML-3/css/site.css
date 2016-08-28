@@ -1,0 +1,102 @@
+/* CSS Rules */
+
+.container, #header, #subTiitle {
+   width:100%;
+}
+
+.container {
+  margin: 0;
+  color: #000;
+}
+
+#header {
+  background-color: #000;
+  font-weight: 200;
+  background-image: url('../images/logo-harvard-university.png');
+  background-repeat: no-repeat;
+  background-position: 10px 10px;
+}
+
+#header a {
+  margin-top: 35px;
+  margin-left: 50px;
+  font-size: 1.5em;
+  font-family: roman, 'times new roman', times, serif;
+  font-weight: 100;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+  
+#subTiitle {
+  background-color: #A41C30;
+}
+  
+#subTiitle h2 {
+  color: #fff;
+  font-size: 1.25em;
+  margin: 5px 0 5px 10px;
+}
+  
+#main {
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+#footer {
+  background-color: #ccc;
+  background-image: url('../images/shield.png');
+  background-repeat: no-repeat;
+  background-position: 10px 10px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+ #address {
+  padding-left: 50px;
+  padding-bottom: 5px;
+}
+ 
+#copy {
+  color: #fff;
+  font-size: .95em;
+  margin: 0px;
+  padding: 5px;
+  background-color: #000;
+}
+  
+table {
+  margin-bottom: 50px;
+  border: solid 1px #ccc;
+  text-align: center;
+}
+
+th {
+    background-color: #ccc;
+    color: #000;
+
+    font-weight: bold;
+}
+
+th:nth-child(1) {
+  width: 50%;
+   font-weight: bold;
+       text-align: left;
+}
+
+th:nth-child(3) {
+  width: 25%;
+}
+
+ a.group {
+  text-decoration: none;
+  color: #000;
+  
+}
+
+.clearLeft {
+  clear: left;
+  padding-top: 30px;
+}
+

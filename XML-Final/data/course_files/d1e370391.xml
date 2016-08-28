@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55956" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MODMIDEAST">The Modern Middle East</course_group>
+<course_number>
+<num_int>158</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Modern Arabic Literature Seminar: The Racialized Other in Arabian Peninsula Literature and Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Moneera Al-Ghadeer</faculty_text>
+<description>This course introduces modern literature and contemporary technology writing in the contemporary Arabian Peninsula. Themes include "race" and "otherness" and how these tropes are fashioned by political and social discourses. Readings include novels from Kuwait, Saudi Arabia, Oman, Yemen, and Qatar, exploring how narratives have been influenced and marked by questions of canon formation, globalization and social change.</description>
+<prerequisites/>
+<notes>Arabic helpful but not required. Open to both undergraduates and graduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F938f8c160acaf51a671be0f48a038ddb">
+<name>
+<prefix/>
+<first>Moneera</first>
+<middle/>
+<last>Al-Ghadeer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-109" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

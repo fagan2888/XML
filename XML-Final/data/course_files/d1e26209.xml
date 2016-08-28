@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22304" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>17</num_int>
+</course_number>
+<title>Galactic and Extragalactic Astronomy</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30&amp;#8211;4;</meeting_text>
+<faculty_text>Daniel James Eisenstein</faculty_text>
+<description>This course provides an introduction to the physical principles describing galaxies and the composition and evolution of the Universe. Topics include the interstellar medium; star clusters; the structure and dynamics of the Milky Way; other galaxies; clusters of galaxies; active galaxies and quasars; cosmology; and the early universe. This course includes an observational component: In addition to observing galaxies with the Science Center Clay Telescope, students will use the millimeter-wavelength telescope at the Harvard-Smithsonian Center for Astrophysics to measure the rotation velocity of the Milky Way galaxy and to determine its mass.</description>
+<prerequisites>An introductory course in mechanics, which may be taken concurrently, satisfied by Physics lla, Physics 15a, Physics 16, or Physical Sciences 12a.</prerequisites>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. This course is offered each year.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F27eae3b90e7190cb327e9cb2a4ceab71">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>James</middle>
+<last>Eisenstein</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="309" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

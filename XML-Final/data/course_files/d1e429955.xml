@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27937" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Italy: The Seven Deadly Sins</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Federica G. Pedriali (University of Edinburgh)</faculty_text>
+<description>The course complements other RLL Catalog offerings on the collective construction of national identities. Classes will be structured around polarised provovations based on samples of good and bad international PR since the early modern period, including politics, wars, the European Union, public figures, migration, stereotypes and a variety of globally recognised Italian icons such as mafia, Pinocchio, facism and the Vespa. Classics of the ageless debate on Italy (e.g., Leopardi and Madame de Stael), her beauty and femininity (Gundle 2007), her virtue as sin or her sin as virtue (drawing primarily but not exclusively from Machiavelli), will feed into a present-day people profile organised in seven units/deadly accidents of Italianness: Beauty, Distinction, Genius, Heart, Mobility, Stamina and Voice.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9c344e8fee138325a51eb096d9141866">
+<name>
+<prefix/>
+<first>Federica</first>
+<middle>G</middle>
+<last>Pedriali</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

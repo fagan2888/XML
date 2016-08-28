@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84938" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DRAM">
+<dept_long_name>Committee on Dramatic Arts</dept_long_name>
+<dept_short_name>Dramatic Arts</dept_short_name>
+</department>
+<course_group code="DRAMA">Dramatic Arts</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Directing Contemporary Drama</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Diane Paulus and Marcus Stern</faculty_text>
+<description>A great opportunity for undergraduate directors to explore the musical Pippin with A.R.T.'s Artistic Director Diane Paulus as she develops the professional A.R.T. production for the Loeb Drama Center mainstage, as well as the chance to learn vivid directorial story-telling techniques from resident A.R.T. director Marcus Stern. The class will consist of a unit of core directing tools in the context of contemporary drama, and will culminate with student presentations of excerpts from Pippin.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb375920934227ec7a7270362cc6d6259">
+<name>
+<prefix/>
+<first>Diane</first>
+<middle/>
+<last>Paulus</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F87f9af28d7055d155f148d8f9750559a">
+<name>
+<prefix/>
+<first>Marcus</first>
+<middle/>
+<last>Stern</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

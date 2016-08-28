@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="92302" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1604</num_int>
+</course_number>
+<title>Social Development</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Felix Warneken</faculty_text>
+<description>How do we develop as social beings from infancy to adulthood? What are the biological, cultural, and individual factors that influence this development? How does human social development differ from that of other primates? In exploring these and other questions, this course will take a developmental and evolutionary approach to topics that include: attachment; cultural learning; cooperation and competition; theory of mind; social categorization; moral reasoning; friendship; peers; parent-child interaction.</description>
+<prerequisites>Science of Living Systems 20 plus either Psychology 15 or Science of Living Systems 15.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3918f1a9b1dac463f83262a97a8e372d">
+<name>
+<prefix/>
+<first>Felix</first>
+<middle/>
+<last>Warneken</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

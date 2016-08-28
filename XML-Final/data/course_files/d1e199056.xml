@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9587" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>25</num_int>
+</course_number>
+<title>Case Studies in Global Health: Biosocial Perspectives</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Arthur Kleinman (Anthropology; Harvard Medical School), Paul E. Farmer (University Professor; Harvard Medical School; Harvard School of Public Health), Anne E. Becker (Harvard Medical School), and Salmaan Keshavjee (Harvard Medical School)</faculty_text>
+<description>Examines, through lectures and case-based discussions, a collection of global health problems rooted in rapidly changing social structures that transcend national and other administrative boundaries. Students will explore case studies (addressing AIDS, tuberculosis, mental illness, and other topics) and a diverse literature (including epidemiology, anthropology, history, and clinical medicine), focusing on how a broad biosocial analysis might improve the delivery of services designed to lessen the burden of disease, especially among those living in poverty.</description>
+<prerequisites/>
+<notes>Course counts as Social Anthropology.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0b03e86ef4eedb34b3e59d021d165838">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle/>
+<last>Kleinman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1c292b040ffc79b3fee5d85dc22f9b21">
+<name>
+<prefix>Dr</prefix>
+<first>Anne</first>
+<middle>E.</middle>
+<last>Becker</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F3cfe8215e70c5c9cb5a64309444126d0">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle/>
+<last>Farmer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fca9678623377b2f4d76ecab84cf587d5">
+<name>
+<prefix/>
+<first>Salmaan</first>
+<middle/>
+<last>Keshavjee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Societies of the World"/>
+</requirements>
+</course></courses>

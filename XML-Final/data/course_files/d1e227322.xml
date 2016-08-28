@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49841" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>"What is Biography?"</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Jill M. Lepore</faculty_text>
+<description>Biographers write histories of lives. Their storytelling is often novelistic but their standards of evidence are those of the historian. They confront distinctive questions: What lives are worth writing? What is the relationship between the individual and society? What rules govern the relationship between biographers and their subjects? How has the art of biography changed over the centuries, and what forces have driven those changes? In this section, we'll read both notable biographies and the critical literature on biography as a genre that is often seen to be at odds with the conventions of other kinds of historical writing.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5911e61286dfa51da2c01faa19323498">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Lepore</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

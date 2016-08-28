@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4742" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>92</num_int>
+<num_char>zr</num_char>
+</course_number>
+<title>Social Anthropology Research Methods in Museum Collections</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard H. Meadow (fall term) and Ramyar Dagoberto Rossoukh (spring term)</faculty_text>
+<description>Special (individual) study of Peabody Museum collections directly supervised by a faculty member and a member of the curatorial staff. Requires a project involving a Harvard Museum collection, developed in consultation with the supervisors.</description>
+<prerequisites/>
+<notes>Must be taken for a letter grade. Priority given to students in Anthropology and related departments. To enroll, submit a petition form (available from the Undergraduate Office, Tozzer 103B), signed by both supervisors, a proposed research agenda, during the term preceding the term of enrollment. Information sheets with Museum contacts available in Tozzer 103B.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3191d88825175d2767ab2f1f7afaf480">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>H.</middle>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0c6de030f853fdb87aa69db518f601ab">
+<name>
+<prefix/>
+<first>Ramyar</first>
+<middle>Dagoberto</middle>
+<last>Rossoukh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

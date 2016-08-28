@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4745" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1465</num_int>
+</course_number>
+<title>The United States in the World since 1900</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Erez Manela</faculty_text>
+<description>A wide-ranging overview of American interactions with the world from the Spanish-American War through 9/11 and beyond. We will consider the changing patterns of international politics, the causes and implications of imperialism and decolonization, the pivotal impact of the world wars and the Cold War, the significance of cultural interactions and social movements, the challenges of globalization, the complexities of international development, and the roots of current world (dis)orders.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for The United States in the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F516ed0406b1cd6639dffa6b80181d1dd">
+<name>
+<prefix/>
+<first>Erez</first>
+<middle/>
+<last>Manela</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

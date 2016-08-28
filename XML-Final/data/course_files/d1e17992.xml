@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6213" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1836</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Sensory Ethnography II: Studio Course</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>M., W., 1-4</meeting_text>
+<faculty_text>Lucien G. Castaing-Taylor</faculty_text>
+<description>Second half of a year-long sequence (including 1836aar, spring 2013) in which students apply media anthropological theory and conduct ethnography using film, video, sound, still photography, and/or hypermedia. Emphasis is on pre-production and production in the spring, and on post-production in the fall.</description>
+<prerequisites/>
+<notes>Interview with instructor and teaching assistant required for admission.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6a780e85707c2933cb63cd6cb4ca474a">
+<name>
+<prefix/>
+<first>Lucien</first>
+<middle/>
+<last>Castaing-Taylor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1587" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>70</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Heroes, Rogues, Lovers, Rebels, Saints: Voices from Medieval and Early Modern Spain</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Mary M. Gaylord and members of the Department</faculty_text>
+<description>Who are the Cid, Lazarillo, Rosaura and Segismundo? As we explore the texts and historical contexts that produced iconic figures like the matamoros, the sentimental Moor, the picaro, the soldier-poet, the mystic, the rebellious vassal and the cross-dressed woman, we bring their voices to life through dramatic reading and performance.</description>
+<prerequisites>A score above 780 on the SAT II or the Harvard Placement test; a 40-, 50-, or 60-level course in Spanish; or permission of course head.</prerequisites>
+<notes>Conducted in Spanish. This course includes student art-making as part of the Harvard Arts Initiative.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff13f13e61cffc225ad8e2f4406ae992a">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle/>
+<last>Gaylord</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

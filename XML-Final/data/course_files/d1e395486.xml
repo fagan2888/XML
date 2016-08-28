@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55323" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Cosmology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 11-12:30</meeting_text>
+<faculty_text>Matthew Reece</faculty_text>
+<description>This course will introduce cosmology, the study of the large-scale evolution of the universe. Topics include the expanding universe; Friedmann-Robertson-Walker metrics; the evolution of the matter, radiation, and vacuum energy of the universe over time; evidence for dark matter; the Cosmic Microwave Background and its role in determining cosmological parameters; Big-Bang Nucleosynthesis; inflation and how it seeded the universe today; and the formation of structures like galaxies.</description>
+<prerequisites>Prerequisites: Quantum mechanics (Physics 143a/b or equivalent) and statistical mechanics (Physics 181 or equivalent)</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F39c882f574a2e29392ec0d07d65a215b">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle/>
+<last>Reece</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94414" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>South Asian Folklore</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Leah K. Lowthorp</faculty_text>
+<description>This course exposes students to key issues and theoretical concerns in the study of South Asian folklore, both of the subcontinent and the South Asian diaspora. We will examine multiple genres of South Asian folklore through a variety of themes and modes of expression. The course will be divided into seven modules: an introduction to folklore and folklore studies; folklore and nationalism; oral epics; folktales; narrative and gender; folk songs and ballads; belief; and folk drama, dance and puppetry. By exploring this diverse array of South Asian expressive traditions, students will gain a greater understanding of both the fields of Folklore and South Asian Studies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb2d33c00e9477a1f9b0d59444900e958">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle>K.</middle>
+<last>Lowthorp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Warren House" room="102 (F&amp;M Library)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

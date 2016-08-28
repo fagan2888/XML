@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4925" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1540</num_int>
+</course_number>
+<title>The American Presidency</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30&amp;#8211;1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Roger B. Porter (Kennedy School)</faculty_text>
+<description>Course analyzes the development and modern practice of presidential leadership. Examines the institutional presidency, presidential selection, decision making, and the relationship of the presidency with the executive branch, Congress, courts, interest groups, the press and the public. Considers the political resources and constraints influencing the President's ability to provide leadership in the US political system.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as DPI-115. Meets at FAS.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2a7e2333944e26da75f9548dd6a09f99">
+<name>
+<prefix/>
+<first>Roger</first>
+<middle>B.</middle>
+<last>Porter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="104" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

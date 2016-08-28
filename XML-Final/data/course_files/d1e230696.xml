@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84704" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1405</num_int>
+</course_number>
+<title>American Legal History, 1776-1865</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Annette Gordon-Reed</faculty_text>
+<description>This course will trace the development of the American legal and political system from 1776 to 1865. We will discuss the formation of state constitutions and the Federal Constitution, slavery and law, the development of American private law, the "Revolution of 1800" and the "Age of Jefferson", the mechanisms of westward expansion, the "Age of Jackson", and the coming of the Civil War.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2163. This course will meet at the Harvard Law School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9936c2e7ccea96db79270092055a0bc0">
+<name>
+<prefix/>
+<first>Annette</first>
+<middle/>
+<last>Gordon-Reed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

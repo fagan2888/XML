@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="23886" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Laboratory Research for Honors Thesis</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>William J. Anderson and members of the Department</faculty_text>
+<description>For honors candidates writing a thesis in Human Developmental and Regenerative Biology.</description>
+<prerequisites>Students intending to enroll in the fall are required to submit a written proposal to the Course Director. Students may enter the course at midyear only with the permission of the Course Director. The thesis proposal must be approved by the Course Director and Head Tutors prior to enrolling in SCRB 99.</prerequisites>
+<notes>Ordinarily may not be taken as a fifth course. Laboratory safety session required.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe012476e22703f116fe9e23a6759b928">
+<name>
+<prefix/>
+<first>William</first>
+<middle>J.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fe012476e22703f116fe9e23a6759b928">
+<name>
+<prefix/>
+<first>William</first>
+<middle>J.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

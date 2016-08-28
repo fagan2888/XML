@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1318" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>107</num_int>
+</course_number>
+<title>Evolution of Plant Life in Geologic Time</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly 2-hour lab to be arranged.</meeting_text>
+<faculty_text>Andrew H. Knoll</faculty_text>
+<description>Origin, evolution, dispersal, paleoecology, and geologic history of the major groups of the plant kingdom. Laboratory study of representative groups, living and fossil.</description>
+<prerequisites>OEB 10 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb82cd196ee80b3be9390f75ba4f1ee32">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Knoll</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31854" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SBIO">
+<dept_long_name>Committee on Higher Degrees in Systems Biology</dept_long_name>
+<dept_short_name>Systems Biology</dept_short_name>
+</department>
+<course_group code="SYSTBIO">Systems Biology</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Studying Evolution through Models and Experiments</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Intensive January course covering theoretical foundations in population genetics, genetic drift versus selection, identifying selection in genomes, advances in laboratory evolution experiments, with applications to key questions in systems biology and evolution.</description>
+<prerequisites/>
+<notes>January 12, 2015 - January 23, 2015. Class will be held in Armenise RM 627, HMS. To register for this course, please contact the Systems Biology Department. Course website: http://isites.harvard.edu/k100765.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F42dccb92ab79280f9867d9192909a71d">
+<name>
+<prefix/>
+<first>Roy</first>
+<middle/>
+<last>Kishony</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1200"/>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

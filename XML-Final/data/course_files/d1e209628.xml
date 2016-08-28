@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2981" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GLOBHLTH">
+<dept_long_name>Standing Committee on Global Health and Health Policy</dept_long_name>
+<dept_short_name>Global Health and Health Policy</dept_short_name>
+</department>
+<course_group code="GHHP">Global Health and Health Policy</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Research in Global Health and Health Policy</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3:30-5:30</meeting_text>
+<faculty_text>David M. Cutler (Public Health)</faculty_text>
+<description>Explores research topics and methods that are critical to evaluating current issues in national and global health care policy. Students will develop and execute an original research project that utilizes quantitative or qualitative research approaches to studying a domestic and global health policy topic of their interest. Such topics may include: the elements of health care reform, cost containment, quality measurement and improvement, racial and ethnic disparities in care, politics of health care, comparative health systems, global health, and organizational influences on quality.</description>
+<prerequisites/>
+<notes>This course fulfills the research requirement of the Secondary Field in Global Health and Health Policy and enrollment is ordinarily limited to seniors in the GHHP Secondary Field. Underclass GHHP students may petition to take the course if all other Secondary Field requirements have been met. Course is primarily taught by graduate students in the PhD in Health Policy program and guest lecturers. May not be taken pass/fail.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbbd786b149e2008191ae8eb37a3e82ba">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Cutler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1530" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

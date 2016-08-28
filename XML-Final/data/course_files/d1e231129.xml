@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99245" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1445</num_int>
+</course_number>
+<title>Science and Religion in American History</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Andrew Jewett</faculty_text>
+<description>This lecture course explores the complex interactions of science and religion in the United States, with a particular focus on their roles in democratic politics. Beginning with the Scopes trial of 1925, it looks back to the "pan-Protestant establishment" and the Darwinian controversies of the nineteenth century and then proceeds forward to today's debates over abortion and bioengineering. Students read a wide range of primary sources and examine visual material. No previous coursework is required.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for United States in the World or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe1db84c8fbcd253f08981eadc62d304e">
+<name>
+<prefix/>
+<first>Andrew</first>
+<middle/>
+<last>Jewett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="100 (Geological Lecture Hall)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

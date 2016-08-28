@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82571" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>155</num_int>
+</course_number>
+<title>Advanced Inorganic Chemistry II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 9-10:30</meeting_text>
+<faculty_text>Theodore A. Betley</faculty_text>
+<description>Transition element chemistry will be discussed with an emphasis on synthesis, structure, bonding, and reaction mechanisms. Connections between molecular structure and electronic structure and how that parlays into reactivity will be emphasized throughout. Advanced problems of interest to inorganic chemistry will be discussed in the context of catalysis, organometallics, and bioinorganic processes. The course will be discussion driven with a heavy reliance on the current literature.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc9830ad903f00d80e7c0a81f42fbb08e">
+<name>
+<prefix/>
+<first>Theodore</first>
+<middle>A.</middle>
+<last>Betley</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1030"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1030"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Mallinckrodt" room="Pfizer Lecture Hall (MB23)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

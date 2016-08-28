@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="17903" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>np</num_char>
+</course_number>
+<title>Invaders as Ancestors, Gods and Vampires</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M, W at 11 and additional Friday section to be arranged.</meeting_text>
+<faculty_text>Nicole Delia Legnani</faculty_text>
+<description>In Latin American literature, familiar and unfamiliar beings, under the guise of gods, ancestors or vampire-like creatures, dominate representations of conquest and invasion. Drawing on texts by Indian and Spanish authors alike, we examine the reception of these mythic beings and their place in historical narratives of the conquest of Mexico, the American Southwest, and the Andes. As part of our exploration of the genres of indigenous historiography, students may present a graphic essay or performance with an accompanying "Scholar-Artist Statement" as their final project.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc7cf7cca8aef5949419c7c5c4785926a">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle>Delia</middle>
+<last>Legnani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="204" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

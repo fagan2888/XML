@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3105" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>275</num_int>
+</course_number>
+<title>Theory of Narrative: Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 12-2</meeting_text>
+<faculty_text>William Mills Todd III</faculty_text>
+<description>Studies of selected narratives (fictional, psychoanalytic, historical, sacred) as semiotic structures, rhetorical gambits, cultural phenomena and processes of cognition. Readings by Jakobson, Barthes, Bakhtin, Iser, Lukacs, Foucault and others.</description>
+<prerequisites/>
+<notes>Open to advanced undergraduates and graduates. Recommended for potential teaching fellows.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff9c1e173800d1dc8c3a65df81868849e">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Mills</middle>
+<last>Todd</last>
+<suffix>III</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

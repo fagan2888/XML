@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="927" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SAST">
+<dept_long_name>Department of South Asian Studies</dept_long_name>
+<dept_short_name>South Asian Studies</dept_short_name>
+</department>
+<course_group code="HINDI-URDU">Hindi-Urdu</course_group>
+<course_number>
+<num_int>104</num_int>
+</course_number>
+<title>The Classical Urdu Ghazal and Its Symbolism: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Amy Bard</faculty_text>
+<description>A survey of the popular literary genre including selections from poets such as Wali Dakkani, Siraj Aurangabadi, Mir Dard, Haidar Ali Atish, Mirza Ghalib, and others. Special attention to religious and mystical symbolism.</description>
+<prerequisites>Hindi-Urdu 102 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F896d9c98bb849a3a2ffaa734db4fc68f">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle/>
+<last>Bard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

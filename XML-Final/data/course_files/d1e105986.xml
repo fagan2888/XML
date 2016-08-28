@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4392" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3163</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>The Econometrics Workshop</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Outside speakers and faculty present current research topics in theory and applications of econometrics.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F62cc0dc492b1593956dd015fb7b2c47e">
+<name>
+<prefix/>
+<first>Maximilian</first>
+<middle/>
+<last>Kasy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F82239807c5b441abce31acb8df9b3be5">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Chamberlain</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb9948105d6d0927515c621d9db2714bf">
+<name>
+<prefix/>
+<first>Dale</first>
+<middle>W.</middle>
+<last>Jorgenson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F62cc0dc492b1593956dd015fb7b2c47e">
+<name>
+<prefix/>
+<first>Maximilian</first>
+<middle/>
+<last>Kasy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F82239807c5b441abce31acb8df9b3be5">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Chamberlain</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb9948105d6d0927515c621d9db2714bf">
+<name>
+<prefix/>
+<first>Dale</first>
+<middle>W.</middle>
+<last>Jorgenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1630" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1630" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-15" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

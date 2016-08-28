@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48056" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2725</num_int>
+</course_number>
+<title>Anthropology and History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., 10-12</meeting_text>
+<faculty_text>Ajantha Subramanian and Vincent Brown</faculty_text>
+<description>Explores exchanges between the disciplines of History and Anthropology, emphasizing overlaps and distinctions in the treatment of mutual concerns such as the representation of time and space, the conceptualization of power, and the making of the subject.</description>
+<prerequisites/>
+<notes>This course is also offered through the History Department as History 2725. Credit may be earned for either Anthropology 2725 or History 2725, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0037454d068b85f7e2d5348b8d43309a">
+<name>
+<prefix/>
+<first>Ajantha</first>
+<middle/>
+<last>Subramanian</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7f33beb298dd9d02b954c82d48aa3bfd">
+<name>
+<prefix/>
+<first>Vincent</first>
+<middle/>
+<last>Brown</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

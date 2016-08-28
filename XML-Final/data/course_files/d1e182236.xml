@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="49584" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>40</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>Urban Futures</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Alexia Yates</faculty_text>
+<description>This course embraces a variety of source materials - including the city of Boston itself - in order to study the relationship between the everyday spaces of the urban environment and the structures of the global economy. Using an interdisciplinary approach, we will focus particularly on the historical development of the city in a global context, giving special attention to themes of urban modernity, political ecology, and social justice. Assignments for the course will include collaborative postings to a course blog, as well as a final research paper.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6ebbcd218c5ac795ad02fc84f2a74808">
+<name>
+<prefix/>
+<first>Alexia</first>
+<middle/>
+<last>Yates</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

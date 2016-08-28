@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5413" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ASTR">
+<dept_long_name>Department of Astronomy</dept_long_name>
+<dept_short_name>Astronomy</dept_short_name>
+</department>
+<course_group code="ASTRON">Astronomy</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Senior Thesis in Astrophysics</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Tu., at 3</meeting_text>
+<faculty_text>Charles Alcock</faculty_text>
+<description>Individually supervised reading and research leading to the senior thesis. The Harvard-Smithsonian Center for Astrophysics is home to one of the largest groups of astronomers in the world, providing extensive opportunities for undergraduate research.</description>
+<prerequisites>Astronomy 98.</prerequisites>
+<notes>This course is offered each year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc0e29a9e7d984eeb9d7476906d61c5cd">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Roger</middle>
+<last>Alcock</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fc0e29a9e7d984eeb9d7476906d61c5cd">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Roger</middle>
+<last>Alcock</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

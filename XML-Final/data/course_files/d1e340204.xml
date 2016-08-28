@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="35967" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>60</num_int>
+</course_number>
+<title>Cellular Biology and Molecular Medicine</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Briana Burton, Vladimir Denic, and Alexander F. Schier</faculty_text>
+<description>This course provides an introduction to the principles of molecular and cellular biology and their connections to biomedicine. We explore how medical syndromes provide insights into biological processes and how biological mechanisms underlie human disease and physiology. Topics range from DNA repair, protein folding and vesicle transport to metabolism, cell migration and cancer. Lectures focus on the experimental evidence for key concepts, and the weekly sections combine a discovery-based laboratory research project with discussions that emphasize problem solving and primary literature.</description>
+<prerequisites>LPS A or LS 1a, LS 1b recommended.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcd4111803881633e94fe93534e0f8e90">
+<name>
+<prefix/>
+<first>Briana</first>
+<middle/>
+<last>Burton</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F07d25e9965f4e573079ec28c70f01978">
+<name>
+<prefix/>
+<first>Vladimir</first>
+<middle/>
+<last>Denic</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc744b2cf17dce7eb697acff1e4c2df48">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle>F</middle>
+<last>Schier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

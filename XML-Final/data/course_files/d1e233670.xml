@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77077" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1940</num_int>
+</course_number>
+<title>Science and the Global Human Past: Case Studies at the Cutting Edge</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Michael McCormick</faculty_text>
+<description>Examines recent and ongoing discoveries that show how the natural sciences are revolutionizing understanding of the human past across temporal and geographic boundaries. Topics include how archaeology, history and science illuminate and are illuminated by Jomon Pottery, ancient and medieval coins, silk, climate change, and genomics. Mixes classic classroom, seminar-style teaching with classes held as field-trips to New England museums, landscapes and laboratories.</description>
+<prerequisites/>
+<notes>//</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6b064b2df8489d2df57fdea2678e497d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>McCormick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

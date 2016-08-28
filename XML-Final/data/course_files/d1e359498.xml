@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2813" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>212</num_int>
+</course_number>
+<title>Archaeology of the Levant</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11:30-1:30</meeting_text>
+<faculty_text>Robert Homsher</faculty_text>
+<description>This course follows human societies in the region of the Levant (modern Israel/Palestine, Syria, southern Turkey, Lebanon, and Jordan) from the earliest sedentary communities through the Iron Age. This extensive survey through time focuses on current archaeological research, emphasizing major aspects of: geography and chronology, art and architecture, modes of social organization, explanations for major socio-cultural changes, social identity, domestic life, religious expression, and issues of gender. Societies and areas under investigation include: the Canaanites, Amorites, Phoenicia, Philistia, Israel, Judah, Aram, the Neo-Hittites, Ammon, Moab, Edom, and Arabia.</description>
+<prerequisites/>
+<notes>Enrolled students will have the opportunity to participate in a one-week tour led by the instructor of sites in Israel spanning these chronological periods in summer 2015.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fff79c775aaf32948b014bd02ac496092">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle/>
+<last>Homsher</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1330"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="307" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

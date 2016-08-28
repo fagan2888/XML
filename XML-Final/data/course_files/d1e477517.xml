@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19249" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Asking Cells Who They Are: Computational Transcriptomics Using RNA-Seq</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Douglas A. Melton and members of the Department</faculty_text>
+<description>This course is a hands-on introduction to computational analysis of RNA sequencing data as a measure of genome-wide transcription. We will cover methods spanning the spectrum of RNA-Seq analysis: starting from raw sequencing reads, obtaining gene expression measures, and interpreting biological significance by differential expression analyses, clustering, and visualization. Coursework will consist of programming assignments in Pythonexploring real datasets. The course will emphasize skills applicable to independent biological research.</description>
+<prerequisites>Life Sciences 1a or Life and Physical Sciences A or permission of the instructor; Mathematics at the level of Math 19a or statistics at the level of Stat 102 or above. CS 50 or some previous exposure to programming is preferred but not required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fddc593582e5426a8520503fa4662c866">
+<name>
+<prefix/>
+<first>Douglas</first>
+<middle/>
+<last>Melton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

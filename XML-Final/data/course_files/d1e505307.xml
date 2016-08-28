@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83728" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>54</num_int>
+<num_char>s</num_char>
+</course_number>
+<title>Animating Science</title>
+<course_type>Studio</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 1-5, and weekly film screenings F., 1-3</meeting_text>
+<faculty_text>Ruth S. Lingford and Alain Viel</faculty_text>
+<description>This hands-on class will investigate the cross-overs between science and animation. How can animation communicate abstract ideas? How can science inspire the artist? Students will acquire some fundamental animation skills, and will work on individual and group projects. This class will be suitable for students with an interest either in science or visual art, or both.</description>
+<prerequisites/>
+<notes>//This course has an additional weekly film screening, Fridays, 1-3 pm.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5129580f56c96835f723b5918b802955">
+<name>
+<prefix/>
+<first>Ruth</first>
+<middle>Stella</middle>
+<last>Lingford</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F395d5e262cea6d425331a5558e5dde1d">
+<name>
+<prefix/>
+<first>Alain</first>
+<middle/>
+<last>Viel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

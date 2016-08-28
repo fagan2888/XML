@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7113" offered="N" next_year_offered="2016">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EABS">East Asian Buddhist Studies</course_group>
+<course_number>
+<num_int>245</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Ritual and Text in Japanese Buddhist Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ryuichi Abe</faculty_text>
+<description>Examines the way in which rituals are approached, described, and interpreted in primary Japanese Buddhist texts. Students will acquire skills allowing them to move freely in their reading of texts from diverse literary genres.</description>
+<prerequisites>Classical Japanese and Kambun.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F87bf909bd5c621cd40e01c25b56bdf95">
+<name>
+<prefix/>
+<first>Ryuichi</first>
+<middle/>
+<last>Abe</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

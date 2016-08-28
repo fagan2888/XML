@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25169" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>138</num_int>
+</course_number>
+<title>Subversive Renaissance: Books that Changed the World</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Katharina Piechocki</faculty_text>
+<description>This course explores major books from the Renaissance/early modern period (14th-17th centuries). It focuses on texts that were revolutionary when first published or/and that (still) have an impact on us now. We will discover fourteenth-century Persian poets and sonnets from sixteenth-century Poland and seventeenth-century Mexico; proto-feminist texts in France, the rise of theater in Italy, subversive short stories in Spain, utopian visions in Francis Bacon, and the limits of the human in Erasmus and Montaigne. Authors include Jahan Malek Khatun, Calderon, Petrarch, Sor Juana, Kochanowski, Machiavelli, Veronica Franco, Beccadelli, Boccaccio, Madeleine de l'Aubespine, Cervantes, and Christine de Pizan.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8b9f3118d75e6ba332177e2d231fd59b">
+<name>
+<prefix/>
+<first>Katharina</first>
+<middle>Natalia</middle>
+<last>Piechocki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

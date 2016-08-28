@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54744" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>109</num_int>
+</course_number>
+<title>Displacing Spain: Workshop on 20th and 21st-Century Transatlantic Poetry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 12-1:30</meeting_text>
+<faculty_text>Daniel Aguirre Oteiza</faculty_text>
+<description>We will read, listen to, and play with poems dealing with transatlantic perspectives on and from modern Spain. Close attention paid to the relation between poetry and identity, motherland, exile, and nomadism in Spanish and Latin American poets such as Bolano, Cernuda, Dario, Garcia Lorca, Neruda, Peri Rossi, and Vallejo, among others. Includes formal and thematic analysis of poems and hands-on work with texts in Spanish through translation.</description>
+<prerequisites>Coursework in Spanish at the 90-, or 100-level; or permission of the course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3f0d2617a9d9596480241185013c2acc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Aguirre-Oteiza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1330"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1330"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="335" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

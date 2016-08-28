@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="42752" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>The Arab-American Experience in Fiction, Film, and Popular Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sandra Naddaff</faculty_text>
+<description>Since 9/11, there has been an explosion of work about the Arab-American experience. This course will explore that experience as expressed in various cultural forms-fiction, film, comedy acts, graphic novels, memoirs, art installations, and new media. We will pay particular attention to contemporary works, although we will also consider the work of early 20th-century Arab-American writers. Topics include mapping the exilic experience, translation and bilingualism, and the semiotics of food. No knowledge of Arabic is required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab470bf76cbcaa6c681418dd19fa719a">
+<name>
+<prefix/>
+<first>Sandra</first>
+<middle/>
+<last>Naddaff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

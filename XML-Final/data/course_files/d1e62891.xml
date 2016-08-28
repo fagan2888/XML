@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8495" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>132</num_int>
+</course_number>
+<title>Introduction to Meteorology and Climate</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Brian F. Farrell</faculty_text>
+<description>Physical concepts necessary to understand atmospheric structure and motion. Phenomena studied include the formation of clouds and precipitation, solar and terrestrial radiation, dynamical balance of the large-scale wind, and the origin of cyclones. Concepts developed for understanding today's atmosphere are applied to understanding the record of past climate change and the prospects for climate change in the future.</description>
+<prerequisites>Mathematics 21 or Applied Mathematics 21a and 21b; Physics 11 or 15; or permission of instructor.</prerequisites>
+<notes>EPS 132 is also offered as ES 132. Students may not take both for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5d773e4d0809b4bc25c81639ecd89b6c">
+<name>
+<prefix/>
+<first>Brian</first>
+<middle>F.</middle>
+<last>Farrell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

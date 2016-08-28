@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="787" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>Thesis Tutorial in Social Anthropology - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Richard H. Meadow (fall term) and Ramyar Dagoberto Rossoukh (spring term)</faculty_text>
+<description>This is a full year research and writing seminar limited to senior honors candidates. The course is intended to provide students with practical guidance and advice during the thesis writing process through structured assignments and peer feedback on work-in-progress. It is intended to supplement not replace faculty thesis advising (with the requirement of consulting regularly with the advisor built into the assignments) and, most importantly, allow students to share their work and experiences with other thesis writers in a collegial and supportive environment. The seminar will be run jointly by the Department of Anthropology Assistant Director of Undergraduate Studies and the Writing Tutor.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3191d88825175d2767ab2f1f7afaf480">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>H.</middle>
+<last>Meadow</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0c6de030f853fdb87aa69db518f601ab">
+<name>
+<prefix/>
+<first>Ramyar</first>
+<middle>Dagoberto</middle>
+<last>Rossoukh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

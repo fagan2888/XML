@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5884" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Korean</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M. through F., at 9 or 10</meeting_text>
+<faculty_text>Hee-Jeong Jeong</faculty_text>
+<description>Continuation of elementary Korean to consolidate students' knowledge of the fundamental grammatical structures of Korean with an aim to increase their abilities to communicate using Korean in a wide range of daily-life transactional situations. After successful completion of second-year Korean, students are expected to handle most uncomplicated communicative tasks and social situations and read consistently with understanding of simple connected texts dealing with personal and social needs.</description>
+<prerequisites>Korean Bb or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F98a7ee41a9e13604757dd33a9e9dc73d">
+<name>
+<prefix/>
+<first>Hee-Jeong</first>
+<middle/>
+<last>Jeong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="215" type="Section"/>
+<location term="1" building="Sever Hall" room="304" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

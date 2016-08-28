@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5796" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>226</num_int>
+</course_number>
+<title>Introduction to Soft Matter - Capillarity and Wetting</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Ian D. Morrison</faculty_text>
+<description>Consider phenomena strongly influenced by surface tensions, high curvatures, thin films, diffusion, adsorption, wetting, which are variously mobile, dynamic, polymeric, transient, and fragile. Emphasis on the physics, thermodynamics, rheological, and scaling laws that govern bulk behavior.</description>
+<prerequisites>Knowledge of thermodynamics and basic statistical mechanics and some familiarity with phase diagrams and differential equations.</prerequisites>
+<notes>//Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F3b1820ee50e5d1ebcd5401ff30adc74d">
+<name>
+<prefix/>
+<first>Ian</first>
+<middle>D</middle>
+<last>Morrison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

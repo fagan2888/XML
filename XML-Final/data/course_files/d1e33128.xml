@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6777" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIPH">
+<dept_long_name>Committee on Higher Degrees in Biophysics</dept_long_name>
+<dept_short_name>Biophysics</dept_short_name>
+</department>
+<course_group code="BIOPHYS">Biophysics</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Computational and Functional Genomics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Martha L. Bulyk (Medical School), Suzanne Gaudet (Medical School), and Shamil R. Sunyaev (Medical School)</faculty_text>
+<description>Experimental functional genomics, computational prediction of gene function, and properties and models of complex biological systems. The course will primarily involve critical reading and discussion rather than lectures.</description>
+<prerequisites>Molecular Biology (MCB 52 or equivalent), solid understanding of basic probability and statistics.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F37594e640bf8b2f7e7489c7f512e67d5">
+<name>
+<prefix/>
+<first>Martha</first>
+<middle/>
+<last>Bulyk</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F49ff578db4c12fb63d97a6d999ea6ebb">
+<name>
+<prefix>Dr</prefix>
+<first>Shamil</first>
+<middle>R.</middle>
+<last>Sunyaev</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5f4f4123aea405390c3128b22db46bc3">
+<name>
+<prefix/>
+<first>Suzanne</first>
+<middle/>
+<last>Gaudet</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

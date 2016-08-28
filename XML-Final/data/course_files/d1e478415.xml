@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2196" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>178</num_int>
+</course_number>
+<title>Molecular Immunology: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., Th., 4-6</meeting_text>
+<faculty_text>Jack L. Strominger</faculty_text>
+<description>One session each week is a lecture on current topics in immunology. At the second session, three papers are read from the current literature on that topic (including topics in hematopoietic stem cells, immune cell differentiation, autoimmunity, HIV, cancer, and transplantation), each presented by a student in 30-45 minutes. Course work: reading of papers, seminar presentations, and class participation.</description>
+<prerequisites>MCB 169 or permission of instructor required for undergraduates only.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fde67e2ca96677f1e6d65333cfced89c1">
+<name>
+<prefix/>
+<first>Jack</first>
+<middle/>
+<last>Strominger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

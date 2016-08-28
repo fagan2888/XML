@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="86159" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1158</num_int>
+</course_number>
+<title>Maya Narratives: Gods, Lords, and Courts</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Alexandre Andreevich Tokovinine</faculty_text>
+<description>This course explores the continuing investigation of Classic Maya texts and images, and how new decipherments have changed our understanding of the ancient Maya world. The Classic Maya are the only Pre-Columbian civilization with a substantial corpus of inscriptions produced well before any contact with the Old World. Maya written and visual narratives reveal details of history and myth, life at the courts of lords and nobles, and religion and worldview. Their testimonies are often striking, unique, and hard to understand, but they are not mediated by non-indigenous interpreters and open a window into a world long gone.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb4d2c7b3c8dc44735c98e45d9ba15ad">
+<name>
+<prefix/>
+<first>Alexandre</first>
+<middle>Andreevich</middle>
+<last>Tokovinine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77411" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PHIL">
+<dept_long_name>Department of Philosophy</dept_long_name>
+<dept_short_name>Philosophy</dept_short_name>
+</department>
+<course_group code="PHIL">Philosophy</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Readings in Philosophical Psychology</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Susanna Siegel</faculty_text>
+<description>We will discuss a range of issues related to cognitive architecture. Topics will include some but probably not all of the following: the cognitive underpinnings of implicit bias, Bayesian theories of perceptual processing, the distinctions between perception and sensation, the distinctions between perception and cognition, the perception of agency, and the epistemology of perception.</description>
+<prerequisites/>
+<notes>This course fulfills the MBB requirement for the Interdisciplinary Seminar during the junior year</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb902d1e8f2962864337d464efee3b6a9">
+<name>
+<prefix/>
+<first>Susanna</first>
+<middle/>
+<last>Siegel</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

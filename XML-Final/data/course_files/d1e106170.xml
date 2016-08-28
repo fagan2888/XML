@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="639" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3336</num_int>
+<num_char>hfr</num_char>
+</course_number>
+<title>Economic History Workshop</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Intended for students writing dissertations related to economic history themes and/or methodology and for others with interests in economic history. Discusses research papers presented by scholars at Harvard and elsewhere.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F22266f1b9b2a122346a1a85a846f9868">
+<name>
+<prefix/>
+<first>Claudia</first>
+<middle/>
+<last>Goldin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F747a26a06b41d7b20f9b1898152fe10c">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Chaney</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F22266f1b9b2a122346a1a85a846f9868">
+<name>
+<prefix/>
+<first>Claudia</first>
+<middle/>
+<last>Goldin</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F747a26a06b41d7b20f9b1898152fe10c">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Chaney</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1530"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-16" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

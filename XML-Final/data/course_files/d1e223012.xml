@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41816" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>60</num_int>
+<num_char>i</num_char>
+</course_number>
+<title>The Crowd in History: From the Hunting Band to the Social Network</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Shane Bobrycki</faculty_text>
+<description>This seminar treats the crowd as historical subject from prehistory to the present. We examine what it means to talk about "crowds" across various historical settings and collective behaviors. We proceed from hunting bands to social networks, analyzing gladiatorial crowds in Rome, crusader armies in the Middle Ages, revolutionary crowds in America, France, and Britain, twentieth-century mass politics (democratic, fascist, and communist), crowd theorists (Seneca, Machiavelli, Hobbes, Marx, Le Bon, Freud, Canetti), and postwar protesters, shoppers, fun-seekers, and smart mobs. Topics include community formation, ritual, entertainment, crowd psychology, the history of labor, revolution and protest, class, gender, and war.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F069186767c90eaee3d35631ee1608528">
+<name>
+<prefix/>
+<first>Shane</first>
+<middle/>
+<last>Bobrycki</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="137" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>307</num_int>
+</course_number>
+<title>Proseminar on Inequality and Social Policy III</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Students develop previously completed papers from Sociology 296a or 296b into professional presentations and publishable articles, critique peer papers across disciplines, and discuss presentations of national experts.</description>
+<prerequisites>Sociology 296a/Gov 2340a and Government 2340b/Soc 296b (or SUP-921 and SUP-922 at the Kennedy School).</prerequisites>
+<notes>Offered jointly with the Kennedy School as SUP-923.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6e26ce5ba8485becdd458449db1f3f76">
+<name>
+<prefix/>
+<first>William</first>
+<middle>Julius</middle>
+<last>Wilson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27743" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>28</num_int>
+</course_number>
+<title>Moral Inquiry in the Novels of Tolstoy and Dostoevsky</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Justin Weir (Slavic Languages and Literatures)</faculty_text>
+<description>This course considers how Tolstoy and Dostoevsky take up moral inquiry in their fiction, introduces students to philosophical texts that informed their major fiction, and asks why the novel as a literary genre may be a good forum for the discussion of ethics. We will read Tolstoy's Anna Karenina, Dostoevsky's Notes from Underground and The Brothers Karamazov, as well as selected texts from Rousseau, Schopenhauer, Nietzsche, and others.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb95f496c0add7449a50df6c8dc7b7450">
+<name>
+<prefix/>
+<first>Justin</first>
+<middle>M.</middle>
+<last>Weir</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Moral Reasoning"/>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

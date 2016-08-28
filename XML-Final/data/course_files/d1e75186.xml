@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22565" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>223</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Keywords</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3:30</meeting_text>
+<faculty_text>Wai-yee Li</faculty_text>
+<description>This course will examine the semantic range of keywords in early Chinese texts (up to Han) by considering their narrative and rhetorical possibilities. What kinds of arguments do they generate? What are the stories told to illustrate their meanings?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd59d3c22a5cc0e9fdbc4f4cdfbabde65">
+<name>
+<prefix/>
+<first>Wai-Yee</first>
+<middle/>
+<last>Li</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

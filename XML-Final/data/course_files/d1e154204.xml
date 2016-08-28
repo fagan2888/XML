@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="10566" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>192</num_int>
+</course_number>
+<title>Political Theatre and the Structure of Drama</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1</meeting_text>
+<faculty_text>Elaine Scarry</faculty_text>
+<description>The estranged, didactic, intellectual theatre of Brecht, and the ritualistic, emergency theatre of Artaud serve as reference points for a range of American, English, and Continental plays. The unique part played by "consent" in theatrical experience. Emphasis on the structural features of drama: establishing or violating the boundary between audience and stage; merging or separating actor and character; expanding or destroying language. Readings include Brecht, O'Neill, Artaud, Genet, Pirandello, Beckett, and such earlier authors as Euripides and Shelley.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffbcae4c854da68515f9e803f0920389f">
+<name>
+<prefix/>
+<first>Elaine</first>
+<middle/>
+<last>Scarry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

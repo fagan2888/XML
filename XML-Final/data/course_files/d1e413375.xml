@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32801" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1503</num_int>
+</course_number>
+<title>Psychology of Close Relationships</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>70</enrollment_limit>
+<meeting_text>M., 7:30-9:30</meeting_text>
+<faculty_text>Holly A. Parker</faculty_text>
+<description>This course is an in-depth exploration of close relationships. Examples of topics to be covered include the biological bases of attraction; relationship formation; the end of relationships through break-up, divorce, or death; relationship satisfaction; deception; gender roles; same-sex relationships; loneliness; relationships and well-being; and public perceptions about relationships. You will have an opportunity to explore these topics primarily through critical examination of the empirical literature as well as through popular press.</description>
+<prerequisites>Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd3827c3e6c64e0c25305ae709c95ddc2">
+<name>
+<prefix/>
+<first>Holly</first>
+<middle>Ann</middle>
+<last>Parker</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1930" end_time="930"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

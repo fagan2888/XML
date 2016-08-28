@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7234" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_int>101</num_int>
+</course_number>
+<title>Advanced Russian I</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 1, with speaking practice Tu., Th., at 1 or 2. Tuesday/Thursday small group practice times are tentative and will be adjusted to accommodate student schedules.</meeting_text>
+<faculty_text>Natalia Pokrovsky, Veronika Egorova, and others</faculty_text>
+<description>Continuing development of speaking and reading proficiency. Vocabulary work emphasizes verbs and verb government as essential to effective communication. Work on word formation to increase reading vocabulary. Texts for reading and discussion include works in prose, poetry, and film. Readings include a satirical tale by Shvartz, poetry of Akhmatova, and a film (Bykov's Scarecrow).</description>
+<prerequisites>Russian B, Bt, Bab, or placement at this level.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fee613ed315f0a049e5c36c23f1e0ffca">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle/>
+<last>Pokrovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="373" type="Lecture"/>
+<location term="1" building="Barker Center" room="316" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

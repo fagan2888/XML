@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5019" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>192</num_int>
+</course_number>
+<title>Microbial Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Christopher Marx</faculty_text>
+<description>An examination of the evolution of microbes through an integration of lectures and discussion of primary literature. We will focus on a series of broad questions for which we will draw upon knowledge from both lab-based study of experimental microcosms and comparative studies of natural populations. Notably, students will conduct their own experimental evolution projects using 'digital organisms'.</description>
+<prerequisites>Life Sciences 1a and Life Sciences 1b or equivalent required.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe250e55f1c85612a2deb6f12ce99f216">
+<name>
+<prefix/>
+<first>Christopher</first>
+<middle>J</middle>
+<last>Marx</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

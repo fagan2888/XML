@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37264" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>277</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>In Sickness and in Health: Topics in Symbiosis</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Colleen M. Cavanaugh</faculty_text>
+<description>Critical review and discussion of current issues in symbiosis. Emphasis is on microbe-eukaryote symbioses ranging from mutualistic to pathogenic associations. In 2011 the course will focus on the human microbiome and topics selected by faculty and students.</description>
+<prerequisites>Life Sciences 1a, 1b or equivalent, microbial science, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F30544918ff1d7a86c26b6b6c38cc6abe">
+<name>
+<prefix/>
+<first>Colleen</first>
+<middle/>
+<last>Cavanaugh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

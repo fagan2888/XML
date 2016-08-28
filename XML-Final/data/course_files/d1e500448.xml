@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="76286" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2420</num_int>
+</course_number>
+<title>Papyrology and the New Testament</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Th., 12-2</meeting_text>
+<faculty_text>Giovanni Battista Bazzana (Divinity School)</faculty_text>
+<description>The course will introduce students to papyrology through the reading of literary and documentary papyri, with a particular emphasis placed on materials pertaining to religious history in the Greco-Roman world.</description>
+<prerequisites>Three semesters of Greek are required.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1534.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd922d089f638c5ff6669cb1ce7b64875">
+<name>
+<prefix/>
+<first>Giovanni</first>
+<middle>Battista</middle>
+<last>Bazzana</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

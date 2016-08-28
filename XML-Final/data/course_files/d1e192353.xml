@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45038" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>60</num_int>
+</course_number>
+<title>Religion in India: Texts and Traditions in a Complex Society</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11, and a weekly section to be arranged</meeting_text>
+<faculty_text>Diana L. Eck (South Asian Studies; The Study of Religion)</faculty_text>
+<description>An exploration of the classical texts, spiritual teachings, epic narratives, and religious movements that have shaped a complex civilization for some three thousand years, from the Indus Valley to today. Readings in primary sources - Vedas and Upanishads, Buddhist and Jain teachings, the Mahabharata and the Bhagavad Gita, Bhakti and Sufi poets, Sikh gurus and Muslim kings. Attention to the creation of a rich and composite civilization and the ways in which these sources continue to be of significance to the understanding of modern India.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbc08e1e5c7ce81f0e311368cce78bcc9">
+<name>
+<prefix/>
+<first>Diana</first>
+<middle>L.</middle>
+<last>Eck</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Holden Chapel" room="Main Room" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

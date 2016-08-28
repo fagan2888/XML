@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8845" offered="N" next_year_offered="2015">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2340</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Readings in American Intellectual History</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>James T. Kloppenberg</faculty_text>
+<description>This course examines classic texts in American intellectual history from 1630 to the present, both primary and secondary, and surveys recent developments in the field. It is intended for first- and second-year graduate students preparing for general exams in history and for other graduate students in fields such as American Civilization, Government, Law, Literature, Religion, and Education.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F747b5b6b1ee7d18b831a2edabdb99e2a">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Kloppenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F747b5b6b1ee7d18b831a2edabdb99e2a">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Kloppenberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

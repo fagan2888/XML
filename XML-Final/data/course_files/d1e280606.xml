@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="21552" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>308</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Cell Fate Decisions in Development and Disease</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This quarter course will offer students an in-depth examination of current knowledge regarding mechanisms of cell fate decisions. In addition, it will examine these processes in the context of developmental cell plasticity, cellular reprogramming, and cancer. This will primarily be a literature-based course, with examination and discussion of key studies in the field. Concepts involving epigenetics, chromatin remodeling, the instructive roles of transcription factors, transcription factor networks, transcription factor cross-antagonism, feedback loops, multilineage priming, non-coding RNAs, lineage identity maintenance, mitotic bookmarking, lateral inhibition, and cell signaling will be explored. These ideas will be examined in the context of blood, breast, lung, and gastrointestinal tract development.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F53d8b2c8f3e1c6f3457b5abf5344b23f">
+<name>
+<prefix>Dr</prefix>
+<first>Alan</first>
+<middle>B.</middle>
+<last>Cantor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

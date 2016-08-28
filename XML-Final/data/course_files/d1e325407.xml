@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5694" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>327</num_int>
+</course_number>
+<title>Rotation Course in Neurosciences</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes>Primarily for students in Neuroscience.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fa0eafb666327cb495a9ad51eb813cc21">
+<name>
+<prefix/>
+<first>Rosalind</first>
+<middle>A</middle>
+<last>Segal</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa0eafb666327cb495a9ad51eb813cc21">
+<name>
+<prefix/>
+<first>Rosalind</first>
+<middle>A</middle>
+<last>Segal</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

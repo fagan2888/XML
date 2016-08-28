@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8168" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>2002</num_int>
+</course_number>
+<title>Topics in Quantitative Methods</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 10-12</meeting_text>
+<faculty_text>Arthur P. Spirling and Matthew Lee Blackwell</faculty_text>
+<description>Will cover topics of general interest to political methodology: causal inference, graphical models, mixed methods, contest modeling, text-as-data, item response. Illustrates how ideas and methods from these areas can be applied to substantive questions.</description>
+<prerequisites>Government 2000 and Government 2001, or equivalent, or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1a3c42369067de659267e287340802de">
+<name>
+<prefix/>
+<first>Arthur</first>
+<middle>P</middle>
+<last>Spirling</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F157be1394a08a7178c8ae25f1006ae70">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>Lee</middle>
+<last>Blackwell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-354" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

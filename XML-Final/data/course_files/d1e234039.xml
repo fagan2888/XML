@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="80263" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1988</num_int>
+</course_number>
+<title>Indigenous Histories and Settler Societies</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Bain Attwood</faculty_text>
+<description>This course will examine a range of epistemological and methodological questions about the nature of historical knowledge and practice that have been prompted by the rise of indigenous histories or pasts in settler societies. Focusing on Australia, topics will include history, place and time; the demand for indigenous histories; memory, myth and oral tradition; history and the construction of Aboriginality; and role of representations of the past in making and settling legal claims.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9fa8116af07dce94d227e84c6d0979ae">
+<name>
+<prefix/>
+<first>Bain</first>
+<middle>Munro</middle>
+<last>Attwood</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

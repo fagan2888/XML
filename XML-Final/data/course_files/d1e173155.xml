@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66795" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Globalizing Folklore: Intangible Cultural Heritage, Intellectual Property and Regimes of Power</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Leah K. Lowthorp</faculty_text>
+<description>This courses addresses folklore's increasing inclusion on the international agenda by organizations such as UNESCO and WIPO. It examines what kind of claims to culture, and to associated economic and political rights, are being staked in a liberalizing world. Exploring the dynamics surrounding the global circulation of expressive culture and traditional knowledge, it considers how this circulation is being harnessed both politically and economically. Topics will include heritage practices, debates of tangible versus intangible heritage, intellectual property regimes, discourses of diversity and democracy, and notions of tradition and individual versus community authorship.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb2d33c00e9477a1f9b0d59444900e958">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle>K.</middle>
+<last>Lowthorp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

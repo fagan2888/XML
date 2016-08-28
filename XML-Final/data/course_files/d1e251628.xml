@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56254" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>115</num_int>
+</course_number>
+<title>Instruments &amp; Mechanical Marvels: The Material Culture of Science According to Simon Schaffer</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 4-6</meeting_text>
+<faculty_text>Jean-Francois Gauvin</faculty_text>
+<description>This is the first of what I hope will be a series of courses dedicated to the work of historians of science who have considerably influenced our methods of studying and thinking about material culture. This Fall, we will focus our attention on Simon Schaffer, the 2013 Sarton medal recipient. His extensive scholarly, grand public, and media productions span the period between the 17th and the 19th century, offering a comprehensive look at things from a variety of perspectives: theoretical, technological, sociological, cultural, experimental, and museum studies. The classes will consist of half lecture, half discussion. We will try to answer this simple, yet loaded question: What is an instrument? There will be two short assignments and one final study of an instrument coming from the Collection of Historical Scientific Instruments.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F518cf89179ef979348716fecbd573ff7">
+<name>
+<prefix/>
+<first>Jean-Francois</first>
+<middle/>
+<last>Gauvin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="252" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

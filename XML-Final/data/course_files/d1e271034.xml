@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="45584" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>Probability and Random Processes with Economic Applications</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Sukhada Fadnavis</faculty_text>
+<description>A self-contained treatment of the theory of probability and random processes with specific application to the theory of option pricing. Topics: axioms for probability, calculation of expectation by means of Lebesgue integration, conditional probability and conditional expectation, martingales, random walks and Wiener processes, and the Black-Scholes formula for option pricing. Students will work in small groups to investigate applications of the theory and to prove key results.</description>
+<prerequisites>A thorough knowledge of single-variable calculus and infinite series, plus at least one more advanced course such as MATH E-23a that provides experience with proofs and elementary real analysis. Acquaintance with elementary probability is desirable.</prerequisites>
+<notes>A problem-solving section is required MW 2-3 or Th 7:30-9:30 PM</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6f9611dd1819a76374143e4f64b797e9">
+<name>
+<prefix/>
+<first>Sukhada</first>
+<middle/>
+<last>Fadnavis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

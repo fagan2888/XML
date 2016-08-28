@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51347" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>208</num_int>
+</course_number>
+<title>Roman Gardens</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Kathleen M. Coleman</faculty_text>
+<description>This seminar will study the botany, landscaping, cultivation, terminology, and social function of gardens in the Roman world, employing literary, epigraphic, papyrological, iconographic, and archaeological sources. Among the literary texts to be studied, including both prose and poetry, special emphasis will be placed on Latin treatises on horticulture from the Republic to Late Antiquity.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9646d235fa698efc908533541db421a9">
+<name>
+<prefix/>
+<first>Kathleen</first>
+<middle>M.</middle>
+<last>Coleman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

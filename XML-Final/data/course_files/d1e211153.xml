@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2017" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>dn</num_char>
+</course_number>
+<title>Mapping Social and Environmental Space</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Sumeeta Srinivasan</faculty_text>
+<description>This seminar will use mapping as a methodological technique to examine social and environmental issues. Students will be expected to use mapping software to examine spatial data for a location and topic of their choice for their final paper. Weekly discussions will be conducted in class on various mapping related topics. References will range from books like "How to lie with Maps" to current journal articles examining the use of GIS in social science.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff4a324e24b2753a1d8b06f5fc86bb3f5">
+<name>
+<prefix/>
+<first>Sumeeta</first>
+<middle/>
+<last>Srinivasan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-040" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

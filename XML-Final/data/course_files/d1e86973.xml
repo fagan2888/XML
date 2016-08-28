@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3276" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="VIETNAM">Vietnamese</course_group>
+<course_number>
+<num_int>120</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Intermediate Vietnamese</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Lecture M., 4-6, Drill W., 4-6</meeting_text>
+<faculty_text>Binh Ngo</faculty_text>
+<description>Further development of speaking, reading, writing, and aural comprehension. Texts and dialogues on Vietnamese geography, history, culture, and customs will be used, as well as audiotapes and videos. Students are expected to speak Vietnamese in all class discussions.</description>
+<prerequisites>Vietnamese Bb or permission of instructor.</prerequisites>
+<notes>Conducted entirely in Vietnamese.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F723afadc4bf3a398fce9f226be6f0408">
+<name>
+<prefix/>
+<first>Binh</first>
+<middle/>
+<last>Ngo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B110" type="Section"/>
+<location term="1" building="Northwest Building" room="B107" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

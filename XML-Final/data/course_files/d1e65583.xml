@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7250" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>236</num_int>
+</course_number>
+<title>Environmental Modeling</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., Th., 2:30&amp;#8211;4 plus one to three hours of computer-based laboratory work per week.</meeting_text>
+<faculty_text>Steven C. Wofsy and Daniel J. Jacob</faculty_text>
+<description>Chemical transport models: principles, numerical methods. Inverse models: Bayes' theorem, optimal estimation, Kalman filter, adjoint methods. Analysis of environmental data: visualization, time series analysis, Monte Carlo methods, statistical assessment. Students prepare projects and presentations.</description>
+<prerequisites>Applied Mathematics 105; a course in atmospheric chemistry (EPS 133 or 200 or equivalent); or permission of the instructors.</prerequisites>
+<notes>Students specializing in this area are expected to take EPS 200 and 236. EPS 236 may also serve as an introduction to modeling and applied statistics for other students.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1d2c54b09cb23412133e2147e246c498">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>C.</middle>
+<last>Wofsy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F5b8dc69aeaa903f05a3ade6dc73e2747">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>J.</middle>
+<last>Jacob</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="105 (Daly Seminar Rm)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

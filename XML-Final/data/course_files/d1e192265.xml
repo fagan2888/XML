@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26897" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>Athens, Rome, and Us: Questions of Identity</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Emma Dench (The Classics; History)</faculty_text>
+<description>A thematic and comparative exploration of questions of identity in Athens of the fifth to fourth centuries BCE and Rome of the 1st cent. BCE to 1st cent. CE, emphasizing connections with our own society and world-view. How did the ancient Athenians and Romans, and sub-groups of ancient Athenians and Romans, imagine connections and differences between themselves and others peoples? How far did the societies of classical identity have concepts of race, ethnicity, citizenship, nations or gender identities and sexualities that correspond at all closely to our own? Why do these issues matter to us, and what can we learn from these ancient societies?</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3267c80c65c067539f9206835d376078">
+<name>
+<prefix/>
+<first>Emma</first>
+<middle/>
+<last>Dench</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

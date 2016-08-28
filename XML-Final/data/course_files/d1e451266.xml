@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="75987" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>29</num_int>
+</course_number>
+<title>Introduction to Urban Sociology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 2</meeting_text>
+<faculty_text>Eva Rosen</faculty_text>
+<description>Introduces the city as both object and site of social inquiry. We will start with the individual experience of living in cities, then explore the neighborhood structure of the modern metropolis, take on segregation and inequality, and conclude with globalization and world cities. We will also consider themes that cut across these levels, including crime, immigration, workforce issues, and arts and the creative economy. Throughout, students will use the cities of Cambridge and Boston to explore and evaluate ideas from class, via observational and fieldwork opportunities.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F52a2657901e6b57740476815eabfcc63">
+<name>
+<prefix/>
+<first>Eva</first>
+<middle/>
+<last>Rosen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Harvard Hall" room="103" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

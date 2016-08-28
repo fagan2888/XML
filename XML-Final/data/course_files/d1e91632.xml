@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5972" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1070</num_int>
+</course_number>
+<title>Normative Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Jerry R. Green</faculty_text>
+<description>Voting theory, social choice, mechanism design, bargaining theory, cooperative game theory, equitable cost allocation, fair division, welfare analysis of taxation, public expenditures and risk bearing. This course offers a rigorous approach to normative economics. Students should have an interest and ability to work with abstract mathematics and axiomatic reasoning.</description>
+<prerequisites>Mathematical sophistication and interests in abstract reasoning is required, but there are no specific prerequisites.</prerequisites>
+<notes>Optional writing Requirement: This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

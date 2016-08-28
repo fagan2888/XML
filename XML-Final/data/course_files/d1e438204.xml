@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36194" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>158</num_int>
+</course_number>
+<title>Transversal Poetics: Workshops on Translation and Transcreation of Latin American Poetry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1:30-3</meeting_text>
+<faculty_text>Sergio Delgado</faculty_text>
+<description>An inquiry into the notion of transversal poetics: the theory and practice of poetry as a form of expression that brings together distinct ways of making sense with language. Structured as a workshop. Assignments include: translation of poems into English; rendition of poems into formats other than print (fliers, broadsheets, slideshows, installations, etc.). Readings by Augusto and Haroldo de Campos, Zurita, Kamenszain, Cucurto, Maquieira. Course conceived in conjunction with Latin American poetry symposium November 2013.</description>
+<prerequisites>Previous coursework in Spanish at the 90- or 100-level; or the permission of the course head.</prerequisites>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7030e3dcaa372c256bf77294ef26fb95">
+<name>
+<prefix/>
+<first>Sergio</first>
+<middle/>
+<last>Delgado</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

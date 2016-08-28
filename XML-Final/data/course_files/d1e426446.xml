@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="28098" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>139</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>The 18th Century: Ethical Dilemmas</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Christie McDonald</faculty_text>
+<description>Questions how notions of personhood and otherness inhabit the emergent novel, exploring the way in which events and values are resisted or subsumed in literary discourse and the kind of social and political responsibility that accompanies it. Readings will be taken from the works of Charriere, Gouges, Laclos, Marivaux, Montesquieu, Rousseau, Sade, Voltaire, etc.</description>
+<prerequisites/>
+<notes>Conducted in French. This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff54ed97acd33d879f602e4de491aba76">
+<name>
+<prefix/>
+<first>Christie</first>
+<middle/>
+<last>McDonald</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

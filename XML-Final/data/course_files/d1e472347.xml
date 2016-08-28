@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2993" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Design and Analysis of Sample Surveys</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Alan M. Zaslavsky (Medical School)</faculty_text>
+<description>Methods for design and analysis of sample surveys. The toolkit of sample design features and their use in optimal design strategies. Sampling weights and variance estimation methods, including resampling methods. Brief overview of nonstatistical aspects of survey methodology such as survey administration and questionnaire design and validation (quantitative and qualitative). Additional topics: calibration estimators, variance estimation for complex surveys and estimators, nonresponse, missing data, hierarchical models, and small-area estimation.</description>
+<prerequisites>Statistics 111 or 139 or with permission of instructor.</prerequisites>
+<notes>//</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

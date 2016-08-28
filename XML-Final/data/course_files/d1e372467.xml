@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2858" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="SEMPHIL">Semitic Philology</course_group>
+<course_number>
+<num_int>151</num_int>
+</course_number>
+<title>Introduction to Northwest Semitic Epigraphy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Readings in Hebrew, Phoenician and other Northwest Semitic inscriptions with an introduction to methods and techniques of Northwest Semitic palaeography, and attention to problems of historical grammar.</description>
+<prerequisites>Good working knowledge of Classical (Biblical) Hebrew.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1152.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

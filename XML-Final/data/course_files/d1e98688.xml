@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7213" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2110</num_int>
+</course_number>
+<title>Econometrics I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Maximilian Kasy</faculty_text>
+<description>(1) Review of probability theory, (2) causality and identification, (3) statistical decision theory, and (4) asymptotic frequentist inference. Empirical applications from labor economics, economics of education, and public finance. Some assignments using Matlab.</description>
+<prerequisites>Probability (Stat 110), Linear Algebra and Calculus (Math 21a and 21b), and Real Analysis (Math 112).</prerequisites>
+<notes>Enrollment limited to PhD candidates in economics, business economics, health policy, public policy, and political economy and government (PEG).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F62cc0dc492b1593956dd015fb7b2c47e">
+<name>
+<prefix/>
+<first>Maximilian</first>
+<middle/>
+<last>Kasy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="214" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

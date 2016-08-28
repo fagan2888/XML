@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36484" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>316</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Molecular and Cell Biology of Infectious Disease</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will focus on medically important eukaryotic parasites (including malaria, toxoplasma, leishmania, trypanosomes, amoebae, and giardia). We will examine central themes in the pathogenesis of infectious diseases. Critical readings and discussions will emphasize biochemistry, cell and molecular biology of host-pathogen interactions during the establishment and maintenance of infection in hosts and host cells. To the extent to which it is possible, infection strategies of protozoan parasites will be compared and contrasted to those of bacterial and viral pathogens in hosts and host cells.</description>
+<prerequisites/>
+<notes>Offered jointly with School of Public Health as IID216. Meeting Dates: January 28 - March 13. Offered with BPH 317qc.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F79407bf847c79647ee3fb157f8988f86">
+<name>
+<prefix/>
+<first>Barbara</first>
+<middle/>
+<last>Burleigh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F13059e6643d86da90d12b90250418910">
+<name>
+<prefix/>
+<first>Matthias</first>
+<middle/>
+<last>Marti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1530" end_time="1720"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1530" end_time="1720"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

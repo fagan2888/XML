@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6902" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1414</num_int>
+</course_number>
+<title>Gospel Stories of Wo/men</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 12&amp;#8211;2 and hour to be arranged.</meeting_text>
+<faculty_text>Elisabeth Schussler Fiorenza (Divinity School)</faculty_text>
+<description>This course will engage a critical feminist reading of NT texts in order to assess whether they are good news for wo/men. Special attention will be given to a feminist hermeneutics of imagination. Discussion will focus on the significance of social location, critical methods, and historical imagination for the interpretation and significance of these stories about Jewish wo/men, for contemporary religious self-understanding and ministerial praxis. Lectures, group discussions, and group projects seek to foster a participatory democratic style of learning.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1503.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F320ce00ad74fe0c428d2535c16e68d0c">
+<name>
+<prefix/>
+<first>Elisabeth</first>
+<middle/>
+<last>Schussler Fiorenza</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

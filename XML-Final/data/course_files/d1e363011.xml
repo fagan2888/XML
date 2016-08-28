@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7221" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARMEN">Armenian</course_group>
+<course_number>
+<num_int>120</num_int>
+</course_number>
+<title>Armenian Magical Texts</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>James R. Russell</faculty_text>
+<description>Armenian magical texts include codices, scrolls, and separately-printed saints' lives used for good or ill, containing magic squares and symbols, the latter mostly deriving from Islamic magic. The course will consider literary sources of magic texts (e.g., the prayer Havatov khostovanim, the meditations of Narek), parallel traditions (esp. Christian Ethiopia), and the consideration of the paintings in Armenian magical manuscripts from the standpoint of the genre of Outsider Art.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2200.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5068" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="BCMP">BCMP</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Biological Macromolecules: Structure, Function and Pathways</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 9:30-11, W., 4-5:30</meeting_text>
+<faculty_text>Stephen C. Harrison (Medical School), Stephen C. Blacklow (Medical School), and Peter K. Sorger (Medical School)</faculty_text>
+<description>Macromolecular structure with emphasis on biochemistry, interactions and catalysis in cellular processes and pathways. Links between theory and observation will emerge from discussion of fundamental principles, computational approaches and experimental methods.</description>
+<prerequisites/>
+<notes>The course is intended for all Division of Medical Sciences (DMS) graduate students and is open to advanced undergraduates. Offered jointly with the Medical School as BP 714.0.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe21167e3f53a130029d29257aaa46df1">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>C.</middle>
+<last>Harrison</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F3e8ea65406bee8302370560aceaf92b2">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Sorger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa8ef0f7c3306cc1b15bb773ef064691b">
+<name>
+<prefix>Dr</prefix>
+<first>Stephen</first>
+<middle>C.</middle>
+<last>Blacklow</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="930" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1600" end_time="1730"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="930" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

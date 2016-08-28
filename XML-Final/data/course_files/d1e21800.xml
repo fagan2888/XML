@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84531" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2676</num_int>
+</course_number>
+<title>Muslims, Islam and Anthropology</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 11-1</meeting_text>
+<faculty_text>Asad A. Ahmed</faculty_text>
+<description>This is a survey course to the anthropology of Islam. We first critically examine seminal texts by Evans-Pritchard, Ernst Gellner and Clifford Geertz before turning to Talal Asad's analysis of anthropological categories, and attempt to situate the study of Islam as a discursive tradition. In the second half we focus on recent ethnographic materials that explore Muslim engagements with, and responses to, various features of modernity such as the state, democracy, gender equality as well as the management and securitization of Muslims in the West.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F68a2d8e35b2521d0c3d4b2d2434465c6">
+<name>
+<prefix/>
+<first>Asad</first>
+<middle>A.</middle>
+<last>Ahmed</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

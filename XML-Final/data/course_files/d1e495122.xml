@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39602" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1442</num_int>
+</course_number>
+<title>"That God May Be All in All": Origen of Alexandria and the Roots of Christian Universalism</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Charles Stang (Divinity School)</faculty_text>
+<description>This course will survey the life and writings of the third-century Christian writer, Origen of Alexandria, widely regarded as one of the greatest and most influential theologians of late antiquity. Much attention will be given to his overall cosmological frame, including such notions as double creation, salvation understood as pedagogy or embodied rehabilitation, and universal salvation understood as apokatastasis&lt;/I&gt; or the restoration of all things. Attention will also be paid to his scriptural exegesis, and how the practice of biblical interpretation fits into his overall cosmology and soteriology.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1756.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe9bc22fc6b2851dc933d5d6554ba2073">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle>Marshall</middle>
+<last>Stang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

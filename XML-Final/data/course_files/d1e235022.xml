@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3140" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2080</num_int>
+</course_number>
+<title>Medieval Law</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Charles Donahue, Jr. (Law School)</faculty_text>
+<description>Readings focused alternately on the English legal tradition and on the Roman-canonical tradition. The topic for 2014-15 will be the English legal tradition. Short papers analyzing texts will be required but not a research paper.</description>
+<prerequisites>Some Latin required.</prerequisites>
+<notes>Offered jointly with the Law School as Law 2166.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F737c0c74637cdd5a9ca985d8c022bc2d">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Donahue</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

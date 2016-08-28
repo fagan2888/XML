@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1175" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>2312</num_int>
+</course_number>
+<title>Current Topics in Human Evolutionary Genetics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Maryellen Ruvolo</faculty_text>
+<description>Critical reading of current literature on the genetics of living humans and discussion of evolutionary implications.</description>
+<prerequisites/>
+<notes>Open to first and second year graduate students in Human Evolutionary Biology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa90b70e9117b90a137b1a97e0a74d37e">
+<name>
+<prefix/>
+<first>Maryellen</first>
+<middle/>
+<last>Ruvolo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

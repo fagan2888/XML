@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60646" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>oa</num_char>
+</course_number>
+<title>Human Rights in Africa</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Gwyneth McClendon</faculty_text>
+<description>How and to what extent are human rights discussed, contested, and protected in Sub-Saharan Africa? This course considers answers to this question by taking seriously both variation and commonalities across Sub-Saharan African countries. Topics covered include slavery, apartheid, social and economic rights, LGBT rights, the International Criminal Court, and Kony 2012. The study of human rights in any context also requires some understanding of the configurations of power, state institutions and civil society in that context. We therefore also devote some time to considering colonial institutions, contemporary state-society relations, democratization, and social identity groups across SSA countries.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F80e86eea13175e1f339f22245a4c8a8b">
+<name>
+<prefix/>
+<first>Gwyneth</first>
+<middle/>
+<last>McClendon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-109" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

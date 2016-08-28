@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8482" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1010</num_int>
+</course_number>
+<title>Survey Research Methods</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Chase Henri Harrison</faculty_text>
+<description>This course introduces students to the theoretical underpinnings and practical challenges of survey research, designed to help students better understand, interpret and critically evaluate surveys and public opinion polls.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Feb52dcea5bf58e949d75617cf0a0a8bc">
+<name>
+<prefix/>
+<first>Chase</first>
+<middle>H.</middle>
+<last>Harrison</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="201" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

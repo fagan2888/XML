@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68083" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>258</num_int>
+</course_number>
+<title>Adaptive Radiation and Macroevolution</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2:30-5</meeting_text>
+<faculty_text>Jonathan Losos</faculty_text>
+<description>A critical examination of the concepts and methods related to the study of adaptive radiation and macroevolutionary diversification. Evolutionary consequences will be studied from both empirical and theoretical perspectives. Emphasis will be placed on current controversies on applying modern conceptual and analytical approaches to long-standing questions.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F60482a013458cbd8f309cd614226f4ba">
+<name>
+<prefix/>
+<first>Jonathan</first>
+<middle/>
+<last>Losos</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

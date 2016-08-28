@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="73589" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>239</num_int>
+</course_number>
+<title>English Literature in the Continental Renaissance: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Leah Jane Whittington</faculty_text>
+<description>A study of English writers of the late sixteenth and early seventeenth centuries in relation to the international cultural movement of the European Renaissance, with an emphasis on changing attitudes towards the Renaissance project of reviving the classical past.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff1afd38f19ceaa97ac9a8f1dcf218c90">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle>Jane</middle>
+<last>Whittington</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="269 (Larsen Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

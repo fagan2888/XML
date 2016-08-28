@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4441" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>Aab</num_char>
+</course_number>
+<title>Elementary Russian (Intensive)</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., through F., at 9, with speaking practice M., W., F., at 10 or 11. MWF small group practice times are tentative and efforts will be made to accommodate student schedules.</meeting_text>
+<faculty_text>Natalia Chirkov and others</faculty_text>
+<description>An intensive version of Russian A, covering the same material in a single semester. Class meets five days per week with five hours of the main section and three hours of small group speaking practice each week.</description>
+<prerequisites/>
+<notes>See "Sectioning Note" above. Assumes no previous knowledge of Russian. Russian A, Russian Aab, and Russian At all prepare students to continue in Russian B, Bab, or Bt.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa6ffa0bcd38eb402c2792f25e123b620">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle>Georgievna</middle>
+<last>Chirkov</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fa6ffa0bcd38eb402c2792f25e123b620">
+<name>
+<prefix/>
+<first>Natalia</first>
+<middle>Georgievna</middle>
+<last>Chirkov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="900" end_time="1000"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="103" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="373" type="Lecture"/>
+<location term="1" building="Barker Center" room="211" type="Speaking Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

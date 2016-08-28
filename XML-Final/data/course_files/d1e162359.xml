@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54207" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.078</num_char>
+</course_number>
+<title>Jewish Identity in American Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Jane A. Rosenzweig</faculty_text>
+<description>This course will examine representations of Jews in American culture and the evolution of Jewish-American culture since World War II, as well as how shifts in the cultural conversation about minorities in America have affected our understanding of Jewish identity. We will question how recent works of literature, art, film, and television challenge and reinforce Jewish stereotypes, and how they continue to shape our ideas about assimilation, the Holocaust, ethnicity, and religious practice in America.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc6c1a24c5768d567ea6092487f94b2b9">
+<name>
+<prefix/>
+<first>Jane</first>
+<middle/>
+<last>Rosenzweig</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5723" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="KOREAN">Korean</course_group>
+<course_number>
+<num_int>140</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Korean</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2-4</meeting_text>
+<faculty_text>Hee-Jeong Jeong</faculty_text>
+<description>Development of skills in reading materials from contemporary Korean media and fiction and in aural comprehension of contemporary television news and drama with decreased reliance on pedagogical aids. After successful completion of fourth-year Korean, students should be able to satisfy the requirements of various everyday school, and work situations and follow essential points of written discourse which are abstract and linguistically complex, and also to write about a variety of topics in detail with precision.</description>
+<prerequisites>Korean 130b or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F98a7ee41a9e13604757dd33a9e9dc73d">
+<name>
+<prefix/>
+<first>Hee-Jeong</first>
+<middle/>
+<last>Jeong</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1400" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="204" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

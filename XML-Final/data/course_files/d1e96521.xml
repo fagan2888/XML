@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="339" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2020</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Microeconomic Theory I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>102</enrollment_limit>
+<meeting_text>M., W., 8:30-10 and a weekly section to be arranged</meeting_text>
+<faculty_text>Maciej Kotowski</faculty_text>
+<description>A comprehensive course in economic theory designed for doctoral students in all parts of the university. Topics include consumption, production, behavior toward risk, markets, and general equilibrium theory. Also looks at applications to policy analysis, business decisions, industrial organization, finance, and the legal system. Undergraduates with appropriate background are welcome, subject to the instructor's approval.</description>
+<prerequisites>Multivariate calculus and one course in probability theory. Thorough background in microeconomic theory at the intermediate level.</prerequisites>
+<notes>Students may receive credit for both API-111 and API-101/API-105 only if API-101/105 is taken first. API-111 and API-109 cannot both be taken for credit. Also offered by Harvard Kennedy School as API-111 and by the Business School as HBS 4010. Please note that the first day of class for this course will be on Friday, September 5, in L-230 at the regular meeting time, 8:30 a.m. - 10 a.m. Thereafter the course will be on Mondays and Wednesdays.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F27e6f19eaa6f2900ea305d2b8ed38c8d">
+<name>
+<prefix/>
+<first>Maciej</first>
+<middle/>
+<last>Kotowski</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="830" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="830" end_time="1000"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

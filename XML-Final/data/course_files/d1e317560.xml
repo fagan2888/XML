@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96439" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="MICROBI">Microbiology</course_group>
+<course_number>
+<num_int>302</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Introduction to Infectious Disease Research: Infectious Diseases Consortium Boot Camp</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>This intensive January course provides an introduction to the breadth of infectious disease research carried out at Harvard. Students will learn techniques for studying infectious diseases, more about different types of infectious diseases, and meet faculty, students, and postdocs in infectious diseases labs at Harvard.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F5d59f03afbff2fa130dc6d40db931768">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rubin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="900" end_time="1700"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

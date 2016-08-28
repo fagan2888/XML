@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8439" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="BE">Biomedical Engineering</course_group>
+<course_number>
+<num_int>121</num_int>
+</course_number>
+<title>Cellular Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 9, and laboratory to be arranged.</meeting_text>
+<faculty_text>Neel S. Joshi</faculty_text>
+<description>This is a combined introductory graduate/upper-level undergraduate course that focuses on examining modern techniques for manipulating cellular behavior and the application of these techniques to problems in the biomedical and biotechnological arenas. Topics will include expanding the genetic code, genetic circuits, rewiring signaling pathways, controlling behavior through cell-matrix interactions, and directed differentiation of stem cells. Lectures will review fundamental concepts in cell biology before delving into topical examples from current literature. Students will work individually and in teams to determine the boundaries of existing cellular engineering techniques using scientific literature and conduct original research in the laboratory.</description>
+<prerequisites>At least one semester of college-level organic chemistry and molecular/cellular biology. Physics at the level of Physics AP50 or Physics 12.</prerequisites>
+<notes>This course has a mandatory laboratory section, and it is taught concurrently with Engineering Sciences 222. Students interested in taking the course without the laboratory section should enroll in Engineering Sciences 222.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb8b75b94e24b24c00feccf7b69a28d91">
+<name>
+<prefix/>
+<first>Neel</first>
+<middle>S.</middle>
+<last>Joshi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1000"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="900" end_time="1000"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="221" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

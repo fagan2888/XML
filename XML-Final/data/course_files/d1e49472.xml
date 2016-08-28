@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5215" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>Statistical Thermodynamics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eugene I. Shakhnovich</faculty_text>
+<description>An introduction to statistical mechanics, thermodynamics, and chemical kinetics with strong emphasis on applications to problems in chemistry and biology. Topics include: thermodynamics and statistical properties of gases, liquids and crystals, critical phenomena, elements of non-equilibrium statistical mechanics with applications to Chemistry and Biophysics such as theories for biopolymers and chemical reactions.</description>
+<prerequisites>Chemistry 160 and Chemistry 161, or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6f326db60c0571bfce9c705f96182dba">
+<name>
+<prefix/>
+<first>Eugene</first>
+<middle/>
+<last>Shakhnovich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

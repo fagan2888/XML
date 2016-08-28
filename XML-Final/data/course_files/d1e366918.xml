@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13897" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+<course_number>
+<num_int>171</num_int>
+</course_number>
+<title>Religion and Political Violence in North Africa and the Sahel</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Ousmane Oumar Kane</faculty_text>
+<description>Unknown in Africa before the jihad against the Soviet Occupation of Afghanistan, suicide bombing has become common place in the 21st century. From Algeria to Somalia through Libya, Mali and Nigeria, so- called Salafi jihadis have recruited and trained tens of thousands of combatants. Through cigarette and narcotic trafficking, hostage taking for ransom, and bank hold ups, they have procured huge financial resources, sophisticated weapons, and now constitute a serious security challenge not only to many countries of North Africa and the Sahel but also to their Western allies. This conference course will address the spread of jihadi groups in Muslim Africa (North Africa and the Sahel) after the cold war. The first part of the course will address the divergent theoretical interpretations of terrorism and address in particular the following questions: Is it greed that sustains civil wars or grievance? Does the root of terror lie in culture or politics? Is there any evidence that civilizations clashed after the cold war? The second part of the course will focus on select transnational Islamist movements, situated both in their local context of nation building and their larger regional contexts. Case studies will include Al-Qaida in the Islamic Maghreb in North Africa and the Sahel, the Harakat al-shabab al-mujahidin in the Horn of Africa, the Boko Haram in the Lake Chad region and the Gama'at islamiyya in Egypt and beyond.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3371.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F00abc6f9c5d7e8bf194316f8154b61b4">
+<name>
+<prefix>Prof</prefix>
+<first>Ousmane</first>
+<middle/>
+<last>Kane</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Rockefllr Hall" room="117" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

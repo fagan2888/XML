@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2171" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1615</num_int>
+</course_number>
+<title>The Bhagavad Gita and Its Commentators</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4:30</meeting_text>
+<faculty_text>Francis X. Clooney (Divinity School)</faculty_text>
+<description>Bhagavad Gita, a Hindu classic of devotion and theology, has received extensive classical and contemporary commentary. The seminar explores selectively the interpretations of classical commentators (Sankara, Ramanuja, and Madhusudana Sarasvati), and 20th century interpreters (B. G. Tilak, Mohandas Gandhi, Bede Griffiths). Part of the series, Reading Hindu Texts Interreligiously, meant for students interested in closely reading Indian/Hindu texts, with attention to textual analogues from other religions.</description>
+<prerequisites>No Sanskrit required.</prerequisites>
+<notes>Offered jointly with the Divinity School as 3750.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff1d58213108549399fc2cd854f3ca1a1">
+<name>
+<prefix/>
+<first>Francis</first>
+<middle>X</middle>
+<last>Clooney</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1630"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

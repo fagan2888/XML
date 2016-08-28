@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6230" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MCB">
+<dept_long_name>Department of Molecular and Cellular Biology</dept_long_name>
+<dept_short_name>Molecular and Cellular Biology</dept_short_name>
+</department>
+<course_group code="MCB">MCB</course_group>
+<course_number>
+<num_int>155</num_int>
+</course_number>
+<title>Bioregulatory Mechanisms</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 4-6</meeting_text>
+<faculty_text>Vladimir Denic and Alexander F. Schier</faculty_text>
+<description>An advanced course that emphasizes the scientific logic and technical innovations behind the discoveries of certain well-established cell and molecular mechanisms. Topics will include nuclear transport, ribosomal protein synthesis, protein folding, protein targeting to membranes, and protein degradation. The course will be taught by combining lecture material with student presentations and criticism of seminal papers with emphasis on experimental design, the importance of complementary in vivo and in vitro systems, and defining unanswered questions in the field.</description>
+<prerequisites>MCB 60 or MCB 52 and MCB 54, and permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F07d25e9965f4e573079ec28c70f01978">
+<name>
+<prefix/>
+<first>Vladimir</first>
+<middle/>
+<last>Denic</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fc744b2cf17dce7eb697acff1e4c2df48">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle>F</middle>
+<last>Schier</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

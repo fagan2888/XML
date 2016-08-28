@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98766" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>Physics and Chemistry: In the Context of Energy and Climate at the Global and Molecular Level</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>James G. Anderson</faculty_text>
+<description>A solution to the problems set by the intersection of global energy demand and climate feedbacks requires the teaching of physics and chemistry in that context. Core topics include thermodynamics, free energy, entropy, acid-base and oxidation-reduction reactions, electrochemistry, electromagnetic induction, circuit theory, AC and DC circuits, the nature of photons and of electromagnetic radiation, photochemistry, materials, catalysis, kinetics, molecular bonding, and biological processes for energy conversion and storage.</description>
+<prerequisites>Physical Sciences 1, or Physical Sciences 11, or permission of instructor.</prerequisites>
+<notes>ES 135 is also offered as EPS 135. Students may not take both EPS 135 and ES 135 for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5f54e8708840989bc525ae860c6bd6a8">
+<name>
+<prefix/>
+<first>James</first>
+<middle>G.</middle>
+<last>Anderson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

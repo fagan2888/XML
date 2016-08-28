@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6057" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>145</num_int>
+</course_number>
+<title>Elementary Particle Physics</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10; Tu., Th., 7:30-9 p.m.</meeting_text>
+<faculty_text>Gary J. Feldman</faculty_text>
+<description>Introduction to elementary particle physics. Emphasis is on concepts and phenomenology rather than on a detailed calculational development of theories. Starts with the discovery of the electron in 1897, ends with the theoretical motivation for the Higg's boson, and attempts to cover everything important in between. Taught partly in seminar mode, with each student presenting a classic paper of the field.</description>
+<prerequisites>Physics 143a. Physics 143b or equivalent is useful.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbd066bebcf41d99eaf537fc0eb64d0f1">
+<name>
+<prefix/>
+<first>Gary</first>
+<middle/>
+<last>Feldman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="453" type="Section"/>
+<location term="1" building="Jefferson Lab" room="453" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

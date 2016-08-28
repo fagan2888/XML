@@ -1,0 +1,12 @@
+<answers>
+  <!-- put your name in the "name" element -->
+  <name>Marnie Scully </name>
+
+  <!-- for the 'test0' link, provide the 'host' header value -->
+  <test0 host="localhost:8080" />
+
+  <!-- for the 'test1' and 'test2' links, provide the 'XSL Version' and 'Vendor' values -->
+  <test1 xsl_version="1.0" vendor="Apache Software Foundation" />
+  <test2 xsl_version="2.0" vendor="Saxonica" />
+
+</answers>

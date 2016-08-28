@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6187" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2352</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory for Social Cognitive Neuroscience</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jason P. Mitchell</faculty_text>
+<description>Provides instruction and experience in conducting research on social cognition via the methods of cognitive neuroscience. Special focus on issues of mental state inference, stereotyping, and the self.</description>
+<prerequisites/>
+<notes>Open to graduate and undergraduate students working in the instructor's laboratory.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb1dfe823d4e4e3ef39b00565fd8e83b1">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Paul</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb1dfe823d4e4e3ef39b00565fd8e83b1">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Paul</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

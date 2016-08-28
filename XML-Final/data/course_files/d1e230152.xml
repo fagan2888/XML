@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1906" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1322</num_int>
+</course_number>
+<title>Heidegger and Arendt</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Peter E. Gordon</faculty_text>
+<description>This course investigates the complex philosophical affiliation between Martin Heidegger and Hannah Arendt. Will address how various themes of Heideggerian philosophy were borrowed, displaced, revised, and challenged in Arendt's political theory. The first half of the course addresses texts by Heidegger, esp. selections from Being and Time, and An Introduction to Metaphysics. The second half of the course addresses Arendt's major theoretical works, The Origins of Totalitarianism, The Human Condition, and On Revolution.</description>
+<prerequisites/>
+<notes>Open only to students with prior experience in social and political theory, intellectual history, and/or political philosophy.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff27606fe234e2db3231aca9bb8a0a0ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>E.</middle>
+<last>Gordon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

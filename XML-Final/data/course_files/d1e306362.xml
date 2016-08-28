@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8337" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="IMUNOL">Immunology</course_group>
+<course_number>
+<num_int>201</num_int>
+</course_number>
+<title>Principles of Immunology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>50</enrollment_limit>
+<meeting_text>Tu., Th., 1:30-3, with section Tu., Th., 3-4</meeting_text>
+<faculty_text>Thorsten Roman Mempel (Medical School), Michael C. Carroll (Medical School), Ulrich H. Von Andrian-Werburg (Medical School), and members of the Program in Immunology</faculty_text>
+<description>Comprehensive core course in immunology. Topics include a broad but intensive examination of the cells and molecules of the immune system. Special attention given to the experimental approaches that led to general principles of immunology.</description>
+<prerequisites>A background in genetics and biochemistry strongly recommended.</prerequisites>
+<notes>Intended for students who have had prior exposure to immunology on the undergraduate level. In the absence of such exposure, students must obtain the permission of the Course Director. Offered jointly with the Medical School as IM 702.0.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F076d7c8c1a7c631a7033bd0b33d5402f">
+<name>
+<prefix/>
+<first>Thorsten</first>
+<middle/>
+<last>Mempel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F7a7c1c8d7e0c5a9e2fa4b8150f67a66d">
+<name>
+<prefix/>
+<first>Ulrich</first>
+<middle>H.</middle>
+<last>von Andrian</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F86a153270795dd66ed5396375e6aff11">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>C</middle>
+<last>Carroll</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1330" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1330" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

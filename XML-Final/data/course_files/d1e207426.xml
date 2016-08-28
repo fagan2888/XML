@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1045" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMPHIL">Germanic Philology</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Special Reading Programs and Research Problems for Advanced Students</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F7fc3a8f9e1f2f186aae77dee6082d010">
+<name>
+<prefix/>
+<first>Jay</first>
+<middle>H.</middle>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0e4e4f29da05c1d6e7e5eb0a146aefc6">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle>C.</middle>
+<last>Harris</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7fc3a8f9e1f2f186aae77dee6082d010">
+<name>
+<prefix/>
+<first>Jay</first>
+<middle>H.</middle>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5968" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>398</num_int>
+</course_number>
+<title>Direction of Doctoral Dissertations</title>
+<course_type>Direction of the Doctoral Dissertation</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes>Normally limited to students reading specifically in the field of a proposed doctoral dissertation. Open only by petition to the Department; petitions should be presented during the term preceding enrollment, and must be signed by the instructor with whom the reading is to be done. All applicants for admission should first confer with the Director of Graduate Studies.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

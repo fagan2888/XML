@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6760" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Multivariable Calculus</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: Section I, M., W., F., at 9 (with sufficient enrollment); Section II, M., W., F., at 10; Section III, M., W., F., at 11; Section IV, M., W., F., at 12; Section V, Tu., Th., 10-11:30; Section VI, Tu., Th., 11:30-1. Spring: Section I, M., W., F., at 9 (with sufficient enrollment); Section II, M., W., F., at 10; Section III, M., W., F., at 11; Section IV, M., W., F., 12 (with sufficient enrollment); Section V, Tu., Th., 10-11:30; Section VI, Tu., Th., 11:30-1 (with sufficient enrollment), and a weekly problem section to be arranged</meeting_text>
+<faculty_text>Oliver Knill, Jameel Al-Aidroos, Rosalie Belanger-Rioux, Yu-Wen Hsu, Siu-Cheong Lau, and members of the Department (fall term); Peter Garfield, Rosalie Belanger -Rioux, Sarah Chisholm, Yu-Wen Hsu, and members of the Department (spring term).</faculty_text>
+<description>To see how calculus applies in practical situations described by more than one variable, we study: Vectors, lines, planes, parameterization of curves and surfaces, partial derivatives, directional derivatives and the gradient, optimization and critical point analysis, including constrained optimization and the Method of Lagrange Multipliers, integration over curves, surfaces and solid regions using Cartesian, polar, cylindrical, and spherical coordinates, divergence and curl of vector fields, and the Green's, Stokes's, and Divergence Theorems.</description>
+<prerequisites>Mathematics 1b or equivalent.</prerequisites>
+<notes>Required first meeting in fall: Wednesday, September 3, 8:30 am, Science Center B . Required first meeting in spring: Monday, January 26, 8:30 am, Science Center C. May not be taken for credit by students who have passed Applied Mathematics 21a. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. Activities using computers to calculate and visualize applications of these ideas will not require previous programming experience.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F989ac5354be2384d6bb0519edc13769e">
+<name>
+<prefix/>
+<first>Oliver</first>
+<middle>R.</middle>
+<last>Knill</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fa7278c21b87dad89a783316c96907dee">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>McKee</middle>
+<last>Garfield</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+</requirements>
+</course></courses>

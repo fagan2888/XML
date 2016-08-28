@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89348" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>117</num_int>
+</course_number>
+<title>History, Politics, and Culture in Manchurian Space: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Mark C. Elliott</faculty_text>
+<description>Recent scholarship on modern East Asia has seen a marked increase in attention to history, society, and culture in Manchukuo and Manchuria from interdisciplinary and transnational perspectives. The course will explore these trends with the aim of arriving at an improved understanding of the Northeast Asian frontier zone in and around the period of 20th-c. Japanese imperialist expansion.</description>
+<prerequisites>Good familiarity with modern East Asian history. All required readings are in English.</prerequisites>
+<notes>Open to graduates and (with instructor approval) to advanced undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F62da2b4f7b89c047307df379cd365724">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle>C.</middle>
+<last>Elliott</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

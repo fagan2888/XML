@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85078" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>57</num_int>
+</course_number>
+<title>American Dreams from Scarface to Easy Rider</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10; film screenings Tu., 3-6; and a weekly section to be arranged.</meeting_text>
+<faculty_text>Eric Rentschler (Germanic Languages and Literatures)</faculty_text>
+<description>This class familiarizes students with popular films produced during crucial junctures in the modern history of the United States, from the Great Depression and World War II through the Cold War, McCarthy era, and the 1960s. More specifically, we will study how Hollywood's dream factory responded to dramatic challenges that states of crisis and emergency posed to the founding ideals of our democracy. We will look at the wide range of functions that commercial fantasy productions assumed, how they at times legitimated and bolstered the status quo, but at others also interrogated, exposed, and even indicted social inequity. Course films provide a representative sampling of classical American features from 1932 to 1969, including Scarface, It Happened One Night, The Wizard of Oz, Gone with the Wind, Citizen Kane, Casablanca, High Noon, The Invasion of the Body Snatchers, The Manchurian Candidate, and Easy Rider.</description>
+<prerequisites/>
+<notes>Alternate weekly film screenings will be held on Sunday afternoons. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbf4bb95444419f70901fcdc1cb2061d5">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle/>
+<last>Rentschler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

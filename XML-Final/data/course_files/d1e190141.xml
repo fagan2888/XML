@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39198" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>32</num_int>
+</course_number>
+<title>Back Roads to Far Places: Literature of Journey and Quest</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>William A. Graham (Near Eastern Languages and Civilizations; The Study of Religion) and Stephanie A. Paulsell (Harvard Divinity School)</faculty_text>
+<description>Explores themes of journey and quest in world literature and the interplay between their literary and religious dimensions. Considers the relationship between physical and interior journeys, home and exile, quest and peregrination. Emphasis will be on careful reading of, and thoughtful essays on, texts such as Gilgamesh, the Bible, Quest of the Holy Grail, Walden, and works by Tolkien, Dante, Teresa of Avila, Ashvaghosha, Hesse, Basho, Shusako Endo, Charles Johnson, Virginia Woolfe, and Cormac McCarthy.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2490. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe4290077ff347c8195d7fafadb3557d4">
+<name>
+<prefix/>
+<first>William</first>
+<middle>A.</middle>
+<last>Graham</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F7b4c090fbaa6602bfe63a92d7c3f7736">
+<name>
+<prefix/>
+<first>Stephanie</first>
+<middle/>
+<last>Paulsell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

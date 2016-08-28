@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48518" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1001</num_int>
+</course_number>
+<title>The Psychology of Well-being</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Martin V. Day</faculty_text>
+<description>This course will critically examine the nature of well-being, happiness and the good life. This course will cover a range of topics such as: optimal functioning, strengths, values, interests, mindfulness, physical health, and happiness. Through group and class discussions, involved exercises, projects, videos, and review of journal articles, students will: (i) gain an understanding of well-being related concepts, (ii) learn to think critically and analytically about issues related to positive psychology, (iii) experience the effects of applying well-being related principles on your own personal growth, (iv) propose an intervention to bring about change in a well-being related behavior.</description>
+<prerequisites>SLS-20 and one from PSY 14, PSY 15, PSY 18, or SLS 15.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb7246f2ce96c56b820d64a49579991ef">
+<name>
+<prefix/>
+<first>Martin</first>
+<middle>V.</middle>
+<last>Day</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

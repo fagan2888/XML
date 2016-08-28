@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89306" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="STAT">
+<dept_long_name>Department of Statistics</dept_long_name>
+<dept_short_name>Statistics</dept_short_name>
+</department>
+<course_group code="STAT">Statistics</course_group>
+<course_number>
+<num_int>315</num_int>
+</course_number>
+<title>High Dimensional Causal Inference</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Conducting causal inference under the Neyman-Rubin model when the number of possible covariates is on the order of the number of observations, or even larger, is non-obvious. Recent developments using a variety of methods and approaches such as (sparse) regularization, nonparametric Bayes, BART, model selection, or dimension reduction, claim to address this problem. We will read and discuss the literature in this emerging area with a critical eye.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F66fb28380f3add57fcdf764fd9f4a9de">
+<name>
+<prefix/>
+<first>Luke</first>
+<middle>Weisman</middle>
+<last>Miratrix</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc328699631bbf19de8197afa5b09e73b">
+<name>
+<prefix/>
+<first>Natesh</first>
+<middle>S</middle>
+<last>Pillai</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

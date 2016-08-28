@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6763" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>99</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Senior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>(F.), 10:30-12</meeting_text>
+<faculty_text>Linda Schlossberg</faculty_text>
+<description/>
+<prerequisites/>
+<notes>Both WGS 99a and 99b are required of all honors concentrators in their senior year.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="Y" type="Seminar" day="5" begin_time="1030" end_time="1200"/>
+<meeting term="2" optional="Y" type="Seminar" day="5" begin_time="1030" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G35" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

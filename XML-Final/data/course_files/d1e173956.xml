@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74245" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>21</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>How Did the First Stars and Galaxies Form?</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1:30-3:30</meeting_text>
+<faculty_text>Abraham Loeb</faculty_text>
+<description>Since the Universe is expanding, it must have been denser in the past. Therefore, there must have been an early time when stars like our Sun or galaxies like the Milky Way did not exist because the Universe was denser than they are. We therefore face the important question about our origins: how and when did the first stars and galaxies form? Primitive versions of this question were considered in religious and philosophical texts for thousands of years. The Seminar will summarize the fundamental principles and scientific ideas that are being used to address this question in modern cosmological studies.</description>
+<prerequisites/>
+<notes>Open to Freshmen only</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6d7cac6055665863428b3b8265d2f9b6">
+<name>
+<prefix/>
+<first>Abraham</first>
+<middle/>
+<last>Loeb</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1330" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

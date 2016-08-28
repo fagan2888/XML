@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="40789" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>141</num_int>
+</course_number>
+<title>Modern Anglophone Drama - From Ireland to the Caribbean and Africa</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Biodun Jeyifo</faculty_text>
+<description>The course will explore modern Anglophone dramas of major playwrights in diverse areas of the English-speaking world. Through an attention to both similar historical experiences under colonialism as well as differences of race, gender, ethnicity and culture, we will explore the works of leading Irish, African, Caribbean and U.S. playwrights like Brian Friel, Wole Soyinka, Athol Fugard, Derek Walcott and Ntozake Shange. The seminar will be organized around two principal issues: the use of music, dance, ritual, carnival and other popular performance idioms to transform the received genre of Western literary drama; themes of empire, colony and postcolony in the making of the modern world. This course seeks to open a window to the most exciting and engaging developments in English-language theatre in the contemporary world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff9a42e26a96ea36da5bb287fffb0044a">
+<name>
+<prefix/>
+<first>Biodun</first>
+<middle/>
+<last>Jeyifo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

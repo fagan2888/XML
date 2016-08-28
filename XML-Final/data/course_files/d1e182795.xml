@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="97677" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>41</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Boston Green</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeanne Marie Haffner</faculty_text>
+<description>Boston is full of green spaces such as the Emerald Necklace, bike trails, and smaller pieces of greenery that make ordinary spaces feel more special. Focusing on Boston and surrounding areas, this Freshman Seminar will explore the ideas behind making cities "green" in the first place. Since the 19th century, landscape architects, planners, government officials, and the public alike differed over where such spaces should be built, who should enjoy them, and what naturalistic ideas these areas were supposed to convey. More generally, the course will provide students with an introduction to the application of environmental thought to planning.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd2b76859d89eb355f51044fd8542561d">
+<name>
+<prefix/>
+<first>Jeanne</first>
+<middle>Marie</middle>
+<last>Haffner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

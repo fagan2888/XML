@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32783" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2510</num_int>
+</course_number>
+<title>Narratives of American Religion: The Canon and Its Revisions</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>David Frank Holland (Divinity School) and Catherine Brekus (Divinity School)</faculty_text>
+<description>This course will examine the writing of American religious history from the nineteenth century until the present. In the first part of the course, we will trace the creation of an American religious historical canon. Readings will include Robert Baird's Religion in America (1844), William Warren Sweet's The Story of Religions in America (1930) and Sydney E. Ahlstrom's A Religious History of the American People (1972). In the second part of the course, we will explore the transformation of the field of American religious history since the 1970s. In addition to reading textbooks such as Catherine Albanese's America: Religion and Religions (1981) and George Marsden's Religion and American Culture (1990), we will read case studies of new approaches and methodologies. Our goal is to assess the strengths and weaknesses of both the canon and the new religious history that has taken its place.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ff5b58177bfb42bc90bdfd4443647f73a">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Frank</middle>
+<last>Holland</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

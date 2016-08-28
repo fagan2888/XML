@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51277" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MODMIDEAST">The Modern Middle East</course_group>
+<course_number>
+<num_int>111</num_int>
+</course_number>
+<title>Culture and Society in Contemporary Iran</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 1, plus weekly section to be arranged</meeting_text>
+<faculty_text>Chad Kia</faculty_text>
+<description>Introduces a wide spectrum of students to some of the most significant aspects of Iranian culture from the Constitutional Revolution through the three decades since the Islamic Revolution of 1979, one of the paradigmatic shifts in twentieth-century global history. Using the modernist commitment of artists and intellectuals to social and political engagement as a unifying theme, the course will survey modern and contemporary Iranian culture through the analysis of various literary, artistic, cinematic, and intellectual forms. The impact of European culture; nationalism; the tensions between modernism, secularism, and religion; the emergence of women's voices, a cinematic avant-garde, and mass culture; the strains of cosmopolitan and provincial coexistence; the anti-Western critique of "occidentosis"; and the controversial 2009 elections are among the issues that will be addressed.</description>
+<prerequisites/>
+<notes>This course assumes no prior knowledge of Persian, Iranian history or Islam; when taken for a letter grade, it meets the General Education requirement for Culture and Belief.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc43bcb1d8ed495debaf863e81046f7ea">
+<name>
+<prefix/>
+<first>Chad</first>
+<middle/>
+<last>Kia</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27616" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>153</num_int>
+</course_number>
+<title>Organotransition Metal Chemistry</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Tobias Ritter</faculty_text>
+<description>An introduction to transition metal-mediated chemistry. Topics include organometallic reaction mechanisms and transition metal catalysis in synthesis. Design, development, and presentation of research ideas, relevant to contemporary catalysis and the current literature will be taught as part of the course.</description>
+<prerequisites>The course requires knowledge in synthetic organic chemistry (Chemistry 30 or equivalent).</prerequisites>
+<notes>Primarily for graduate students and advanced undergraduates in chemistry.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7a1193a822ac7e9dbd808eac05f80260">
+<name>
+<prefix/>
+<first>Tobias</first>
+<middle/>
+<last>Ritter</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

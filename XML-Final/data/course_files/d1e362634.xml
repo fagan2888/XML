@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5758" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ARAMAIC">Aramaic</course_group>
+<course_number>
+<num_int>300</num_int>
+</course_number>
+<title>Aramaic Language and Literature</title>
+<course_type>Reading Course</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fda65de331a6bba7e16cdf4f565fd0242">
+<name>
+<prefix/>
+<first>Khaled</first>
+<middle/>
+<last>El-Rouayheb</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff54a769ee52d727e0cfd4c1fb2382246">
+<name>
+<prefix/>
+<first>Shaye</first>
+<middle>J.D.</middle>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fda65de331a6bba7e16cdf4f565fd0242">
+<name>
+<prefix/>
+<first>Khaled</first>
+<middle/>
+<last>El-Rouayheb</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff54a769ee52d727e0cfd4c1fb2382246">
+<name>
+<prefix/>
+<first>Shaye</first>
+<middle>J.D.</middle>
+<last>Cohen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fff08270181909b0ea5712b554359a56d">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle/>
+<last>Machinist</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="55761" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HLIT">
+<dept_long_name>Committee on Degrees in History and Literature</dept_long_name>
+<dept_short_name>History and Literature</dept_short_name>
+</department>
+<course_group code="HIST-LIT">History and Literature</course_group>
+<course_number>
+<num_int>90</num_int>
+<num_char>bc</num_char>
+</course_number>
+<title>We the Readers: Reading Communities in Early America</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Jennifer L. Brady</faculty_text>
+<description>This seminar asks who was reading, what was read, and how reading was practiced, imagined, and used in early America. Focusing on moments when reading's potential to create or divide communities was under question, "We the Readers" considers how the mundane acts of reading printed sermons, daily newspapers, bestselling novels, political pamphlets, and urban signs were understood to have varying consequences for women, Native Americans, subjects, citizens, and slaves-and through them, a nation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8c145f30c4ea3cec166850c093618b29">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle/>
+<last>Brady</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="029" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

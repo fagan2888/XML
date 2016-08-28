@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14846" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>35</num_int>
+<num_char>j</num_char>
+</course_number>
+<title>Korean Romance Before the Twentieth Century</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>W., 3-5</meeting_text>
+<faculty_text>Si Nae Park</faculty_text>
+<description>This course will explore tales of love as a window onto Korea before the 20th century (late Koryo/a7 to late Choso/a7n dynasties spanning 13th through 19th centuries), paying special attention to comparisons with related romances in China. We will combine close reading of traditional tales in English translation with study of paintings and images in old books, and compare the tales as well with more recent portrayals in photography, film and television. Secondary readings will provide the sociocultural and historical contexts.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. No prior knowledge of Korean language is required. Those interested in East Asia will find this course a useful gateway to lecture courses in the Department of East Asian Languages and Civilizations.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa2fd5a04cdc0e2ee32583ed7536dbb97">
+<name>
+<prefix/>
+<first>Si Nae</first>
+<middle/>
+<last>Park</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="205" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

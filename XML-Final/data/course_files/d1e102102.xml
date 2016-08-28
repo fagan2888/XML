@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1339" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2450</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Public Economics and Fiscal Policy I</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), 11:30&amp;#8211;1</meeting_text>
+<faculty_text>Raj Chetty</faculty_text>
+<description>This course covers basic issues in the optimal design of tax and social insurance policies, with emphasis on combining theoretical models with empirical evidence. Topics include efficiency costs and incidence of taxation, income taxation, transfer and welfare programs, public goods and externalities, optimal social insurance, and welfare analysis in behavioral models.</description>
+<prerequisites>Economics 2010a and 2010b or Economics 2020a and 2020b.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7fe9fbd135ba8120a51f4925ddd15100">
+<name>
+<prefix/>
+<first>Nadarajan</first>
+<middle/>
+<last>Chetty</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-16" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

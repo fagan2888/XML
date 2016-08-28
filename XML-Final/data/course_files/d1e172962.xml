@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7982" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>114</num_int>
+</course_number>
+<title>Embodied Expression/Expressive Body: Dance in Cultural Context</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Th., 1-3:30</meeting_text>
+<faculty_text>Deborah D. Foster</faculty_text>
+<description>An examination of the ways in which the dancing body internalizes and communicates cultural knowledge to both dancer and observer. By participating in dance workshops, watching dance performances (live and on film), and reading ethnographic and theoretical texts, we attempt to understand the emergent meaning of dance performances from multiple perspectives.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F83d1a11d2876209fab0af5af3824d31e">
+<name>
+<prefix/>
+<first>Deborah</first>
+<middle/>
+<last>Foster</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1530"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Lowell Lecture Hall" room="Lecture Hall" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Culture and Belief"/>
+</requirements>
+</course></courses>

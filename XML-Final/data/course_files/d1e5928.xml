@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2589" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>African American Literature from the Beginnings to the Harlem Renaissance</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Jamaica Kincaid</faculty_text>
+<description>Close readings of major writers in the context of cultural history. I) Literature and folk culture in the slavery period: Phillis Wheatley, Olaudah Equiano, Omar Ibn Said, Victor Sejour, Lydia Maria Child, Fredrick Douglass, Harriet Beecher Stowe, William Wells Brown, Frank Webb, Martin Robison Delany, and Harriet Jacobs. II) "Post-bellum, pre-Harlem": Charles W. Chesnutt, Paul Laurence Dunbar, Pauline Hopkins, Du Bois, Booker T. Washington, and James Weldon Johnson. We examine diverse genres-from slave narratives, novels, and poems to plays, speeches, and song lyrics and end with Jean Toomer's Cane.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F92cee8ab66af07e524d85d3f4eea1db9">
+<name>
+<prefix/>
+<first>Jamaica</first>
+<middle/>
+<last>Kincaid</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Bow St., 1" room="330" type="Seminar"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

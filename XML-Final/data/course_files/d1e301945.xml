@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="95905" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="HBTM">HBTM</course_group>
+<course_number>
+<num_int>301</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Case Studies in Human Biology and Translational Medicine</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Two-week course that is required of and restricted to first-year LHB students. Each week of the course focuses on a different "case study" in translational medicine.</description>
+<prerequisites/>
+<notes>January term course. Restricted to Leder students only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fa5864ff6ca5b255fbe434f0e20c053d5">
+<name>
+<prefix/>
+<first>Caren</first>
+<middle/>
+<last>Solomon</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="900" end_time="1030"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="900" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

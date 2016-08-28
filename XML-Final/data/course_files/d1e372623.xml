@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2948" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="SEMPHIL">Semitic Philology</course_group>
+<course_number>
+<num_int>220</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Northwest Semitic Epigraphy: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Topic for 2014-15 to be determined; topic for 2012-13 was "Advanced discussion of Ugaritic grammar and texts."</description>
+<prerequisites>Semitic Philology 151.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1160.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

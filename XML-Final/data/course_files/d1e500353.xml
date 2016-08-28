@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4069" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>2348</num_int>
+<num_char>ab</num_char>
+</course_number>
+<title>Archaeology and the World of the New Testament: Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="2">Full course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 1:30-4</meeting_text>
+<faculty_text>Laura S. Nasrallah (Divinity School)</faculty_text>
+<description>The first portion of the course will introduce students to working with archaeological data from the Greco-Roman world (inscriptions, architecture, sculpture, coins). The second portion consists of seminars in Greece and Turkey during May, including some meetings with archaeologists and other scholars abroad</description>
+<prerequisites>Greek and French or German; two half-courses in the study of ancient Christianity and/or Greco-Roman religion, history, and archaeology. Course may be divided with permission of instructor.</prerequisites>
+<notes>Offered jointly with the Divinity School as 1870.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8994632fe6a40a89eac32f12d4be7def">
+<name>
+<prefix/>
+<first>Laura</first>
+<middle>Salah</middle>
+<last>Nasrallah</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1330" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

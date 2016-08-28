@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5684" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1354</num_int>
+</course_number>
+<title>Classic Papers on Memory (and the Ones that Got Away!)</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Randy L. Buckner</faculty_text>
+<description>Classic articles in memory will be discussed in the context of why they are seminal to the field. Topics will include amnesia, LTP, levels of processing, implicit memory, brain imaging, and prospection. Within each topic, articles that are less seminal, but reported earlier, will also be discussed. A goal will be to debate what specifically allowed the classic articles to change the way we think. What sets them apart?</description>
+<prerequisites>For undergraduates: Science of Living Systems 20 or its predecessors or MCB 80 required, or permission of instructor. For graduate students, permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F207298b163309b4b990e598c877cbd0a">
+<name>
+<prefix/>
+<first>Randy</first>
+<middle>Lee</middle>
+<last>Buckner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

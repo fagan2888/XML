@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4446" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>267</num_int>
+</course_number>
+<title>Aerosol Science and Technology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Physics and chemistry of aerosol particles. Concepts: size, shape, and density; number size distributions; uniform, accelerated, and Brownian motion; electrical properties; measurement instrumentation; condensation/evaporation; coagulation; and optical properties. Taught by reference to topical problems.</description>
+<prerequisites/>
+<notes>Offered in alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3127a1e60588003a06bbe3ee7f94b1bc">
+<name>
+<prefix/>
+<first>Scot</first>
+<middle>T.</middle>
+<last>Martin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

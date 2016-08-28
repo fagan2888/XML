@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="47986" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="SHBT">SHBT</course_group>
+<course_number>
+<num_int>204</num_int>
+</course_number>
+<title>Speech Communication</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>Tu., Th., 11-12:30</meeting_text>
+<faculty_text>Satrajit S. Ghosh (Medical School), Robert E. Hillman (Medical School), and other faculty</faculty_text>
+<description>Survey of human speech communication. Acoustic theory of speech production; physiologic and acoustic descriptions of phonetic features, prosody, voice and speech perception and speech motor control. Applications to recognition, synthesis and speech disorders.</description>
+<prerequisites>Background equivalent to MIT HST.714.</prerequisites>
+<notes>Offered jointly with MIT course HST.710. Classes to be held at MIT.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F122f4663152546976dafe744d3febdeb">
+<name>
+<prefix>Dr</prefix>
+<first>Satrajit</first>
+<middle>S</middle>
+<last>Ghosh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb3e90df383e9940a1b7507aba92335cb">
+<name>
+<prefix>Dr</prefix>
+<first>Robert</first>
+<middle>E.</middle>
+<last>Hillman</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1100" end_time="1230"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1100" end_time="1230"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

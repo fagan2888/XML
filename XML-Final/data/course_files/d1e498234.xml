@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="94955" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1584</num_int>
+</course_number>
+<title>Twentieth Century Theological Method: An Introduction</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>David Lamberth (Divinity School)</faculty_text>
+<description>The question how one goes about thinking theologically&amp;#151in light of the situated-ness of language, human experience, other domains of knowledge, and a deepening understanding of the contextual location of theological expression&amp;#151is a dominant concern for Christian theology in the twentieth and twenty first centuries. This course provides an introduction to the contemporary context for theological reflection by exploring conversations around method and the nature of theology in selected key twentieth century figures, such as Barth, Bultmann, Tillich, Daly, Cone, Kaufman, Tracy, Schussler Fiorenza, Lindbeck, Grant, Milbank.</description>
+<prerequisites>The course is introductory, and has no prerequisites.</prerequisites>
+<notes>Expected to be given in 2015-16. Offered jointly with the Divinity School as 2382.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F73f77d0b434abd3676efea82fd583d82">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Lamberth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

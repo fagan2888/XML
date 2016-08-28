@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5020" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>268</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Plant Developmental Genetics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1-2:30, with Lab on Thursdays, 3-5</meeting_text>
+<faculty_text>Pamela Diggle</faculty_text>
+<description>This lecture/laboratory covers plant anatomy and development, including the structure and function of cells, tissues, and organs and their developmental origin at the shoot apical meristem. Techniques of histology and microscopy also are covered.</description>
+<prerequisites>OEB 106 and Life Sciences 1b or BS 50, or MCB 52 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6ad0eae3daf86871a08099ebd064bd61">
+<name>
+<prefix/>
+<first>Pamela</first>
+<middle/>
+<last>Diggle</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

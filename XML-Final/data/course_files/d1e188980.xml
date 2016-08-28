@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6753" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>16</num_int>
+</course_number>
+<title>Performance, Tradition and Cultural Studies: An Introduction to Folklore and Mythology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., (F.), at 11 and a weekly section to be arranged.</meeting_text>
+<faculty_text>Stephen A. Mitchell (Germanic Languages and Literatures; Folklore and Mythology)</faculty_text>
+<description>Examines major forms of folklore (e.g., myths, legends, epics, beliefs, rituals, festivals) and the theoretical approaches used in their study. Analyzes how folklore shapes national, regional, and ethnic identities, as well as daily life; considers the function of folklore within the groups that perform and use it, employing materials drawn from a wide range of areas (e.g., South Slavic oral epics, American occupational lore, Northern European ballads, witchcraft in Africa and America, Cajun Mardi Gras).</description>
+<prerequisites/>
+<notes>Required of Concentrators and for the Secondary Field in Folklore and Mythology. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4668a1de762597aae41cbe52d65f3174">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle>A.</middle>
+<last>Mitchell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="018" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts C"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

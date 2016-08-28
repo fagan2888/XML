@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="135" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>150</num_int>
+</course_number>
+<title>History of the Human Sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Rebecca M. Lemov</faculty_text>
+<description>Examination of the growth and development of social sciences such as sociology, anthropology, psychoanalysis, psychology, political science, and economics from the Enlightenment to the present. Innovators devised these fields to provide new, scientific ways to gain insight into age-old philosophical and religious questions, such as, What is the nature of the "self" or the "soul"? What binds human beings to one another? What is free will? What are the limits of social control, behavioral engineering, and the possible reach of techniques for adjustment and manipulation?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F79de794d3e2e19eb71a2033b0ec0b76d">
+<name>
+<prefix/>
+<first>Rebecca</first>
+<middle/>
+<last>Lemov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

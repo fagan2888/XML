@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9532" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>179</num_int>
+</course_number>
+<title>Jazz, Freedom, and Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10</meeting_text>
+<faculty_text>Ingrid Monson</faculty_text>
+<description>This course explores the history of the musical tradition known as jazz from its roots in African American popular musical styles at the turn of the 20th century to its contemporary life as a global improvisational art music. We devote considerable attention to the history of jazz improvisation as a musical process and also explore the cultural, aesthetic, racial, and social debates that shaped the development of the music. On the one hand, jazz fashioned itself as the ultimate modern music with freedom and justice for all, and, on the other, provided an arena in which complex debates about race, cultural ownership, and social disparity repeatedly took place.</description>
+<prerequisites/>
+<notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F05a9c5641b1007f2f1216e13bab67182">
+<name>
+<prefix/>
+<first>Ingrid</first>
+<middle/>
+<last>Monson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25301" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SPANSH">Spanish</course_group>
+<course_number>
+<num_int>194</num_int>
+</course_number>
+<title>The Borges Machine</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3, and an additional weekly section hour to be arranged</meeting_text>
+<faculty_text>Mariano Siskind</faculty_text>
+<description>We study Jorge Luis Borges's poetry, short stories, and essays; from Fervor de Buenos Aires to El Aleph; from his scripts and the films based on them to the cultural constellations that rose around him, as well as those his work created. We will think of Borges as a writer, but also as literary machine, an artifice that produces meaning in the works of other writers and in cultural formations beyond Argentina and Latin America.</description>
+<prerequisites/>
+<notes>Conducted in Spanish.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb113a1c6d7fc21bf79d923c1c611f693">
+<name>
+<prefix/>
+<first>Mariano</first>
+<middle/>
+<last>Siskind</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="2 Arrow St." room="420" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

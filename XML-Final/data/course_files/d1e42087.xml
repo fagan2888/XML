@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67195" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIST">
+<dept_long_name>Committee on Higher Degrees in Biostatistics</dept_long_name>
+<dept_short_name>Biostatistics</dept_short_name>
+</department>
+<course_group code="BIOSTAT">Biostatistics</course_group>
+<course_number>
+<num_int>297</num_int>
+</course_number>
+<title>Genomic Data Manipulation</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 3:30&amp;#8211;5:20, and a weekly 90-minute lab.</meeting_text>
+<faculty_text>Curtis Huttenhower (Public Health)</faculty_text>
+<description>Introduction to genomic data, computational methods for interpreting these data, and survey of current functional genomics research. Covers biological data processing, programming for large datasets, high-throughput data (sequencing, proteomics, expression, etc.), and related publications.</description>
+<prerequisites/>
+<notes>Offered jointly with the School of Public Health as BIO508.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd41166cd4540853019536a8e3ed76eaa">
+<name>
+<prefix/>
+<first>Curtis</first>
+<middle/>
+<last>Huttenhower</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1530" end_time="1720"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1530" end_time="1720"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

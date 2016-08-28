@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="52303" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1820</num_int>
+</course_number>
+<title>Education Reform in America</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4</meeting_text>
+<faculty_text>Roland G. Fryer</faculty_text>
+<description>Introduces students to the methods and the research frontier in the economics of education. The first quarter of the course will cover common statistical methods in applied microeconomics, including instrumental variable models, regression discontinuities, difference-in-differences, and randomized inference. With these tools in hand, the course will critically survey the economics of education literature, placing particular emphasis on policies and practices designed to raise achievement among vulnerable populations. Topics will include achievement gaps, the role of incentives, the rise of charter schools, school turnaround efforts, and education's role in determining economic outcomes.</description>
+<prerequisites>Courses in introductory statistics, econometrics, and/or microeconomics would be useful preparation, but there are no official prerequisites. A non-trivial amount of math fluency is expected, however.</prerequisites>
+<notes>Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F552db7b38308418fef9798d7c22c2b5e">
+<name>
+<prefix/>
+<first>Roland</first>
+<middle>Gerhard</middle>
+<last>Fryer</last>
+<suffix>Jr.</suffix>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

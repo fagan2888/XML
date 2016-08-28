@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="31229" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>26</num_int>
+<num_char>o</num_char>
+</course_number>
+<title>Changing Our Mind: Evolving Thoughts on Brain Regeneration</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 3-5</meeting_text>
+<faculty_text>Paola Arlotta</faculty_text>
+<description>We will discuss current theories on brain regeneration in a dynamic setting that combines brainstorming of the literature with hands-on experience in the laboratory. Students will learn experiments that have shaped the field of brain repair and consider the newest theories on ways to regenerate the nervous system. We will also visit the laboratory to investigate the regenerative capabilities of different organisms. Experimental results will be used to consider, contrast and evaluate how regenerative capacities have changed during evolution and to brainstorm paths forward towards new solutions for brain regeneration in species, like humans, that have not mastered this art.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4d1bbc241f46c4f2cf0e395ed530747c">
+<name>
+<prefix/>
+<first>Paola</first>
+<middle/>
+<last>Arlotta</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Fairchild Biochemistry Lab" room="268" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

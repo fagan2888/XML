@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="12939" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>li</num_char>
+</course_number>
+<title>Protest and Conflict in Asia</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>W., 7-9 p.m.</meeting_text>
+<faculty_text>Kevin N. Caffrey</faculty_text>
+<description>This course inquires into the conditions of protests, self-immolations, and rioting by examining cultural, social, and political difference to look at violence as phenomena. We examine cases such as discord in Sri Lanka; communal violence in South Asia; ethnic wars in Burma (Myanmar); discord and protest in China; ethno-religious violence in Indonesia; or Muslim 'insurgency' in southern Thailand. The course will bring critical attention to the issues of ethnicity, religion, conflict, and protest while analyzing violence as an anthropological category in order to situate current social and political events.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa927d454cfc1f1f89424e277bd97f680">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>N.</middle>
+<last>Caffrey</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fa927d454cfc1f1f89424e277bd97f680">
+<name>
+<prefix/>
+<first>Kevin</first>
+<middle>N.</middle>
+<last>Caffrey</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Hilles" room="Conference Room 2" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

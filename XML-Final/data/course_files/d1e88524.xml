@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="77121" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>cc</num_char>
+</course_number>
+<title>Readings on Market Imperfections and Implications for Government Intervention</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>18</enrollment_limit>
+<meeting_text>M., at 2</meeting_text>
+<faculty_text>Nathaniel Hendren</faculty_text>
+<description>This course focuses on rationales for and methods of government interventions in private markets. We cover various rationales, such as environmental externalities, fiscal externalities, and asymmetric information. And, we focus on various methods of intervention, such as taxes, regulation, direct government provision, mandates. We motivate our discussions using a combination of classic economics papers and more recent work focused on topical issues such as health insurance regulation and climate change.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa16c102d532ec0f9a6c49bbae1e7c535">
+<name>
+<prefix/>
+<first>Nathaniel</first>
+<middle/>
+<last>Hendren</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

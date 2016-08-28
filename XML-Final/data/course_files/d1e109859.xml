@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3187" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>121</num_int>
+</course_number>
+<title>Introduction to Optimization: Models and Methods</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>60</enrollment_limit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Yiling Chen and David C. Parkes</faculty_text>
+<description>Introduction to basic mathematical ideas and computational methods for solving deterministic and stochastic optimization problems. Topics covered: linear programming, integer programming, branch-and-bound, branch-and-cut, Markov chains, Markov decision processes. Emphasis on modeling. Examples from business, society, engineering, sports, e-commerce. Exercises in AMPL, complemented by Maple or Matlab.</description>
+<prerequisites>Applied Mathematics 21b or Mathematics 21b (linear algebra) and some knowledge of probability and statistics at the level of Statistics 110 or Applied Mathematics 101 or permission of instructor.</prerequisites>
+<notes>Applied Mathematics 121 is also offered as Engineering Sciences 121. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 121.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F95f8fce2aa8b3f2676e025b2d0cd3ae6">
+<name>
+<prefix/>
+<first>Yiling</first>
+<middle/>
+<last>Chen</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb023f4580b03208372b9df7b3c6f8c6f">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Parkes</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Maxwell Dworkin" room="G-125" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

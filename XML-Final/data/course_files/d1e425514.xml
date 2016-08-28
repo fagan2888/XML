@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65809" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>71</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Classicism and Modernity: An Introduction to Performance</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., Th., 11-12:30</meeting_text>
+<faculty_text>Sylvaine Guyot</faculty_text>
+<description>Is the stage of the past the "other" of modern theater? We will explore the relationship between classicism and modernity by considering a set of plays representative of central trends in French drama from the early modern age to contemporary times. Readings include the most famous playwrights of both the 17th (Moliere, Corneille, Racine) and the 20th-21st centuries (Sartre, Badiou, Lagarce, N'Diaye). Special emphasis paid to the ideological power of images through theatrical workshops and video versions of recent productions. The final project consists of an excerpt to be performed in French.</description>
+<prerequisites>A 50- or 60-level course in French; a score above 780 on the SAT II test or the Harvard Placement test, equivalent preparation, or permission of course head. Interested students must apply in writing to Professor Guyot no later than September 3, 2013.</prerequisites>
+<notes>Conducted in French. May not be taken for credit by students who have previously taken French 61a.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe70f020198b6610cdb0e6db2a0c1d24c">
+<name>
+<prefix/>
+<first>Sylvaine</first>
+<middle/>
+<last>Guyot</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

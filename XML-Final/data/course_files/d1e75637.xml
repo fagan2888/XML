@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="321" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>245</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Sinophone Studies - Modern Chinese Fiction on the Periphery</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>David Der-Wei Wang</faculty_text>
+<description>Survey of modern Chinese fiction and narratology from Taiwan, Hong Kong, and the Chinese Diaspora: polemics of the canon, dialogues between national and regional imaginaries, and literary cultures in the Sinophone world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe790a2b8396e12fed32ad26201143f8e">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Der-Wei</middle>
+<last>Wang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

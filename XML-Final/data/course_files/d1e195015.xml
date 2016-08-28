@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37678" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="ETH-REASON">Ethical Reasoning</course_group>
+<course_number>
+<num_int>36</num_int>
+</course_number>
+<title>Institutional Corruption</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Lawrence Lessig (Harvard Law School)</faculty_text>
+<description>Institutions make modern life possible by organizing human interactions on a massive scale. We generally benefit from the incentives, norms, and information that institutions provide. However, if corrupted, institutions can cause grave harm. This course will introduce students to "institutional corruption" and equip them with the intellectual tools needed to diagnose, understand, and address its problems. The first half of the semester will draw on economic theory, political philosophy, psychology, and sociology to understand institutional corruption. The second half will examine cases of institutional corruption in medicine, finance, politics, courts, journalism, and academic research and further explore strategies for reform.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5f16faecf64fa5431b9e6e05f38a4913">
+<name>
+<prefix/>
+<first>Lawrence</first>
+<middle/>
+<last>Lessig</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Ethical Reasoning"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18621" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="JAPNHIST">Japanese History</course_group>
+<course_number>
+<num_int>133</num_int>
+</course_number>
+<title>Discourses of Ainu Identity (1868-2008)</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-5</meeting_text>
+<faculty_text>Noemie Godefroy</faculty_text>
+<description>From their integration into the Japanese population in 1871 to their recognition by the Japanese government as an indigenous people of Japan in 2008, the history of the Ainu people has been in part a struggle over their discursive representation. Designated by Japanese dominant discourse as "former aborigines", coined "a vanishing people" before all but disappearing from it all together, the Ainu have had to reclaim their discursive representation, affirm their identity, ultimately achieving international, and national recognition less than a decade ago. These two movements -governmental discursive deconstruction of Ainu identity on the one hand, and Ainu discursive reclamation of their own identity, on the other- are intricately linked; Ainu affirmative discourse developed not a separate reaction to the hegemonic governmental discourse, but with and as a part of it. This course conjunctly aims at defining a theoretical framework for discourse analysis, interethnic relations, and the study of ethnic identity, and analyzing various sources defining and discussing Ainu identity (written or translated into English) produced by the Ainu themselves (epic songs, autobiographies, articles, speeches, etc.), the Japanese (legislative and institutional texts, registers, acts, surveys, speeches, etc.) and Western authors (travelogues, accounts, international exhibition catalogues, etc).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F4f2aaa2ed6f53d7b0220120e903dda94">
+<name>
+<prefix/>
+<first>Noemie</first>
+<middle/>
+<last>Godefroy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

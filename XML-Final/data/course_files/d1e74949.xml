@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2533" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSLIT">Chinese Literature</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Research Methods in Pre-modern Chinese Literature--Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Stephen Owen</faculty_text>
+<description>An introduction to the use of Western and East Asian sources in literary research, including both print and digital media. In addition, one hour each week will be devoted to a basic text in literary theory.</description>
+<prerequisites/>
+<notes>Primarily for first- and second-year graduate students (MA or PhD).</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb17423a1592e50ee9d1707f125fa14bd">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Owen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

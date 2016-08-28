@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="182" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>Physics of Medical Imaging</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>This course presents the underlying physics of modern medical diagnostic imaging techniques. We will explore the physics of diagnostic imaging from a unified electromagnetics' viewpoint ranging from a simple mapping of radiation attenuation coefficients in X-ray, to resonance absorption in a nuclear magnetic resonance (NMR) induced inhomogeneously broadened RF absorber. The bulk of the course will focus on the powerful technique of NMR imaging. Flexibility exists to vary the depth of each area depending on background and experience of the students.</description>
+<prerequisites>Physics 15b or 11b and mathematics preparation at least to the level of Mathematics 21b taken concurrently. Physics 143a and b are recommended but not essential.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

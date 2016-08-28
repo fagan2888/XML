@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2984" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>240</num_int>
+</course_number>
+<title>Solid Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Joost J. Vlassak</faculty_text>
+<description>Foundations of continuum mechanics, development of elasticity theory, and introduction to plasticity and creep. Elastic waves. Basic elasticity solutions. Variational principles.</description>
+<prerequisites>Applied Mathematics 105 (formerly Applied Mathematics 105b) or equivalent; introduction to solid mechanics at the level of Engineering Sciences 120, or Earth and Planetary Sciences 108 or 166, or Applied Physics 293.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fa14f57b6773a73bf5c8bfe7c5e97d88c">
+<name>
+<prefix/>
+<first>Joost</first>
+<middle>J.</middle>
+<last>Vlassak</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Cruft Memorial Lab" room="309" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

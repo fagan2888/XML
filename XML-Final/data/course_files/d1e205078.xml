@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5412" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>72</num_int>
+</course_number>
+<title>German Literature from Kafka to Jelinek</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Judith Ryan</faculty_text>
+<description>The course focuses on central texts in 20th-century German literature. Readings include works by Freud, Rilke, Kafka, Brecht, Celan, Bachmann, Bernhard, Jelinek, and Muller. The course provides an historical overview, introduces core concepts in literary analysis, and sharpens German reading and writing skills.</description>
+<prerequisites>German 61, equivalent preparation, or permission of the instructor. German 71 is not a prerequisite for 72.</prerequisites>
+<notes>Conducted in German.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F54f3b25241b12492545ef7c0432b9081">
+<name>
+<prefix/>
+<first>Judith</first>
+<middle>L.</middle>
+<last>Ryan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+</requirements>
+</course></courses>

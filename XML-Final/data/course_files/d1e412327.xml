@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63133" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1307</num_int>
+</course_number>
+<title>Brain Genomics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Randy L. Buckner</faculty_text>
+<description>Genetics provides a powerful approach for exploring human behavioral variation and learning how dysfunction in neural circuits influences cognition. This course will cover the basics of genetic inheritance and genomic sequencing to understand brain function. Topics include autistic disorders, schizophrenia, and normal cognitive variation. The goals of the class will be (1) to debate the potential of bridging genomics and human neuroscience, and (2) to survey recent successes in brain genomics.</description>
+<prerequisites>Life Science 1A; MCB 80 or Science of Living Systems 20 desirable.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F207298b163309b4b990e598c877cbd0a">
+<name>
+<prefix/>
+<first>Randy</first>
+<middle>Lee</middle>
+<last>Buckner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

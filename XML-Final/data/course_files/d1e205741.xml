@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="26778" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="GERMAN">German</course_group>
+<course_number>
+<num_int>131</num_int>
+</course_number>
+<title>Deutsche Romantik: Zwischen Fragmentierung und Heilung</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Nicole Sutterlin</faculty_text>
+<description>Examines the fragments and (w)holes of romantic literature, focusing on the productive tension between forms of decomposition, dismemberment, wounding, on the one hand, and ideas of ideality, unity, healing, on the other. Includes a study of conflicting traditions of romantic criticism and their preferences for either fragmentation or wholeness. Authors include Novalis, Brentano, Gunderrode, Hoffmann, Arnim, Heine, as well as other key figures of the Goethezeit such as Holderlin, Jean Paul, Kleist.</description>
+<prerequisites/>
+<notes>Readings in German, discussions in German and English.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0aa2c36fcba806abb402fcff4144efdb">
+<name>
+<prefix/>
+<first>Nicole</first>
+<middle/>
+<last>Suetterlin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="359 (Nebel Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="68953" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>127</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Advanced Conducting</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>6</enrollment_limit>
+<meeting_text>M., 1-4</meeting_text>
+<faculty_text>Federico Cortese</faculty_text>
+<description>The course focuses on parallel development of the symphonic and quartet style in Beethoven. Conductors will learn the basic technique and rehearsal skills while conducting the works with two pianos and a string group. String players will perform the selected Beethoven quartets and also serve as a string group for the conductors. A moderate amount of analysis and historical background of the pieces will be discussed.</description>
+<prerequisites/>
+<notes>At the first class meeting appropriate skills levels will be evaluated.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fedff96772a893661f9ec26e75f7f75aa">
+<name>
+<prefix/>
+<first>Federico</first>
+<middle/>
+<last>Cortese</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

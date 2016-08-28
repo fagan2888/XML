@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3706" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1170</num_int>
+</course_number>
+<title>Mesoamerican Writing Systems</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Alexandre Andreevich Tokovinine</faculty_text>
+<description>This course explores the role of writing broadly defined in the social, political, and religious fabric of ancient civilizations of Mexico, Guatemala, Belize, and Honduras. This region known as Mesoamerica is characterized by an amazing variety of indigenous writing systems, from phonetic ones like Maya hieroglyphs, to largely pictographic notations such as Mixtec records. The course offers a survey of Mesoamerican writing systems that centers on the basic properties of the scripts and their uses. It highlights how specific features of Mesoamerican writing systems reflect broader regional traditions with respect to the role of writing in social, political, and religious life.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb4d2c7b3c8dc44735c98e45d9ba15ad">
+<name>
+<prefix/>
+<first>Alexandre</first>
+<middle>Andreevich</middle>
+<last>Tokovinine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

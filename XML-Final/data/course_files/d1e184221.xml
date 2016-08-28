@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8408" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>46</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>Human Rights in Peace and War</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Jennifer Leaning (Public Health) and Jacqueline Bhabha (Public Health)</faculty_text>
+<description>Studies how human rights perspective illuminates relations between state authority and individuals and defines standards of behavior that societies agree to aspire to reach. Topics include the 1948 Universal Declaration of Human Rights, rights in political and economic spheres, the rights of women, children, and refugees, international human rights law and international humanitarian law, and the state, regional, and international processes and structures that establish and monitor the regime of international human rights law.</description>
+<prerequisites/>
+<notes>Open to Freshmen only. Meets at the Harvard Kennedy School in Harvard Square.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff6878316b95a6f9d9b77bd1d9c4d7e1f">
+<name>
+<prefix/>
+<first>Jennifer</first>
+<middle/>
+<last>Leaning</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F27e0f0f0d050891fb94287be0a119eaf">
+<name>
+<prefix/>
+<first>Jacqueline</first>
+<middle/>
+<last>Bhabha</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="S-003" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

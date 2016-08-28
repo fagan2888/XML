@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1197" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1017</num_int>
+</course_number>
+<title>A Libertarian Perspective on Economic and Social Policy</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>200</enrollment_limit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30</meeting_text>
+<faculty_text>Jeffrey A. Miron</faculty_text>
+<description>Analyses the libertarian perspective on economic and social policy. This perspective differs from both liberal and conservative views, arguing for minimal government in most arenas. Policies addressed include drug prohibition, gun control, and public education.</description>
+<prerequisites>Ec 10a and Ec 10b.</prerequisites>
+<notes>Analyses the libertarian perspective on economic and social policy. This perspective differs from both liberal and conservative views, arguing for minimal government in most arenas. Policies addressed include drug prohibition, gun control, public education, abortion rights, gay marriage, income redistribution, and campaign finance regulation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F807212da7d87a599335786ed90be70d5">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle/>
+<last>Miron</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

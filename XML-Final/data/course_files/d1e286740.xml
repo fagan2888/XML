@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8747" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="CELLBIO">Cell Biology</course_group>
+<course_number>
+<num_int>226</num_int>
+</course_number>
+<title>Concepts in Development, Self-Renewal, and Repair</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>F., 2-5</meeting_text>
+<faculty_text>Iain A. Drummond (Medical School) and Amar Sahay (Medical School)</faculty_text>
+<description>Explores developmental mechanisms through the life cycle, contrasting pluripotency and cell fate restriction in embryos and adult tissues. In depth analysis of in vivo approaches, with emphasis on adult stem cells, tissue repair and self-renewal.</description>
+<prerequisites>Upper division cell biology or equivalent.</prerequisites>
+<notes>Offered jointly with the Medical School as CB 721.0. For more information visit: &lt;a href="http://www2.massgeneral.org/bbs/" target="-blank"&gt;Massachusetts General Hospital&lt;/a&gt; and select CB 226.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F61de7a15d2f7cdba8d3c114a593f3153">
+<name>
+<prefix>Dr</prefix>
+<first>Iain</first>
+<middle>A.</middle>
+<last>Drummond</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2ce1d487335517d8a9dc0d289d519fb7">
+<name>
+<prefix>Dr</prefix>
+<first>Amar</first>
+<middle/>
+<last>Sahay</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

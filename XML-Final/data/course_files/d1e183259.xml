@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5714" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>42</num_int>
+<num_char>n</num_char>
+</course_number>
+<title>Comparative National Security of Middle Eastern Countries</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Charles David Freilich</faculty_text>
+<description>The course surveys the national security threats and opportunities facing the primary countries of the Middle East, from their perspective. Issues discussed include the domestic sources of national security considerations, including regime change and the impact of the Arab Spring, relations with regional and international players, military doctrine, foreign policy principles. The seminar is an interactive, "real world" exercise, in which students play the role of leaders in the countries of their choosing and write practical policy recommendations on current affairs.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F561db0ffcebd9ddea3d3db0bd5e5a97c">
+<name>
+<prefix/>
+<first>Charles</first>
+<middle/>
+<last>Freilich</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

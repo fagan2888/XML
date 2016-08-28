@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9516" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>3080</num_int>
+<num_char>hf</num_char>
+</course_number>
+<title>Graduate Reading Course: Evaluative Science and Statistics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fb3c9cbee16daa4e095a19c0e98e93531">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>Michael</middle>
+<last>McWilliams</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2b919e1cbb685e3b08fd1a540db4ef27">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Soumerai</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fb3c9cbee16daa4e095a19c0e98e93531">
+<name>
+<prefix>Dr</prefix>
+<first>John</first>
+<middle>Michael</middle>
+<last>McWilliams</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2b919e1cbb685e3b08fd1a540db4ef27">
+<name>
+<prefix/>
+<first>Stephen</first>
+<middle/>
+<last>Soumerai</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F75332c41bfc7ee254a77da3862d857cf">
+<name>
+<prefix/>
+<first>Alan</first>
+<middle/>
+<last>Zaslavsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

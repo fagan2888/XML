@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="63211" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>155</num_int>
+</course_number>
+<title>Epigenetic Regulation in Development</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Alexander Meissner</faculty_text>
+<description>Cloning of Dolly the sheep suggests that all of our cells have exactly the same genes as a fertilized egg. If this is true, then how is it that each of our cells reads out those genes differently? This course will explain the developmental events that regulate the expression of genes, as well as how this developmental expression is established and maintained.</description>
+<prerequisites>Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; MCB 52; SCRB 10 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Ffcbc00c43acc3c71cd8e6a537a72c06a">
+<name>
+<prefix/>
+<first>Alexander</first>
+<middle/>
+<last>Meissner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

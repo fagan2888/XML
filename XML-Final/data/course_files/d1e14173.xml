@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4736" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1150</num_int>
+</course_number>
+<title>Ancient Landscapes</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 3-6</meeting_text>
+<faculty_text>Jason A. Ur</faculty_text>
+<description>Archaeological approaches to settlement and land use at the regional scale. Issues will include settlement systems, agricultural and pastoral systems, the role of humans environmental change, and also the methods used to investigate them.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6d160deef5c5d0c72eba28d6854fb314">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle>Alik</middle>
+<last>Ur</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

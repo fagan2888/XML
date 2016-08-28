@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="25566" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>68</num_int>
+</course_number>
+<title>Migrations: American Immigrant Literature</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>27</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Glenda R. Carpio</faculty_text>
+<description>During the last 50 years, the United States has received immigrants from Latin American, Caribbean, African, and Asian countries in contrast to previous waves of immigration, which were primarily from Northern or Eastern Europe. This course will first explore classic American immigrant narratives and then focus on contemporary texts (by writers such as Teju Cole, Junot Diaz, Chimamanda Adiche) taking on a comparative approach that is rooted in the history of immigration in American culture.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2573af4905b8b108f21ba8a6bbb3391e">
+<name>
+<prefix/>
+<first>Glenda</first>
+<middle/>
+<last>Carpio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="114 (Kresge Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6225" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>91</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Supervised Reading and Research</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Fall: (F.), at 8</meeting_text>
+<faculty_text>Director of Studies and staff</faculty_text>
+<description>The study of selected topics in studies of women, gender, and sexuality.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F67a1dc7e159d9f57f7aa554402dea4a5">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Light</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1e2c946cabb986206571f07b9324dc48">
+<name>
+<prefix/>
+<first>Afsaneh</first>
+<middle/>
+<last>Najmabadi</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F4df52a41d91ec8093b9ac3589143cd2d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Bronski</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F624ec9b905eeb8a41a236d146573b121">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Bernstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa71fd2c5965c593b69c06613fc55f773">
+<name>
+<prefix/>
+<first>Alice</first>
+<middle/>
+<last>Jardine</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F67a1dc7e159d9f57f7aa554402dea4a5">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Light</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F1e2c946cabb986206571f07b9324dc48">
+<name>
+<prefix/>
+<first>Afsaneh</first>
+<middle/>
+<last>Najmabadi</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F2baae5884e58ac5b8f0934d855bb978c">
+<name>
+<prefix/>
+<first>Sarah</first>
+<middle>S</middle>
+<last>Richardson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F4df52a41d91ec8093b9ac3589143cd2d">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Bronski</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F624ec9b905eeb8a41a236d146573b121">
+<name>
+<prefix/>
+<first>Robin</first>
+<middle/>
+<last>Bernstein</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa71fd2c5965c593b69c06613fc55f773">
+<name>
+<prefix/>
+<first>Alice</first>
+<middle/>
+<last>Jardine</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fb3caa09bb60e9bcfd939f9237f548bc8">
+<name>
+<prefix/>
+<first>Linda</first>
+<middle/>
+<last>Schlossberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

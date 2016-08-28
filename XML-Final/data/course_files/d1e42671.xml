@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="51424" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CELT">
+<dept_long_name>Department of Celtic Languages and Literatures</dept_long_name>
+<dept_short_name>Celtic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="CELTIC">Celtic</course_group>
+<course_number>
+<num_int>103</num_int>
+</course_number>
+<title>Celts: People or Myth?</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Catherine McKenna</faculty_text>
+<description>This course examines the ways that an elusive population group called "The Celts" has been constructed from antiquity to the present. We study the linguistic, archaeological, genetic, mythological, literary and institutional bases of "Celticity" in the light of recent critiques of the ways in which these different kinds of evidence have been asked to walk hand in hand with one another in the service of certainty about Celtic identity.</description>
+<prerequisites/>
+<notes>// All texts are read in translation.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc5f82e9ee9debd320091f8ee5437c52d">
+<name>
+<prefix/>
+<first>Catherine</first>
+<middle/>
+<last>McKenna</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

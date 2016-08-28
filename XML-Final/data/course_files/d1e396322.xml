@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="253" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>143</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Quantum Mechanics II</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10&amp;#8211;11:30 and a weekly section to be arranged</meeting_text>
+<faculty_text>Girma Hailu</faculty_text>
+<description>Introduction to path integrals, identical particles, WKB approximation, time-dependent perturbation theory, photons and atoms, scattering theory, and relativistic quantum mechanics.</description>
+<prerequisites>Physics 143a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F618e2d812144167df04dea9b9882fcdb">
+<name>
+<prefix/>
+<first>Girma</first>
+<middle/>
+<last>Hailu</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="256" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

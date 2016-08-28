@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36774" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>3200</num_int>
+</course_number>
+<title>Dissertation Writing Workshop in Social Anthropology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fdfa10e30eb866665b83ceb2a35613f80">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>M.</middle>
+<last>Steedly</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F0037454d068b85f7e2d5348b8d43309a">
+<name>
+<prefix/>
+<first>Ajantha</first>
+<middle/>
+<last>Subramanian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1200" end_time="1400"/>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1900" end_time="2100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Tozzer Library" room="Tozzer Library 416" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

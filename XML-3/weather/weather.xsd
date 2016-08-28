@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos">
+    
+<xs:import namespace="http://www.w3.org/2003/01/geo/wgs84_pos" schemaLocation="geo.xsd"/>
+
+<xs:complexType name="link">
+    <xs:attribute name="url" use="required" type="xs:anyURI"/>
+    <xs:attribute name="src" use="optional" type="xs:anyURI"/>
+    <xs:attribute name="title" use="optional" type="xs:token"/>
+</xs:complexType>
+
+<xs:complexType name="temp">
+    <xs:attribute name="value" use="required" type="xs:decimal"/>
+</xs:complexType>
+
+<xs:element name="current_observation">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="credit" type="link"/>
+            <xs:element ref="suggested_pickup"/>
+            <xs:element ref="location"/>
+            <xs:element maxOccurs="unbounded" ref="readings"/>
+            <xs:element ref="wind"/>
+            <xs:element ref="pressure"/>
+            <xs:element ref="urls"/>
+        </xs:sequence>
+        <xs:attribute name="relative_humidity" use="required" type="xs:integer"/>
+        <xs:attribute name="time_display" use="required"/>
+        <xs:attribute name="time_rfc822" use="required"/>
+        <xs:attribute name="version" use="required" type="xs:decimal"/>
+        <xs:attribute name="visibility_mi" use="required" type="xs:decimal"/>
+        <xs:attribute name="weather" use="required"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="suggested_pickup">
+    <xs:complexType>
+        <xs:attribute name="period" use="required" type="xs:integer"/>
+        <xs:attribute name="time" use="required"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="location">
+    <xs:complexType>
+        <xs:attribute name="display" use="required"/>
+        <xs:attribute name="station_id" use="required" type="xs:NCName"/>
+        <xs:attribute ref="geo:lat" use="required"/>
+        <xs:attribute ref="geo:long" use="required"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="readings">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="temperature" type="temp"/>
+            <xs:element name="dewpoint" type="temp"/>
+            <xs:element name="windchill" type="temp"/>
+        </xs:sequence>
+        <xs:attribute name="label" use="required"/>
+        <xs:attribute name="system" use="required" type="xs:NCName"/>
+        <xs:attribute name="units" use="required" type="xs:NCName"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="wind">
+    <xs:complexType>
+        <xs:attribute name="degrees" use="required" type="xs:integer"/>
+        <xs:attribute name="dir" use="required" type="xs:NCName"/>
+        <xs:attribute name="gust_kt" use="required" type="xs:integer"/>
+        <xs:attribute name="gust_mph" use="required" type="xs:decimal"/>
+        <xs:attribute name="kt" use="required" type="xs:integer"/>
+        <xs:attribute name="mph" use="required" type="xs:decimal"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="pressure">
+    <xs:complexType>
+        <xs:attribute name="in" use="required" type="xs:decimal"/>
+        <xs:attribute name="mb" use="required" type="xs:decimal"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="urls">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="icon" type="link"/>
+            <xs:element name="two_day_history" type="link"/>
+            <xs:element name="ob" type="link"/>
+            <xs:element name="disclaimer" type="link"/>
+            <xs:element name="copyright" type="link"/>
+            <xs:element name="privacy_policy" type="link"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+    
+</xs:schema>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="359" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>128</num_int>
+</course_number>
+<title>Computational Solid and Structural Mechanics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30 and a weekly section to be arranged.</meeting_text>
+<faculty_text>Katia Bertoldi</faculty_text>
+<description>Introduction to finite element methods for analysis of steady-state and transient problems in solid, structural, fluid mechanics, and heat transfer. Implementation of simple MATLAB codes and use of existing general-purpose programs (ABAQUS and COMSOL).</description>
+<prerequisites>Engineering Sciences 120 or equivalent introduction to the mechanics of deformable materials and fluids. Engineering Sciences 123 may be taken concurrently.</prerequisites>
+<notes>//Offered alternate years.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F99591dfa744e91f4d06f22f59c650f41">
+<name>
+<prefix/>
+<first>Katia</first>
+<middle/>
+<last>Bertoldi</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

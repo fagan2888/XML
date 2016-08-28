@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="46959" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>141</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Mathematical Modeling of Cancer</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Franziska Michor (Public Health)</faculty_text>
+<description>The mathematical investigation of cancer began in the 1950s, when Nordling, Armitage and Doll, and Fisher set out to explain the age-dependent incidence curves of human cancers. These seminal studies led to the idea that several probabilistic events are required for the somatic evolution of cancer. In the early 1970s, Knudson used a statistical analysis of the incidence of retinoblastoma in children to explain the role of tumor suppressor genes in sporadic and inherited cancers. This work was later extended to a two-stage stochastic model for the process of cancer initiation and progression, which inspired much subsequent work. Later on, considerable effort was devoted to the development of specific mathematical models for drug resistance, angiogenesis, immune responses against tumors, and genetic instabilities. This course will introduce the seminal mathematical models of cancer and will discuss both deterministic and probabilistic approaches. The course is focused on methodology; some limited theory will be covered. Computational techniques are now a standard research tool in mathematical modeling and as a result, there will also be discussion of computation. Students are expected to be familiar with a programming language such as Fortran, Matlab, C, C++, or equivalent.</description>
+<prerequisites>Applied Math 101, Statistics 110 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F6ac3db62597098e6d9f8f13debb45f88">
+<name>
+<prefix/>
+<first>Franziska</first>
+<middle/>
+<last>Michor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

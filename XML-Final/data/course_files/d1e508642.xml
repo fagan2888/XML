@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="66304" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="VES">
+<dept_long_name>Department of Visual and Environmental Studies</dept_long_name>
+<dept_short_name>Visual and Environmental Studies</dept_short_name>
+</department>
+<course_group code="VES">Visual and Environmental Studies</course_group>
+<course_number>
+<num_int>158</num_int>
+<num_char>cr</num_char>
+</course_number>
+<title>Sensory Ethnography 2</title>
+<course_type>Studio</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Mondays, Wednesdays 2pm-4pm, Tuesdays 6pm-8pm</meeting_text>
+<faculty_text>Lucien G. Castaing-Taylor</faculty_text>
+<description>Students collaborate in the production of substantial work of ethnographically informed non-fiction media. Principal recording should have occurred before enrolling in the course.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6a780e85707c2933cb63cd6cb4ca474a">
+<name>
+<prefix/>
+<first>Lucien</first>
+<middle/>
+<last>Castaing-Taylor</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="416" type="Studio"/>
+<location term="1" building="Sever Hall" room="416" type="Studio"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5680" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>30</num_int>
+</course_number>
+<title>Life as a Planetary Phenomenon</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>300</enrollment_limit>
+<meeting_text>Tu., Th., 11:30-1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Dimitar D. Sasselov (Astronomy)</faculty_text>
+<description>This course considers the relationship between life and the planet on which it resides. It examines the scientific quest to understand where life might thrive beyond Earth. On Earth, life was born of planetary processes and has been sustained by plate tectonics and other physical processes. Through evolution, life has in fact emerged as major influence on our planet's surface. Fundamental features of terrestrial life and evolution are addressed in the context of astronomy, planetary physics and chemistry. These, in turn, provide a basis for the exploration for other habitable planets, both within our solar system and in the greater universe.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0139fada44d52dc48a046e1f0e26706e">
+<name>
+<prefix/>
+<first>Dimitar</first>
+<middle/>
+<last>Sasselov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

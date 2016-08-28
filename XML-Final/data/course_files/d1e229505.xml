@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1910" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1270</num_int>
+</course_number>
+<title>Frontiers of Europe: Ukraine since 1500</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30</meeting_text>
+<faculty_text>Serhii Plokhii</faculty_text>
+<description>The history of Ukrainian territory and its people within a broad context of political, social and cultural changes in Eastern Europe in the course of the half of a millennium. Special emphasis on the role of Ukraine as a cultural frontier of Europe, positioned on the border between settled areas and Eurasian steppes, Christianity and Islam, Orthodoxy and Catholicism, as well as a battleground of major imperial and national projects of modern era.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6b7356399a9eab69b4609e1ca8b3f79c">
+<name>
+<prefix/>
+<first>Serhii</first>
+<middle/>
+<last>Plokhii</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-South" room="450" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+</requirements>
+</course></courses>

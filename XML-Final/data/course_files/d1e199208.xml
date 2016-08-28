@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5568" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SOC-WORLD">Societies of the World</course_group>
+<course_number>
+<num_int>26</num_int>
+</course_number>
+<title>Africa and Africans: The Making of a Continent in the Modern World</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Caroline M. Elkins (History)</faculty_text>
+<description>Understanding Africa as it exists today requires an understanding of the broader historical trends that have dominated the continent's past. This course will provide an historical context for understanding issues and problems as they exist in contemporary Africa. It will offer an integrated interpretation of sub-Saharan African history from the middle of the 19th century and the dawn of formal colonial rule through the period of independence until the present time. Particular emphasis will be given to the continent's major historical themes during this period. Selected case studies will be offered from throughout the continent to provide illustrative examples of the historical trends.</description>
+<prerequisites/>
+<notes>This course fulfills the AAAS 11, Introduction to African Studies, course requirement for a concentration or secondary field in African and African American Studies. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8e304e87768a2940020143fea78cc344">
+<name>
+<prefix/>
+<first>Caroline</first>
+<middle/>
+<last>Elkins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Foreign Cultures"/>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Societies of the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

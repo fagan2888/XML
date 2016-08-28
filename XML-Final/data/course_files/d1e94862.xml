@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1917" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1723</num_int>
+</course_number>
+<title>Capital Markets</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30, and a weekly section to be arranged.</meeting_text>
+<faculty_text>John Y. Campbell</faculty_text>
+<description>An introduction to the economic analysis of investment decisions and financial markets. Concepts include time discounting, market efficiency, risk, and arbitrage. These concepts are applied to fixed-income securities, equities, and derivative securities.</description>
+<prerequisites>Statistics 100 and Economics 1010a1, 1010a2, or 1011a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fab2ed7f0a4bcf285fb7fbddfd644ef48">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Y.</middle>
+<last>Campbell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Jefferson Lab" room="250" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91865" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>160</num_int>
+</course_number>
+<title>Intersection of Polish and Jewish Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 12-2</meeting_text>
+<faculty_text>Jessie Labov (Ohio State University)</faculty_text>
+<description>A survey-style course that recreates several major moments of intersection between Polish and Jewish literatures. Both of these categories can be understood as placeholders for larger constellations of culture: from the Polish-Lithuanian Commonwealth to the Ashkenazic Pale. Starting with the medieval ghetto, the presence/absence of Polish Jews in Polish cultural memory forms one line of inquiry; Polin as a present/absent homeland in Jewish thought from the 16th through 21st centuries forms another. These two cultures have been intertwined for longer than they have been considered separately; we read them in order to place them once again in dialogue.</description>
+<prerequisites/>
+<notes>All texts taught in English translation. Any knowledge of Polish, Hebrew, or Yiddish a plus.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa7bce001f5e932adb42e3004f650d044">
+<name>
+<prefix/>
+<first>Jessie</first>
+<middle/>
+<last>Labov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

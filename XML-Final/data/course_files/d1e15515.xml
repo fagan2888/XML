@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48924" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1250</num_int>
+</course_number>
+<title>The Pyramids of Giza: Technology, Archaeology, History: Seminar</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 11, with occasional sections and field trips to be arranged.</meeting_text>
+<faculty_text>Peter Der Manuelian</faculty_text>
+<description>Focuses on the Pyramids, Sphinx, and tombs at Giza (ca. 2500 BC), in the context of ancient Egyptian history, art, and archaeology. The HU-MFA Expedition excavated Giza, resulting in today's Giza Project at Harvard. Seminar takes place in Harvard's Visualization Center with 3D viewing of the Giza Necropolis on a 23-foot screen, and consists of introductory lectures, student presentations, and field trips. Topics range from challenges of archaeological information processing to Old Kingdom mortuary art and architecture, to issues of ownership and repatriation. Students will also contribute to the (real world) Giza Project at Harvard.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F33d0218f6c7df0f0511ff24a5a7e48fc">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>Der</middle>
+<last>Manuelian</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Museum of Comparative Zoology" room="220" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

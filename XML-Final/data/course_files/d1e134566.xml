@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="994" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="ENG-SCI">Engineering Sciences</course_group>
+<course_number>
+<num_int>139</num_int>
+</course_number>
+<title>Innovation in Science and Engineering: Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>David A. Weitz</faculty_text>
+<description>Explores factors and conditions contributing to innovation in science and engineering; how important problems are found, defined, and solved; roles of teamwork and creativity; and applications of these methods to other endeavors. Students receive practical and professional training in techniques to define and solve problems, and in brainstorming and other individual and team approaches.</description>
+<prerequisites/>
+<notes>Offered jointly with the Design School as SCI-06272. Taught through a combination of lectures, discussions, and exercises led by innovators in science, engineering, arts, and business.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F37f466225c3feb4b439445e32efecf4c">
+<name>
+<prefix/>
+<first>David</first>
+<middle>A.</middle>
+<last>Weitz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Northwest Building" room="B101" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

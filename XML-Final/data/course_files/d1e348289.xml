@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2239" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>4</num_int>
+</course_number>
+<title>Introduction to Composition</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 3-5</meeting_text>
+<faculty_text>Osnat Netzer</faculty_text>
+<description>Open to students with little or no prior experience in composition. Explores ways of thinking about and organizing basic compositional elements such as melody, harmony, rhythm and instrumental color, as well as developing skills of score preparation and analytical listening. The primary focus of the course is a series of short compositional exercises, culminating in a somewhat longer final project. Workshop performances of students' music take place throughout the term.</description>
+<prerequisites>Some prior experience in music theory or permission of the instructor.</prerequisites>
+<notes>May not be counted for concentration credit.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F30f9167877f4c99514b61d9ed34158e3">
+<name>
+<prefix/>
+<first>Osnat</first>
+<middle/>
+<last>Netzer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="4" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

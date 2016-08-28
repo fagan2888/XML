@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="54362" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>147</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>The Book of Hours : Pictures and Prayer in the Middle Ages</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Jeffrey F. Hamburger</faculty_text>
+<description>Taught from the collection of Books of Hours in the Houghton Library, the course will teach students how to describe and study medieval manuscripts and introduce various aspects of these richly illuminated prayer books. Special attention to the texts and images in the context of later medieval painting and piety within longer traditions of picturing prayer extending back deep into the Middle Ages.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F172929cf4c6b52dd8d88e24d67ad2549">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>F.</middle>
+<last>Hamburger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

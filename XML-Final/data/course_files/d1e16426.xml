@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4185" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1650</num_int>
+</course_number>
+<title>Thinking with Collections</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>David R. Odo</faculty_text>
+<description>Anthropologists have to varying degrees been interested in the social nature of works of art and other material objects since the founding of the discipline, but especially in objects created outside of western societies, the traditional domain of art historians. In art history, recent years have witnessed a shift toward a more global scope of research and away from Eurocentric definitions of what constitutes art, even as anthropological interest in all forms of art and art making continues to expand. This seminar will examine broad issues in material anthropology using objects from across multiple Harvard collections, including the Harvard Art Museums, Peabody Museum of Archaeology and Ethnology, Houghton Library, the Collection of Historical Scientific Instruments, and other collecting entities. Ample consideration will be given to the making of objects, in a variety of artistic, cultural, and historical contexts. Theoretically and historically informed object-based investigations will enable seminar participants to discover new ways of using Harvard collections as an intellectual resource, critically examine exhibitionary strategies, and gain an understanding of complex collecting practices and politics, all within a comparative, cross-institution framework. Students will produce original work based on primary research conducting in Harvard collections.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F90c5bbbe134ef8daa2d63d52730f6d4b">
+<name>
+<prefix/>
+<first>David</first>
+<middle>R.</middle>
+<last>Odo</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

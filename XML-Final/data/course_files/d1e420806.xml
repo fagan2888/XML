@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="44307" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2653</num_int>
+</course_number>
+<title>Experimental Methods for Behavioral Research</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 11:30-2:45</meeting_text>
+<faculty_text>Francesca Gino (Business School), John Beshears (Business School), and Amy J. C. Cuddy (Business School)</faculty_text>
+<description>This course is aimed at doctoral students who intend to conduct experimental and quasi-experimental research for the study of individuals' behavior in business (e.g., marketing, organizational behavior) and related disciplines (e.g., psychology). The primary objective of the course is to provide students with the concepts and tools needed for planning and designing laboratory experiments, and for collecting and analyzing behavioral data. The course will also discuss other methodologies that may be helpful when working with field sites (namely, field experiments and surveys). A secondary objective is to provide students the foundations for the methodological evaluation of other behavioral researchers' work - a skill that will be helpful in their role as future academic reviewers. The course thus covers the designs and analyses that are most often used by experimental researchers in psychology, organizational behavior, and also marketing. The course will be hands-on and oriented towards providing technical skills for the design and implementation of laboratory experiments, including overcoming possible pitfalls and common barriers. The course assignment will be for students to write a proposal outlining the theory, design, power analyses, and proposed analysis for a laboratory experiment. Our hope is that the students will conduct the research during the course or afterwards, and that this course will help design and conduct impactful and rigorous behavioral research. Overall goal The overall goal of the course is for students to understand that how they design their experiment (all aspects of it) has a large role in whether they can answer their research questions. Please note that the course will begin on Monday, September 8th.</description>
+<prerequisites/>
+<notes>Open to doctoral students only. Offered jointly with the Business School as 4435.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0d309207119adc8cb428cc3b24a64fe8">
+<name>
+<prefix/>
+<first>Francesca</first>
+<middle/>
+<last>Gino</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F60dcc53d0f44dd5ebc27a241cff1674e">
+<name>
+<prefix/>
+<first>Amy</first>
+<middle>J. C.</middle>
+<last>Cuddy</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fc7058eb5ad40408f995137ce17c3d0b9">
+<name>
+<prefix/>
+<first>John</first>
+<middle>Leonard</middle>
+<last>Beshears</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1130" end_time="1445"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

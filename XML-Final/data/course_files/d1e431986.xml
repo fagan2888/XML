@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3322" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="PORTUG">Portuguese</course_group>
+<course_number>
+<num_int>59</num_int>
+</course_number>
+<title>Portuguese and the Community</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 11:30-1</meeting_text>
+<faculty_text>Clemence Jouet-Pastre and members of the Department</faculty_text>
+<description>An advanced language course examining the Luso-African-Brazilian experience in the US. Promotes community engagement as a vehicle for greater linguistic fluency and cultural understanding. Students will be placed with Boston-area community organizations and agencies. Class work focuses on readings and films by and about Luso-African-Brazilians and specific uses of Portuguese language from these communities. Authors include D. Macedo, Braga Martes, Margolis, Sales, Albues, and Villas Boas.</description>
+<prerequisites>Portuguese 30, 37, 40, or 44; a score of 100 on the Harvard Placement Test; or permission of the course head.</prerequisites>
+<notes>Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. To enroll, please contact Dr. Jouet-Pastre by January 15, 2013.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb59195749224ca9830d6ff9b5a29e43d">
+<name>
+<prefix/>
+<first>Clemence</first>
+<middle>M</middle>
+<last>Jouet-Pastre</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

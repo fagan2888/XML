@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="60756" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1249</num_int>
+</course_number>
+<title>Gender in African History</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 3-5</meeting_text>
+<faculty_text>Meghan Healy-Clancy</faculty_text>
+<description>This seminar surveys the changing politics of gender across African history, in conversation with global histories of gender and sexuality. We investigate three questions: How can we understand the history of gender in Africa before colonialism? What role did gender play in the making and unmaking of colonialism? How have nationalist and postcolonial politics been defined by gendered categories? Readings include case studies from west, east, and southern Africa, treating themes from the history of sexuality to the history of political culture. Each student will present an original research project related to course themes.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff73dde1eb5820249f2986aba9c2baafe">
+<name>
+<prefix/>
+<first>Meghan</first>
+<middle>Elisabeth</middle>
+<last>Healy-Clancy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1500" end_time="1700"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G-07" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

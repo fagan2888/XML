@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9127" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>231</num_int>
+<num_char>br</num_char>
+</course_number>
+<title>Advanced Algebraic Topology</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 2</meeting_text>
+<faculty_text>Michael J. Hopkins</faculty_text>
+<description>Continuation of Mathematics 231a. Vector bundles and characteristic classes. Bott periodicity. K-theory, cobordism and stable cohomotopy as examples of cohomology theories.</description>
+<prerequisites>Mathematics 231a.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F352fc62a030f77bcb62771a931d82deb">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle>J.</middle>
+<last>Hopkins</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1400" end_time="1500"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

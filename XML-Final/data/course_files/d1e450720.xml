@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4814" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>10</num_int>
+</course_number>
+<title>Introduction to Sociology</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12</meeting_text>
+<faculty_text>Eva Rosen</faculty_text>
+<description>Introduces students to the main objects and goals of Sociology-both for sociology concentrators and curious non-concentrators. Explores the theories of classical authors in the history of sociology (such as Marx, Durkheim, Weber, and beyond). Examines major topics in sociological research (including but not limited to social problems, deviance, inequality, social change, culture, education, social interaction).</description>
+<prerequisites/>
+<notes>May be counted for introductory concentration requirement, if letter-graded.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F52a2657901e6b57740476815eabfcc63">
+<name>
+<prefix/>
+<first>Eva</first>
+<middle/>
+<last>Rosen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

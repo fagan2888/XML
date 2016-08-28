@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="78317" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APMTH">Applied Mathematics</course_group>
+<course_number>
+<num_int>222</num_int>
+</course_number>
+<title>Stochastic Modeling</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 4:15-5:45</meeting_text>
+<faculty_text>Nikos Trichakis</faculty_text>
+<description>The course covers the modeling, analysis, and control of stochastic systems. Topics include a review of probability fundamentals, Markov chains, Markov decision processes and dynamic programming, Poisson processes, queuing theory, and optimization under uncertainty. Applications will be presented in production planning, inventory management, service systems, and sports. The goal of the course is to introduce archetypical problems in each area as well as foundational theoretical results. Coming out of this course, students should be well-positioned to take further graduate courses on any of the areas covered.</description>
+<prerequisites>Applied Mathematics 121.</prerequisites>
+<notes>Offered jointly with the Business School as 4465.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list/>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

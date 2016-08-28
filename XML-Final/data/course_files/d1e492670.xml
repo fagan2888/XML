@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83511" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1012</num_int>
+</course_number>
+<title>Religion and Archaeology</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Kimberley C. Patton (Divinity School)</faculty_text>
+<description>This seminar will introduce students to approaches and selected case studies in the archaeology of religion, including current research in the material evidence for sanctuaries, shamanism, and ritual, as well as challenges in identification and interpretation.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 3109.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcb5140ea011614f64247538fa42e2447">
+<name>
+<prefix/>
+<first>Kimberley</first>
+<middle/>
+<last>Patton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

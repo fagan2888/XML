@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3741" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>193</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Topics in Music from 1800 to the Present: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Carol J. Oja</faculty_text>
+<description>Blackface Minstrelsy in 19th Century America. A theatrical genre that traded in racist caricature, blackface minstrelsy was one of the most popular entertainments of the 19th century U.S., with a legacy that has continued into American popular music and culture today. This course explores the historical development and intense paradoxes of blackface performance by drawing upon materials in the Harvard Theatre Collection, which houses one of the largest minstrelsy archives in the world. The class will culminate in curating an exhibit. Core aspects of the course include grappling with complex questions of racial stereotyping and exploring the banjo in sound and image. Guest experts include a banjo virtuoso, a performer in an African American string band, and a minstrelsy scholar.</description>
+<prerequisites/>
+<notes>Ability to read musical notation helpful but not required. Open to undergraduates and graduate students. May be taken by students from other departments.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fc48f0a3fbf4ced5439b5f615d3481205">
+<name>
+<prefix/>
+<first>Carol</first>
+<middle>J.</middle>
+<last>Oja</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Music Building" room="Davison Rm" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

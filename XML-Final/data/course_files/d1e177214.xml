@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="91442" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>26</num_int>
+<num_char>f</num_char>
+</course_number>
+<title>Dreams: Our Mind by Night</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 3-5:30</meeting_text>
+<faculty_text>Deirdre Leigh Barrett</faculty_text>
+<description>This course examines dreams with an emphasis on their relation to the creative process and problem solving. It draws on psychology predominantly-neurophysiology, clinical, and personality research while also including perspectives from history, religion, art, literature, and anthropology. We'll visit a sleep laboratory and a dream-artist's studio. Students will keep a dream journal, and engage in exercises to improve dream recall, influence content toward lucidity and other goals, and to interpret your dreams. Students will write a term paper on a dream-related topic of their choice.</description>
+<prerequisites/>
+<notes>Open to Freshmen only.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff494d3ce59d9602bc96fe2b56d48d7b6">
+<name>
+<prefix>Dr</prefix>
+<first>Deirdre</first>
+<middle>Leigh</middle>
+<last>Barrett</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1500" end_time="1730"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="302" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

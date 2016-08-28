@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2183" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>hp</num_char>
+</course_number>
+<title>Is Democracy Possible Everywhere?</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Daniel F. Ziblatt</faculty_text>
+<description>Debates today rage about whether democracy is really possible in places like China or the Middle East. This tutorial asks whether there are, in fact, any preconditions for or impediments to the establishment and consolidation of democracy. Among the factors we will consider: mass culture, elite norms, religion, economic development, ethnic pluralism, and associational life.</description>
+<prerequisites/>
+<notes>This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0e4608ffbdcd899188fa9e104646dc3a">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Ziblatt</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

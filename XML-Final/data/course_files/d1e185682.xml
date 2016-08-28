@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1565" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>21</num_int>
+</course_number>
+<title>Virgil's Poetry and its Reception</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Richard F. Thomas (The Classics)</faculty_text>
+<description>A study the poetry of Virgil, his interaction with Homeric and other Greek poetry, and with attention to the literary, artistic, and musical traditions that flow from his work, throughout the history of western literature. Major focus on the Aeneid in its artistic, historical and political contexts, its reception by Dante, Milton, Eliot, and others. Readings of Virgil's Eclogues and Georgics, and on their place in the traditions of European pastoral and lyric, from Spenser to Tennyson to Heaney. Aims to provide an understanding of important literary and cultural achievements of the last two millennia. All readings in English.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8fc8c5c36b7feff59adb9a31b621d6ba">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>F.</middle>
+<last>Thomas</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts A"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83405" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="LITER">Literature</course_group>
+<course_number>
+<num_int>136</num_int>
+</course_number>
+<title>The historical novel after modernism</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David Damrosch</faculty_text>
+<description>Modernism emphasized ruptures with the past and the uncertainty of historical knowledge; one consequence of this emphasis was a general turning away from the historical novel, seen as the most deluded form of nineteenth-century realism. This situation began to change around the time of World War II, when a growing number of novelists schooled in modernism began to write serious historical fiction. This course will explore the motives for such writing and the strategies of research, structure, style, dialogue, and characterization that once again made historical fiction a compelling enterprise, on the far side of the modernist critique of history. Readings in Borges, Yourcenar, Tolkien, Rhys, Endo, Mishima, Morrison, Calvino, Pamuk, and the Tibetan postmodernist Jamyang Norbu.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fc38e4afa7c2f31744fa2622ac88fac8b">
+<name>
+<prefix/>
+<first>David</first>
+<middle/>
+<last>Damrosch</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

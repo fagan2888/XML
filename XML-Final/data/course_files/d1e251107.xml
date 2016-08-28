@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3958" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>106</num_int>
+</course_number>
+<title>History of Ancient Science</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Mark Schiefsky</faculty_text>
+<description>An examination of key aspects and issues in the development of ancient science, focusing on natural philosophy from the Presocratics to Aristotle as well as its relation to early Greek medicine and mathematics. Some consideration will also be given to the historiography of natural philosophy within this period.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F242f701c92f133114c8e00c8d9633140">
+<name>
+<prefix/>
+<first>Mark</first>
+<middle/>
+<last>Schiefsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="96881" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>152</num_int>
+</course_number>
+<title>Philanthropy and Public Problem-Solving</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>65</enrollment_limit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Christine Webb Letts (Kennedy School) and Jim Bildner (Kennedy School)</faculty_text>
+<description>This course will explore the role of philanthropy in public problem-solving. Using cases and readings, the course will cover the history and role of philanthropy and the nonprofit sector, relationship of both to government, the nature of strategic philanthropy, organizational assessment and impact of private action for public good. Students will chose a problem area with a focus on Boston, and, in teams, research the policies, responses/interventions, role of institutions, strengths and weaknesses of the response and institutional arrangements associated with the problem. A foundation has provided 100,000 dollars (for an enrollment of more than 20 students) for the students to grant to organizations determined as a result of their research.</description>
+<prerequisites/>
+<notes>Offered jointly with the Kennedy School as MLD-805. Course will meet at the Kennedy School.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd6439b76bf7f50ee47e80244dc083afb">
+<name>
+<prefix/>
+<first>Christine</first>
+<middle>W.</middle>
+<last>Letts</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fa15e33ab67b07566da14cd1a1d8ce1b9">
+<name>
+<prefix/>
+<first>Jim</first>
+<middle/>
+<last>Bildner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1430" end_time="1600"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1430" end_time="1600"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

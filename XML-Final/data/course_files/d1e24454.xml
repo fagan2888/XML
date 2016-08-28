@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5398" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>3111</num_int>
+</course_number>
+<title>Asiatic Archaeology and Ethnography</title>
+<course_type>Thesis Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description/>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F5a16a2de6b6120f4f3adb5a1e7d35dc0">
+<name>
+<prefix/>
+<first>Rowan</first>
+<middle>K.</middle>
+<last>Flad</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5a16a2de6b6120f4f3adb5a1e7d35dc0">
+<name>
+<prefix/>
+<first>Rowan</first>
+<middle>K.</middle>
+<last>Flad</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

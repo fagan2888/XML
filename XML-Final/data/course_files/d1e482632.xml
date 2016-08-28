@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71551" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1463</num_int>
+</course_number>
+<title>Reading Hollywood: Feminist Film Theory</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 1-3</meeting_text>
+<faculty_text>Mari Ruti</faculty_text>
+<description>This course examines the construction of desire, pleasure, and fantasy in Hollywood film. Drawing on current debates in feminist film theory - as well as on related fields such as queer theory, critical race theory, and psychoanalysis - the course focuses on theories of the gaze, fetishization, racialization, heteronormativity, and the subversive potential of mainstream film.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5280e05bd75bfef31548990c01981e5b">
+<name>
+<prefix/>
+<first>Mari</first>
+<middle/>
+<last>Ruti</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Emerson Hall" room="106" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

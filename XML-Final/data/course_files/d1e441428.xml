@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="39963" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>At</num_char>
+</course_number>
+<title>Elementary Russian through Authentic Texts (Russian through Pushkin)</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 10, with speaking and reading practice Tu., Th., at 10 or 1. Tuesday/Thursday small group practice times are tentative and will be adjusted to accommodate student schedules.</meeting_text>
+<faculty_text>Oksana Willis and others</faculty_text>
+<description>Introductory course to Russian language and culture through a selection from the verse and prose works of Russia's greatest poet, Alexander Pushkin (including The Bronze Horseman, excerpts from Eugene Onegin, shorter poems, and prose in The Queen of Spades). This literary and linguistic approach to Elementary Russian has a strong emphasis on reading authentic Russian, but all four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Covers all of the basics of Russian grammar, including all six cases, verbal conjugation, and verbs of motion.</description>
+<prerequisites/>
+<notes>Assumes no previous knowledge of Russian. Russian A, Russian Aab, and Russian At all prepare students to continue in Russian B, Bab, or Bt.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ea06a2b33580f565bedfdaf5f9c3b76">
+<name>
+<prefix/>
+<first>Oksana</first>
+<middle/>
+<last>Willis</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8ea06a2b33580f565bedfdaf5f9c3b76">
+<name>
+<prefix/>
+<first>Oksana</first>
+<middle/>
+<last>Willis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="103" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="103" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="316" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="316" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

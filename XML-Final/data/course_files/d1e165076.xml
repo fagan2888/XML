@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="14403" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.164</num_char>
+</course_number>
+<title>Tragedy and Everyday Life</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 12</meeting_text>
+<faculty_text>Jonah M. Johnson</faculty_text>
+<description>In this course we will examine tragedies both ancient and modern, focusing on problems such as self-knowledge, certainty, intra- and interpersonal conflict, and loneliness. We will explore tragedy both as a form and as a collection of themes, and we will compare the idiosyncratic ways in which terms such as "tragedy" and "tragic" have developed within academic as well as mainstream contexts. Readings and screenings will include works by Sophocles, Shakespeare, Bergman, and Hitchcock.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fcbc0608d6e56aa0c1b3281c16e205e4d">
+<name>
+<prefix/>
+<first>Jonah</first>
+<middle>M</middle>
+<last>Johnson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

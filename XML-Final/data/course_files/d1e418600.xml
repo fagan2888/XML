@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9756" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>2430</num_int>
+</course_number>
+<title>Cultural and Individual Diversity</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Matthew K. Nock</faculty_text>
+<description>Examines cultural, racial, ethnic, and other individual differences in human behavior which affect the practice of psychology. Reviews current science examining the relations between these factors and human behavior, psychopathology, and provision of psychological services.</description>
+<prerequisites/>
+<notes>Limited to Harvard doctoral students in clinical psychology.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F47715861cd999e1ec1e0af43c83c9894">
+<name>
+<prefix/>
+<first>Matthew</first>
+<middle>K.</middle>
+<last>Nock</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

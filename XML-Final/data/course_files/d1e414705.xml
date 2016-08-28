@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9913" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1652</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Laboratory in Early Cognitive Development</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Elizabeth S. Spelke</faculty_text>
+<description>This is a laboratory methods course that provides students with hands-on experience in a cognitive development lab. The aim of the course is for students to engage in all aspects of the scientific process - from experimental design to data collection and interpretation - by working in a lab, and by participating in weekly meetings where key questions and findings in the field are discussed.</description>
+<prerequisites/>
+<notes>Interested students may contact Lab Coordinator Rosa Guzman, rguzman@fas.harvard.edu</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F755c24d6f3dc2d38cf2eb586a699f45c">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Spelke</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F755c24d6f3dc2d38cf2eb586a699f45c">
+<name>
+<prefix/>
+<first>Elizabeth</first>
+<middle/>
+<last>Spelke</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1408" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

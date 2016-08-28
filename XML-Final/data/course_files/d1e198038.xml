@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="84663" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="SCI-PHYUNV">Science of the Physical Universe</course_group>
+<course_number>
+<num_int>31</num_int>
+</course_number>
+<title>Energy Resources and the Environment</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1:00 - 2:30, and a weekly 2.5 hour laboratory session to be arranged</meeting_text>
+<faculty_text>John H. Shaw (Earth and Planetary Sciences)</faculty_text>
+<description>The course provides an overview of the energy resources that we use to sustain our global economies, and explores the impact of these activities on our environment. We address the full life cycle of each energy resource, including its origins, methods used to explore for and exploit it, how it is used in our economies, and the environmental impacts of these activities. Topics include coal, petroleum (conventional and unconventional), nuclear power, geothermal systems, and renewable energy options (hydro, tidal, solar, wind power). Lectures and labs will introduce students to data and methods used in these energy and environmental sectors.</description>
+<prerequisites/>
+<notes>This course is similar in content to EPS 109. Interested students may want to consult the Q evaluations from that course. Students who took EPS 109 may not take this course for credit.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F214e668f2dc2c1e7a2471b80031e9feb">
+<name>
+<prefix/>
+<first>John</first>
+<middle>H.</middle>
+<last>Shaw</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations/>
+<requirements>
+<requirement type="General Education" name="Science of the Physical Universe"/>
+</requirements>
+</course></courses>

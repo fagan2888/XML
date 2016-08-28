@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5979" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>128</num_int>
+</course_number>
+<title>Models of Social Science Research</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 10 and a weekly discussion section to be arranged.</meeting_text>
+<faculty_text>Paul Y. Chang</faculty_text>
+<description>This course introduces students to core methodological concepts and strategies used in social science research including: question formulation, hypothesis generation, the logic of hypothesis testing, sampling and measurement, experiments, survey analysis, content analysis, ethnography, and in-depth interviewing. In the course we will discuss and develop the analytic skills necessary to interrogate epistemological assumptions in published research specifically and truth-claims generally. In addition to critically evaluating previous research, students will collect and analyze their own data based on the different methods discussed in the class. By the end of the course, students should have acquired valuable research tools widely applicable in academic and professional settings.</description>
+<prerequisites/>
+<notes>Required of concentrators, ordinarily sophomores, and secondary concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2d505b39070604f2c167fd4b7a55aaf6">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>Yunsik</middle>
+<last>Chang</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

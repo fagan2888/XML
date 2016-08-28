@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="41785" offered="N" next_year_offered="2016">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="CHNSHIS">Chinese History</course_group>
+<course_number>
+<num_int>185</num_int>
+</course_number>
+<title>The Historiography of the Middle Period</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Peter K. Bol</faculty_text>
+<description>The course this year will be devoted to creating modules for ChinaX, the new HarvardX course devoted to China's history and culture from antiquity to the present. In addition to acquiring a general knowledge of China's history, participants in the course will be actively involved in creating materials for the online course; including producing videos, creating structures for content development, choosing texts and images for online discussion and mark-up, and participating in debates and discussions that will be shown to a world-wide online audience. We hope to do these modules in both English and Chinese versions, but knowledge of Chinese language is not necessary to participate. As presently conceived the course will aim to produce fifteen modules covering topics from the 8th to the 18th century. Topics will include political and institutional history, poetry, novels and short stories, art, social and economic change, and international relations among others. It is possible that the scope will be extended forward and backward in time. This is not a lecture course. There is no final examination. Grades will be based on both a self-assessment and a review of contributions to the modules by peers and faculty.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F33c73f03f0b4a8d66da1c28f47cbd9ae">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>K.</middle>
+<last>Bol</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

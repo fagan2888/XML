@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4380" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="HPOL">
+<dept_long_name>Committee on the Degree of Doctor of Philosophy in Health Policy</dept_long_name>
+<dept_short_name>Health Policy</dept_short_name>
+</department>
+<course_group code="HLTHPOL">Health Policy</course_group>
+<course_number>
+<num_int>3015</num_int>
+</course_number>
+<title>Second-Year Graduate Reading Course: Ethics</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Student-led course reviews basic issues in ethics, political philosophy, and their bearing on health policy and is important preparation for the qualifying examinations.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdef381a5377dc578f98e42f3f429ffa6">
+<name>
+<prefix/>
+<first>Norman</first>
+<middle/>
+<last>Daniels</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fdef381a5377dc578f98e42f3f429ffa6">
+<name>
+<prefix/>
+<first>Norman</first>
+<middle/>
+<last>Daniels</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

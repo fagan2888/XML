@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7277" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_int>294</num_int>
+<num_char>z</num_char>
+</course_number>
+<title>On Beauty: Graduate Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 11-1</meeting_text>
+<faculty_text>Elaine Scarry</faculty_text>
+<description>Philosophic and literary accounts of beauty from Greek through modern, including Plato, Aquinas, Dante, Kant, Keats, and Rilke. In addition, the major arguments against beauty; and its stability across four objects (God, gardens, persons, and poems).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ffbcae4c854da68515f9e803f0920389f">
+<name>
+<prefix/>
+<first>Elaine</first>
+<middle/>
+<last>Scarry</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1100" end_time="1300"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

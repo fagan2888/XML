@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7432" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOST">
+<dept_long_name>Committee on Degrees in Social Studies</dept_long_name>
+<dept_short_name>Social Studies</dept_short_name>
+</department>
+<course_group code="SOC-STD">Social Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>fu</num_char>
+</course_number>
+<title>Practicing Democracy: Leadership, Community, Power</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>10</enrollment_limit>
+<meeting_text>Tu., 7-9 p.m.</meeting_text>
+<faculty_text>Marshall L. Ganz</faculty_text>
+<description>Making democracy work requires an "organized" citizenry with power to assert its interests effectively. Yet US political participation declines, growing more unequal, as new democracies struggle to make citizen participation possible. Students learn to address public problems by organizing: developing leadership, building community, and mobilizing power. Our pedagogy links sociological, political science, and social psychology theory with democratic practice.</description>
+<prerequisites/>
+<notes>Ten hours per week of field work required. This course will be lotteried.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F494754eb872e4469a783220846106775">
+<name>
+<prefix/>
+<first>Marshall</first>
+<middle>Louis</middle>
+<last>Ganz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

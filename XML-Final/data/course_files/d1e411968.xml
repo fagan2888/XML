@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="82538" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>1251</num_int>
+</course_number>
+<title>Circuits and Symptoms</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Joshua William Buckholtz</faculty_text>
+<description>This class will explore the biology of psychological illness. We will ignore artificial diagnostic labels, examining instead the core symptom domains that have plagued humans since the beginning of recorded history. A strong emphasis will be placed on biological mechanisms. In particular, the class will focus on mapping dysfunction in large-scale brain circuits to cognitive, affective, social, and motivational symptom domains, and on understanding how genes and environments act and interact to predispose these symptoms by shaping brain function and development.</description>
+<prerequisites>SLS-20 and PSY 18 or PSY 14 or MCB 80.</prerequisites>
+<notes>Preference given to graduate students and to Juniors and Seniors.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F48a7feb18ea8ffc5b8dc7a746cec9b1d">
+<name>
+<prefix/>
+<first>Joshua</first>
+<middle>William</middle>
+<last>Buckholtz</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

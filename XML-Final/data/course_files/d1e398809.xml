@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7951" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PHYS">
+<dept_long_name>Department of Physics</dept_long_name>
+<dept_short_name>Physics</dept_short_name>
+</department>
+<course_group code="PHYSICS">Physics</course_group>
+<course_number>
+<num_int>268</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Special Topics in Condensed Matter Physics. Topological States of Matter</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 2:30-4</meeting_text>
+<faculty_text>Bertrand I. Halperin</faculty_text>
+<description>Notions of topology have been invoked to clarify the properties of a variety of quantum systems and to classify the possible ground states of such systems. We shall explore in depth examples such as two-dimensional quantized Hall states, and topological insulators in two and three dimensions. Discussions will include effects of disorder and localization phenomena, and practical issues of measurement that may have only marginal relation to topological concepts.</description>
+<prerequisites>Physics 251b, Applied Physics 295a and Physics 262, or equivalents.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe3cc3dd3a54feed45cb09a721843ffd4">
+<name>
+<prefix/>
+<first>Bertrand</first>
+<middle>I.</middle>
+<last>Halperin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

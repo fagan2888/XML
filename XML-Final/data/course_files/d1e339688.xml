@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="20291" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MBB">
+<dept_long_name>Committee on Mind, Brain, and Behavior</dept_long_name>
+<dept_short_name>Mind, Brain, and Behavior</dept_short_name>
+</department>
+<course_group code="MBB">Mind, Brain, and Behavior</course_group>
+<course_number>
+<num_int>980</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>What Disease Teaches about Cognition</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>William P. Milberg (Medical School) and Michael Alexander (Medical School)</faculty_text>
+<description>Seeks to reconcile the complicated and messy problems of patients with brain disease with the concise analysis of precisely defined cognitive functions in normal subjects. Students will learn to overlap cognitive functions on to the brain in disease - at the gross dissection and imaging levels - and to understand some of the complex interactions of individual cognitive operations in disease. Includes dissection of a human brain, mapping on to imaging, dissection of multi-dimensional clinical disorders into their component functional parts.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9ffccc7f8e266b447d5a5497115ed3c5">
+<name>
+<prefix/>
+<first>William</first>
+<middle/>
+<last>Milberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F92f3ecf41a0bf042ee8d15855fdf9c08">
+<name>
+<prefix>Dr</prefix>
+<first>Michael</first>
+<middle/>
+<last>Alexander</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

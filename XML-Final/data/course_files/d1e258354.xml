@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="32284" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HEB">
+<dept_long_name>Human Evolutionary Biology</dept_long_name>
+<dept_short_name>Human Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="HEB">Human Evolutionary Biology</course_group>
+<course_number>
+<num_int>1335</num_int>
+</course_number>
+<title>Behavioral Ecology of Chimpanzees</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-4</meeting_text>
+<faculty_text>Zarin P. Machanda</faculty_text>
+<description>An advanced seminar on current topics in behavioral ecology research of chimpanzees and bonobos. Topics will include: foraging, dominance, cooperation, adolescence, reproductive strategies, culture, ranging, cognition, molecular ecology, and relationships. We will discuss behavioral flexibility of chimpanzees between different communities across Africa and learn how to collect and analyze behavioral data. We will compare the behavior of chimpanzees and bonobos with that of humans and examine how these species might serve as models for human evolution.</description>
+<prerequisites>Human Evolutionary Biology 1330 or Science B-29 or permission of instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F5e5f8e0c91b337ba4f1b2797daf31688">
+<name>
+<prefix/>
+<first>Zarin</first>
+<middle>Pearl</middle>
+<last>Machanda</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

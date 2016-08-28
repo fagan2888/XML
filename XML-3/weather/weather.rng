@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="current_observation">
+      <attribute name="relative_humidity">
+        <data type="integer"/>
+      </attribute>
+      <attribute name="time_display"/>
+      <attribute name="time_rfc822"/>
+      <attribute name="version">
+        <data type="decimal"/>
+      </attribute>
+      <attribute name="visibility_mi">
+        <data type="decimal"/>
+      </attribute>
+      <attribute name="weather"/>
+      <zeroOrMore>
+        <element name="credit">
+          <attribute name="src">
+            <data type="anyURI"/>
+          </attribute>
+         <attribute name="title"/>
+         <attribute name="url">
+           <data type="anyURI"/>
+         </attribute>
+        </element>
+        <element name="suggested_pickup">
+           <attribute name="period">
+             <data type="integer"/>
+           </attribute>
+           <attribute name="time"/>
+         </element>
+        <element name="location">
+           <attribute name="display"/>
+           <attribute name="station_id">
+             <data type="NCName"/>
+           </attribute>
+           <attribute name="geo:lat">
+             <data type="decimal"/>
+           </attribute>
+           <attribute name="geo:long">
+             <data type="decimal"/>
+           </attribute>
+         </element>
+        <oneOrMore>
+           <element name="readings">
+             <attribute name="label"/>
+             <attribute name="system">
+               <data type="NCName"/>
+             </attribute>
+             <attribute name="units">
+               <data type="NCName"/>
+             </attribute>
+             <element name="temperature">
+               <attribute name="value">
+                 <data type="decimal"/>
+               </attribute>
+             </element>
+             <element name="dewpoint">
+               <attribute name="value">
+                 <data type="decimal"/>
+               </attribute>
+             </element>
+             <element name="windchill">
+               <attribute name="value">
+                 <data type="decimal"/>
+               </attribute>
+             </element>
+           </element>
+         </oneOrMore>
+         <element name="wind">
+           <attribute name="degrees">
+             <data type="integer"/>
+           </attribute>
+           <attribute name="dir">
+             <data type="NCName"/>
+           </attribute>
+           <attribute name="gust_kt">
+             <data type="integer"/>
+           </attribute>
+           <attribute name="gust_mph">
+             <data type="decimal"/>
+           </attribute>
+           <attribute name="kt">
+             <data type="integer"/>
+           </attribute>
+           <attribute name="mph">
+             <data type="decimal"/>
+           </attribute>
+         </element>
+         <element name="pressure">
+           <attribute name="in">
+             <data type="decimal"/>
+           </attribute>
+           <attribute name="mb">
+             <data type="decimal"/>
+           </attribute>
+         </element>
+         <element name="urls">
+           <element name="icon">
+             <attribute name="src">
+               <data type="NCName"/>
+             </attribute>
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+           <element name="two_day_history">
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+           <element name="ob">
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+           <element name="disclaimer">
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+           <element name="copyright">
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+           <element name="privacy_policy">
+             <attribute name="url">
+               <data type="anyURI"/>
+             </attribute>
+           </element>
+         </element>
+      </zeroOrMore>
+    </element>
+  </start>
+</grammar>

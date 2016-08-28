@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6197" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1092</num_int>
+</course_number>
+<title>Progressive Alternatives: Institutional Reconstruction Today</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Roberto Mangabeira Unger (Law School)</faculty_text>
+<description>An exploration of the past and future agenda of progressives, whether self-described as liberals or as leftists. What should they propose, now that they no longer believe in the usefulness of governmental direction of the economy or in the sufficiency of redistributive social programs? A basic concern is the relation of programmatic thought to the understanding of change and constraint. The course draws on many disciplines and consider examples from many settings. It develops ways of thinking as well as proposals for change: such proposals require us to develop the structural imagination about society and its institutional alternatives in which contemporary social science and political discourse are deficient. Readings from classical and contemporary social and political theory.</description>
+<prerequisites/>
+<notes>Offered jointly with the Law School as 2391. Fifteen seats are reserved for FAS students.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F364131a5f409e74f89a4ac6f8b2547e3">
+<name>
+<prefix/>
+<first>Roberto</first>
+<middle/>
+<last>Unger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

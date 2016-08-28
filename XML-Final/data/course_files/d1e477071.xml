@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15214" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SCRB">
+<dept_long_name>Department of Stem Cell and Regenerative Biology</dept_long_name>
+<dept_short_name>Stem Cell and Regenerative Biology</dept_short_name>
+</department>
+<course_group code="SCRB">SCRB</course_group>
+<course_number>
+<num_int>110</num_int>
+</course_number>
+<title>Classic Experiments in Developmental Biology</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>20</enrollment_limit>
+<meeting_text>M., 10-12</meeting_text>
+<faculty_text>Douglas A. Melton</faculty_text>
+<description>This course will introduce students to classic experiments in developmental biology. We will explore the historical background, experimental design, and results of a handful of experiments that have defined the field of developmental biology and changed our understanding of the discipline. Students will read primary literature and, in turn, present the conclusions in written and oral formats.</description>
+<prerequisites>SCRB 10 or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fddc593582e5426a8520503fa4662c866">
+<name>
+<prefix/>
+<first>Douglas</first>
+<middle/>
+<last>Melton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1200"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

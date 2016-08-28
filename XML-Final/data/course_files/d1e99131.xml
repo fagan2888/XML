@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="8715" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>2146</num_int>
+</course_number>
+<title>Financial Econometrics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>F., 2-5</meeting_text>
+<faculty_text>Neil Shephard</faculty_text>
+<description>A seminar course in financial econometrics. The topics covered include testing stylized facts in finance, robust inference, testing return predictability and market efficiency, inference in consumption-based asset pricing models and applications to real data.</description>
+<prerequisites>Economics 2120 or equivalent.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8ba0c60082a7b78f58b864c49c97b3ae">
+<name>
+<prefix/>
+<first>Neil</first>
+<middle/>
+<last>Shephard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1400" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="13465" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1000</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Growth, Technology, Inequality, and Evolution</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>75</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Benjamin M. Friedman and James Engell</faculty_text>
+<description>An economist and a humanist, together with professors from the natural sciences, analyze familiar conceptual and policy-relevant issues from viewpoints of their respective disciplines. For example, how do we measure inequality, and at what point does it become problematic (and how do we know)? How then should it be addressed (e.g., tax code, minimum wage)? What are the best policies to confront job losses from technology? What does sustainable growth mean? The goal is not merely to examine four intertwined issues "growth, technology, inequality, and evolution" but also to understand the distinct concerns and methods of the humanities, social sciences, and natural sciences.</description>
+<prerequisites>Ec 10a or completion of General Education EMR requirement or equivalent.</prerequisites>
+<notes>Students who wish to receive economics concentration credit must enroll in Econ 1000a. Econ 1000a has an Ec 10a prerequisite.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F637b5514aa6b7ad65e075a1516fce531">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle>M.</middle>
+<last>Friedman</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F04e26e5745cc926d59c1ed8a45ff9efc">
+<name>
+<prefix/>
+<first>James</first>
+<middle/>
+<last>Engell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

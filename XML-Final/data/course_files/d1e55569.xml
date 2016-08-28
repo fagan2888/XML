@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2431" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CPLT">
+<dept_long_name>Department of Comparative Literature</dept_long_name>
+<dept_short_name>Comparative Literature</dept_short_name>
+</department>
+<course_group code="COMPLIT">Comparative Literature</course_group>
+<course_number>
+<num_int>299</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>What is Comparative Literature?: Pasts, Presents, and Futures: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 2-4</meeting_text>
+<faculty_text>Karen Thornber</faculty_text>
+<description>An investigation into the discipline of comparative literature - its histories, current trends, and future possibilities. Focus on literary and cultural theory in comparative context. Also introduces such related fields as comparative arts and philology, the civic, digital, environmental, and medical humanities, translation studies, and world literature. Special attention to how best to negotiate comparative literature study in today's academy.</description>
+<prerequisites/>
+<notes>Required of first-year graduate students in the Comparative Literature PhD program; open to all graduate students interested in literary comparison, literature in transnational and interdisciplinary perspective, and creative production across time and space.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdfbb1f4e749c96d35ea6bc00bf4f2311">
+<name>
+<prefix/>
+<first>Karen</first>
+<middle>Laura</middle>
+<last>Thornber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

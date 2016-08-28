@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="167" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="NEC">Near Eastern Civilizations</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Group Tutorial - Sophomore Year</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>James R. Russell and members of the Department</faculty_text>
+<description>An introduction to the cultures and literatures of the Near East in ancient, classical, and modern times, emphasizing major themes and problems that cut across individual cultures and historical periods.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F95ed776220db78d4fb2a6074cb6620b6">
+<name>
+<prefix/>
+<first>James</first>
+<middle>R.</middle>
+<last>Russell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Semitic Museum" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

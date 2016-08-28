@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5888" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="CULTR&amp;BLF">Culture and Belief</course_group>
+<course_number>
+<num_int>52</num_int>
+</course_number>
+<title>The American Evangelical Tradition from Jonathan Edwards to Jerry Falwell</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 10, and a weekly section to be arranged.</meeting_text>
+<faculty_text>David Hempton (Harvard Divinity School)</faculty_text>
+<description>The purpose of the course is to investigate the evangelical tradition from its origins in the religious revivals of the eighteenth century to its contemporary role in American culture, society and politics. Notwithstanding its often stereotypical characterizations, the evangelical tradition is surprisingly eclectic and complex. A central objective of the course, therefore, is to explore that complexity in relation to gender, ethnicity, social class, and political culture. The course will make use of primary and secondary materials to shed light on evangelical theology, spirituality, and cultural expression in America and in a global context.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 2358. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F279f329953b0cbb696c70171b4e145fa">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Neil</middle>
+<last>Hempton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study A"/>
+<requirement type="General Education" name="Culture and Belief"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="9417" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="SOCL">
+<dept_long_name>Department of Sociology</dept_long_name>
+<dept_short_name>Sociology</dept_short_name>
+</department>
+<course_group code="SOCIOL">Sociology</course_group>
+<course_number>
+<num_int>24</num_int>
+</course_number>
+<title>Introduction to Social Inequality</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>30</enrollment_limit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Jason Beckfield</faculty_text>
+<description>Examines descriptions and explanations for inequality by social class, race, and gender, with a focus on the United States. Comparisons to other societies are also part of the course. Readings include classical and contemporary research reports in the form of nine classic and will-become-classic books; lectures update and contextualize the readings.</description>
+<prerequisites/>
+<notes>May be counted for introductory concentration requirement, if letter-graded.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb8d1dacfb63e84f5b88bffeca61e0a7">
+<name>
+<prefix/>
+<first>Jason</first>
+<middle/>
+<last>Beckfield</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-050" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+</requirements>
+</course></courses>

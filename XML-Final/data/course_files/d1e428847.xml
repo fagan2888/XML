@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="804" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="ITAL">Italian</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Advanced Oral Expression and Performance</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Tu., Th., 1-2:30</meeting_text>
+<faculty_text>Elvira G. DiFabio and members of the Department</faculty_text>
+<description>Ciak, si parla! Students develop oral expression and communication skills through the close reading of texts that are meant for performance, such as plays, film scripts, poetry, and music. Variation in diction and presentation techniques culminates in the adaptation and production of one or more of these texts for a public performance at the end of the term. Consult course website for current semester topics.</description>
+<prerequisites>A score of 681-720 on the SAT II or the Harvard Placement Test; Italian 30, 35 or 36; equivalent preparation; or permission of course head.</prerequisites>
+<notes>Conducted in Italian. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Appropriate for concentrators electing the Italian Studies or Romance Studies track. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F466cf6b6d086b2b0326cee3b6f8193e3">
+<name>
+<prefix/>
+<first>Elvira</first>
+<middle>G.</middle>
+<last>DiFabio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Holden Chapel" room="Main Room" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

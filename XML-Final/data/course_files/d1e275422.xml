@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="48986" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MATH">
+<dept_long_name>Department of Mathematics</dept_long_name>
+<dept_short_name>Mathematics</dept_short_name>
+</department>
+<course_group code="MATH">Mathematics</course_group>
+<course_number>
+<num_int>265</num_int>
+</course_number>
+<title>Reductive Groups Over Local and Global Fields</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 11</meeting_text>
+<faculty_text>Tasho Kaletha</faculty_text>
+<description>An introduction to the theory of reductive groups, beginning with their structure theory over algebraically closed fields, discussing rationality questions, and a study of special phenomena that occur when the field of definition is a local or global field.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd3866aefe1c8c4a9521f5e6d6ec1a420">
+<name>
+<prefix/>
+<first>Tasho</first>
+<middle/>
+<last>Kaletha</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

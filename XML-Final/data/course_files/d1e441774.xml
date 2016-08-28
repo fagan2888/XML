@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72229" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="RUSS">Russian</course_group>
+<course_number>
+<num_char>Bt</num_char>
+</course_number>
+<title>Intermediate Russian through Authentic Texts (Russian through Bulgakov)</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>M., W., F., at 11, with speaking practice T., Th., at 9 or 11.</meeting_text>
+<faculty_text>Oksana Willis</faculty_text>
+<description>An intermediate course in Russian language and culture through reading of what is arguably 20th-century Russia's greatest novel, Mikhail Bulgakov's The Master and Margarita. This literary and linguistic approach to Intermediate Russian has a strong emphasis on reading authentic Russian, but all four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Further development of vocabulary and oral expression within a comprehensive review of Russian grammar. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. This year-long full course prepares students for continued study of Russian in advanced-level courses and for study or travel abroad in Russian-speaking countries.</description>
+<prerequisites>Russian A, Aab, At, Ah, or placement at the B-level. Familiarity with fundamentals of Russian grammar, particularly case endings of the noun, pronoun, and adjective and elementary competence in spoken Russian.</prerequisites>
+<notes>Russian B, Russian Bab, and Russian Bt all prepare students to continue in Russian 101.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F8ea06a2b33580f565bedfdaf5f9c3b76">
+<name>
+<prefix/>
+<first>Oksana</first>
+<middle/>
+<last>Willis</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F8ea06a2b33580f565bedfdaf5f9c3b76">
+<name>
+<prefix/>
+<first>Oksana</first>
+<middle/>
+<last>Willis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="012" type="Speaking Section"/>
+<location term="1" building="Boylston Hall" room="G-07" type="Speaking Section"/>
+<location term="1" building="Barker Center" room="316" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

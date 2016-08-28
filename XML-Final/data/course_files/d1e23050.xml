@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="89606" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2805</num_int>
+</course_number>
+<title>Biopolitics</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>W., 10-12</meeting_text>
+<faculty_text>Susan Greenhalgh</faculty_text>
+<description>The modern era has seen the rise of a new field of knowledge and power that takes as its object human life itself, in the biological sense. This course traces the emergence of an anthropology of biopolitics, teasing out the concepts, problems, and ethnographic practices by which this domain is being studied. Through explorations of biological and therapeutic citizenship, new practices of biosociality and biosecurity, and the creation of world-quality populations and persons, the course identifies new assemblages of technologies, logics, and ethics that are emerging in different spaces in an increasingly globalized world.</description>
+<prerequisites/>
+<notes>Students will be required to attend selected lectures of the undergraduate course The Woman and the Body.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd0d95d44b56d32375f3b9d9ddf38ccc0">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Greenhalgh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

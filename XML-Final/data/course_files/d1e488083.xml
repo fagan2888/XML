@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6229" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="GREEK">Greek</course_group>
+<course_number>
+<num_int>110</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Plato's Phaedrus</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>David F. Elmer</faculty_text>
+<description>Close reading of Plato's Phaedrus with discussion of key themes, including: eros, beauty, and the Platonic conception of the soul; "logocentrism" and the critique of writing; the opposition between rhetoric and dialectic.</description>
+<prerequisites>Greek Bb or equivalent.</prerequisites>
+<notes>Greek Bb or equivalent.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0725b3721b1a291a45d32cee7e162b99">
+<name>
+<prefix/>
+<first>David</first>
+<middle>Franklin</middle>
+<last>Elmer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

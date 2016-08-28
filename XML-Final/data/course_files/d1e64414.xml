@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2675" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="E&amp;PS">
+<dept_long_name>Department of Earth and Planetary Sciences</dept_long_name>
+<dept_short_name>Earth and Planetary Sciences</dept_short_name>
+</department>
+<course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Atmospheric Chemistry and Physics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., F., 10-11:30</meeting_text>
+<faculty_text>Daniel J. Jacob and Steven C. Wofsy</faculty_text>
+<description>Atmospheric physics and chemistry: stratospheric and tropospheric transport, photochemistry, and aerosols; stratospheric ozone loss, tropospheric pollution; biogeochemical cycles.</description>
+<prerequisites>Applied Mathematics 21 or equivalent, a course in college-level mechanics, electromagnetism, and chemistry.</prerequisites>
+<notes>Students specializing in this area are expected to take EPS 200 and 236. EPS 200 is also intended to serve as a breadth course for students specializing in other areas of Earth &amp; Planetary Sciences or Environmental Science &amp; Engineering.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5b8dc69aeaa903f05a3ade6dc73e2747">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle>J.</middle>
+<last>Jacob</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F1d2c54b09cb23412133e2147e246c498">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle>C.</middle>
+<last>Wofsy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="University Museum" room="105 (Daly Seminar Rm)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

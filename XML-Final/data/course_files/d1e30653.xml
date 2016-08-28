@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6938" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BSPH">
+<dept_long_name>Committee on Higher Degrees in Biological Sciences in Public Health</dept_long_name>
+<dept_short_name>Biological Sciences in Public Health</dept_short_name>
+</department>
+<course_group code="BPH">BPH</course_group>
+<course_number>
+<num_int>317</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Immunology of Infectious Diseases</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>35</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>The available information on molecular and cellular basis of innate immune responses has exploded in the last decade. In particular de role of Toll-Like receptors, inflammasomes and nucleic acid-sensing cytoplasmatic receptors on resistance to and pathogenesis of infectious diseases have been scrutinized. The main focus of the course will be on the interface of the innate and acquired immune system with microbial pathogens, discussing the role that these interactions play in protective versus deleterious immune responses, and thereby, on disease outcome. The program will promote discussions on fundamental concepts as well as new advances in the role of innate immunity in host resistance and pathogenesis of infectious diseases, with special emphasis on infections of the tropics. Each lecture requires reading several relevant papers and completion of a problem set. A final paper, in the format of a research proposal, is required.</description>
+<prerequisites>An immunology course.</prerequisites>
+<notes>Offered jointly with the Medical School as BPH 724.0 and with the School of Public Health as IID 208. Each lecture requires reading several relevant papers and completion of a problem set. Meeting Dates: March 25 - May 15. Offered with BPH 316qc.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F79407bf847c79647ee3fb157f8988f86">
+<name>
+<prefix/>
+<first>Barbara</first>
+<middle/>
+<last>Burleigh</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1530" end_time="1720"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1530" end_time="1720"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

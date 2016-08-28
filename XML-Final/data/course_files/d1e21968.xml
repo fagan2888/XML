@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1182" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2688</num_int>
+</course_number>
+<title>The Frankfurt School, Film, and Popular Culture</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Tu., 5-7 p.m.</meeting_text>
+<faculty_text>Steven C. Caton</faculty_text>
+<description>Focus in the Frankfurt School and such concepts as the culture industry, critical theory and research, art and mass media reproduction, negative dialective, public sphere, and other of its contributions to social and aesthetic theory.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fbe7849d3617ae4605b3a67dc96a4491e">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Caton</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="2" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

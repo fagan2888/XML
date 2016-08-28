@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27619" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SLAV">
+<dept_long_name>Department of Slavic Languages and Literatures</dept_long_name>
+<dept_short_name>Slavic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SLAVIC">Slavic</course_group>
+<course_number>
+<num_int>194</num_int>
+</course_number>
+<title>The Austro-Hungarian Grotesque</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 12-2</meeting_text>
+<faculty_text>Jessie Labov (Ohio State University)</faculty_text>
+<description>Reconstructs a historical context for the literary/visual aesthetic of the Austro-Hungarian grotesque. Focuses on the period 1867-1918, while also mapping psychoanalysis and the subconscious onto later, surrealist incarnations of the grotesque in the twentieth century. Special attention paid to the role of Jewish culture and other margins of empire. How are the history, theory, and affect of the grotesque determined by spatial and/or social peripherality? How is the nascent sense of identity of small nations and minor literatures informed in turn by the grotesque? Text include: Andric, Csath, Freud, Hasek, Kafka, Musil, von Rezzori, Roth, Sacher-Masoch, Schnitzler, Schulz, Svevo.</description>
+<prerequisites/>
+<notes>All texts taught in English translation; students with any knowledge of BCS, Czech, German, Hungarian, Italian, Polish, Romanian, Slovak, Ukrainian, or Yiddish are especially encouraged to enroll.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa7bce001f5e932adb42e3004f650d044">
+<name>
+<prefix/>
+<first>Jessie</first>
+<middle/>
+<last>Labov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1400"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

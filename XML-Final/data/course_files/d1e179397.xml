@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37898" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>32</num_int>
+<num_char>m</num_char>
+</course_number>
+<title>Food for Thought: Culinary Culture in Spain and Latin America</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 3-5:30</meeting_text>
+<faculty_text>Johanna Damgaard Liander</faculty_text>
+<description>The French have said that the history of a nation depends on what they eat. Yet in the case of Spain, it's clearly the reverse. What Spain has eaten has been a consequence of the country's vast -and often turbulent- history. Invasions, expansions, exile and immigration have created and continue to create the cuisine and culture, which will be our focus in this seminar. Likewise, we will consider the culinary exchange with Latin America, with specific reference to Argentina, Peru and the Caribbean. From don Quijote's rudimentary repas, to Almodovar's gazpacho, we'll conclude at the tables of the globalized metropolis.</description>
+<prerequisites>No previous knowledge of Spanish language, or travel to any of the countries mentioned, is required.</prerequisites>
+<notes>Open to Freshmen only. The class will engage in hands-on sessions in the kitchen.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fd2383f6ba7b9db746de41ba42e71f079">
+<name>
+<prefix/>
+<first>Johanna</first>
+<middle>D.</middle>
+<last>Liander</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1500" end_time="1730"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

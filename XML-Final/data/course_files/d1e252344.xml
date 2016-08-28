@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="58347" offered="N">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>135</num_int>
+</course_number>
+<title>From Darwin to Dolly: A History of the Modern Life Sciences</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 11</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>This course surveys the history of modern biology, from the nineteenth century to now. Drawing on primary sources in biology, as well as readings from historians and anthropologists of science, students will be introduced to major themes and questions in the history of the modern life sciences. Topics include theories of natural selection, genetics, eugenics, genomics, ecology, molecular biology, artificial life, and biotechnology. Students will explore questions such as: what has "life" meant at different historical moments? What approaches have life scientists taken to investigating life - from cataloging to experimenting to making new living things? How have notions of "diversity" shaped biology, from Enlightenment taxonomies of nature to modern-day efforts at conserving biodiversity?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

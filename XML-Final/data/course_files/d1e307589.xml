@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="98545" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="IMUNOL">Immunology</course_group>
+<course_number>
+<num_int>305</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Neuro-immunology in Development, Regeneration and Disease</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>It is increasingly clear that the nervous system and immune system share parallel molecular pathways, and communication between neurons and immune cells play significant roles in homeostasis and disease. This course will investigate current topics in neuro-immunology: CNS development, chronic pain, neuro-degeneration, aging, axon regeneration, auto-immunity and infection. We will focus our discussions on molecular mechanisms shared by the immune and nervous systems and the molecular cross-talk between these two systems.</description>
+<prerequisites/>
+<notes>Each class will cover a specific topic in neuro-immunology. Students should be prepared to lead discussions on pre-selected papers for each session.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Fef633e9e8d85e46a20db760b7b0a2b84">
+<name>
+<prefix>Dr</prefix>
+<first>Beth</first>
+<middle/>
+<last>Stevens</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="Y" type="Lecture" day="4" begin_time="1700" end_time="1900"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

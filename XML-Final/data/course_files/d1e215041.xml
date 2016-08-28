@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="71248" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>1074</num_int>
+</course_number>
+<title>Political Thought of the American Founding</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 1</meeting_text>
+<faculty_text>Eric M. Nelson</faculty_text>
+<description>John Adams observed that the American Revolution took place, not on the battlefield, but rather "in the minds of the people...before a drop of blood was shed at Lexington." This course will examine the political debates leading to American independence, and, later to the ratification of the Federal Constitution. Famous works of the period, such as Paine's Common Sense and The Federalist, will be placed in the wider context of American political writing from 1763 to 1789.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F180a2fbc62466322637515d00a5f2f34">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>Matthew</middle>
+<last>Nelson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1400"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1400"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="102" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

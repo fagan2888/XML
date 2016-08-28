@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4985" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="MOD-HEB">Modern Hebrew</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Advanced Modern Hebrew I</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-3</meeting_text>
+<faculty_text>Irit Aharony and assistant</faculty_text>
+<description>This course constitutes the third year of the Modern Hebrew language sequence. The course emphasizes the development of advanced proficiency in all skills. Readings include texts of linguistic and cultural complexity that cover contemporary Israeli literature and culture.</description>
+<prerequisites>Modern Hebrew 120a, 120b, or equivalent level of proficiency.</prerequisites>
+<notes>Conducted in Hebrew. Not open to auditors. Offered jointly with the Divinity School as 4042.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6471fa9bc0c0201cd7ecc3d600adda03">
+<name>
+<prefix/>
+<first>Irit</first>
+<middle/>
+<last>Aharony</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1500"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="304" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

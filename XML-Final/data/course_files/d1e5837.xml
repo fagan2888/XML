@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="61782" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="AAAS">
+<dept_long_name>Department of African and African American Studies</dept_long_name>
+<dept_short_name>African and African American Studies</dept_short_name>
+</department>
+<course_group code="AFRAMER">African and African American Studies</course_group>
+<course_number>
+<num_int>130</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Richard Wright: Literature, Philosophy, and Politics</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 1-3</meeting_text>
+<faculty_text>Glenda R. Carpio and Tommie Shelby</faculty_text>
+<description>This course examines the major fiction and nonfiction works of Richard Wright from a literary, philosophical, and political perspective. We will take an interdisciplinary approach to this wide-ranging and canonical American author, contextualizing him within the broader tradition of black letters. Readings include but are not limited to Uncle Tom's Children, Native Son, Black Boy, American Hunger, 12 Million Black Voices, The Outsider, Black Power, The Color Curtain, White Man Listen!, and Eight Men. The course also explores major influences in Wright's development including the work of Marx, Sartre, and Freud.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F2573af4905b8b108f21ba8a6bbb3391e">
+<name>
+<prefix/>
+<first>Glenda</first>
+<middle/>
+<last>Carpio</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="024 (Mcfadden Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

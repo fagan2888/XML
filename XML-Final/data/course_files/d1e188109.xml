@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="99586" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="AESTH&amp;INTP">Aesthetic and Interpretive Understanding</course_group>
+<course_number>
+<num_int>58</num_int>
+</course_number>
+<title>Modern Art and Modernity</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Ewa Lajer-Burcharth (History of Art and Architecture), Maria Elizabeth Gough (History of Art and Architecture), and Benjamin Buchloh (History of Art and Architecture)</faculty_text>
+<description>The course examines the defining moments in the development of modern European and American art from the eighteenth- through to the twentieth-century. Anchored by a significant date, each lecture focuses on the relationship between a major artistic event and the social, political, cultural, and technological conditions of its emergence. A wide range of media, from painting, sculpture, and print-making to photography, photomontage, video, installation, and performance art, will be considered. Situating the key aesthetic transformations that defined art's modernity in a broader historical context, the course explores the fundamental role of advanced forms of artistic practice in the formation of modern culture and society.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6554df6d5af17648b84e59cbbd390ffb">
+<name>
+<prefix/>
+<first>Ewa</first>
+<middle/>
+<last>Lajer-Burcharth</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F0586b9f6943358b5ba57cd34253ba63e">
+<name>
+<prefix/>
+<first>Benjamin</first>
+<middle/>
+<last>Buchloh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fa45f47877bea4d9429e8087e3b6f9508">
+<name>
+<prefix/>
+<first>Maria</first>
+<middle>Elizabeth</middle>
+<last>Gough</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="Lecture Hall (029)" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Literature and Arts B"/>
+<requirement type="General Education" name="Aesthetic and Interpretive Understanding"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

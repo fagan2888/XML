@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="87001" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="FRSP">
+<dept_long_name>Committee on Non-Departmental Instruction:Freshman Seminars</dept_long_name>
+<dept_short_name>Freshman Seminars</dept_short_name>
+</department>
+<course_group code="FRSEMR">Freshman Seminar</course_group>
+<course_number>
+<num_int>31</num_int>
+<num_char>q</num_char>
+</course_number>
+<title>Literal Looking: What We See in Art</title>
+<course_type>Freshman Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Peter J. Burgard</faculty_text>
+<description>What do we really see when we look at a work of art? This seminar is an exercise in evaluating artistic composition as it presents itself to the viewer. Primarily devoted to looking and talking about what we think we see, what we actually see, and how it informs interpretation, but with consideration as well of what experts say we should see - in order to explore the degree to which literal looking aids or is aided by contextually informed looking. Works by Raphael, Caravaggio, Bernini, Velazquez, Turner, Renoir, Sargent, Klimt, Schiele, Kandinsky, Bacon, Richter (subject to change).</description>
+<prerequisites/>
+<notes>Open to Freshmen only. The seminar includes a required field trip, date TBD.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdd5da5e35720279c6f118465599d4e59">
+<name>
+<prefix/>
+<first>Peter</first>
+<middle>J.</middle>
+<last>Burgard</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="359 (Nebel Room)" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

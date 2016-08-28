@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="22543" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="DRB">DRB</course_group>
+<course_number>
+<num_int>331</num_int>
+</course_number>
+<title>Critical Analysis and Experimental Approaches in Developmental Biology</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>This course will provide a survey of major topics and contemporary research in developmental and regenerative biology. Students will rotate in the laboratories of DRB faculty across the Harvard campuses and affiliated hospitals. Students engage with faculty and gain hands on experience in a variety of model systems, techniques and research areas. Each day of the course will consist of a lecture followed by hands-on laboratory activities and interactive discussions. Students will be required to complete the lab experience and the following assignments: lead two chalk-talk format paper presentations, and write one 5-6 page research proposal.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="F4d1bbc241f46c4f2cf0e395ed530747c">
+<name>
+<prefix/>
+<first>Paola</first>
+<middle/>
+<last>Arlotta</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1200" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1200" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1200" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="4" begin_time="1200" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="5" begin_time="1200" end_time="1800"/>
+<meeting term="2" optional="N" type="Lecture" day="6" begin_time="1200" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

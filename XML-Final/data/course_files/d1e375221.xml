@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="4263" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="YIDDISH">Yiddish</course_group>
+<course_number>
+<num_int>200</num_int>
+<num_char>r</num_char>
+</course_number>
+<title>Literature and Belief: The Case of Modern Yiddish Literature</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., 4-6</meeting_text>
+<faculty_text>Dara Horn Schulman</faculty_text>
+<description>Is literature animated by a "moral of the story," or by "art for art's sake"? This question was more than theoretical for modern Yiddish writers, who wrote at a crossroads between religious and secular life, under extraordinary circumstances. The course will explore how genre and belief interact in Yiddish stories, novels, poetry and drama over the past two centuries, as we closely examine the broader question of the purpose of art.</description>
+<prerequisites/>
+<notes>Reading knowledge of Yiddish appreciated but not required; all texts available in translation. Open to graduate students in any department, and undergraduates with permission of the instructor. Offered jointly with the Divinity School as 3719.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3e867decfbf8ad5b7db44b11778fde9d">
+<name>
+<prefix/>
+<first>Dara</first>
+<middle/>
+<last>Horn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Dana Palmer House" room="Seminar Room" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

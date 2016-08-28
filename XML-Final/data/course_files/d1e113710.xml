@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1761" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="APPHY">Applied Physics</course_group>
+<course_number>
+<num_int>291</num_int>
+</course_number>
+<title>Electron Microscopy Laboratory</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>M., 2-3:30, and a three-hour laboratory session to be arranged.</meeting_text>
+<faculty_text>David C. Bell</faculty_text>
+<description>Lectures and laboratory instruction on transmission electron microscopy (TEM) and Cs corrected, aberration-correction microscopy and microanalysis. Lab classes include; diffraction, dark field imaging, X-ray spectroscopy, electron energy-loss spectroscopy, atomic imaging, materials sample preparation, polymers, and biological samples.</description>
+<prerequisites/>
+<notes>Primarily for graduate students planning to use TEM for their research.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F613378a2d24a8856c03aa3032af01c78">
+<name>
+<prefix/>
+<first>David</first>
+<middle>C.</middle>
+<last>Bell</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1400" end_time="1530"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

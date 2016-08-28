@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6470" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1878</num_int>
+<num_char>b</num_char>
+</course_number>
+<title>Ottoman State and Society II (1550-1920)</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Cemal Kafadar</faculty_text>
+<description>Surveys the transformations of the Ottoman order in the Middle East and southeastern Europe in the early modern era and in the long nineteenth century until the demise of the state. Topics include changes in the conduct of state; social and religious movements; the impact of the new world economy and new trade routes; relations with Europe; emergence of nationalism; the `Eastern Question.' Ethnic and religious diversity, rural society, urban popular culture, guilds, gender and family life are also examined. The importance of this era for understanding today's Middle East is stressed.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9f935a53f0719b8db4f6d6acff8b9ca7">
+<name>
+<prefix/>
+<first>Cemal</first>
+<middle/>
+<last>Kafadar</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

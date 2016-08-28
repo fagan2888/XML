@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3104" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="GERM">
+<dept_long_name>Department of Germanic Languages and Literatures</dept_long_name>
+<dept_short_name>Germanic Languages and Literatures</dept_short_name>
+</department>
+<course_group code="SWEDISH">Swedish</course_group>
+<course_number>
+<num_char>Ba</num_char>
+</course_number>
+<title>Intermediate Swedish: Childhood in Swedish Literature and Culture</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Maja Backvall</faculty_text>
+<description>Sweden and Swedish Finland have produced some of the most translated and beloved works of children's fiction in the world. In this intermediate Swedish language course, we will review the essentials of Swedish grammar and vocabulary as we explore some of these classic works of children's fiction, film, and comic books and the aspects of Swedish culture they illuminate. The final project for this class involves producing your own work of children's fiction or film.</description>
+<prerequisites>Swedish Ab or equivalent.</prerequisites>
+<notes>Conducted in Swedish. Not open to auditors.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fdcbc067cb27478a7d52da07eca6e9b75">
+<name>
+<prefix/>
+<first>Maja</first>
+<middle/>
+<last>Marsling Backvall</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="G02" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

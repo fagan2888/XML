@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2137" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LSCI">
+<dept_long_name>Committee on Degrees in Life Sciences</dept_long_name>
+<dept_short_name>Life Sciences</dept_short_name>
+</department>
+<course_group code="LIFESCI">Life Sciences</course_group>
+<course_number>
+<num_int>1</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 1&amp;#8211;2:30;</meeting_text>
+<faculty_text>Robert A. Lue, Daniel E. Kahne, Richard M. Losick, and Susan Mango</faculty_text>
+<description>What are the fundamental features of living systems? What are the molecules imparting them and how do their chemical properties explain their biological roles? The answers form a basis for understanding the molecules of life, the cell, diseases, and medicines. In contrast with traditional presentations of relevant scientific disciplines in separate courses, we take an integrated approach, presenting chemistry, molecular biology, biochemistry, and cell biology framed within central problems such as the biology of HIV and cancer.</description>
+<prerequisites/>
+<notes>For more information about the assignment process, please see the course website in the fall. This course, in combination with Life Sciences 1b, constitutes an integrated introduction to the Life Sciences. This course, when taken for a letter grade, meets the General Education requirement in Science of Living Systems.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F9ed9faeaae6a5875845328f356a73623">
+<name>
+<prefix/>
+<first>Robert</first>
+<middle>A.</middle>
+<last>Lue</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F15e9b6a6a56b3387d2a44d68ae903f68">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Kahne</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="F6734be0a1ad0e146df11fe7c1cd25df4">
+<name>
+<prefix/>
+<first>Susan</first>
+<middle/>
+<last>Mango</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fb178b99c04ad33114dfd40290eea0560">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>M.</middle>
+<last>Losick</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room=" B" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Science A"/>
+<requirement type="General Education" name="Science of Living Systems"/>
+</requirements>
+</course></courses>

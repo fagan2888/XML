@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="15864" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="WMGS">
+<dept_long_name>Committee on Degrees in Studies of Women, Gender, and Sexuality</dept_long_name>
+<dept_short_name>Studies of Women, Gender, and Sexuality</dept_short_name>
+</department>
+<course_group code="WOMGEN">Studies of Women, Gender, and Sexuality</course_group>
+<course_number>
+<num_int>1228</num_int>
+</course_number>
+<title>Race, Gender, and Criminality</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Julie R. Grigsby</faculty_text>
+<description>What is a crime and who is a criminal? How are social understandings of punishment and control informed by hegemonic racial ideologies? How do the answers to these questions change the ways we imagine and respond to news? to violence? or social inequity? This seminar will examine the complex intersections between race, gender, poverty, and crime within U.S. cultural, political and social contexts. To do this, we will explore historical and contemporary studies that provide arguments about the connections between race, gender, poverty and the criminal justice system. Topics include: mass incarceration, policing, violence, reproductive control and media representations of crime.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F2ea5e8d3b7c29139c642308a609266be">
+<name>
+<prefix/>
+<first>Juli</first>
+<middle>R</middle>
+<last>Grigsby</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

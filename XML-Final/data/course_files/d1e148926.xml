@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18198" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ENGH">
+<dept_long_name>Department of English</dept_long_name>
+<dept_short_name>English</dept_short_name>
+</department>
+<course_group code="ENGLISH">English</course_group>
+<course_number>
+<num_char>Cijr</num_char>
+</course_number>
+<title>Introduction to Journalism</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Fall: M., 4-7 p.m.</meeting_text>
+<faculty_text>Jill Abramson</faculty_text>
+<description>An intense seminar for those interested in understanding the changing role of journalism and in learning the art of reporting and writing narrative stories. The course is intended for those contemplating careers as journalists or because they want a better sense of how journalism really works. Coursework will include two narrative articles that are ready for publication. Readings will include some of the best examples of modern journalism, from magazine features by authors including Gay Talese to multimedia narratives such as The New York Times' "Snow Fall."</description>
+<prerequisites/>
+<notes>Admission based on submitted samples of writing. Class will not meet during shopping week.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5b215d76f76388c35b4bd1cd23429c8a">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Abramson</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5b215d76f76388c35b4bd1cd23429c8a">
+<name>
+<prefix/>
+<first>Jill</first>
+<middle/>
+<last>Abramson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1600" end_time="1900"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Barker Center" room="218 (W.S. Fong Room)" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

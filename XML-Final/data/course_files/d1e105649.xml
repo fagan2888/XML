@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53875" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>3086</num_int>
+</course_number>
+<title>The Theory Workshop</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="1">Half course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>For students with an interest in economic theory. Faculty presentations by Harvard and MIT economists and invited guests. The location alternates between Harvard and MIT.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fbc12d51d6565967cbf5ff3ac1be9a4c8">
+<name>
+<prefix/>
+<first>Tomasz</first>
+<middle/>
+<last>Strzalecki</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fd2c004956e0cd33f176363e579475790">
+<name>
+<prefix/>
+<first>Drew</first>
+<middle/>
+<last>Fudenberg</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Ff3503da1d2728d2f5ca6744161095d79">
+<name>
+<prefix/>
+<first>Jerry</first>
+<middle>R.</middle>
+<last>Green</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Littauer Center" room="M-16" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

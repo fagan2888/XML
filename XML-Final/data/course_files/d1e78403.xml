@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="29637" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EASTD">East Asian Studies</course_group>
+<course_number>
+<num_int>98</num_int>
+<num_char>h</num_char>
+</course_number>
+<title>Junior Tutorial--Modern Korea History Reading and Research</title>
+<course_type>Junior Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 2-4</meeting_text>
+<faculty_text>Carter J. Eckert</faculty_text>
+<description>Readings of various materials related to the history of modern Korea, in conjunction with the research and writing of a term paper using primary and secondary sources. Readings for fall 2012 will center on contemporary history after 1945.</description>
+<prerequisites>Societies of the World 27: The Two Koreas, or equivalent.</prerequisites>
+<notes>Note: EAS 98a, 98b, 98d, 98g, 98h or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F0943f83532839dcc4289b6185c2e1132">
+<name>
+<prefix/>
+<first>Carter</first>
+<middle>J.</middle>
+<last>Eckert</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="18808" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="RELG">
+<dept_long_name>Committee on the Study of Religion</dept_long_name>
+<dept_short_name>The Study of Religion</dept_short_name>
+</department>
+<course_group code="RELIGION">Religion</course_group>
+<course_number>
+<num_int>1816</num_int>
+</course_number>
+<title>Ismaili History and Thought</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Ali S. Asani</faculty_text>
+<description>This course explores the doctrines and practices of the Ismailis, adherents of a minority branch of Shia Islam that recognizes the continuation of religious authority after the Prophet Muhammad through a particular line of his descendants known as the Imams. Focusing on their historical evolution and manifestations in diverse political, cultural and social contexts, the course will consider three major communities: the Nizari Ismailis (in Syria, Iran, Central Asia, and South Asia); the Tayyibi (Daudi Bohra) Ismailis (in Yemen and South Asia) and the Druze (in Syria and Lebanon). Principal themes to be considered include conceptions of the Imamah and notions of authority, messianic doctrines, philosophy, ritual practice and devotional traditions. The course will also briefly consider the contemporary situation of these communities as minorities in North America and Europe.</description>
+<prerequisites>Introductory course on Islam or permission of instructor.</prerequisites>
+<notes>Offered jointly with the Divinity School as 3939.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb734a65a5e0b66fad7b18d12f2eab69d">
+<name>
+<prefix/>
+<first>Ali</first>
+<middle/>
+<last>Asani</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

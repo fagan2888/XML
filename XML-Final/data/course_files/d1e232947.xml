@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6296" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>1915</num_int>
+</course_number>
+<title>The Nine Lives of Benjamin Franklin</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Joyce E. Chaplin</faculty_text>
+<description>Examines the eighteenth century through some of the many lives of Benjamin Franklin. Students analyze in depth one of these lives, or identify and explore yet another, to better comprehend Franklin and the worlds in which he lived: colonial America, British empire, independent US, books, science, popular culture, politics, war, social reform, personal improvement, and many others.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F4f1d85f4c37049f7a35b064b63677a57">
+<name>
+<prefix/>
+<first>Joyce</first>
+<middle>E.</middle>
+<last>Chaplin</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3660" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>10</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Principles of Economics</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 12. Sections also meet at 9, 10, 11, 12, 1, or 2.</meeting_text>
+<faculty_text>N. Gregory Mankiw and members of the Department</faculty_text>
+<description>Introduction to economic issues and basic principles and methods of microeconomics: how markets work, market efficiency and market failure, firm and consumer behavior, policy issues such as taxation, international trade, the environment, and the distribution of income.</description>
+<prerequisites/>
+<notes>Microeconomics (taught in the fall term) is a prerequisite for macroeconomics (taught in the spring term). Students may elect to take only the fall microeconomics course and receive a half-course credit. Taught in a mixture of lectures and small sections. No calculus is used, and there is no mathematics background requirement. Designed for both potential Economics concentrators and those who plan no further work in the field. The Department of Economics strongly encourages students considering concentration to take the full-year course in their freshman year. This is a required course for all economics concentrators and a prerequisite for higher level courses in economics. This course, when taken for a letter grade together with Economic 10b, meets the General Education requirement for either Empirical and Mathematical Reasoning or United States in the World, but not both.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Ff5059b23869d706eb6f48ffaf0aa0a7e">
+<name>
+<prefix/>
+<first>N.</first>
+<middle>Gregory</middle>
+<last>Mankiw</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="Y" type="Lecture" day="1" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="3" begin_time="1200" end_time="1300"/>
+<meeting term="1" optional="Y" type="Lecture" day="5" begin_time="1200" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Memorial Hall" room="Sanders Theatre" type="Lecture"/>
+</meeting_locations>
+<requirements>
+<requirement type="Core Curriculum" name="Social Analysis"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="United States in the World"/>
+</requirements>
+</course></courses>

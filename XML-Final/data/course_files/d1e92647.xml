@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6516" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ECON">
+<dept_long_name>Department of Economics</dept_long_name>
+<dept_short_name>Economics</dept_short_name>
+</department>
+<course_group code="ECON">Economics</course_group>
+<course_number>
+<num_int>1393</num_int>
+</course_number>
+<title>Poverty and Development</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 10-11:30</meeting_text>
+<faculty_text>Nathan J. Nunn</faculty_text>
+<description>We will consider a number of important questions in the field of development economics: Why are some countries so rich and others so poor? What factors have determined which countries prosper? Which are the root causes and which are the proximate causes of economic underdevelopment? Can these factors be changed with specific economic policies? If so, what are they and how are they best implemented? Are there country-specific characteristics that determine economic fate? Or, is prosperity just the result of luck? Does the enjoyment of the rich somehow depend on the continuing suffering of the poor? We will consider these questions and more. The course is intended to not only provide a general overview of the dominant views about economic development and policy, but to also provide students a sense of the most recent research in the field. For this reason, the course will go beyond the usual textbook summary of the field. Students will also examine recent journal articles that have made important contributions to the field of development economics. In the course, a particular effort is made to link the theories and empirical evidence to the real world.</description>
+<prerequisites>Economics 1010a1, 1010a2, (or 1011a) and 1010b (or 1011b). It is recommended that students have taken Economics 1123 or equivalent.</prerequisites>
+<notes>Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fe6a1f7aae55e8fe94912d09bb6c5f3cd">
+<name>
+<prefix/>
+<first>Nathan</first>
+<middle/>
+<last>Nunn</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="1" begin_time="1000" end_time="1130"/>
+<meeting term="2" optional="N" type="Lecture" day="3" begin_time="1000" end_time="1130"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="19501" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GOVM">
+<dept_long_name>Department of Government</dept_long_name>
+<dept_short_name>Government</dept_short_name>
+</department>
+<course_group code="GOV">Government</course_group>
+<course_number>
+<num_int>94</num_int>
+<num_char>go</num_char>
+</course_number>
+<title>Politics of Religion in Liberal Democracies: America and the European Union</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>16</enrollment_limit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>George Soroka</faculty_text>
+<description>This course examines the various ways, normative and practical, in which politics interact with religion in the U.S. and select EU-member countries. Structuring it are three main tasks: to examine the utility of secularization theory in explaining changes on the political landscape; to compare and contrast American and European experiences with religion in the public sphere; and to consider the political implications of increasing religious/ideological pluralism within these societies.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8a2366909aa390b97ba5362ed6ff267d">
+<name>
+<prefix/>
+<first>George</first>
+<middle/>
+<last>Soroka</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

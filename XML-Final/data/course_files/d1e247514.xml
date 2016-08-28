@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65666" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>268</num_int>
+<num_char>x</num_char>
+</course_number>
+<title>Looking Back: Re-imagining an Introduction to the History of Western Art (Graduate Seminar in General Education)</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>Th., 1-3</meeting_text>
+<faculty_text>Jeffrey F. Hamburger and Joseph Koerner</faculty_text>
+<description>Since its beginnings, the history of art has been conceived of as a teleological process defined largely in terms of progress, culminating in the triumph of modernism. As a counter-heuristic, we will teach the history of art from the present and looking back to the past. After an historiographical introduction, focused on Vasari, Winckelmann, Hegel and historicism, also in reverse, each section will consist of a critical chain of appropriations made by modern artists who constructed their own understanding of tradition, ending in Antiquity. Each section will focus on a major artist.</description>
+<prerequisites/>
+<notes>The seminar will design and develop a General Education course on this theme for undergraduates.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F172929cf4c6b52dd8d88e24d67ad2549">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>F.</middle>
+<last>Hamburger</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F08c1d573a5c2f51da2fbaace12f0d7fb">
+<name>
+<prefix/>
+<first>Joseph</first>
+<middle/>
+<last>Koerner</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="4" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

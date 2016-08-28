@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7295" offered="N">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="DEAS">
+<dept_long_name>Division of Engineering and Applied Sciences</dept_long_name>
+<dept_short_name>Engineering and Applied Sciences</dept_short_name>
+</department>
+<course_group code="COMPSCI">Computer Science</course_group>
+<course_number>
+<num_int>164</num_int>
+</course_number>
+<title>Software Engineering</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 2:30-4:30</meeting_text>
+<faculty_text>Instructor to be determined</faculty_text>
+<description>Introduction to principles of software engineering and best practices, including code reviews, source control, and unit tests. Topics include Ajax, database schemas, event handling, HTTP, MVC, object-oriented design, and user experience. Projects include web apps with front-end UIs (mobile and desktop) and back-end APIs. Languages include JavaScript and PHP.</description>
+<prerequisites>Any four CS courses numbered 50 or higher (or, with instructor's permission, multiple years of programming experience).</prerequisites>
+<notes>Students will work on projects in groups. Enrollment may be limited. In 2014, this course will focus on the design and implementation of web apps.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F98d2c536d93571eff451df8bd44823d8">
+<name>
+<prefix/>
+<first>David</first>
+<middle>J.</middle>
+<last>Malan</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

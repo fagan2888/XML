@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="27137" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>80</num_int>
+<num_char>g</num_char>
+</course_number>
+<title>Travelers to Byzantium</title>
+<course_type>Seminar</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., 2-4</meeting_text>
+<faculty_text>Dimiter Angelov</faculty_text>
+<description>This seminar is based on the fascinating firsthand accounts of travelers who visited Constantinople and other areas of Byzantine world. The texts will generate questions for discussion and research on a wide range of issues, such as Byzantine civilization, cross-cultural contacts in the Middle Ages, the practice and experience of travel, and the interrelationship of travel, ethnography, and politics. Sources will be chosen from among the works of western, Islamic, Jewish, and Russian travelers.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F3f9a9d08d7d742b20abd3cf602ed37d2">
+<name>
+<prefix/>
+<first>Dimiter</first>
+<middle>Georgiev</middle>
+<last>Angelov</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="105" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

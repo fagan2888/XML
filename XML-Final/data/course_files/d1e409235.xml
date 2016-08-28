@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5607" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="PSYC">
+<dept_long_name>Department of Psychology</dept_long_name>
+<dept_short_name>Psychology</dept_short_name>
+</department>
+<course_group code="PSY">Psychology</course_group>
+<course_number>
+<num_int>14</num_int>
+</course_number>
+<title>Cognitive Neuroscience</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., 1-2:30</meeting_text>
+<faculty_text>Daniel L. Schacter and George Angelo Alvarez</faculty_text>
+<description>How do our brains give rise to our minds? Specifically, how are mental processes related to neural activity? This course will explore these questions, as well as the methods by which cognitive neuroscience seeks to answer them. We will focus on processes within perception, attention, memory, language, action, emotion, and social cognition, and methods including neuroimaging, neuropsychology, and electrophysiology.</description>
+<prerequisites>Science of Living Systems 20.</prerequisites>
+<notes>This course counts toward foundational requirements for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F7986ba287692e8cf83870453979684dc">
+<name>
+<prefix/>
+<first>Daniel</first>
+<middle/>
+<last>Schacter</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Ff50db80519274eb68638a8e49e5917d0">
+<name>
+<prefix/>
+<first>George</first>
+<middle>Angelo</middle>
+<last>Alvarez</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1300" end_time="1430"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1430"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="William James Hall" room="1" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="85319" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="MDSC">
+<dept_long_name>Division of Medical Sciences</dept_long_name>
+<dept_short_name>Medical Sciences</dept_short_name>
+</department>
+<course_group code="NEUROBIO">Neurobiology</course_group>
+<course_number>
+<num_int>306</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Quantitative Methods for Biologists</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<enrollment_limit>80</enrollment_limit>
+<meeting_text/>
+<faculty_text/>
+<description>The goals of this course are to introduce students to programming in the MATLAB environment and to begin using this tool for analyzing data and for gaining intuition about the behavior of complex systems through the use of numerical simulations.</description>
+<prerequisites/>
+<notes>This bootcamp course will meet in August from 8/11 - 8/22.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="O" id="F0e3316d5bc6703fa5c9712dbd5249661">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Springer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F0e3316d5bc6703fa5c9712dbd5249661">
+<name>
+<prefix/>
+<first>Michael</first>
+<middle/>
+<last>Springer</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="Fe569f7879a56830561b87a8fa02b882e">
+<name>
+<prefix/>
+<first>Richard</first>
+<middle>T.</middle>
+<last>Born</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1300" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="900" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1300" end_time="1700"/>
+<meeting term="1" optional="N" type="Lecture" day="5" begin_time="1300" end_time="1700"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

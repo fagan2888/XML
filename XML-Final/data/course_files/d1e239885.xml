@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="62429" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HIST">
+<dept_long_name>Department of History</dept_long_name>
+<dept_short_name>History</dept_short_name>
+</department>
+<course_group code="HIST">History</course_group>
+<course_number>
+<num_int>2926</num_int>
+</course_number>
+<title>Empires Compared: Proseminar</title>
+<course_type>Proseminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Maya Jasanoff and Mary D. Lewis</faculty_text>
+<description>What do empires have in common, and what makes each distinct? Course undertakes thematic approach to imperial history via culture, economics, governance, and more. Open to students across subfields; emphasis on teaching and exam preparation.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Febadaea9325bca0591f5c052ae859cd1">
+<name>
+<prefix/>
+<first>Maya</first>
+<middle/>
+<last>Jasanoff</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="1" role="O" id="Fe73bb627243d65bf7cb295f3e556ea3c">
+<name>
+<prefix/>
+<first>Mary</first>
+<middle>D.</middle>
+<last>Lewis</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Robinson Hall" room="Lower Level Library" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

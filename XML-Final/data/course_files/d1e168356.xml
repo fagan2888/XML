@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="83462" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EXPO">
+<dept_long_name>Expository Writing, Subcommittee of the Core Program</dept_long_name>
+<dept_short_name>Expository Writing</dept_short_name>
+</department>
+<course_group code="EXPOS">Expository Writing</course_group>
+<course_number>
+<num_int>20</num_int>
+<num_char>.242</num_char>
+</course_number>
+<title>Paradox in Public Health</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>15</enrollment_limit>
+<meeting_text>M., W., at 11</meeting_text>
+<faculty_text>Jerusha T. Achterberg</faculty_text>
+<description>What are the goals of public health interventions? What should they be? If public health as practiced today is often concerned with empowering individuals to make their own health choices, then what happens when the health interests of the population conflict with the interests and rights of the individual? In this class, we will use scientific articles and other academic sources to consider potential paradoxes of public health, both historical and contemporary.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fd72a6188e7beff62fa317866c2584991">
+<name>
+<prefix/>
+<first>Jerusha</first>
+<middle>T</middle>
+<last>Achterberg</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="1" begin_time="1100" end_time="1200"/>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1100" end_time="1200"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="CGIS-Knafel" room="K-108" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

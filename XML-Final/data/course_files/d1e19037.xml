@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7163" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>2010</num_int>
+<num_char>ar</num_char>
+</course_number>
+<title>Materials in Ancient Societies:Ceramics</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 7:30&amp;#8211;10:30. Course begins on M.I.T. calendar, week of Sept. 15, 2014</meeting_text>
+<faculty_text>C. C. Lamberg-Karlovsky</faculty_text>
+<description>This seminar-laboratory subject provides in-depth study of the technologies of ancient societies.</description>
+<prerequisites/>
+<notes>Open to senior undergraduates with permission of instructor.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F6679bedcbc1a435d3efd2ee66adb63d3">
+<name>
+<prefix/>
+<first>C.</first>
+<middle>C.</middle>
+<last>Lamberg-Karlovsky</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="730" end_time="1030"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

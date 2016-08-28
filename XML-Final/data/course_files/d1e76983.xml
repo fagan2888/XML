@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="65547" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="EALC">
+<dept_long_name>Department of East Asian Languages and Civilizations</dept_long_name>
+<dept_short_name>East Asian Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="EAFM">East Asian Film and Media Studies</course_group>
+<course_number>
+<num_int>121</num_int>
+</course_number>
+<title>Korean Cinema and Transnationality: Conference Course</title>
+<course_type>Conference Course</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W, 1-3 with evening film screenings, Tuesday 6-8</meeting_text>
+<faculty_text>Hyangjin Lee</faculty_text>
+<description>This course aims to deepen our understanding of how film reflects and influences power dynamics and inequalities among gender, sexuality, class, race and ethnicity. The course will look at film's role as a medium both within and across societies, in both national and transnational contexts. This seminar will explore key issues and themes in the study of Korean cinema, through surveys and discussions of exemplary works that deal with the concepts of the national and the transnational. The course constitutes three parts: First, we will examine historical transformation in national cinema and transnational historicity, focusing on selected films' views and criticisms on topics such as ethnic nationalism, colonial memories, the legacy of the Cold War, national division, and democratization. In the second part of the course, we will discuss the issues of North Korean defectors, diaspora, migration and globalization, and the representation of otherness in South Korean films. The third part will investigate the rise of transnational/post-national Korean cinema in Japan and China.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F1b70f505d7c943ff8b230318d96e8b68">
+<name>
+<prefix/>
+<first>Hyangjin</first>
+<middle/>
+<last>Lee</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="3" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Divinity Ave., 2" room="212" type="Film Screening"/>
+<location term="1" building="CGIS-South" room="S-003" type="Lecture"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="2691" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="BIOE">
+<dept_long_name>Department of Organismic and Evolutionary Biology</dept_long_name>
+<dept_short_name>Organismic and Evolutionary Biology</dept_short_name>
+</department>
+<course_group code="OEB">OEB</course_group>
+<course_number>
+<num_int>125</num_int>
+</course_number>
+<title>Molecular Ecology and Evolution</title>
+<course_type>Lecture and Lab</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Scott V. Edwards</faculty_text>
+<description>A survey of theory and applications of DNA technologies to the study of evolutionary, ecological and behavioral processes in natural populations. Topics to be covered will span a variety of hierarchical levels, timescales, and taxonomic groups, and will include the evolution of genes, genomes and proteins; the neutral theory of molecular evolution and molecular clocks; population genomics and phylogenetic principles of speciation and phylogeography; metagenomics of microbial communities; relatedness and behavioral ecology; molecular ecology of infectious disease; and conservation genetics.</description>
+<prerequisites>Life Sciences 1b, OEB 10, OEB 53 or MCB 52.</prerequisites>
+<notes>Weekly computer laboratories will introduce the use of the internet and computational software in DNA sequence alignment and phylogenetic and population genetic analysis.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fa1aba19be4012c2aa8e80f1cbad101c6">
+<name>
+<prefix/>
+<first>Scott</first>
+<middle>V.</middle>
+<last>Edwards</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="43416" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="US-WORLD">United States in the World</course_group>
+<course_number>
+<num_int>34</num_int>
+</course_number>
+<title>The Civil War from Nat Turner to Birth of a Nation</title>
+<course_type>Lecture with sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., at 12, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Amanda Claybaugh (English) and John Stauffer (English; African and African American Studies)</faculty_text>
+<description>This interdisciplinary course reframes traditional understandings of the Civil War in three ways. First, by showing that civil conflict in the United States began well before 1861 and ended well after 1865, taking the form of slave uprisings and Klan terrorism, as well as conventional war. Second, by showing that the former Confederacy won this longer Civil War by establishing a new order of black freedom. And third, by placing this war in the context of international politics and trade. "Readings" range from fiction, film, letters, and speeches to poetry, pamphlets, prints and photographs, songs, and history.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb1effcd0137c87e90720c4f1ce188b60">
+<name>
+<prefix/>
+<first>Amanda</first>
+<middle/>
+<last>Claybaugh</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F5803a5a34ebf6e53757c113ac97051c0">
+<name>
+<prefix/>
+<first>John</first>
+<middle/>
+<last>Stauffer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Historical Study B"/>
+<requirement type="General Education" name="United States in the World"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="24576" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HSCI">
+<dept_long_name>Department of the History of Science</dept_long_name>
+<dept_short_name>History of Science</dept_short_name>
+</department>
+<course_group code="HISTSCI">History of Science</course_group>
+<course_number>
+<num_int>235</num_int>
+</course_number>
+<title>Current Topics in the Social Study of the Life Sciences</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Sophia Roosth</faculty_text>
+<description>This seminar tracks the history and current status of concepts of the biological. We will interrogate how the category of "life itself" has been transfigured by experimental, medical, and theoretical interventions into living things, from animal experimentation in the eighteenth century, to nineteenth century theories of inheritance, to mid-twentieth century breakthroughs in immortalizing cell cultures, to contemporary attempts to fabricate organisms from synthetic genetic components. We will focus primarily on recently published work in the history and anthropology of biomedicine, as well as cultural theory, philosophy, and media studies addressing the life sciences. Throughout, we will pay special attention to where biologists have imagined the seat of vitality, whether organismic, cellular, genetic, or informatic. How has life recently entered into new circulations of capital, intellectual property, and political rhetoric as it is sequenced, synthesized, licensed, patented, cut up, frozen, cloned? What has life been, what has it become, and what will it be next?</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe385b0017b1ee09104bf83728dc3ce8d">
+<name>
+<prefix/>
+<first>Sophia</first>
+<middle/>
+<last>Roosth</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="3" begin_time="1400" end_time="1600"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Science Center" room="252" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

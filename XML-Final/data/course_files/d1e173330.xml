@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="67054" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="FOLK">
+<dept_long_name>Committee on Degrees in Folklore and Mythology</dept_long_name>
+<dept_short_name>Folklore and Mythology</dept_short_name>
+</department>
+<course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+<course_number>
+<num_int>154</num_int>
+</course_number>
+<title>Folklore and Gender</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., 4-6</meeting_text>
+<faculty_text>Leah K. Lowthorp</faculty_text>
+<description>This course engages critical gender studies in exploring the role of expressive culture in women and men's lives. Taking a cross-cultural perspective, it examines how folklore is implicated in the cultural construction of gender by embodying gender stereotypes, politics, and subversions. Topics will include diverse modes of expression such as verbal art (jokes, folktales), material culture (folk crafts, food, dress), festival, belief (magic, superstition, urban legends) and music (rap, ballads, protest music).</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fb2d33c00e9477a1f9b0d59444900e958">
+<name>
+<prefix/>
+<first>Leah</first>
+<middle>K.</middle>
+<last>Lowthorp</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Lecture" day="2" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

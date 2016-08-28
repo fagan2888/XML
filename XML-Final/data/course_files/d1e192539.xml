@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="37079" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="GEN ED">
+<dept_long_name>Committee on General Education</dept_long_name>
+<dept_short_name>General Education</dept_short_name>
+</department>
+<course_group code="E&amp;M-REASON">Empirical and Mathematical Reasoning</course_group>
+<course_number>
+<num_int>11</num_int>
+</course_number>
+<title>Making Sense: Language, Logic, and Communication</title>
+<course_type>Lecture</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1, and a weekly section to be arranged.</meeting_text>
+<faculty_text>Bernhard Nickel (Philosophy), Gennaro Chierchia (Linguistics), and Stuart M. Shieber (Harvard School of Engineering and Applied Sciences)</faculty_text>
+<description>What is meaning, and how do we use it to communicate? We address the first of these questions via the second, presenting an interdisciplinary approach to the study of human languages. We investigate language as the product of a natural algorithm, that is, a computational facility which grows spontaneously in our species and enables us to expose our thoughts and feelings. Our investigation uses formal models from logic, linguistics, and computer science. These models will also shed light on human nature and basic philosophical issues concerning language.</description>
+<prerequisites/>
+<notes>This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="Fefda42a0d0c2a7ebad48ef1d8832d6ac">
+<name>
+<prefix/>
+<first>Bernhard</first>
+<middle/>
+<last>Nickel</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F9640a897d547cab1de1ce8035cc8e532">
+<name>
+<prefix/>
+<first>Gennaro</first>
+<middle/>
+<last>Chierchia</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="O" id="F96aea20751bf9770f185c3ed5ffbe11e">
+<name>
+<prefix/>
+<first>Stuart</first>
+<middle>M.</middle>
+<last>Shieber</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements>
+<requirement type="Core Curriculum" name="Quantitative Reasoning"/>
+<requirement type="General Education" name="Empirical and Mathematical Reasoning"/>
+<requirement type="General Education" name="Study of the Past"/>
+</requirements>
+</course></courses>

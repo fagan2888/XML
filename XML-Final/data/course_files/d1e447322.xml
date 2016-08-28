@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="56297" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="SPOL">
+<dept_long_name>Committee on Higher Degrees in Social Policy</dept_long_name>
+<dept_short_name>Social Policy</dept_short_name>
+</department>
+<course_group code="SPOL">Social Policy</course_group>
+<course_number>
+<num_int>303</num_int>
+<num_char>qc</num_char>
+</course_number>
+<title>Introduction to Social Policy Research</title>
+<course_type>Reading and Research</course_type>
+<course_level code="G">Graduate Course</course_level>
+<credit code="3">Quarter course</credit>
+<meeting_text/>
+<faculty_text/>
+<description>Required of and limited to first-year PhD students in Social Policy. Explores current issues in Social Policy research based on the Multidisciplinary Program in Inequality &amp; Social Policy Seminar Series.</description>
+<prerequisites>Limited to first-year PhD students in Social Policy.</prerequisites>
+<notes>This course may be taken only for quarter credit.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="O" id="Ffbd477477411bc77f655d3b95ebc24b7">
+<name>
+<prefix/>
+<first>Devah</first>
+<middle/>
+<last>Pager</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

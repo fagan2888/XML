@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6636" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="CHEM">
+<dept_long_name>Department of Chemistry and Chemical Biology</dept_long_name>
+<dept_short_name>Chemistry and Chemical Biology</dept_short_name>
+</department>
+<course_group code="CHEM">Chemistry</course_group>
+<course_number>
+<num_int>205</num_int>
+</course_number>
+<title>Advanced Physical Organic Chemistry</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Eric N. Jacobsen</faculty_text>
+<description>An in-depth perspective on mechanistic organic chemistry, with analysis of fundamental organic and organotransition metal reaction mechanisms, reactive intermediates, catalysis, stereochemistry, non-covalent interactions, and molecular recognition. Classical and modern tools of physical-organic chemistry, including reaction kinetics, computer modeling, isotope effects, and linear free-energy relationships will be evaluated in the context of literature case studies.</description>
+<prerequisites>Chemistry 206 or an equivalent upper-level course in organic chemistry, and Chemistry 160/161 or an equivalent sequence in physical chemistry; or permission of the instructor.</prerequisites>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F9726b7dc2454aadb1d8243ac0cbfb81a">
+<name>
+<prefix/>
+<first>Eric</first>
+<middle>N.</middle>
+<last>Jacobsen</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

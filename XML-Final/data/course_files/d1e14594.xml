@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="53933" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="ANTH">
+<dept_long_name>Department of Anthropology</dept_long_name>
+<dept_short_name>Anthropology</dept_short_name>
+</department>
+<course_group code="ANTHRO">Anthropology</course_group>
+<course_number>
+<num_int>1167</num_int>
+</course_number>
+<title>Colonial and Modern Ch'olan Literatures</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 3-6</meeting_text>
+<faculty_text>Alexandre Andreevich Tokovinine</faculty_text>
+<description>This course centers on three Cho'lan languages and associated body of literary works that may be of interest to students in anthropology, linguistics, comparative literatures, and history. Even though Ch'olan languages, particularly Ch'olti' and Ch'orti', have been crucial for the continuing decipherment of ancient Maya writing, they remain understudied and underpublished. The course will be based on a series of recent publications on Ch'olti', an extinct Ch'olan language, and modern Ch'orti', its closest surviving relative. While some classes will be devoted to the grammar, vocabulary, and literary tradition of Ch'orti' as spoken today, other sections of the course will introduce the fundamentals of Colonial Ch'olti' and Chontal grammars (which are broadly similar to Ch'orti' but diverge on several important issues) and then proceed to explore Moran's manuscript, the only surviving Ch'olti' text, and the Maldonado-Paxbolon Papers, a highly important source on Chontal Maya history and literature and one of the few surviving Maya documents detailing events immediately before and after the Spanish conquest.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbb4d2c7b3c8dc44735c98e45d9ba15ad">
+<name>
+<prefix/>
+<first>Alexandre</first>
+<middle>Andreevich</middle>
+<last>Tokovinine</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

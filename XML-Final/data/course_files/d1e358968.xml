@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="3291" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="NELC">
+<dept_long_name>Department of Near Eastern Languages</dept_long_name>
+<dept_short_name>Near Eastern Languages and Civilizations</dept_short_name>
+</department>
+<course_group code="ANE">Ancient Near East</course_group>
+<course_number>
+<num_int>134</num_int>
+</course_number>
+<title>Genesis: Narrative Artistry and Theological Meanings</title>
+<course_type>Seminar</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Jon D. Levenson (Divinity School)</faculty_text>
+<description>A close critical reading in English of the book of Genesis with an eye both to the storytellers' techniques and to the moral and theological dimensions of the text. Emphasis will be given to literary and religious rather than historical and editorial issues.</description>
+<prerequisites/>
+<notes>Offered jointly with the Divinity School as 1417.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fcdea9c09652dce9e8c3ea51ac0a9aac4">
+<name>
+<prefix/>
+<first>Jon</first>
+<middle>D.</middle>
+<last>Levenson</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="2" begin_time="1130" end_time="1300"/>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1130" end_time="1300"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="[HDS] Divinity Hall" room="213" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

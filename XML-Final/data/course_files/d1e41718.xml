@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="759" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="BIST">
+<dept_long_name>Committee on Higher Degrees in Biostatistics</dept_long_name>
+<dept_short_name>Biostatistics</dept_short_name>
+</department>
+<course_group code="BIOSTAT">Biostatistics</course_group>
+<course_number>
+<num_int>249</num_int>
+</course_number>
+<title>Bayesian Methodology in Biostatistics</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10:30&amp;#8211;12:20, and a weekly 90-minute lab.</meeting_text>
+<faculty_text>Corwin Zigler (Public Health)</faculty_text>
+<description>General principles of the Bayesian approach, prior distributions, hierarchical models and modeling techniques, approximate inference, Markov chain Monte Carlo methods, model assessment and comparison. Bayesian approaches to GLMMs, multiple testing, nonparametrics, clinical trials, survival analysis.</description>
+<prerequisites>Biostatistics 231 and Biostatistics 232, or signature of instructor required.</prerequisites>
+<notes>Offered jointly with the School of Public Health as BIO249.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fe0231cc27eb59d7a798209e195b45068">
+<name>
+<prefix/>
+<first>Corwin</first>
+<middle/>
+<last>Zigler</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Lecture" day="2" begin_time="1030" end_time="1220"/>
+<meeting term="1" optional="N" type="Lecture" day="4" begin_time="1030" end_time="1220"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>

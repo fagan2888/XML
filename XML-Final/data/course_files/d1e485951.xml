@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="72098" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="CLAS">
+<dept_long_name>Department of the Classics</dept_long_name>
+<dept_short_name>The Classics</dept_short_name>
+</department>
+<course_group code="CLASPHIL">Classical Philology</course_group>
+<course_number>
+<num_int>207</num_int>
+</course_number>
+<title>Augustine</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Th., 4-6</meeting_text>
+<faculty_text>Albertus G.A. Horsting</faculty_text>
+<description>This seminar will explore the life and thought of Augustine of Hippo. As a canonical figure across disciplines, he has fascinated and influenced thinkers as different as Pascal and Derrida. It is hard to overestimate his influence on Western theological, political, and philosophical thought. In addition to considering the major works, we will give ample space to his letters and sermons, which together constitute one of the richest biographical archives in the ancient world. By exploring this portrait in a landscape we will gain a deeper insight into the cultural, religious, and intellectual forces that were then transforming the face of the Mediterranean world.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fca69a06d79171955fac721dd3cb37a26">
+<name>
+<prefix/>
+<first>Albertus</first>
+<middle>G. A.</middle>
+<last>Horsting</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="4" begin_time="1600" end_time="1800"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="203" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

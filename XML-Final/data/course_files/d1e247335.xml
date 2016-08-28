@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="7561" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>242</num_int>
+</course_number>
+<title>Issues of Interpretation in Medieval Art : Seminar</title>
+<course_type>Seminar</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<enrollment_limit>12</enrollment_limit>
+<meeting_text>M., 1-3</meeting_text>
+<faculty_text>Jeffrey F. Hamburger</faculty_text>
+<description>A wide-ranging introduction to critical approaches to the study of medieval art, with emphasis on systems of signification, mixing historiography and methodology in a workshop format in which students help set the agenda.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F172929cf4c6b52dd8d88e24d67ad2549">
+<name>
+<prefix/>
+<first>Jeffrey</first>
+<middle>F.</middle>
+<last>Hamburger</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="1" optional="N" type="Seminar" day="1" begin_time="1300" end_time="1500"/>
+</schedule>
+<meeting_locations>
+<location term="1" building="Sackler Museum" room="515" type="Seminar"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

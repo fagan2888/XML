@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="5666" offered="Y">
+<term term_pattern_code="4" fall_term="Y" spring_term="Y">full year</term>
+<department code="ESPP">
+<dept_long_name>Committee on Concentration in Environmental Science and Public Policy</dept_long_name>
+<dept_short_name>Environmental Science and Public Policy</dept_short_name>
+</department>
+<course_group code="ESPP">Environmental Science and Public Policy</course_group>
+<course_number>
+<num_int>99</num_int>
+</course_number>
+<title>Tutorial - Senior Year</title>
+<course_type>Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="2">Full course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Paul R. Moorcroft and Members of the Committee</faculty_text>
+<description>Research and writing of the senior thesis under faculty direction. Senior honors candidates must take at least one term of this course while writing a thesis. The signature of the faculty adviser is required.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="Fbdbc0c21a7f80a53156b8fcff074ebe3">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>R</middle>
+<last>Moorcroft</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="Fbdbc0c21a7f80a53156b8fcff074ebe3">
+<name>
+<prefix/>
+<first>Paul</first>
+<middle>R</middle>
+<last>Moorcroft</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

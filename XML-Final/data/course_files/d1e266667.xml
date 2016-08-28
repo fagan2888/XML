@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="6098" offered="Y">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="LING">
+<dept_long_name>Department of Linguistics</dept_long_name>
+<dept_short_name>Linguistics</dept_short_name>
+</department>
+<course_group code="LING">Linguistics</course_group>
+<course_number>
+<num_int>200</num_int>
+</course_number>
+<title>Second Language Acquisition</title>
+<course_type>Lecture</course_type>
+<course_level code="T">Primarily for Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>W., 2-4</meeting_text>
+<faculty_text>Steven Clancy</faculty_text>
+<description>An overview of second-language teaching and learning focused on theoretical models, learning objectives, developmental stages, materials design, and the use of new technology in teaching. The course explores the nature of second language acquisition, focused specifically on the needs of graduate students teaching a second language.</description>
+<prerequisites/>
+<notes>This course must be taken for letter grade.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F0050b6bae93e5b87c383127e35db01f7">
+<name>
+<prefix/>
+<first>Steven</first>
+<middle/>
+<last>Clancy</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Boylston Hall" room="104" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

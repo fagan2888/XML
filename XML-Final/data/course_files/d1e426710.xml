@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="1338" offered="N" next_year_offered="2015">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>157</num_int>
+</course_number>
+<title>The Hermaphroditic Imagination</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Janet Beizer</faculty_text>
+<description>While official scientific and social positions in the nineteenth century uphold rigid distinctions between women and men, the imaginary life of the period is haunted by the hermaphrodite and other figures that play on the margins of sexual division, challenging the separation of the spheres. We'll read and discuss hermaphroditic fictions chosen from Balzac, George Sand, Gautier, Flaubert, Zola, and Rachilde.</description>
+<prerequisites/>
+<notes>Conducted in French.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F8a5c0427496442fd9ebecde474ce1896">
+<name>
+<prefix/>
+<first>Janet</first>
+<middle>L.</middle>
+<last>Beizer</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

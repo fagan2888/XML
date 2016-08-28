@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="74519" offered="Y">
+<term term_pattern_code="3" fall_term="Y" spring_term="Y">fall term; repeated spring term</term>
+<department code="ROML">
+<dept_long_name>Department of Romance Languages and Literatures</dept_long_name>
+<dept_short_name>Romance Languages and Literatures</dept_short_name>
+</department>
+<course_group code="FRENCH">French</course_group>
+<course_number>
+<num_int>40</num_int>
+</course_number>
+<title>Upper-level French I: The Contemporary Francophone World Through Cinema</title>
+<course_type>Lecture taught in sections</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Tu., Th., 10-11:30; Tu., Th., 11:30-1</meeting_text>
+<faculty_text>Aurelie Chevant and members of the Department</faculty_text>
+<description>An advanced French language and culture course designed to enhance all language skills. Using contemporary Francophone movies, students will study various cultural issues relevant to Francophone identity such as immigration, education, the workplace, regional differences, sexuality, relationships, etc. Students will participate in a range of written and oral activities from blog entries to short skits in class, and will produce their own short film as a final project.</description>
+<prerequisites>French 30, 681-720 on the SAT II test or the Harvard Placement test; or permission of course head.</prerequisites>
+<notes>Conducted in French. May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the French 40 website.</notes>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F5fb2f0b919c99ea475cd8e947055693f">
+<name>
+<prefix/>
+<first>Aurelie</first>
+<middle/>
+<last>Chevant</last>
+<suffix/>
+</name>
+</faculty>
+<faculty term="2" role="H" id="F5fb2f0b919c99ea475cd8e947055693f">
+<name>
+<prefix/>
+<first>Aurelie</first>
+<middle/>
+<last>Chevant</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations>
+<location term="1" building="Sever Hall" room="110" type="Section"/>
+<location term="1" building="Sever Hall" room="110" type="Section"/>
+</meeting_locations>
+<requirements/>
+</course></courses>

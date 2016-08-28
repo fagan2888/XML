@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="36155" offered="N" next_year_offered="2015">
+<term term_pattern_code="1" fall_term="Y" spring_term="N">fall term</term>
+<department code="HAA">
+<dept_long_name>Department of the History of Art and Architecture</dept_long_name>
+<dept_short_name>History of Art and Architecture</dept_short_name>
+</department>
+<course_group code="HAA">History of Art and Architecture</course_group>
+<course_number>
+<num_int>171</num_int>
+<num_char>p</num_char>
+</course_number>
+<title>From Mother Earth to Planet Mars: Designed Landscapes, 1850-2013</title>
+<course_type>Lecture</course_type>
+<course_level code="O">For Undergraduates and Graduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>Hours to be arranged</meeting_text>
+<faculty_text>Sonja Duempelmann (Design School)</faculty_text>
+<description>This course is an introduction to designed landscapes, and landscape architecture since 1850. Thematic lectures will focus on the history and theory of designed landscapes in the Western world. They will also address landscape creations of the Eastern civilizations and of other time periods as they become relevant for the topics and objects discussed in this class. Students will be able to develop critical and formal analytical skills that facilitate the reading and interpretation of designed landscapes as both physical spaces and as cultural media that sit at the nexus between art and science.</description>
+<prerequisites/>
+<notes/>
+<instructor_approval_required>N</instructor_approval_required>
+<faculty_list>
+<faculty term="1" role="H" id="F81deb0f6610328b56992c0a930a2a4c3">
+<name>
+<prefix/>
+<first>Sonja</first>
+<middle/>
+<last>Duempelmann</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule/>
+<meeting_locations/>
+<requirements/>
+</course></courses>

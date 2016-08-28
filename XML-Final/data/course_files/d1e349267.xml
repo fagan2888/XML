@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><courses><course acad_year="2014" cat_num="113" offered="Y">
+<term term_pattern_code="2" fall_term="N" spring_term="Y">spring term</term>
+<department code="MUSC">
+<dept_long_name>Department of Music</dept_long_name>
+<dept_short_name>Music</dept_short_name>
+</department>
+<course_group code="MUSIC">Music</course_group>
+<course_number>
+<num_int>97</num_int>
+<num_char>a</num_char>
+</course_number>
+<title>Music History and Repertory: Medieval to Baroque</title>
+<course_type>Sophomore Tutorial</course_type>
+<course_level code="P">Primarily for Undergraduates</course_level>
+<credit code="1">Half course</credit>
+<meeting_text>M., W., F., at 10</meeting_text>
+<faculty_text>Thomas Forrest Kelly</faculty_text>
+<description>An intensive survey of Western music from the middle ages to ca. 1750, providing methods of further study of music in historical and cultural contexts as well as knowledge of repertory.</description>
+<prerequisites>Music 51 may be taken concurrently.</prerequisites>
+<notes>Music 97 is required of all concentrators, preferably taken in the sophomore year, or earlier by permission. Each third of the course culminates in an examination testing students' knowledge of a large listening repertory. These examinations must be passed in order to receive credit for the course.</notes>
+<instructor_approval_required>Y</instructor_approval_required>
+<faculty_list>
+<faculty term="2" role="H" id="F17ca3a66be3f7e8654d22e7d35391b31">
+<name>
+<prefix/>
+<first>Thomas</first>
+<middle>Forrest</middle>
+<last>Kelly</last>
+<suffix/>
+</name>
+</faculty>
+</faculty_list>
+<schedule>
+<meeting term="2" optional="N" type="Seminar" day="1" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Seminar" day="3" begin_time="1000" end_time="1100"/>
+<meeting term="2" optional="N" type="Seminar" day="5" begin_time="1000" end_time="1100"/>
+</schedule>
+<meeting_locations/>
+<requirements/>
+</course></courses>
